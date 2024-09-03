@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src=[linkupc](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/blob/develop/assets/UPC-logo.png) 
+<img src=https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/blob/develop/assets/UPC-logo.png 
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
