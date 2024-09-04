@@ -378,9 +378,7 @@ Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear c
          Boronda Heidinger, Astrid Jimena 
           <br>
          Quiroz Zambrano, Fabrizio Javier
-          <br>
-         Huilca Chipana, Gustavo 
-              <br>
+         <br>
          Silva Morales, Renzo Cesar
          <td>
      </tr>
