@@ -197,458 +197,215 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
-<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+En la sección presentada a continuación, vamos a detallar las herramientas, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, las cuales nos ayudaron a mantener la consistencia del trabajo realizado.
 
+<div id='5.1.1'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
 
-**Misión:** 
+En el presente apartado, vamos a describir los productos de software que hemos utilizado durante el desarrollo del proyecto y el propósito por el cual han sido empleados.
 
-**Visión:** 
+**Project Management**
+* Google Docs: [https://docs.google.com/](https://docs.google.com/)
 
-##### Logotipo de la Startup:
-![logotipo_start]()
-##### Logotipo del servicio
-![logotipo_servicio]()
+    Google Docs es una plataforma que permite crear documentos que se pueden compartir con otros usuarios para trabajar de manera colaborativa a tiempo real. Se ha empleado esta plataforma para organizar las diferentes secciones del informe y realizar una revisión previa antes de actualizar la información del informe en el repositorio de GitHub del equipo.
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+**Requirements Management**
+* Trello: [https://trello.com/](https://trello.com/)
 
-||Perfiles de los integrantes del equipo|
-| :--------| :--------: |
-| Mi nombre es **Astrid Jimena Boronda Heidinger**. |<img src="colocar el link de su foto" alt="" width="250px" />
-| Mi nombre es **Ely Rivaldo Cortez Flores**,  .|![](colocar el link de su foto)|
-Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
-Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
-Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
+    Trello es una plataforma que permite realizar gestión de proyectos. Por esto, se ha empleado para poder gestionar las tareas y organizar el flujo de trabajo del proyecto.
+Las tareas están ubicadas en cada lista indicando el integrante encargado de realizar dicha tarea.
 
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+**Product UX/UI Design**
+* Figma: [https://www.figma.com/](https://www.figma.com/)
 
-###### What (Qué)
-###### ¿Cuál es el problema?
-
-
-###### When (Cuando)
-###### ¿Cuándo sucede el problema?
-
-
-###### Where (Dónde)
-###### ¿A dónde se dirige?
-
-
-###### ¿Dónde surge el problema?
-
-
-###### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-
-
-###### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-
-
-##### ¿Cuáles son las 2H?
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
-
-
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-
-
-###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
-
-
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
-
-###### **Problem Statement:** 
-
-
-
-
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
-
-###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán** 
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener** 
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
-
-###### **User Assumptions:**
-###### **¿Quién es el usuario?**   
-
-
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-
-
-###### **¿Qué características son importantes?**
-
-
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
-
-
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
-
-
-###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
-
-###### **Feature Assumptions:**
-
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que**
-
-
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
-
-* **Hypothesis Statement 01:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
+    Figma es una plataforma de edición gráfica, en la que se pueden crear diseños y prototipos de páginas web de manera colaborativa. Esta plataforma nos fue de utilidad para desarrollar los wireframes, mockups y los desktop and mobile application prototype del proyecto.
   
-* **Hypothesis Statement 02:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
+* Miro: [https://miro.com/es/](https://miro.com/es/)
 
-* **Hypothesis Statement 03:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-* **Hypothesis Statement 04:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
-
-El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
-
-![CargoSafe_Lean Canvas](link de la cap del canvas)
-
-Enlace para acceder al [Canvas](link del canvas )
-
-<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
-
-
-
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
-
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:** 
-
-![Stakeholders Externos](link de evidencia)
-
-<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
-
-<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
-
-<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
-
-El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
-
-<html>
-<head>
-    <title>Tabla HTML</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            text-align: left;
-            padding: 10px 25px 8px 25px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
-    <table >
-        <tr>
-           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
-        </tr>
-        <tr>
-            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
-            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
-        </tr>
-        <tr>
-            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
-                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
-                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
-        </tr>
-        <tr>
-            <td rowspan="3" class="sub">PERFIL</td>
-            <td rowspan="2" class="sub">Overview</td>
-            <td> CargoSafe <img src=imagen competidor> </td>
-            <td>competidor1 <img src="imagen competidor"> </td>
-            <td>competidor2 Software<img src="imagen competidor"> </td>
-            <td>competidor3 <img src="imagen competidor"> </td> 
-        </tr>
-        <tr>
-            <td>descrip 1</td>      
-        </tr>
-        <tr>
-            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
-            <td> respuesta a la pregunta de arriba</td>
-            <td>
-                <ul>
-                    <li>competidor 1</li>
-                    <li></li>
-                    <li></li>
-                    <li>  </li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>competidor 3</li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>                
-            </td>      
-        </tr>
-        <tr>
-            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
-            <td class="sub" >Mercado Objetivo</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li>.</li>
-                </ul>  
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="sub">Estrategias de Marketing</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
-            <td class="sub">Productos & Servicios</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td> <br>
-                </td>
-        </tr>
-        <tr>
-            <td class="sub">Precios & Costos</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="sub">Canales de distribución (web/móvil)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>        
-        </tr>
-        <tr>
-            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
-            <td class="sub">Fortalezas</td>
-            <td>
-               </td>
-            <td> 
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td class="sub">Debilidades</td>
-            <td></td>
-            <td></td>
-            <td>.</td>
-            <td></td>  
-        </tr>
-        <tr>
-            <td class="sub">Oportunidades</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td></td>
-            <td></td>
-            <td></td> 
-        </tr>
-        <tr>
-            <td class="sub">Amenazas</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>          
-        </tr>
-    </table>
-</body>
-</html>
-
-<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
-
-En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
-
-**Afrontando las fortalezas de nuestros competidores:**
-*
-*
-*
-*
-**Comprendemos que nuestras fortalezas son:**
-*
-*
-*
-*
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-*
-
-**Tácticas**
-*
-
-
-**Afrontando las debilidades de nuestros competidores:**
-*
-*
-*
-
-**Comprendemos que nuestras debilidades son:**
-*
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-*
-
-**Tácticas**
-*
-*
-*
-
-
-**Afrontando las oportunidades de nuestros competidores:**
-
-*
-*
-*
+    Miro es una plataforma que permite crear pizarras virtuales para el trabajo colativo en tiempo real. La cual posee distintas herramientas y plantillas que nos ayudaron a realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada segemento objetivo.
   
-**Comprendemos que nuestras oportunidades son:**
-*
-*
-*
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+* UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
 
-**Estrategias**
-* Desarrollar la interfaz de la plataforma en base a una experiencia de usuario acogedora y sostenible
+    UXPressia es una plataforma que brinda diferentes plantillas que nos ayudan a comprender la problemática, conocer las necesidades de los segmentos objetivos en relación con la solución de software. Las plantillas de la plataforma fueron empleadas para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
 
-**Tácticas**
-*
-*
-*
+**Software Development**
+* Landing Page
+  
+    Para el desarrollo de la Landing Page se ha hecho empleo de las siguientes tecnologías de desarrollo web: HTML5, CSS y JavaScript. 
 
-**Afrontando las amenazas de nuestros competidores:**
-*
-*
-*
+* Fronted Web Applications
 
-**Comprendemos que nuestras amenazas son:**
-* 
+    Para el desarrollo de la aplicación web frontend, se empleó HTML, CSS y JavaScript. En este caso utilizaremos Angular Material para la creación de componentes. Nuestro Stack tecnológico incluye el uso del lenguaje Java con Spring Boot como framework, junto con HTML, Angular, JavaScript, CSS y una base de datos en MySQL Workbench. 
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+**Software Testing**
 
-**Estrategias**
-* 
+* Para las pruebas funcionales del software de la Landing page y de la aplicación web, se han utilizado las herramientas de desarrollo de los siguientes navegadores web: Google Chrome ( [https://www.google.com/chrome/](https://www.google.com/chrome/) ) , Microsoft Edge ( [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) ) y Mozilla Firefox ( [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/) ). 
+  
+  **Software Deployment**
+* Vercel: [https://vercel.com/](https://vercel.com/)
 
-**Tácticas**
-* 
-* 
+    Para implementar el despliegue utilizamos Vercel que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Vercel maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
 
-<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
+**Software Documentation**
+* GitHub: [https://github.com/](https://github.com/)
+  
+    GitHub fue empleado para la creación de la documentación y de la Landing Page. En ambos casos se creo un repositorio. Además, nuestro grupo eligió esta plataforma para trabajar de manera colaborativa.
 
-La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+Se creó una organización en GitHub para el desarrollo y la gestión del proyecto. En dicha organización se registraban todas las modificaciones que se realizaron durante su ciclo de desarrollo. Nuestra organización se estructuró de la siguiente manera:
+
+Organización:
+[https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
+
+Repositorio del Landing Page: 
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
+
+Repositorio del Informe: 
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report)
+
+Por otro lado, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se ha implementado GitFlow.
+
+De esta manera, se establecieron 2 ramas principales: main y develop.
+
+Ramas principales:
+
+* Main: También denominada “master”, en esta rama se almacenan las versiones oficiales de nuestro repositorio antes de pasarlas a producción.
+* Develop: Es la rama que se va a emplear como punto de integración de las ramas “feature”. Una vez que el “head” sea estable y el equipo considere que esta listo para ser lanzadose unirá a la rama release.
+  
+Ramas auxiliares:
+
+* Feature: En esta rama se desarrollan las funcionalidades del proyecto solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Al completarlas se integrarán en la rama “develop”. 
+* Release: Esta rama se utiliza para la preparación de la próxima versión del programa. Aquí se realizan pruebas finales y se pueden solucionar errores menores antes del lanzamiento definitivo. Por último, los cambios se fucionan con la rama develop, y luego la rama main.
+
+    Se empleó el formato “Semantic Versioning 2.0.0” para la nomenclatura de versiones del proyecto. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
+
+  *  X, Y y Z son números enteros positivos, donde cada uno incrementa de manera numérica.
+
+  * X: Es la que representa una versión mayor. Aquí se encuentran aquellos cambios que no son compatibles con las versiones anteriores. Esto implica reiniciar a 0 las versiones Y(menores) y Z(parche).  
+  * Y: Es la versión menor. Aquí se encuentran los cambios que si son compatibles con las versiones anteriores. Esto implica que cada vez que Y se incremente, la versión Z(parche) se reiniciará a 0.
+  * Z: Parches y correcciones de errores menores. Solo se incrementa cuando se realizan correcciones que son compatible con versiones anteriores.
+
+**Commit Convention**
+
+El formato de los commits siguen la estructura de “Conventional Commits” en la versión 1.0.0, la cual tiene la siguiente estructura:
+
+```
+                        <type>[optional scope]: <description>
+                                    [optional body]
+                                [optional footer(s)]
+``` 
+
+Donde:
+*	type: Precisa el tipo de cambio realizado. Entre los tipos de cambios encontramos: fix, feat, build, chore, etc.
+*   scope: Permite dar el alcance y contexto del cambio.
+*   description: Indica de manera breve un resumen de los cambios del código.
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+Utilizaremos el lenguaje de etiquetas HTML y CSS se empleará la convención de Google HTML/CSS Style Guide. 
+
+Entre todas las convenciones destacamos:
+
+*   Se debe declarar el tipo de documento con <!DOCTYPE.html>.
+*   Evitar líneas de códigos extensas.
+*   Utilizar meta tags al inicio.
+* 	Utilizar siempre las letras minúsculas para los nombres de los elementos HTML, atributos, propiedades, valores y selectores CSS (como ```<p>```, ```<h1>```, ```<section>```, etc.).
+* 	Cada elemento de HTML debe tener una etiqueta de cierre (por ejemplo ```<p></p>```).
+* 	Siempre encerrar entre comillas los atributos dentro de un elemento HTML (```<p class=”name”></p>```).
+* 	Especificar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
+
+Para el desarrollo de código en TypeScript, se optó por utilizar la convención Google TypeScript Style Guide. Algunas convenciones son las siguientes:
+
+*   Usar el punto y coma a l final de cada sentencia “;”.
+*   Tanto las variables como las funciones deben estar nombradas en CamelCase.
+*   Utilizar comillas simples en los valores string.
+*   Evitar declarar variables con la sentencia var. En su lugar, se debería usar let o const para evitar errores en variables y valores.
+
+Para el desarrollo de los aceptance test con el lenguaje de Gherkin se eligió emplear las convenciones mencionadas en “Gherkin Conventions for Readable Specifications”. Entre ellas encontramos:
+
+*	Emplear lasas palabras “Given”, “When”, “Then” y “And” para describir los pasos de los escenarios.
+*	Evitar que la descripción de los pasos de cada escenario sea redundante.
+*	Agregar líneas entre pasos.
+*	En cada escenario, utilizar formato y estilo consistente en toda la especificación.
+*	Encerrar los parámetros en comillas simples.
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Vercel.
+
+Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear cuenta.
+
+<div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
+
+<div id='5.2.1.'><h4> 5.2.1.	Sprint 1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1.	Sprint Planning 1.</h5></div>
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 28/08/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 16:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Zoom <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Ramos Argüelles, Alexandra Belen <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Ramos Argüelles, Alexandra Belen
+        <br>
+         Cortez Flores, Ely Rivaldo
+           <br>
+         Boronda Heidinger, Astrid Jimena 
+          <br>
+         Quiroz Zambrano, Fabrizio Javier
+          <br>
+         Huilca Chipana, Gustavo 
+              <br>
+         Silva Morales, Renzo Cesar
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  texto <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  19  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 19 <td>
+      </tr>
+
+  </table>
