@@ -15,7 +15,7 @@ width=50%"/>
 
 <h5 style="text-align: center"> Startup: DynoWare </h5>
 
-<h5 style="text-align: center"> Producto: Greenhouse </h5>
+<h5 style="text-align: center"> Producto: CargoSafe </h5>
 
 
 ## Team members:
@@ -24,7 +24,7 @@ width=50%"/>
 |Boronda Heidinger, Astrid Jimena|U202215823|
 |Cortez Flores, Ely Rivaldo|U202215313|
 |Ramos Argüelles, Alexandra Belen|U202215164|
-|Silva Morales, Renzo Cesar|U20221c362|
+|Silva Morales, Renzo Cesar|U20221C362|
 |Quiroz Zambrano, Fabrizio Javier|U202213406|
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
@@ -204,10 +204,13 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
 
+DynoWare es una startup liderada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), orientada al desarrollo de software y soluciones tecnológicas dirigidas a los transportistas y empresarios que buscan la llegada a salvo y en buen estado de sus productos. Mediante nuestra plataforma CargoSafe buscamos brindar herramientas para el seguimiento, la gestión y optimización de rutas y la gestión de productos. 
 
 **Misión:** 
+Nuestra misión es garantizar la integridad de los productos, mediante el uso de las herramientas brindadas por nuestra plataforma.
 
 **Visión:** 
+Nuestra visión es convertirnos en referentes globales en la industria de la logística y control del transporte de carga, revolucionando el sector con herramientas que transforman la manera en que se supervisa la carga.
 
 ##### Logotipo de la Startup:
 ![logotipo_start]()
@@ -220,45 +223,66 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 | :--------| :--------: |
 | Mi nombre es **Astrid Jimena Boronda Heidinger**. |<img src="colocar el link de su foto" alt="" width="250px" />
 | Mi nombre es **Ely Rivaldo Cortez Flores**,  .|![](colocar el link de su foto)|
-Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
-Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
-Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
+| Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
+| Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
+| Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
 
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brindar herramientas innovadoras para el seguimiento, la gestión y la optimización de rutas. La plataforma fue diseñada para mejorar la eficiencia logística y garantizar la seguridad de la carga en todo momento.
+
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
 ###### What (Qué)
 ###### ¿Cuál es el problema?
+El problema percibido es la poca facilidad para gestionar la carga y la falta de seguridad del vehículo de transporte y su cargamento, así como también la ineficiencia en la planificación de rutas y la falta de visibilidad en tiempo real.
 
+###### ¿Cuál es la relación con la persona en cuestión?
+La relación con la persona en cuestión depende de su rol en el proceso del transporte de carga. Si es un transportista, este puede hacer uso de una ruta recomendada por la plataforma. Si es un empresario, su vínculo está directamente relacionado con la gestión del cargamento.
 
 ###### When (Cuando)
 ###### ¿Cuándo sucede el problema?
+El problema ocurre en múltiples etapas del proceso de transporte de carga. Puede manifestarse desde el momento en que la mercancía es cargada en el vehículo, durante su trayecto a través de rutas potencialmente riesgosas o mal planificadas, hasta su llegada al destino final. En cada una de estas fases, la falta de visibilidad en tiempo real y la ausencia de medidas de seguridad adecuadas pueden desencadenar problemas como robos, daños, o retrasos significativos que afectan tanto a transportistas como a empresarios.
 
+###### ¿Cuándo utiliza el cliente el producto?
+El cliente utiliza el producto al planificar una ruta antes de que el transporte comience, durante el trayecto para monitorear en tiempo real la ubicación y el estado de la carga, y después de la entrega para revisar informes y evaluar la eficiencia del transporte. La plataforma es una herramienta esencial en momentos críticos como la llegada a puntos de control o al enfrentar situaciones imprevistas, como desvíos por condiciones climáticas adversas.
 
 ###### Where (Dónde)
-###### ¿A dónde se dirige?
+###### ¿Dónde está el cliente cuando usa el producto?
+El cliente puede utilizar el producto desde cualquier ubicación con acceso a un dispositivo conectado a internet, ya sea en una oficina, en casa, en movimiento, o incluso desde el mismo vehículo de transporte. La versatilidad de la plataforma permite mantenerse informado y en control sin importar su ubicación física.
 
+###### ¿A dónde se dirige?
+El cliente se dirige a la plataforma en busca de información detallada sobre el estado de la carga, incluyendo su ubicación actual, condiciones del trayecto, y posibles riesgos en tiempo real. La plataforma también es el punto de referencia para ajustar rutas y tomar decisiones críticas durante el transporte.
 
 ###### ¿Dónde surge el problema?
-
+El problema surge en varios puntos críticos del proceso de transporte de carga, incluyendo áreas de alto riesgo de robo, rutas con infraestructura deficiente, y durante la carga y descarga en puntos de control o destinos finales. Además, puede originarse en situaciones inesperadas como cambios repentinos en el clima, fallos mecánicos en el vehículo, o malentendidos en la coordinación logística entre diferentes partes involucradas en el transporte.
 
 ###### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
+###### ¿Quiénes están involucrados? 
+Los involucrados en el proceso son los transportistas, quienes son los responsables directos de llevar la carga desde su punto de origen hasta su destino final, enfrentándose a los desafíos del trayecto, como la planificación de rutas y la seguridad de la carga. Los empresarios, por su parte, son aquellos que confían en que la mercancía llegue en buen estado y a tiempo, además, suelen ser dueños de la carga o encargados de la logística dentro de sus compañías.
 
+###### ¿A quiénes le sucede el problema?
+El problema les sucede tanto a los transportistas al momento de elegir una ruta, como a los empresarios al momento de revisar el cargamento.
+
+###### ¿Quién lo utilizará?
+El producto será utilizado principalmente por transportistas y empresarios. Los transportistas usarán la plataforma para recibir recomendaciones de rutas optimizadas, realizar seguimientos en tiempo real y recibir alertas ante posibles peligros en el trayecto. Los empresarios utilizarán la plataforma para monitorear el estado de la carga, recibir informes detallados, y coordinar con los transportistas y gestores de logística.
 
 ###### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
-
+El problema se origina por una combinación de factores, incluyendo la falta de herramientas tecnológicas avanzadas para el monitoreo en tiempo real y la gestión eficiente de rutas. Las rutas de transporte a menudo no se optimizan, lo que aumenta los costos y riesgos asociados, como el robo o daño de la carga. Además, la falta de comunicación fluida entre transportistas y empresarios agrava la situación, ya que no hay una visibilidad clara y constante sobre el estado de la mercancía. Esta carencia de recursos adecuados provoca ineficiencias en el proceso de transporte, generando costos adicionales, retrasos y pérdidas tanto económicas como operativas.
 
 ##### ¿Cuáles son las 2H?
 ###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
+###### ¿En qué condiciones los clientes usan nuestro producto?
+Los clientes utilizan el producto en condiciones donde es crucial tener control y visibilidad total sobre el transporte de carga. Esto incluye situaciones donde se transportan bienes de alto valor, cargas frágiles, o mercancías sensibles al tiempo.
 
-###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
+###### ¿Cómo nos conocieron los clientes?
+Los clientes conocen el producto a través de diversos canales, como publicidad en línea, publicaciones en redes sociales o recomendaciones de otros clientes.
 
+###### ¿Cómo prefieren los clientes acceder a nuestro contenido?
+Los clientes prefieren acceder a través de una web intuitiva y fácil de usar, para así poder gestionar el inventario de la carga y su ubicación.
 
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
+###### ¿Qué llevó a la persona a llegar a esta situación?
+La necesidad de mejorar la seguridad y la eficiencia en el proceso de transporte del cargamento es lo que impulsa a los clientes a buscar soluciones como esta plataforma. La experiencia previa con problemas como retrasos en la entrega, pérdida de mercancía, o altos costos operativos debido a rutas ineficientes ha llevado a los clientes a buscar herramientas que les ofrezcan un control y visibilidad más completos, reduciendo riesgos y optimizando los resultados.
 
 ###### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
@@ -271,8 +295,6 @@ Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su fo
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
 ###### **Problem Statement:** 
-
-
 
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
