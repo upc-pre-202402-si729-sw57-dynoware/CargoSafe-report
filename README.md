@@ -225,168 +225,133 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <body>
     <table >
         <tr>
-           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
+           <td colspan="6" class="sub"><h1>Competitive Analysis Landscape</h1></td>
         </tr>
         <tr>
             <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
             <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
         </tr>
         <tr>
-            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
-                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
-                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
+            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo en el que operará nuestro producto. Permite identificar a nuestros competidores y tener en cuenta todo lo que los caracteriza como empresa actualmente. De esa forma, buscar destacar para diferenciarnos de la mejor forma.</td>
         </tr>
         <tr>
             <td rowspan="3" class="sub">PERFIL</td>
-            <td rowspan="2" class="sub">Overview</td>
-            <td> CargoSafe <img src=imagen competidor> </td>
-            <td>competidor1 <img src="imagen competidor"> </td>
-            <td>competidor2 Software<img src="imagen competidor"> </td>
-            <td>competidor3 <img src="imagen competidor"> </td> 
+            <td rowspan="2" class="sub">Startup y competidores</td>
+            <td> CargoSafe </td>
+            <td> GoCargo </td>
+            <td> Convoy </td>
+            <td> Loadsmart </td> 
         </tr>
         <tr>
-            <td>descrip 1</td>      
+            <td>descrip 1<img src=imagen competidor> </td></td> 
+            <td>descrip 1<img src=imagen competidor> </td></td> 
+            <td>descrip 1<img src=imagen competidor> </td></td> 
+            <td>descrip 1<img src=imagen competidor> </td></td>      
         </tr>
         <tr>
-            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
-            <td> respuesta a la pregunta de arriba</td>
-            <td>
-                <ul>
-                    <li>competidor 1</li>
-                    <li></li>
-                    <li></li>
-                    <li>  </li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>competidor 3</li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>                
-            </td>      
+            <td class="sub">Overview</td>
+            <td>Plataforma que se encarga del análisis de la carga y seguimiento del proceso de transporte.</td>
+            <td>Facilita a los usuarios la gestión del transporte de carga al permitir el fácil alcance de comunicación con generadores de carga interesados en el transporte de su mercancía.</td>
+            <td>Ofrece servicios de transporte de carga que permite la optimización de rutas e incluso la reducción de costos para los usuarios.</td>
+            <td>Se encarga de que la transportación sea más eficiente y menos complicada insertando tecnología a su servicio para la automatización de los procesos de transporte.</td>      
+        </tr>
+        <tr>
+            <td></td>
+            <td class="sub">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+            <td>Ofrece una solución centrada principalmente para ofrecer un servicio transparente y seguro, abordando la garantía y seguimiento del proceso de transporte de la carga, considerando el estado en el que llega para la satisfacción del cliente.</td>
+            <td>Ofrece una solución efectiva para los transportes de cargas, lo que da un valor significativo a los clientes. Además, cuentan con tecnología, lo que significa que ofrece una experiencia de usuario moderna capaz de optimizar el proceso de selección de transporte y envío de carga.</td>
+            <td>La aplicación se destaca por maximizar las ganancias al poner solicitudes de carga de mercancías directamente al alcance de los transportistas. Además, simplifica las operaciones al reducir los costos operativos, lo que resulta en un aumento significativo de los beneficios.</td>
+            <td>Ofrece el mejor servicio de su clase respaldado a través de equipos dedicados con encontrar la combinación óptima de servicio, precio y calidad. Destacan por su cotización automática de los fletes, y además de contar con operadores más confiables y seguras.</td>      
         </tr>
         <tr>
             <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
             <td class="sub" >Mercado Objetivo</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li>.</li>
-                </ul>  
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Personas generadoras de carga que necesitan transportar su carga.</td>
+            <td>Personas generadoras de carga que necesitan transportar su carga.</td>
+            <td>Personas generadoras de carga que necesitan transportar su carga.</td>
+            <td>Personas generadoras de carga que necesitan transportar su carga.</td>
         </tr>
         <tr>
             <td class="sub">Estrategias de Marketing</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
+            <td> Seguridad, marketing digital, transparencia, seguridad, confianza</td>
+            <td>Marketing digital, confianza, disponibilidad.</td>
+            <td>Tecnología incrustada en sus operaciones, mitigación de riesgos, visibilidad.</td>
+            <td>Contratos confiables, marketing digital, herramientas digitales apoyadas en las soluciones logísticas.</td>
         </tr>
         <tr>
             <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
             <td class="sub">Productos & Servicios</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td> <br>
-                </td>
+            <td>
+                <ul>
+                    <li>Plataforma que muestre un análisis de la carga</li>
+                    <li>Seguimiento de la carga</li>
+                    <li>Control(peso, temperatura, rutas)</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Transporte especializado</li>
+                    <li>Seguimiento y monitoreo en tiempo real</li>
+                    <li>Reservas online y cotización</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Plataforma para descubrimiento de carga</li>
+                    <li>Automatización del proceso de reserva</li>
+                    <li>Administración de documentos digitales</li>
+                </ul>
+            </td>
+            <td> 
+            <ul>
+                    <li>Software de gestión de camiones</li>
+                    <li>Tableros de carga</li>
+                    <li>Servicios de flota privada</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td class="sub">Precios & Costos</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>Planes (Estándar a S/.150 al mes y Premium S/.650 al mes)</td>
+            <td>Cobro de comisión por el uso de la plataforma.</td>
+            <td>Gratuito, no hay cuotas de inscripción ni pagos mensuales.</td>
+            <td>Plataforma en línea gratuita.</td>
         </tr>
         <tr>
             <td class="sub">Canales de distribución (web/móvil)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>        
+            <td>Web y móvil</td>
+            <td>Web y móvil</td>
+            <td>Web y móvil</td>
+            <td>Web y móvil</td>        
         </tr>
         <tr>
             <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
             <td class="sub">Fortalezas</td>
-            <td>
-               </td>
-            <td> 
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
+            <td>Transparencia al proporcionar al cliente visibilidad de sus envíos en todo momento.</td>
+            <td>Tiene una red de transportistas confiables, asegurando la seguridad de su servicio que ofrecen y la calidad de las entregas.</td>
+            <td>Utiliza diversa tecnología, incluida inteligencia artificial para mejorar su eficiencia operativa.</td>
+            <td>Precios dinámicos en tiempo real que pueden adecuarse a la demanda, dando al cliente una mejor perspectiva.</td>
         </tr>
         <tr>
             <td class="sub">Debilidades</td>
-            <td></td>
-            <td></td>
-            <td>.</td>
-            <td></td>  
+            <td>Fidelización de los clientes frente a la demás competencia que ofrecen servicios similares.</td>
+            <td>El mantenimiento de la aplicación frente a los costos operativos resulta costoso para su margen de ganancias.</td>
+            <td>Competencia con las diferentes plataformas digitales establecidas en el mercado que ofrecen servicios similares.</td>
+            <td>La implementación y mantenimiento de nuevas tecnologías a largo plazo pueden resultar costosas.</td>  
         </tr>
         <tr>
             <td class="sub">Oportunidades</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td></td>
-            <td></td>
-            <td></td> 
+            <td>Crecimiento enfocado en las empresas pequeñas para proporcionar soluciones accesibles.</td>
+            <td>Formación de alianzas con otros proveedores o aliados estratégicos que fortalezcan la posición de la empresa.</td>
+            <td>Expandir sus operaciones a nivel internacional permitiendo un mayor alcance de clientes.</td>
+            <td>Adopción de la inteligencia artificial para mejorar los servicios como la optimización de rutas, siendo más eficiente.</td> 
         </tr>
         <tr>
             <td class="sub">Amenazas</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>          
+            <td>Dependencia de clientela que puede impactar significativamente en los ingresos de la empresa ante cualquier pérdida de los mismos.</td>
+            <td>El poco alcance que tienen en redes sociales resultaría contraproducente frente a su competencia.</td>
+            <td>Innovaciones tecnológicas que significaron cambios drásticos en el panorama de la aplicación.</td>
+            <td>La escasez de conductores está siendo un obstáculo significativo para incumplir la demanda de transportes, y por ende, la demanda del mismo servicio.</td>          
         </tr>
     </table>
 </body>
