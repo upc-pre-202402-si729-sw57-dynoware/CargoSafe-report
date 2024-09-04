@@ -235,10 +235,10 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             <td> Loadsmart </td> 
         </tr>
         <tr>
-            <td>descrip 1<img src=imagen competidor> </td></td> 
-            <td>descrip 1<img src=imagen competidor> </td></td> 
-            <td>descrip 1<img src=imagen competidor> </td></td> 
-            <td>descrip 1<img src=imagen competidor> </td></td>      
+            <td></td></td> 
+            <td><img src="assets/chapter_2/gocargo_logo.png"></td></td> 
+            <td><img src="assets/chapter_2/convoy_logo.png"></td></td>  
+            <td><img src="assets/chapter_2/loadsmart_logo.jpeg"><td><td>       
         </tr>
         <tr>
             <td class="sub">Overview</td>
@@ -350,9 +350,9 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 </html>
 
 <div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
-
+<div align="justify">
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
-
+</div>
 <div align="justify">
 
 - **Atención al cliente directa:** Consideramos importante responder las preguntas que los usuarios puedan tener de la aplicación, siendo que usaremos chatbots para ello, además de contar con un servicio de llamadas para consultas personalizadas.
@@ -377,10 +377,11 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 </div>
 
 **1. Preguntas iniciales:**
-¿Cómo te llamas?
-¿Qué edad tienes?
-¿Dónde vives?
-¿Cuál es tu profesión?
+
+- ¿Cómo te llamas?
+- ¿Qué edad tienes?
+- ¿Dónde vives?
+- ¿Cuál es tu profesión?
 
 **2. Preguntas secundarias:**
 **Segmento objetivo: Transportistas**
