@@ -417,7 +417,7 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 * Según su experiencia como usuario de servicios de transporte, ¿qué funcionalidades le gustaría que incluyera la aplicación?
 * ¿Utilizará alguna aplicación que contenga esta funcionalidad principalmente?
 
-<div id='2.2.1.'><h4>2.2.2. Registro de entrevistas</h4></div>
+<div id='2.2.2.'><h4>2.2.2. Registro de entrevistas</h4></div>
 
 **Segmento objetivo: Transportistas**
 
@@ -498,16 +498,50 @@ Por último, nos contó al respecto de experiencias con otras aplicaciones de tr
 **Entrevista 2:**
 **Entrevistado:**
 * **Datos del entrevistado**
-**Nombres:** Rubi Jael
-**Apellidos:** Pinta Alves
-**Edad:** 28
-**Profesión:** Comerciante mayorista de prendas
+**Nombres:** Rubi Jael  <br>
+**Apellidos:** Pinta Alves  <br>
+**Edad:** 28 <br>
+**Profesión:** Comerciante mayorista de prendas  <br>
 * **Acerca de la entrevista:**
 
-**Duración:** 4:51 minutos
-**Inicio de de la entrevista:** 0:01
-**Link:** [https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view](https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view)
+**Duración:** 4:51 minutos  <br>
+**Inicio de de la entrevista:** 0:01  <br>
+**Link:** [https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view](https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view)  <br>
 **Resumen de la entrevista:**
 <div align="justify">
 Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al interior del país. Ella menciona que su principal preocupación es la seguridad de sus envíos, ya que, en algunas ocasiones, los pedidos no llegan completos o en las condiciones en que fueron enviados. Esto le  genera desconfianza sobre algunas empresas transportistas. Además, agrega que la comunicación prolongada suele realizarse por medios clásicos, lo cual resulta tedioso y provoca pérdida de tiempo al gestionar y controlar el trayecto de los envíos. También señala que algunos transportistas mezclan todos los productos enviados, lo que ocasiona inconvenientes en el manejo adecuado de las prendas.
 </div>
+
+<div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas</h4></div>
+
+**Segmento Objetivo: Transportistas**
+**Características del segmento:**
+* Personas de 30 a 55 años tanto mujeres como hombres.
+* Su ocupación principal es de transportistas.
+* Tienen conocimientos básicos en el uso de aplicaciones web.
+* Personas que se sientan dispuestas al uso de un servicio que pueda ayudarlo con el transporte de carga.
+* Mencionan problemas como el tipo de carga debido a que sus camiones pueden no ser los adecuados para transportarlos.
+* Quieren comunicarse con clientes conociendo información básica que les brinde confianza y seguridad antes de aceptar el servicio.
+* Saben que es necesario conocer sobre la carga que van a transportar para saber cómo tratarlas antes y durante el transporte.
+* Problemas como derrumbes, accidentes y el clima como factores que pueden retrasar el transporte de mercadería
+* Consideran importante el uso del GPS para un mejor monitoreo del viaje.
+* Consideran el uso de aplicaciones que ayuden en su transporte, pero no los usan por completo por sentir que son complicados de usar.
+ 
+**Segmento Objetivo: Empresarios**
+**Características del segmento:**
+* Personas de 25 a 50 años tanto mujeres como hombres
+* No tiene alguna ocupación definida principalmente, pueden tener ocupaciones diferentes, como el caso de nuestros entrevistados que son un ingeniero de software, un ingeniero civil y un comerciante.
+* Tienen conocimientos básicos en el empleo de aplicaciones web.
+* Toman en cuenta las recomendaciones de sus cercanos para confiar en algunos transportistas.
+* Consideran que el servicio de transporte entrega el producto en buenas condiciones y al tiempo que lo necesiten.
+* Les agrada la idea del monitoreo de su mercadería porque les ayudaría a sentirse más seguros con su entrega y saber del tiempo que llegaría al destino.
+* Creen importante brindar información detallada y relevante del remitente para un mejor conocimiento 
+* Estarían dispuestos a usar una aplicación que facilite el servicio de transporte de carga porque servirá mucho para la comunicación y su propia tranquilidad.
+
+<div id='2.3.'><h3>2.3. Needfinding</h3></div>
+<div id='2.3.1.'><h4>2.3.1. User Personas</h4></div>
+<div id='2.3.2.'><h4>2.3.2. User Task Matrix</h4></div>
+<div id='2.3.3.'><h4>2.3.3. User Journey Mapping</h4></div>
+<div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
+<div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
+<div id='2.4.'><h3>2.4. Ubiquitous Language</h3></div>
