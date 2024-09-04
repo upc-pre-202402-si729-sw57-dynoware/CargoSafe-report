@@ -416,3 +416,98 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 * ¿Consideraría óptimo que se calcule el peso de la carga antes y después del envío, especialmente para asegurar la transparencia y garantizar que todo llegue en las mismas condiciones en que fue enviado?
 * Según su experiencia como usuario de servicios de transporte, ¿qué funcionalidades le gustaría que incluyera la aplicación?
 * ¿Utilizará alguna aplicación que contenga esta funcionalidad principalmente?
+
+<div id='2.2.1.'><h4>2.2.2. Registro de entrevistas</h4></div>
+
+**Segmento objetivo: Transportistas**
+
+**Entrevista 1:**
+**Entrevistado:**
+* **Datos del entrevistado**
+**Nombres:** Ruben Alcides
+**Apellidos:** Roman Varga
+**Edad:** 49
+**Distrito:** Chosica
+**Profesión:** Transportista y mayorista
+* **Acerca de la entrevista:**
+
+**Duración:** 
+**Inicio de de la entrevista:** 01:00
+**Link:** 
+**Resumen de la entrevista:**
+<div align="justify">
+Ruben menciona un problema que últimamente lo aqueja, se trata de la poca demanda de carga, que a diferencia de algunos años se ofrecía el transporte de carga de toneladas era más seguido. Menciona que algunos problemas con solicitudes de carga se deben a la falta de información sobre recojo, pesaje y tamaño de la mercadería que dificulta al transporte. Considera importante saber el tipo de carga  porque así se adecua el camión para su transporte seguro. Ruben dice que para impartir confianza con el cliente, se mantiene en comunicación para avisar al inicio y pocas horas de llegada de la mercadería. Considera que se debe garantizar el buen estado de la carga al entregarla en igualdad de condiciones. Para él, las plataformas son complicadas, y considera que comparte este pensamiento con otros transportistas, aun así reconoce que una aplicación que ayude con el pesaje, el pago, calcule la ruta son opciones interesantes para que lo puedan ayudar siendo ese caso que mencione que lo mejor sería si las plataforma fuera simple y son tantos procesos a realizar. Según dice, una implementación que se estuvo haciendo hace poco a los camiones fue agregar un gps adicional para el monitoreo del punto de trayectoria hacia el destino, esto porque pueden ocurrir varias situaciones, entre accidentes, fallos del camión, factor climatológico e incluso que el transportista se enferme, que desafían el transporte de carga, y por ende, pueda retrasarse. Recomiendo aplicaciones como Waze o Atu Sit para el transporte, recomendando algunas funciones de estas apps.
+</div>
+
+**Entrevista 2:** 
+**Entrevistado:** 
+* **Datos del entrevistado**
+**Nombres:** Ruben Dario
+**Apellidos:** Boronda Meza
+**Edad:** 52
+**Profesión:** Chofer
+* **Acerca de la entrevista:**
+
+**Duración:**  4:53 minutos
+**Inicio de de la entrevista:** 0:15
+**Link:** 
+**Resumen de la entrevista:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EZ4hfPktnqRHoRzmLkBxtzIBmzkcTbxMN139kkbYTpCOuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NObti8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EZ4hfPktnqRHoRzmLkBxtzIBmzkcTbxMN139kkbYTpCOuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NObti8)
+
+<div align="justify">
+Ruben menciona un problema que últimamente lo aqueja, se trata de la poca demanda de carga, que a diferencia de algunos años se ofrecía el transporte de carga de toneladas era más seguido. Menciona que algunos problemas con solicitudes de carga se deben a la falta de información sobre recojo, pesaje y tamaño de la mercadería que dificulta al transporte. Considera importante saber el tipo de carga  porque así se adecua el camión para su transporte seguro. Ruben dice que para impartir confianza con el cliente, se mantiene en comunicación para avisar al inicio y pocas horas de llegada de la mercadería. Considera que se debe garantizar el buen estado de la carga al entregarla en igualdad de condiciones. Para él, las plataformas son complicadas, y considera que comparte este pensamiento con otros transportistas, aun así reconoce que una aplicación que ayude con el pesaje, el pago, calcule la ruta son opciones interesantes para que lo puedan ayudar siendo ese caso que mencione que lo mejor sería si las plataforma fuera simple y son tantos procesos a realizar. Según dice, una implementación que se estuvo haciendo hace poco a los camiones fue agregar un gps adicional para el monitoreo del punto de trayectoria hacia el destino, esto porque pueden ocurrir varias situaciones, entre accidentes, fallos del camión, factor climatológico e incluso que el transportista se enferme, que desafían el transporte de carga, y por ende, pueda retrasarse. Recomiendo aplicaciones como Waze o Atu Sit para el transporte, recomendando algunas funciones de estas apps.
+</div>
+
+**Entrevista 3:**
+**Entrevistado:**
+* **Datos del entrevistado**
+**Nombres:** 
+**Apellidos:** 
+**Edad:** 
+**Distrito:**
+**Profesión:** 
+* **Acerca de la entrevista:**
+
+**Duración:** 
+**Inicio de de la entrevista:** 01:00
+**Link:** 
+**Resumen de la entrevista:**
+<div align="justify">
+
+</div>
+
+**Segmento objetivo: Empresarios**
+
+**Entrevista 1:**
+**Entrevistado:**
+* **Datos del entrevistado**
+**Nombres:** Melany Milagros
+**Apellidos:** Ramos Argüelles
+**Edad:** 27
+**Profesión:** Ingeniera de Software y empresaria independiente
+* **Acerca de la entrevista:**
+
+**Duración:** 5:00 minutos
+**Inicio de de la entrevista:** 0:01
+**Link:** [https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20segmento%20objetivo%20empresarios%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E90b5d2bd%2D2500%2D4ff1%2D863b%2D372292f050fd](https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20segmento%20objetivo%20empresarios%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E90b5d2bd%2D2500%2D4ff1%2D863b%2D372292f050fd )
+**Resumen de la entrevista:**
+<div align="justify">
+Durante la entrevista conocimos a Melany Ramos. Ella tiene un negocio de postres y entrega de catering por delivery. Nos comenta que cuenta con personas conocidas que le brindan la ayuda para transportar sus productos. Sin embargo, no siempre puede recurrir a sus servicios por la falta de disponibilidad, lo que desencadena una preocupación y carga laboral. Los aspectos que ella toma en cuenta al contratar un servicio de transporte es que los transportistas sean recomendados por conocidos y, de tratarse de una aplicación prefiere ver un filtro previo de multas, registro penal o recomendaciones como puntuación por el servicio. La señorita Ramos nos comenta que dentro de los principales problemas que ha tenido con transportes es que no llegan completos o en algunos casos llegan en mal estado. Lo que se espera de un servicio de transporte es que los productos que están siendo enviados lleguen correctamente al cliente que realizó el pedido y, al hacer un pedido de insumos, que estos lleguen en estado óptimo para su uso. 
+Por último, nos contó al respecto de experiencias con otras aplicaciones de transporte como inDrive con la que tuvo algunos inconvenientes. Por ello, necesita un servicio confiable y seguro que garantice la entrega y envíos de sus pedidos.
+</div>
+
+**Entrevista 2:**
+**Entrevistado:**
+* **Datos del entrevistado**
+**Nombres:** Rubi Jael
+**Apellidos:** Pinta Alves
+**Edad:** 28
+**Profesión:** Comerciante mayorista de prendas
+* **Acerca de la entrevista:**
+
+**Duración:** 4:51 minutos
+**Inicio de de la entrevista:** 0:01
+**Link:** [https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view](https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view)
+**Resumen de la entrevista:**
+<div align="justify">
+Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al interior del país. Ella menciona que su principal preocupación es la seguridad de sus envíos, ya que, en algunas ocasiones, los pedidos no llegan completos o en las condiciones en que fueron enviados. Esto le  genera desconfianza sobre algunas empresas transportistas. Además, agrega que la comunicación prolongada suele realizarse por medios clásicos, lo cual resulta tedioso y provoca pérdida de tiempo al gestionar y controlar el trayecto de los envíos. También señala que algunos transportistas mezclan todos los productos enviados, lo que ocasiona inconvenientes en el manejo adecuado de las prendas.
+</div>
