@@ -197,183 +197,6 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
-<div id='1.'><h2>Capítulo I: Introducción</h2></div>
-
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
-
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
-
-
-**Misión:** 
-
-**Visión:** 
-
-##### Logotipo de la Startup:
-![logotipo_start]()
-##### Logotipo del servicio
-![logotipo_servicio]()
-
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
-
-||Perfiles de los integrantes del equipo|
-| :--------| :--------: |
-| Mi nombre es **Astrid Jimena Boronda Heidinger**. |<img src="colocar el link de su foto" alt="" width="250px" />
-| Mi nombre es **Ely Rivaldo Cortez Flores**,  .|![](colocar el link de su foto)|
-Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
-Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
-Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
-
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
-
-###### What (Qué)
-###### ¿Cuál es el problema?
-
-
-###### When (Cuando)
-###### ¿Cuándo sucede el problema?
-
-
-###### Where (Dónde)
-###### ¿A dónde se dirige?
-
-
-###### ¿Dónde surge el problema?
-
-
-###### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-
-
-###### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-
-
-##### ¿Cuáles son las 2H?
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
-
-
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-
-
-###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
-
-
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
-
-###### **Problem Statement:** 
-
-
-
-
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
-
-###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán** 
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener** 
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
-
-###### **User Assumptions:**
-###### **¿Quién es el usuario?**   
-
-
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-
-
-###### **¿Qué características son importantes?**
-
-
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
-
-
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
-
-
-###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
-
-###### **Feature Assumptions:**
-
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que**
-
-
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
-
-* **Hypothesis Statement 01:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-  
-* **Hypothesis Statement 02:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-* **Hypothesis Statement 03:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-* **Hypothesis Statement 04:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
-
-El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
-
-![CargoSafe_Lean Canvas](link de la cap del canvas)
-
-Enlace para acceder al [Canvas](link del canvas )
-
-<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
-
-
-
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
-
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:** 
-
-![Stakeholders Externos](link de evidencia)
-
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
 
 <div id='2.1.'><h3> 2.1. Competidores.</h3></div>
@@ -573,82 +396,58 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 
 En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
 
-**Afrontando las fortalezas de nuestros competidores:**
-*
-*
-*
-*
-**Comprendemos que nuestras fortalezas son:**
-*
-*
-*
-*
+<div align="justify">
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+* **Atención al cliente directa:** Consideramos importante responder las preguntas que los usuarios puedan tener de la aplicación, siendo que usaremos chatbots para ello, además de contar con un servicio de llamadas para consultas personalizadas.
 
-**Estrategias**
-*
+* **Valor agregado para los servicios:** La aplicación al tener servicios similares a los de su competencia, tendremos en cuenta ello para modificar y mejorar ciertos aspectos tanto de intuitividad como de procesamiento para facilitar su uso a los usuarios.
 
-**Tácticas**
-*
+* **Mejoras constantes:** Estaremos abiertos a escuchar las sugerencias que puedan mejorar la aplicación y priorizar el desarrollo de los servicios que puedan satisfacer las necesidades del cliente.
 
+* **Interfaz intuitiva:** Ofrecer una construcción de interfaz fácil de entender para nuestros segmentos objetivos, comprendiendo el funcionamiento de la plataforma y acceder a las funciones sin problema.
 
-**Afrontando las debilidades de nuestros competidores:**
-*
-*
-*
-
-**Comprendemos que nuestras debilidades son:**
-*
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-*
-
-**Tácticas**
-*
-*
-*
-
-
-**Afrontando las oportunidades de nuestros competidores:**
-
-*
-*
-*
-  
-**Comprendemos que nuestras oportunidades son:**
-*
-*
-*
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-* Desarrollar la interfaz de la plataforma en base a una experiencia de usuario acogedora y sostenible
-
-**Tácticas**
-*
-*
-*
-
-**Afrontando las amenazas de nuestros competidores:**
-*
-*
-*
-
-**Comprendemos que nuestras amenazas son:**
-* 
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-* 
-
-**Tácticas**
-* 
-* 
+* **Procesos simples:** Simplificar los procesos que ofrecemos con tal que no sea muy complicado de realizar.
+</div>
 
 <div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
-
+<div align="justify">
 La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
+</div>
+
+<div id='2.2.1.'><h4>2.2.1. Diseño de entrevistas</h4></div>
+<div align="justify">
+Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos, además de obtener información relevante para nuestra aplicación:
+</div>
+
+
+**1. Preguntas iniciales:**
+¿Cómo te llamas?
+¿Qué edad tienes?
+¿Dónde vives?
+¿Cuál es tu profesión?
+
+
+**2. Preguntas secundarias:**
+**Segmento objetivo: Transportistas**
+* ¿Qué problemas encuentras con mayor frecuencia en la gestión de tus cargas?
+* ¿Cuáles son las dificultades que atraviesan al aceptar solicitudes de carga?
+* ¿Qué información necesitas saber sobre un cliente para aceptar un trabajo de transporte?
+* ¿Cómo miden y monitorean la satisfacción del cliente durante el proceso de envío cuando el cliente está utilizando su servicio de transporte?
+* ¿Consideras que es importante conocer las condiciones en las que se encuentra la carga antes de realizar un transporte? ¿Por qué?
+* ¿Qué es lo que te gustaría de una plataforma que pueda organizar tus transportes?
+* ¿Cómo asegurar la seguridad de la carga durante el transporte?
+* ¿Qué desafíos enfrenta durante el transporte de carga y cuál es su impacto en la entrega?
+* ¿Qué tan importante es para ti la facilidad de uso de una aplicación?
+* ¿Qué aspectos podrías recomendar?
+* ¿Cómo gestionan la comunicación con los conductores y otros miembros del equipo durante el transporte?
+ 
+**Segmento objetivo: Empresarios**
+* ¿Qué tan difícil te resulta encontrar algún transportista que pueda transportar tu carga?
+* ¿Qué factores se deberían tomar en cuenta para evaluar la confiabilidad de un transportista? 
+* ¿Qué aspectos de seguridad te preocupan al contratar servicios de transporte?
+* ¿Cómo gestionas y verificas actualmente la llegada de tus pedidos al utilizar un servicio de transporte o carga?
+* ¿Cuáles han sido los principales inconvenientes que ha enfrentado en su experiencia como usuario de un servicio de transporte?
+* ¿Considera que el seguimiento de su pedido en tiempo real a través de una aplicación móvil permitirá gestionar el tiempo de llegada y mejorar la transparencia del proceso?
+* ¿Consideraría óptimo que se calcule el peso de la carga antes y después del envío, especialmente para asegurar la transparencia y garantizar que todo llegue en las mismas condiciones en que fue enviado?
+* Según su experiencia como usuario de servicios de transporte, ¿qué funcionalidades le gustaría que incluyera la aplicación?
+* ¿Utilizará alguna aplicación que contenga esta funcionalidad principalmente?
