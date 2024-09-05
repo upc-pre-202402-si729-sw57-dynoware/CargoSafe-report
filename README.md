@@ -217,30 +217,30 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <body>
     <table >
         <tr>
-           <td colspan="6" class="sub"><h1>Competitive Analysis Landscape</h1></td>
-        </tr>
-        <tr>
-            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
-            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
-        </tr>
-        <tr>
-            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo en el que operará nuestro producto. Permite identificar a nuestros competidores y tener en cuenta todo lo que los caracteriza como empresa actualmente. De esa forma, buscar destacar para diferenciarnos de la mejor forma.</td>
-        </tr>
-        <tr>
-            <td rowspan="3" class="sub">PERFIL</td>
-            <td rowspan="2" class="sub">Startup y competidores</td>
-            <td> CargoSafe </td>
+			<td colspan="6">ompetitive Analysis Landscape</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis?</td>
+			<td colspan="4">¿Quiénes son nuestros principales competidores?</td>
+		</tr>
+		<tr>
+			<td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo en el que operará nuestro producto. Permite identificar a nuestros competidores y tener en cuenta todo lo que los caracteriza como empresa actualmente. De esa forma, buscar destacar para diferenciarnos de la mejor forma.</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="2">Startup y competidores</td>
+			<td> CargoSafe </td>
             <td> GoCargo </td>
             <td> Convoy </td>
-            <td> Loadsmart </td> 
-        </tr>
+            <td> Loadsmart </td>
+		</tr>
         <tr>
-            <td></td></td> 
-            <td><img src="assets/chapter_2/gocargo_logo.png"></td></td> 
-            <td><img src="assets/chapter_2/convoy_logo.png"></td></td>  
-            <td><img src="assets/chapter_2/loadsmart_logo.jpeg"><td><td>       
-        </tr>
+			<td></td></td> 
+            <td><img src="assets/chapter_2/gocargo_logo.png"></td> 
+            <td><img src="assets/chapter_2/convoy_logo.png"></td>  
+            <td><img src="assets/chapter_2/loadsmart_logo.jpeg"></td> 
+		</tr>
         <tr>
+            <td rowspan="2">PERFIL</td>
             <td class="sub">Overview</td>
             <td>Plataforma que se encarga del análisis de la carga y seguimiento del proceso de transporte.</td>
             <td>Facilita a los usuarios la gestión del transporte de carga al permitir el fácil alcance de comunicación con generadores de carga interesados en el transporte de su mercancía.</td>
@@ -248,7 +248,6 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             <td>Se encarga de que la transportación sea más eficiente y menos complicada insertando tecnología a su servicio para la automatización de los procesos de transporte.</td>      
         </tr>
         <tr>
-            <td></td>
             <td class="sub">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
             <td>Ofrece una solución centrada principalmente para ofrecer un servicio transparente y seguro, abordando la garantía y seguimiento del proceso de transporte de la carga, considerando el estado en el que llega para la satisfacción del cliente.</td>
             <td>Ofrece una solución efectiva para los transportes de cargas, lo que da un valor significativo a los clientes. Además, cuentan con tecnología, lo que significa que ofrece una experiencia de usuario moderna capaz de optimizar el proceso de selección de transporte y envío de carga.</td>
@@ -511,7 +510,7 @@ Por último, nos contó al respecto de experiencias con otras aplicaciones de tr
 - **Datos del entrevistado**
   **Nombres:** Rubi Jael <br>
   **Apellidos:** Pinta Alves <br>
-  **Edad:** 28 <br>
+  **Edad:** 28 años<br>
   **Profesión:** Comerciante mayorista de prendas <br>
 - **Acerca de la entrevista:**
 
@@ -566,6 +565,107 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix</h4></div>
+
+**Segmento Objetivo: Transportistas**
+
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2" rowspan="2"><b>User Task</b></td>
+			<td colspan="2"><b>Transportistas</b></td>
+		</tr>
+		<tr>
+			<td><b>Frecuencia</b></td>
+			<td><b>Importancia</b></td>
+		</tr>
+		<tr>
+			<td colspan="2">Asegurar la entrega puntual de la mercancía</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Buscar algún proveedor que necesite transporte de carga</td>
+			<td>Siempre</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td colspan="2">Seguimiento del estado y la ubicación de una carga</td>
+			<td>Algunas veces</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td colspan="2">Garantizar la seguridad de la mercancía</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Monitorear y gestionar la eficiencia de los transportistas</td>
+			<td>Algunas veces</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td colspan="2">Facilitar la comunicación con los clientes durante el contrato del servicio</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Realizar un análisis preventivo sobre la mercancía a transportar</td>
+			<td>Siempre</td>
+			<td>Media</td>
+		</tr>
+	</tbody>
+</table>
+
+**Segmento Objetivo: Empresarios**
+
+<table>
+	<tbody>
+		<tr>
+			<td colspan="2" rowspan="2"><b>User Task</b></td>
+			<td colspan="2"><b>Empresarios</b></td>
+		</tr>
+		<tr>
+			<td><b>Frecuencia</b></td>
+			<td><b>Importancia</b></td>
+		</tr>
+		<tr>
+			<td colspan="2">Elegir un transportista adecuado</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Seguimiento del estado y la ubicación de una carga</td>
+			<td>Alguna veces</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Coordinar la entrega de la mercancía</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Comunicación con el transportista ante algún problema que surja</td>
+			<td>Algunas veces</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td colspan="2">Asegurar el cumplimiento de los tiempos de entrega</td>
+			<td>Siempre</td>
+			<td>Alta</td>
+		</tr>
+		<tr>
+			<td colspan="2">Monitorear la calidad del servicio de transporte</td>
+			<td>Siempre</td>
+			<td>Media</td>
+		</tr>
+		<tr>
+			<td colspan="2">Controlar los registros de gastos asociados a una entrega realizada</td>
+			<td>Algunas veces</td>
+			<td>Media</td>
+		</tr>
+	</tbody>
+</table>
+
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping</h4></div>
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
