@@ -196,459 +196,236 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 6. [**Conclusiones.**](#6.)<br>
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
+<div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
-<div id='1.'><h2>Capítulo I: Introducción</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+<div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
-En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+
+**Branding:**
+
+**Brand Overview:**
+
 
 
 **Misión:** 
 
 **Visión:** 
 
-##### Logotipo de la Startup:
-![logotipo_start]()
-##### Logotipo del servicio
-![logotipo_servicio]()
+![logotipo_start]() 
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
-
-||Perfiles de los integrantes del equipo|
-| :--------| :--------: |
-| Mi nombre es **Astrid Jimena Boronda Heidinger**. |<img src="colocar el link de su foto" alt="" width="250px" />
-| Mi nombre es **Ely Rivaldo Cortez Flores**,  .|![](colocar el link de su foto)|
-Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
-Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
-Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
-
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
-
-###### What (Qué)
-###### ¿Cuál es el problema?
-
-
-###### When (Cuando)
-###### ¿Cuándo sucede el problema?
-
-
-###### Where (Dónde)
-###### ¿A dónde se dirige?
-
-
-###### ¿Dónde surge el problema?
-
-
-###### Who (Quién)
-###### ¿Quiénes están involucrados? ¿Quién lo utilizará?
-
-
-###### Why (Por qué)
-###### ¿Cuál es la causa del problema?
-
-
-##### ¿Cuáles son las 2H?
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### ¿Cómo lograremos desarrollar la correcta gestión de cultivos de champiñones dentro de la plataforma?
-
-
-###### How (Cómo)
-###### ¿Cómo se utilizará el producto?
-
-###### How much (Cuánto)
-###### ¿Cuál es la magnitud del problema?
-
-
-###### ¿Qué porcentaje del personal de la industria champiñonera se verá beneficiado por el servicio?
-
-
-<div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
-<div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
-
-###### **Problem Statement:** 
+**Brand Name:**
 
 
 
+![logotipo_servicio]() 
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
-
-###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán** 
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener** 
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
-
-###### **User Assumptions:**
-###### **¿Quién es el usuario?**   
+**Colores:**
 
 
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+
+![PaletaDeColores]()
+
+**Tipografía:**
 
 
-###### **¿Qué características son importantes?**
+
+![FontSize]()
+
+<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
 
 
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+##### Tarjetas:
+
+##### Imágenes:
 
 
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+
+##### Botones:
 
 
-###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+##### Tablas:
+
+##### Pantallas Emergentes:
+
+####     1.3. Mobile Style Guidelines.
+
+##### Tarjetas:
+
+##### Imágenes:
 
 
-###### **Feature Assumptions:**
 
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que** 
-
-**Creemos que**
+##### Botones:
 
 
-<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
+##### Tablas:
 
-* **Hypothesis Statement 01:**
+##### Pantallas Emergentes:
+
+
+<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
+
+
+
+<div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+
+
+
+<div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+
+
+<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
+
+
+
+Las metas etiquetas que usaremos:
+
+**Título:**
+
+
     
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-  
-* **Hypothesis Statement 02:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-* **Hypothesis Statement 03:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-* **Hypothesis Statement 04:**
-    
-    **Creemos que** 
-    
-    **Sabremos** 
-    
-    **Cuando** 
-
-
-<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
-
-El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
-
-![CargoSafe_Lean Canvas](link de la cap del canvas)
-
-Enlace para acceder al [Canvas](link del canvas )
-
-<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
+**Codificación de carácteres:**
 
 
 
-<div id='1.3.1.'><h4> 1.3.1 Stakeholders.</h4></div>
-
-* **Stakelholder Internos:** 
-* **Stakelholder Externos:** 
-
-![Stakeholders Externos](link de evidencia)
-
-<div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
-
-<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
-
-<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
-
-El análisis competitivo es una herramienta esencial debido a su relevancia en la toma de decisiones estratégicas, la identificación de oportunidades y amenazas, y la creación de ventajas competitivas sostenibles en el mercado. Por tales motivos, ayuda a las empresas a mantenerse ágiles y a tomar decisiones informadas en un entorno empresarial de constante cambio. A continuación, se exhibe la incorporación de esta herramienta dentro del desarrollo del proyecto y la examinación de los competidores:
-
-<html>
-<head>
-    <title>Tabla HTML</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            text-align: left;
-            padding: 10px 25px 8px 25px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
-</head>
-<body>
-    <table >
-        <tr>
-           <td colspan="6" class="sub">  <h1>Competitive Analysis Landscape</h1></td>
-        </tr>
-        <tr>
-            <td colspan="2" rowspan="2" class="sub">¿Por qué llevar acabo este análisis?</td>
-            <td colspan="4" class="sub"><h3>¿Quiénes son nuestros principales competidores?</h3></td>
-        </tr>
-        <tr>
-            <td colspan="4">Gracias al análisis de la competencia perteneciente al mercado, se logra comprender el entorno competitivo 
-                en el que operará nuestro producto. Ello proporciona una visión detallada de quienes son nuestros competidores 
-                directos e indirectos, trazar estrategia a través de información recopilada sobre  su posicionamiento actual en el mercado.</td>
-        </tr>
-        <tr>
-            <td rowspan="3" class="sub">PERFIL</td>
-            <td rowspan="2" class="sub">Overview</td>
-            <td> CargoSafe <img src=imagen competidor> </td>
-            <td>competidor1 <img src="imagen competidor"> </td>
-            <td>competidor2 Software<img src="imagen competidor"> </td>
-            <td>competidor3 <img src="imagen competidor"> </td> 
-        </tr>
-        <tr>
-            <td>descrip 1</td>      
-        </tr>
-        <tr>
-            <td class="sub">Ventaja Competitiva ¿Qué valor ofrece a los clientes?</td>
-            <td> respuesta a la pregunta de arriba</td>
-            <td>
-                <ul>
-                    <li>competidor 1</li>
-                    <li></li>
-                    <li></li>
-                    <li>  </li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li>competidor 3</li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>                
-            </td>      
-        </tr>
-        <tr>
-            <td rowspan="2" class="sub">PERFIL DEL MARKETING</td>
-            <td class="sub" >Mercado Objetivo</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li>.</li>
-                </ul>  
-            </td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="sub">Estrategias de Marketing</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="3" class="sub">PERFIL DEL PRODUCTO</td>
-            <td class="sub">Productos & Servicios</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td> <br>
-                </td>
-        </tr>
-        <tr>
-            <td class="sub">Precios & Costos</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td class="sub">Canales de distribución (web/móvil)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>        
-        </tr>
-        <tr>
-            <td rowspan="4" class="sub">ANÁLISIS SWOT</td>
-            <td class="sub">Fortalezas</td>
-            <td>
-               </td>
-            <td> 
-                <ul>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td class="sub">Debilidades</td>
-            <td></td>
-            <td></td>
-            <td>.</td>
-            <td></td>  
-        </tr>
-        <tr>
-            <td class="sub">Oportunidades</td>
-            <td>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </td>
-            <td></td>
-            <td></td>
-            <td></td> 
-        </tr>
-        <tr>
-            <td class="sub">Amenazas</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>          
-        </tr>
-    </table>
-</body>
-</html>
-
-<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
-
-En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas  de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
-
-**Afrontando las fortalezas de nuestros competidores:**
-*
-*
-*
-*
-**Comprendemos que nuestras fortalezas son:**
-*
-*
-*
-*
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-*
-
-**Tácticas**
-*
 
 
-**Afrontando las debilidades de nuestros competidores:**
-*
-*
-*
-
-**Comprendemos que nuestras debilidades son:**
-*
-
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
-
-**Estrategias**
-*
-
-**Tácticas**
-*
-*
-*
+**Descripción:**
 
 
-**Afrontando las oportunidades de nuestros competidores:**
 
-*
-*
-*
-  
-**Comprendemos que nuestras oportunidades son:**
-*
-*
-*
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
+**Palabras clave:**
 
-**Estrategias**
-* Desarrollar la interfaz de la plataforma en base a una experiencia de usuario acogedora y sostenible
 
-**Tácticas**
-*
-*
-*
 
-**Afrontando las amenazas de nuestros competidores:**
-*
-*
-*
+**Autor y Derechos de Autor:**
 
-**Comprendemos que nuestras amenazas son:**
-* 
 
-Entonces, podemos aplicar las siguientes estrategias y tácticas:
 
-**Estrategias**
-* 
+<div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
 
-**Tácticas**
-* 
-* 
 
-<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
 
-La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
+<div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
+
+
+<div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
+
+<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
+
+##### Landing Page para Desktop Web Browser
+
+
+
+![Landing_Page_Wireframe]()
+
+##### Landing Page para Mobile Web Browser
+
+
+
+![Landing_Page_Mobile_Wireframe]()
+
+<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
+
+##### Landing page en español
+###### Landing Page para Desktop Web Browser
+
+
+
+![Landing_Page_ES_Mockup]()
+
+###### Landing Page para Mobile Web Browser
+
+
+
+![Landing_Page_ES_Mockup_Mobile]()
+
+##### Landing page en inglés
+###### Landing Page para Desktop Web Browser
+
+
+![Landing_Page_EN_Mockup]()
+
+##### Landing Page para Mobile Web Browser
+De la misma manera, se presenta la imagen de la landing page para mobile web browser en inglés.
+![Landing_Page_EN_Mockup_Mobile]()
+
+
+<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
+
+<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes.</h4></div>
+
+Enlace para acceder al [Figma]()
+##### Web Application para Desktop Web Browser
+
+
+##### Web Application para Mobile Web Browser
+
+
+<div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
+
+Enlace para acceder al [Figma]()
+
+##### Web Application para Desktop Web Browser
+
+
+
+##### Web Application para Mobile Web Browser
+
+
+<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
+
+Enlace para acceder al [Lucid Chart]()
+
+
+<div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
+
+Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
+
+1. **Claridad y Facilidad:** 
+
+2. **Diseño Responsive:** 
+
+3. **Priorización de Información Relevante:** 
+
+![Web_Applications_Prototyping]()
+
+Enlace para acceder al video de explicación del [Web Applications Prototyping]()
+
+Enlace para acceder al [Flujo]()
+
+<div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
+
+
+<div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram.</h4></div>
+
+![System Context Diagram]()
+
+<div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagram.</h4></div>
+
+El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software CargoSafe.
+
+![System Container Diagram]()
+
+<div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
+
+Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+
+
+<div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
+<div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
+
+![Clase UML]()
+
+<div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
+
+
+<div id='4.8.'><h3> 4.8. Database Design.</h3></div>
+
+Para este proyecto, hemos optado por el motor de base de datos MySQL debido a su escalabilidad y su interfaz intuitiva. Nos resulta familiar gracias al curso de diseño de bases de datos que tomamos, lo cual nos ha dado experiencia con Microsoft SQL Server. La similitud en el uso y la sintaxis entre ambos motores facilita nuestra transición. MySQL nos permite ajustar los recursos de la base de datos del proyecto según las necesidades y requisitos del negocio.
+
+<div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
+
+![Database_Diagram](https://i.postimg.cc/fTtvDXQm/database-diagram.png)
