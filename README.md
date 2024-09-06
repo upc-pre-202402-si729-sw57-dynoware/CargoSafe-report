@@ -294,9 +294,11 @@ Ramas auxiliares:
 El formato de los commits siguen la estructura de “Conventional Commits” en la versión 1.0.0, la cual tiene la siguiente estructura:
 
 ```
-                        <type>[optional scope]: <description>
-                                    [optional body]
-                                [optional footer(s)]
+  <type>[optional scope]: <description>
+  
+  [optional body]
+  
+  [optional footer(s)]
 ``` 
 
 Donde:
@@ -337,7 +339,24 @@ Para el desarrollo de los aceptance test con el lenguaje de Gherkin se eligió e
 
 En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Vercel.
 
-Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear cuenta.
+1. Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear cuenta.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Vercel.png" width=200px >
+</div>
+
+
+2. Al ingresar, seleccionar la opción "Add New Project".
+  
+<div align=center>
+    <img src="./assets/chapter-5/Add-NewProject.png" width=200px >
+</div>
+
+3. 
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-Git-Repository.png" width=200px >
+</div>
 
 <div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
 
@@ -407,3 +426,41 @@ Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear c
       </tr>
 
   </table>
+
+  <div id='5.2.1.2.'><h5> 5.2.1.2.	Sprint Backlog 1.</h5></div>
+
+  En esta sección mostramos las tareas que se realizaron en este sprint.
+
+  Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
+
+  <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
+
+  <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
+
+  <div id='5.2.1.5.'><h5> 5.2.1.5.	Execution Evidence for Sprint Review.</h5></div>
+
+  Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
+
+  Enlace del deploy de la Landing Page mediante Vercel: 
+
+  <div id='5.2.1.6.'><h5> 5.2.1.6.	Services Documentation Evidence for Sprint Review.</h5></div>
+
+  En el alcance del aprint 1 se priorizó el desarrollo de la Landing Page, por lo que no se evidencia empleo de web services.
+
+  <div id='5.2.1.7.'><h5> 5.2.1.7.	Software Deployment Evidence for Sprint Review.</h5></div>
+
+  Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Rivaldo, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
+
+  Hemos utilizado Vercel como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+
+  **Pasos para este Sprint:**
+
+  1. Creación de cuenta en Vercel
+  2. Selección de la opción de
+  3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en 
+
+  <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
+
+  Distribución de aportes en el infotme:
+
+  URL del repositorio para el Project Report en la organización de GitHub del equipo: 
