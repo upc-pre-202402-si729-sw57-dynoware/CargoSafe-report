@@ -418,7 +418,7 @@ Los diagramas de componentes muestra una vista de las relaciones de los componen
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
 
-![Clase UML]()
+![Clase UML](https://i.postimg.cc/KYF7PHkD/Class-diagram.png)
 
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
 
