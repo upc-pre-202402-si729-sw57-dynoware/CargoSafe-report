@@ -399,21 +399,42 @@ Enlace para acceder al [Flujo]()
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
 
+En esta sección utilizaremos el modelo C4 para definir la estructura del software, abarcando aspectos como el contexto, los contenedores, los componentes y la implementación. Este enfoque facilita una comprensión clara de la arquitectura, tanto para los miembros del equipo como para los interesados externos.
+
 
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram.</h4></div>
+Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos 2 usuarios identificados
 
-![System Context Diagram]()
+![System Context Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/context-diagram.png)
+
+Enlace: [ Context Diagram](https://www.structurizr.com/workspace/82957/diagrams#SystemContext-001)
 
 <div id='4.6.2.'><h4> 4.6.2. Software Architecture Container Diagram.</h4></div>
 
 El diagrama de contenedores muestra una vista de alto nivel de las relaciones entre las aplicaciones y fuentes de datos que son parte de la ejecución del sistema de software CargoSafe.
 
-![System Container Diagram]()
+![System Container Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/container-diagram.png)
+
+Enlace: [Container Diagram](https://www.structurizr.com/workspace/82957/diagrams#Container-001)
 
 <div id='4.6.3.'><h4> 4.6.3. Software Architecture Components Diagrams.</h4></div>
 
 Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 
+
+# Bounded context user management
+![System Components Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/boundedContext-LogIn.png)
+Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-002)
+
+
+
+# Bounded context logistics companies
+![System Components Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/logistic-companies.png)
+Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-003)
+
+# Bounded context Ongoing Trip
+![System Components Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/trip-boundedContext.png)
+Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-004)
 
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
