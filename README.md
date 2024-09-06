@@ -360,6 +360,7 @@ De la misma manera, se presenta la imagen de la landing page para mobile web bro
 Enlace para acceder al [Figma]()
 ##### Web Application para Desktop Web Browser
 
+<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 ##### Web Application para Mobile Web Browser
 
@@ -420,6 +421,214 @@ Los diagramas de componentes muestra una vista de las relaciones de los componen
 ![Clase UML]()
 
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
+
+Class Role
+
+| Attribute | Type  | Description                          |
+| --------- | ----- | ------------------------------------ |
+| id        | int   | Unique code for a role               |
+| type      | String| Type of a role                       |
+| instance  | Role  | Singleton instance of `Role`         |
+
+| Method      | Return Type | Description                                 |
+| ----------- | ----------- | ------------------------------------------- |
+| getRole()   | Role        | Returns the singleton instance of Role.  |
+
+
+
+
+
+ Class User
+
+| Attribute | Type   | Description                         |
+| --------- | ------ | ----------------------------------- |
+| id        | int    | Unique identifier for a user        |
+| name      | String | First name of the user              |
+| lastname  | String | Last name of the user               |
+| password  | String | Password for user login             |
+| email     | String | Email address of the user           |
+| phone     | String | Phone number of the user            |
+
+| Method            | Return Type | Description                                 |
+| ----------------- | ----------- | ------------------------------------------- |
+| changePassword()  | void        | Changes the user's password.               |
+| getRole()         | Role        | Returns the role of the user.              |
+
+
+
+
+
+ Class Entrepreneur
+
+| Attribute       | Type        | Description                        |
+| --------------- | ----------- | ---------------------------------- |
+| id              | int         | Unique identifier for entrepreneur |
+| entrepreneur    | User        | Associated user                    |
+| associateCard   | PaymentCard | Associated payment card            |
+
+
+
+
+
+ Class Company
+
+| Attribute      | Type                 | Description                             |
+| -------------- | -------------------- | --------------------------------------- |
+| id             | int                  | Unique identifier for a company         |
+| name           | String               | Name of the company                     |
+| RUC            | String               | Company RUC                             |
+| drivers        | array[Driver]        | List of drivers associated with company |
+| membership     | MembershipType       | Type of company membership              |
+| associateCard  | PaymentCard          | Associated payment card                 |
+| instance       | Company              | Singleton instance of `Company`         |
+
+| Method                  | Return Type | Description                               |
+| ----------------------- | ----------- | ----------------------------------------- |
+| getCompany()            | Company     | Returns the singleton instance of Company. |
+
+
+
+
+
+ Class MembershipTypes
+
+| Attribute | Type   | Description           |
+| --------- | ------ | --------------------- |
+| STANDARD  | Enum   | Standard membership   |
+| PREMIUM   | Enum   | Premium membership    |
+
+
+
+
+
+ Class Driver
+
+| Attribute | Type   | Description                   |
+| --------- | ------ | ----------------------------- |
+| id        | int    | Unique identifier for driver  |
+| name      | String | Name of the driver            |
+| license   | String | Driver's license number       |
+| contact   | String | Contact number of the driver  |
+
+| Method                  | Return Type | Description                        |
+| ----------------------- | ----------- | ---------------------------------- |
+| assignTrip(trip: Trip)  | void        | Assigns a trip to the driver.      |
+
+
+
+
+
+ Class Trip
+
+| Attribute      | Type          | Description                                |
+| -------------- | ------------- | ------------------------------------------ |
+| id             | int           | Unique identifier for the trip            |
+| name           | String        | Name of the trip                           |
+| type           | String        | Type of the trip                           |
+| weight         | double        | Weight for the trip                        |
+| unloadLocation | String        | Location for unloading                     |
+| unloadDate     | Date          | Date for unloading                         |
+| expensesId     | int           | Identifier for expenses                    |
+| alertsId       | int           | Identifier for alerts                      |
+| ongoingTripsId | int           | Identifier for ongoing trips               |
+| vehicleId      | int           | Reference to `Vehicle`                     |
+| driverId       | int           | Reference to `Driver`                      |
+| alert          | AlertObserver | Reference to `AlertObserver`               |
+
+| Method                          | Return Type | Description                            |
+| ------------------------------- | ----------- | -------------------------------------- |
+| addExpenses(expense: Expense)   | void        | Adds an expense to the trip.           |
+| addAlert(alert: Alert)          | void        | Adds an alert to the trip.             |
+| addOrder(order: Order)          | void        | Adds an order to the trip.             |
+| getTrip(id: int)                | Trip        | Returns a trip by its ID.              |
+
+
+
+
+
+ Class Vehicle
+
+| Attribute | Type   | Description                    |
+| --------- | ------ | ------------------------------ |
+| id        | int    | Unique identifier for vehicle  |
+| model     | String | Model of the vehicle           |
+| plate     | String | License plate of the vehicle   |
+| license   | String | License number of the vehicle  |
+| max_load  | double | Maximum load capacity          |
+| volume    | double | Volume capacity of the vehicle |
+
+
+
+
+
+ Class AlertObserver
+
+| Attribute   | Type   | Description                           |
+| ----------- | ------ | ------------------------------------- |
+| id          | int    | Unique identifier for the alert       |
+| description | String | Description of the alert              |
+
+| Method                          | Return Type | Description                                       |
+| ------------------------------- | ----------- | ------------------------------------------------- |
+| setAlertObservation()           | void        | Configures the alert observation for the observer.|
+
+
+
+
+
+ Class OngoingTrip
+
+| Attribute       | Type   | Description                               |
+| --------------- | ------ | ----------------------------------------- |
+| id              | int    | Unique identifier for ongoing trip        |
+| date            | Date   | Date of the trip                          |
+| status          | String | Current status of the trip                |
+| delivery_address| String | Delivery address for the ongoing trip     |
+| total_amount    | double | Total amount for the ongoing trip         |
+
+| Method                          | Return Type | Description                                 |
+| ------------------------------- | ----------- | ------------------------------------------- |
+| getTrip()                       | Trip        | Returns the trip associated with this ongoing trip. |
+| updateStatus(status: String)    | void        | Updates the status of the ongoing trip.     |
+| createOrder(details: OrderDetails)| Order      | Creates a new order based on provided details.|
+
+
+
+
+
+ Class Expense
+
+| Attribute         | Type    | Description                        |
+| ----------------- | ------- | ---------------------------------- |
+| fuel_amount       | double  | Amount spent on fuel               |
+| fuel_description  | String  | Description of the fuel expense    |
+| vatic_amount      | double  | Amount spent on other expenses     |
+| vatic_description | String  | Description of the other expenses  |
+| tolls_amount      | double  | Amount spent on tolls              |
+| tolls_description | String  | Description of the tolls expense   |
+
+| Method                          | Return Type | Description                            |
+| ------------------------------- | ----------- | -------------------------------------- |
+| addExpense(typeExpense: String, amountExpense: double) | void | Adds a specific expense. |
+
+
+
+
+
+ Class PaymentCard
+
+| Attribute      | Type   | Description                             |
+| -------------- | ------ | --------------------------------------- |
+| id             | int    | Unique identifier for the payment card  |
+| card_number    | String | Card number of the payment card         |
+| expiry_date    | String | Expiry date of the payment card         |
+| security_code  | int    | Security code (CVV) of the payment card |
+
+| Method                          | Return Type | Description                                       |
+| ------------------------------- | ----------- | ------------------------------------------------- |
+| pay()                           | void        | Processes a payment using the payment card.       |
+| assignToPayment()               | void        | Associates the payment card with a user |
+
 
 
 <div id='4.8.'><h3> 4.8. Database Design.</h3></div>
