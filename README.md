@@ -330,7 +330,24 @@ El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con 
 10.  **El mayor riesgo del servicio es** la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
 11.  **Lo resolveremos realizando** campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
 
-###### **Feature Assumptions:**
+###### **User Outcomes:**
+
+* **Mayor seguridad en el transporte**
+ Los transportistas y empresarios logran un mayor control sobre la seguridad de la carga, con notificaciones y alertas en tiempo real que les permiten reaccionar ante cualquier incidente o desvío.
+
+* **Optimización de rutas**
+ Los usuarios disfrutan de una planificación de rutas más eficiente, ahorrando tiempo y combustible gracias a las recomendaciones inteligentes basadas en datos de tráfico y condiciones climáticas.
+
+* **Visibilidad completa del estado de la carga**
+ Los usuarios pueden monitorear el estado y la ubicación exacta de su mercancía durante todo el proceso de transporte, lo que les brinda tranquilidad y confianza.
+
+* **Reducción de costos operativos**
+Los transportistas y empresarios experimentan una disminución en los costos asociados con pérdidas, daños o retrasos gracias a un seguimiento más preciso y rutas mejor planificadas.
+
+
+###### **Business Outcomes:**
+
+###### **Features:**
 
 **Creemos que** 
 
