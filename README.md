@@ -299,17 +299,17 @@ Nuestro servicio ofrece una solución integral para enfrentar los desafíos que 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **Business Assumptions:**
-1.  **Creemos que nuestros usuarios necesitan** 
-2.  **Estas necesidades se pueden satisfacer** 
-3.  **Nuestros clientes iniciales serán** 
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** 
-5.  **El cliente también va a obtener** 
-6.  **Vamos a obtener la mayoría de los clientes mediante** 
-7.  **Vamos a obtener ingresos mediante** 
-8.  **Nuestra competencia en el mercado serán** 
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** 
-10.  **El mayor riesgo del servicio es** 
-11.  **Lo resolveremos realizando** 
+1.  **Creemos que nuestros usuarios necesitan** una solución que les permita monitorear el transporte de carga en tiempo real, optimizar las rutas y mejorar la seguridad de la mercancía durante el proceso de envío.
+2.  **Estas necesidades se pueden satisfacer** proporcionando una plataforma que ofrezca herramientas avanzadas de seguimiento, alertas en tiempo real, y una interfaz intuitiva para gestionar eficientemente el transporte de carga.
+3.  **Nuestros clientes iniciales serán** transportistas y empresarios que operan en la industria de la logística y el transporte, buscando optimizar sus procesos y minimizar los riesgos durante el envío.
+4.  **El valor más importante que un cliente quiere de nuestros servicios es** la capacidad de tener visibilidad en tiempo real de su cargamento, permitiendo una reacción rápida ante posibles incidentes y garantizando la seguridad de la mercancía.
+5.  **El cliente también va a obtener** un mayor control sobre la planificación de rutas, lo que mejorará la eficiencia operativa y reducirá los costos asociados con retrasos y desvíos inesperados.
+6.  **Vamos a obtener la mayoría de los clientes mediante** estrategias de marketing digital, como campañas publicitarias en línea, redes sociales, y a través de asociaciones estratégicas en la industria del transporte.
+7.  **Vamos a obtener ingresos mediante** la suscripción a nuestro servicio, ofreciendo diferentes planes según el tamaño de la flota o el nivel de seguimiento y análisis que el cliente necesite.
+8.  **Nuestra competencia en el mercado serán** otras plataformas de monitoreo de transporte y gestión de rutas, así como soluciones logísticas integradas ofrecidas por grandes proveedores.
+9.  **Vamos a tener ventaja frente a nuestra competencia debido a** nuestra interfaz intuitiva, enfoque especializado en transportistas y empresarios, y las capacidades avanzadas de personalización y notificaciones en tiempo real que mejoran la seguridad de la carga.
+10.  **El mayor riesgo del servicio es** la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
+11.  **Lo resolveremos realizando** campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
