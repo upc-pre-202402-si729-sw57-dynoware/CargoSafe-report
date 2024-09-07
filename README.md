@@ -419,16 +419,15 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 - **Datos del entrevistado** <br>
   **Nombres:** Ruben Alcides<br>
   **Apellidos:** Roman Varga <br>
-  **Edad:** 49 <br>
-  **Distrito:** Chosica <br>
+  **Edad:** 49 años <br>
   **Profesión:** Transportista y mayorista <br>
 - **Acerca de la entrevista:**
 
 ![Interview_1](assets/chapter_2/Interview1.png)
 
-**Duración:** <br>
+**Duración:** 4:51 minutos<br>
 **Inicio de de la entrevista:** 01:00 <br>
-**Link:** <br>
+**Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EYs3EV4Xaf1KoFMRKegrgJQBJsRr1I4zWq_1GgTBj6SjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=twMEtL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EYs3EV4Xaf1KoFMRKegrgJQBJsRr1I4zWq_1GgTBj6SjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=twMEtL)<br>
 **Resumen de la entrevista:**
 
 <div align="justify">
@@ -468,7 +467,7 @@ Durante la entrevista, el señor Boronda dijo que existen problemas frecuentes c
 
 ![Interview_3](assets/chapter_2/Interview3.png)
 
-**Duración:** 04:20 <br>
+**Duración:** 04:20 minutos<br>
 **Inicio de de la entrevista:** 00:01 <br>
 **Link:** [https://drive.google.com/file/d/18IPGicIZu4bbr0URBhD8VZdW5XIMbkoM/view](https://drive.google.com/file/d/18IPGicIZu4bbr0URBhD8VZdW5XIMbkoM/view)<br>
 
@@ -487,7 +486,7 @@ En la entrevista, el señor Félix Inga menciona que los problemas más frecuent
 - **Datos del entrevistado** <br>
   **Nombres:** Melany Milagros <br>
   **Apellidos:** Ramos Argüelles <br>
-  **Edad:** 27 <br>
+  **Edad:** 27 años<br>
   **Profesión:** Ingeniera de Software y empresaria independiente <br>
 - **Acerca de la entrevista:**
 
@@ -579,9 +578,13 @@ Martin se dedica a las construcciones de obras, menciona que para él es muy imp
 
 **Segmento Objetivo: Transportistas**
 
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
+
 ![user_transportistas](assets/chapter_2/Marcelo_Dominguez.png)
 
 **Segmento Objetivo: Empresarios**
+
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
 
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
@@ -707,9 +710,13 @@ En esta parte, describimos el recorrido de los user personas al interactuar desd
 
 **User Journey Mapping: Transportista**
 
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETKzfXU8jZtJtF3NlV91BvEByPc9DLx6CNSHTnQPhRrvwQ?e=85v1dF](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETKzfXU8jZtJtF3NlV91BvEByPc9DLx6CNSHTnQPhRrvwQ?e=85v1dF)
+
 ![user_journey_mapping_transportista](assets/chapter_2/user_journey_mapping_transportista.png)
 
 **User Journey Mapping: Empresario**
+
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH)
 
 ![user_journey_mapping_empresario](assets/chapter_2/user_journey_mapping_empresario.png)
 
@@ -721,9 +728,13 @@ Se presentarán los empathy mapping realizados según los user persona, esto per
 
 **User Journey Mapping: Transportista**
 
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EXbEpNNm6bdHg9x-5yPG9kIBEKGzTB6Czk86Uw1B5MyX8g?e=g04Q6d](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EXbEpNNm6bdHg9x-5yPG9kIBEKGzTB6Czk86Uw1B5MyX8g?e=g04Q6d)
+
 ![empathy_mapping_transportista](assets/chapter_2/empathy_mapping_transportista.png)
 
 **User Journey Mapping: Empresario**
+
+Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E)
 
 ![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
 
