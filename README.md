@@ -313,22 +313,22 @@ Nuestro servicio ofrece una solución integral para enfrentar los desafíos que 
 
 ###### **User Assumptions:**
 ###### **¿Quién es el usuario?**   
-
-
-###### **¿Qué problemas tiene nuestro producto? ¿Resolver?**
-
-
-###### **¿Qué características son importantes?**
-
+Nuestro usuario serán los transportistas y empresarios involucrados en la logística y transporte de cargamento.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+Nuestro producto encaja en la vida de los usuarios, ya que facilita la optimización de rutas y el monitoreo en tiempo real de la seguridad de la mercancía y la seguridad del transportista.
 
+###### **¿Qué problemas tiene que resolver nuestro producto?**
+Nuestro producto debe resolver varios problemas, como la falta de visibilidad en tiempo real sobre el estado de la carga, la inseguridad en rutas peligrosas, y la ineficiencia en la planificación de rutas.
 
-###### **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+###### **¿Cuándo y cómo es nuestro producto usado?**
+Nuestro producto es usado antes, durante y después del proceso de transporte de la mercancía. Los transportistas lo usan para planificar rutas seguras y eficientes, mientras que los empresarios lo emplean para monitorear el estado de la carga y recibir notificaciones en tiempo real.
 
+###### **¿Qué características son importantes?**
+Algunas características importantes son el monitoreo en tiempo real de la ubicación de la carga, alertas personalizadas, optimización de rutas basada en datos de tráfico, clima y seguridad e interfaz intuitiva para facilitar su uso tanto en dispositivos móviles como en computadoras.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
+El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con un diseño limpio que permita acceder rápidamente a la información esencial. En dispositivos móviles, debe ser responsive y ofrecer una experiencia fluida.
 
 ###### **Feature Assumptions:**
 
