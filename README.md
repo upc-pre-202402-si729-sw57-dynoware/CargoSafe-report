@@ -701,11 +701,11 @@ Elegir un transportista adecuado, realizar el seguimiento del estado y la ubicac
 
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping</h4></div>
 
-**User Journey Mapping: Transportista**
-
 <div align="justify">
 En esta parte, describimos el recorrido de los user personas al interactuar desde el inicio hasta la finalización de una tarea. Este proceso permite identificar los puntos clave de interacción, las emociones, desafíos y oportunidades de mejora en cada fase de la experiencia del usuario.
-</div>
+</div><br>
+
+**User Journey Mapping: Transportista**
 
 ![user_journey_mapping_transportista](assets/chapter_2/user_journey_mapping_transportista.png)
 
@@ -714,5 +714,18 @@ En esta parte, describimos el recorrido de los user personas al interactuar desd
 ![user_journey_mapping_empresario](assets/chapter_2/user_journey_mapping_empresario.png)
 
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
+
+<div align="justify">
+Se presentarán los empathy mapping realizados según los user persona, esto permtirá las necesidades, pensamientos, sentimientos, motivaciones y deseos dentro de los 2 segmentos objetivos planteados en este proyecto. Nos ayudará a ofrecer una solución más efectiva que este relacionado con lo que el cliente quiere y necesita. 
+</div><br>
+
+**User Journey Mapping: Transportista**
+
+![empathy_mapping_transportista](assets/chapter_2/empathy_mapping_transportista.png)
+
+**User Journey Mapping: Empresario**
+
+![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
+
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
 <div id='2.4.'><h3>2.4. Ubiquitous Language</h3></div>
