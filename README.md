@@ -369,13 +369,21 @@ La empresa logrará una ventaja competitiva frente a otras soluciones logística
 
 ###### **Features:**
 
-**Creemos que** 
+* **Monitoreo en tiempo real de la carga**
 
-**Creemos que** 
+Permite a los usuarios rastrear la ubicación exacta de su cargamento durante todo el trayecto, con actualizaciones en tiempo real sobre su estado y progreso.
 
-**Creemos que** 
+* **Alertas y notificaciones personalizadas**
 
-**Creemos que**
+Los usuarios reciben alertas automáticas sobre desvíos, retrasos, cambios en las condiciones de la ruta, o posibles incidentes de seguridad, adaptadas a sus necesidades específicas.
+
+* **Optimización inteligente de rutas**
+
+La plataforma ofrece recomendaciones de rutas basadas en datos de tráfico, clima y seguridad, ayudando a los transportistas a elegir el camino más eficiente y seguro.
+
+* **Informes y análisis detallados**
+
+Genera informes personalizados que ofrecen datos sobre tiempos de entrega, eficiencia de las rutas, costos operativos, y más, permitiendo a los empresarios tomar decisiones informadas para mejorar sus operaciones logísticas.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
