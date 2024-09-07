@@ -342,7 +342,7 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
 1. Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear cuenta.
 
 <div align=center>
-    <img src="./assets/chapter-5/LogIn-Vercel.png" width=200px >
+    <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
 </div>
 
 
@@ -352,10 +352,24 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
     <img src="./assets/chapter-5/Add-NewProject.png" width=200px >
 </div>
 
-3. 
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
 
 <div align=center>
-    <img src="./assets/chapter-5/Import-Git-Repository.png" width=200px >
+    <img src="./assets/chapter-5/Import-Git-Repository.png" width=400px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-CargoSafe-LandingPage.png" width=400px >
+</div>
+
+4. Por último realizamos las últimas configuraciones y seleccionamos la opción "Deploy".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configure-Project.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy.png" width=350px >
 </div>
 
 <div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
@@ -456,8 +470,30 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
   **Pasos para este Sprint:**
 
   1. Creación de cuenta en Vercel
-  2. Selección de la opción de
-  3. Finalmente, elegimos nuestra rama a desplegar y hacemos click en 
+   
+   <div align=center>
+    <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
+</div>
+
+  2. Nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
+   
+<div align=center>
+    <img src="./assets/chapter-5/Import-Git-Repository.png" width=400px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-CargoSafe-LandingPage.png" width=400px >
+</div>
+
+  3. Finalmente, dentro de las últimas configuraciones elegimos nuestra rama a desplegar y hacemos click en "Deploy".
+   
+<div align=center>
+    <img src="./assets/chapter-5/Configure-Project.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy.png" width=350px >
+</div>
 
   <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
 
