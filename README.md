@@ -428,7 +428,9 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
      </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Goal</td>
-          <td>  texto <td>
+          <td>  En este sprint  se planea implementar la Landing Page con sus respectivas secciones haciendo uso de HTML y CSS.
+          Para realizar la Langing Page se realizó un diseño previo en Figma. Luego de esto, mediante una reunión delequió, decidimos cómo es que cada un iba a contribuir con el desarrollo de esta página. Al finalizar este sprint la Landing Page está desplegada en Vercel y los usuarios podrán acceder a esta a través del link.
+          <td>
       </tr>
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Velocity </td>
