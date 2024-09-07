@@ -294,7 +294,7 @@ La necesidad de mejorar la seguridad y la eficiencia en el proceso de transporte
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
 ###### **Problem Statement:** 
-
+Nuestro servicio ofrece una solución integral para enfrentar los desafíos que tanto transportistas como empresarios encuentran en el transporte de carga, donde la falta de visibilidad y seguridad en tiempo real se ha convertido en un problema crítico. Actualmente, los transportistas deben tomar decisiones clave sobre la elección de rutas sin contar con herramientas que les permitan optimizar la seguridad y la eficiencia del trayecto. Por otro lado, los empresarios enfrentan una constante incertidumbre sobre la integridad de su carga, ya que no disponen de un monitoreo constante que garantice la entrega oportuna y en buen estado de la mercancía. Hemos observado que esta situación genera ineficiencias operativas, incrementa los riesgos de robo, daño o pérdida de la carga, y ocasiona costos adicionales, impactando negativamente a ambos grupos. ¿Cómo podemos mejorar la seguridad, eficiencia y visibilidad en tiempo real durante el proceso de transporte de carga?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
