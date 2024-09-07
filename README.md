@@ -60,7 +60,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |-|-|
 |Ely Cortez|Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.|
 |Fabrizio Quiroz|Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog|
-|Nombre1|Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.|
+|Alexandra Ramos|Software Development Environment Configuration, Source Code Management, Source Code Style Guide & Conventions, Software Deployment Configuration, Landing Page, Services & Applications Implementation, Sprint Planning 1, Sprint Backlog 1, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review|
 |Nombre1|Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones.|
 |Nombre1|General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.|
 
@@ -497,6 +497,6 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
 
   <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
 
-  Distribución de aportes en el infotme:
+  Distribución de aportes en el informe:
 
   URL del repositorio para el Project Report en la organización de GitHub del equipo: 
