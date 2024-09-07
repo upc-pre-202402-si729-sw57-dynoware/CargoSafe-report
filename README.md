@@ -232,21 +232,21 @@ Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brin
 
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
-###### What (Qué)
+##### What (Qué)
 ###### ¿Cuál es el problema?
 El problema percibido es la poca facilidad para gestionar la carga y la falta de seguridad del vehículo de transporte y su cargamento, así como también la ineficiencia en la planificación de rutas y la falta de visibilidad en tiempo real.
 
 ###### ¿Cuál es la relación con la persona en cuestión?
 La relación con la persona en cuestión depende de su rol en el proceso del transporte de carga. Si es un transportista, este puede hacer uso de una ruta recomendada por la plataforma. Si es un empresario, su vínculo está directamente relacionado con la gestión del cargamento.
 
-###### When (Cuando)
+##### When (Cuando)
 ###### ¿Cuándo sucede el problema?
 El problema ocurre en múltiples etapas del proceso de transporte de carga. Puede manifestarse desde el momento en que la mercancía es cargada en el vehículo, durante su trayecto a través de rutas potencialmente riesgosas o mal planificadas, hasta su llegada al destino final. En cada una de estas fases, la falta de visibilidad en tiempo real y la ausencia de medidas de seguridad adecuadas pueden desencadenar problemas como robos, daños, o retrasos significativos que afectan tanto a transportistas como a empresarios.
 
 ###### ¿Cuándo utiliza el cliente el producto?
 El cliente utiliza el producto al planificar una ruta antes de que el transporte comience, durante el trayecto para monitorear en tiempo real la ubicación y el estado de la carga, y después de la entrega para revisar informes y evaluar la eficiencia del transporte. La plataforma es una herramienta esencial en momentos críticos como la llegada a puntos de control o al enfrentar situaciones imprevistas, como desvíos por condiciones climáticas adversas.
 
-###### Where (Dónde)
+##### Where (Dónde)
 ###### ¿Dónde está el cliente cuando usa el producto?
 El cliente puede utilizar el producto desde cualquier ubicación con acceso a un dispositivo conectado a internet, ya sea en una oficina, en casa, en movimiento, o incluso desde el mismo vehículo de transporte. La versatilidad de la plataforma permite mantenerse informado y en control sin importar su ubicación física.
 
@@ -256,7 +256,7 @@ El cliente se dirige a la plataforma en busca de información detallada sobre el
 ###### ¿Dónde surge el problema?
 El problema surge en varios puntos críticos del proceso de transporte de carga, incluyendo áreas de alto riesgo de robo, rutas con infraestructura deficiente, y durante la carga y descarga en puntos de control o destinos finales. Además, puede originarse en situaciones inesperadas como cambios repentinos en el clima, fallos mecánicos en el vehículo, o malentendidos en la coordinación logística entre diferentes partes involucradas en el transporte.
 
-###### Who (Quién)
+##### Who (Quién)
 ###### ¿Quiénes están involucrados? 
 Los involucrados en el proceso son los transportistas, quienes son los responsables directos de llevar la carga desde su punto de origen hasta su destino final, enfrentándose a los desafíos del trayecto, como la planificación de rutas y la seguridad de la carga. Los empresarios, por su parte, son aquellos que confían en que la mercancía llegue en buen estado y a tiempo, además, suelen ser dueños de la carga o encargados de la logística dentro de sus compañías.
 
@@ -266,12 +266,11 @@ El problema les sucede tanto a los transportistas al momento de elegir una ruta,
 ###### ¿Quién lo utilizará?
 El producto será utilizado principalmente por transportistas y empresarios. Los transportistas usarán la plataforma para recibir recomendaciones de rutas optimizadas, realizar seguimientos en tiempo real y recibir alertas ante posibles peligros en el trayecto. Los empresarios utilizarán la plataforma para monitorear el estado de la carga, recibir informes detallados, y coordinar con los transportistas y gestores de logística.
 
-###### Why (Por qué)
+##### Why (Por qué)
 ###### ¿Cuál es la causa del problema?
 El problema se origina por una combinación de factores, incluyendo la falta de herramientas tecnológicas avanzadas para el monitoreo en tiempo real y la gestión eficiente de rutas. Las rutas de transporte a menudo no se optimizan, lo que aumenta los costos y riesgos asociados, como el robo o daño de la carga. Además, la falta de comunicación fluida entre transportistas y empresarios agrava la situación, ya que no hay una visibilidad clara y constante sobre el estado de la mercancía. Esta carencia de recursos adecuados provoca ineficiencias en el proceso de transporte, generando costos adicionales, retrasos y pérdidas tanto económicas como operativas.
 
-##### ¿Cuáles son las 2H?
-###### How (Cómo)
+##### How (Cómo)
 ###### ¿En qué condiciones los clientes usan nuestro producto?
 Los clientes utilizan el producto en condiciones donde es crucial tener control y visibilidad total sobre el transporte de carga. Esto incluye situaciones donde se transportan bienes de alto valor, cargas frágiles, o mercancías sensibles al tiempo.
 
@@ -284,7 +283,7 @@ Los clientes prefieren acceder a través de una web intuitiva y fácil de usar, 
 ###### ¿Qué llevó a la persona a llegar a esta situación?
 La necesidad de mejorar la seguridad y la eficiencia en el proceso de transporte del cargamento es lo que impulsa a los clientes a buscar soluciones como esta plataforma. La experiencia previa con problemas como retrasos en la entrega, pérdida de mercancía, o altos costos operativos debido a rutas ineficientes ha llevado a los clientes a buscar herramientas que les ofrezcan un control y visibilidad más completos, reduciendo riesgos y optimizando los resultados.
 
-###### How much (Cuánto)
+##### How much (Cuánto)
 ###### ¿Cuál es la magnitud del problema?
 
 
