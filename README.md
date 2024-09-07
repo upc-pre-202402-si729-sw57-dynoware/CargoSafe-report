@@ -525,6 +525,27 @@ Por último, nos contó al respecto de experiencias con otras aplicaciones de tr
 Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al interior del país. Ella menciona que su principal preocupación es la seguridad de sus envíos, ya que, en algunas ocasiones, los pedidos no llegan completos o en las condiciones en que fueron enviados. Esto le  genera desconfianza sobre algunas empresas transportistas. Además, agrega que la comunicación prolongada suele realizarse por medios clásicos, lo cual resulta tedioso y provoca pérdida de tiempo al gestionar y controlar el trayecto de los envíos. También señala que algunos transportistas mezclan todos los productos enviados, lo que ocasiona inconvenientes en el manejo adecuado de las prendas.
 </div>
 
+\*Entrevista 3:\*\*
+**Entrevistado:**
+
+- **Datos del entrevistado**
+  **Nombres:** Martin Glicerio <br>
+  **Apellidos:** Quiroz Villanueva <br>
+  **Edad:** 44 años<br>
+  **Profesión:** Empresario de construcción obras <br>
+- **Acerca de la entrevista:**
+
+![Interview_6](assets/chapter_2/Interview6.png)
+
+**Duración:** 4:51 minutos <br>
+**Inicio de de la entrevista:** 0:01 <br>
+**Link:** [https://drive.google.com/file/d/19fzmZ-l5aFzgck_1V5gZJwtUqmaTHwn6/view](https://drive.google.com/file/d/19fzmZ-l5aFzgck_1V5gZJwtUqmaTHwn6/view) <br>
+**Resumen de la entrevista:**
+
+<div align="justify">
+Martin se dedica a las construcciones de obras, menciona que para él es muy importante el transporte de los materiales como los ladrillos para las obras ya que estos suelen llegar rotos o no en la cantidad esperada. Esto le genera estrés y pérdida de tiempo al gestionar las obras.
+</div>
+
 <div id='2.2.3.'><h4>2.2.3. Análisis de entrevistas</h4></div>
 
 **Segmento Objetivo: Transportistas**
@@ -586,7 +607,7 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 		<tr>
 			<td colspan="2">Buscar algún proveedor que necesite transporte de carga</td>
 			<td>Siempre</td>
-			<td>Media</td>
+			<td>Alta</td>
 		</tr>
 		<tr>
 			<td colspan="2">Seguimiento del estado y la ubicación de una carga</td>
@@ -606,15 +627,21 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 		<tr>
 			<td colspan="2">Facilitar la comunicación con los clientes durante el contrato del servicio</td>
 			<td>Siempre</td>
-			<td>Alta</td>
+			<td>Medio</td>
 		</tr>
 		<tr>
 			<td colspan="2">Realizar un análisis preventivo sobre la mercancía a transportar</td>
 			<td>Siempre</td>
-			<td>Media</td>
+			<td>Alta</td>
 		</tr>
 	</tbody>
 </table>
+
+**Tareas destacadas:**
+
+<div align="justify">
+Asegurar la entrega puntual de la mercancía, buscar proveedores de transporte de carga, garantizar la seguridad de la mercancía y realizar un análisis preventivo sobre lo que se va a transportar son tareas críticas, y tienen una implicancia central en el diseño de la plataforma. Estas actividades son fundamentales para los transportistas, ya que impactan directamente en la eficiencia y seguridad de sus servicios. Según el análisis, las tareas de este segmento se centran en la búsqueda y gestión de la mercancía, por lo que es clave centralizar estas funciones en la plataforma. Ofrecer un enfoque integrado y diferente en estas áreas proporcionará un valor superior respecto a otras plataformas.
+</div><br>
 
 **Segmento Objetivo: Empresarios**
 
@@ -635,7 +662,7 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 		</tr>
 		<tr>
 			<td colspan="2">Seguimiento del estado y la ubicación de una carga</td>
-			<td>Alguna veces</td>
+			<td>Siempre</td>
 			<td>Alta</td>
 		</tr>
 		<tr>
@@ -666,7 +693,26 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 	</tbody>
 </table>
 
+**Tareas destacadas:**
+
+<div align="justify">
+Elegir un transportista adecuado, realizar el seguimiento del estado y la ubicación de la carga, coordinar la entrega de la mercancía y asegurar el cumplimiento de los tiempos de entrega son tareas fundamentales para los empresarios. Estas acciones se centran en la selección precisa del transportista y la gestión eficiente de la información clave de la mercancía. Para mejorar la experiencia del usuario, es crucial diseñar una interfaz intuitiva y optimizada que facilite la realización de estas tareas. Esto no solo incrementará la satisfacción de los usuarios, sino que también contribuirá a una mayor retención y a generar recomendaciones del servicio.
+</div>
+
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping</h4></div>
+
+**User Journey Mapping: Transportista**
+
+<div align="justify">
+En esta parte, describimos el recorrido de los user personas al interactuar desde el inicio hasta la finalización de una tarea. Este proceso permite identificar los puntos clave de interacción, las emociones, desafíos y oportunidades de mejora en cada fase de la experiencia del usuario.
+</div>
+
+![user_journey_mapping_transportista](assets/chapter_2/user_journey_mapping_transportista.png)
+
+**User Journey Mapping: Empresario**
+
+![user_journey_mapping_empresario](assets/chapter_2/user_journey_mapping_empresario.png)
+
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
 <div id='2.4.'><h3>2.4. Ubiquitous Language</h3></div>
