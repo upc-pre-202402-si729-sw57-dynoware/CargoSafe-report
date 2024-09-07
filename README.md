@@ -345,35 +345,36 @@ Nuestro servicio ofrece una solución integral para enfrentar los desafíos que 
 
 * **Hypothesis Statement 01:**
     
-    **Creemos que** 
+    **Creemos que** al proporcionar una plataforma que ofrezca herramientas avanzadas para el seguimiento en tiempo real, la gestión eficiente de rutas y la mejora en la seguridad de la carga, podemos reducir significativamente los riesgos y mejorar la eficiencia en el transporte de carga para transportistas y empresarios.
     
-    **Sabremos** 
+    **Sabremos** que lo hemos hecho bien
     
-    **Cuando** 
-  
+    **Cuando** veamos que el porcentaje de diversos inconvenientes baje un 25% en los clientes que usen la plataforma.
+
 * **Hypothesis Statement 02:**
     
-    **Creemos que** 
+    **Creemos que** al implementar notificaciones en tiempo real y alertas personalizadas en nuestra plataforma, los transportistas y empresarios podrán reaccionar de manera más rápida y efectiva a posibles incidentes durante el transporte.
     
-    **Sabremos** 
+    **Sabremos** que lo hemos hecho bien
     
-    **Cuando** 
+    **Cuando**  veamos una reducción en el tiempo de respuesta ante incidentes.
 
 * **Hypothesis Statement 03:**
     
-    **Creemos que** 
+    **Creemos que** al ofrecer una interfaz de usuario intuitiva y fácil de usar, tanto en dispositivos móviles como en computadoras, podemos aumentar la adopción y el uso continuo de nuestra plataforma por parte de transportistas y empresarios.
+
     
-    **Sabremos** 
+    **Sabremos** que lo hemos hecho bien
     
-    **Cuando** 
+    **Cuando** veamos un incremento en la frecuencia de uso de la plataforma, un mayor tiempo de permanencia en la aplicación, y recibamos comentarios positivos sobre la experiencia de usuario por parte de los clientes.
 
 * **Hypothesis Statement 04:**
     
-    **Creemos que** 
+    **Creemos que** al integrar un sistema de recomendaciones automáticas de rutas optimizadas, basado en factores como tráfico y clima, los transportistas podrán reducir los tiempos de entrega y mejorar la eficiencia operativa. 
     
-    **Sabremos** 
+    **Sabremos** que lo hemos hecho bien
     
-    **Cuando** 
+    **Cuando** veamos que los transportistas mencionen el uso de estas recomendaciones y vean una mejora en los tiempos de entrega y una disminución de incidencias en el trayecto.
 
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
