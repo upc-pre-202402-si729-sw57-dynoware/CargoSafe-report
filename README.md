@@ -234,21 +234,21 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 
 El camión simboliza movimiento, eficiencia y confiabilidad, valores clave para nuestra startup de logística y automatización de entregas. Este ícono representa nuestro compromiso de ofrecer soluciones tecnológicas que optimicen el transporte de mercancías, asegurando que cada entrega llegue a su destino de manera rápida y segura. Además, el camión refleja la fortaleza y capacidad de nuestra plataforma para manejar diferentes tipos de carga, desde productos perecederos hasta materiales delicados, siempre adaptándonos a las necesidades de nuestros clientes.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.001.png)
+![wireframe1](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.001.png)
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.002.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.002.png)
 
 **Tipografías:**
 
 Para las tipografías optamos por forum y  DM Sans.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.003.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.003.png)
 
 **Colores:**
 
 Nuestra paleta de colores consta de 4 colores, los cuales son amarillo(#F1F500)un negro (#0E0D0C), un blanco para las letras(#FFFFFF) y un plomo oscuro para los fondos(#393939).
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.004.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.005.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.006.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.007.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.004.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.005.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.006.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.007.png)
 
 
 
@@ -272,23 +272,23 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 
 Con nuestro landing se busco tener un landing page elegante y bonito a la vista, y tiene poco botones en la primera pagina
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.008.png)Se tiene a su vez un section con los tipos de planes que ofrecemos a las empresas de logistica.
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.008.png)Se tiene a su vez un section con los tipos de planes que ofrecemos a las empresas de logistica.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.009.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.009.png)
 
 En la sección de Costumers presentamos un article con las opiniones de algunos de nuestros clientes con los que ya hayamos trabajado.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.010.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.010.png)
 
 Y finalmente se puede ver un article  con información acerca de donde nos encontramos e información de contacto y el footer.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.011.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.011.png)
 
 Importante: la web está diseñada a su vez para ser responsive, con plena compatibilidad con Android y IOS.
 
 
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.012.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.012.png)
 
 
 
@@ -324,7 +324,7 @@ En términos de categorización del contenido, segmentaremos la plataforma en fu
 **
 `	`En la página de inicio, hemos decidido minimizar el uso de íconos en los enlaces, priorizando en su lugar el uso de texto con botones resaltados. Esta elección nos ayuda a mantener un diseño limpio y minimalista en la landing page.
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.013.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.014.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.015.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.013.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.014.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.015.png)
 
 
 
@@ -399,16 +399,16 @@ El Landing Page representa la primera impresión que los visitantes tendrán de 
 
 A continuación diseñamos el cómo sería el wireframe de nuestra landing page usando Figma
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.016.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.016.png)
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.017.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.017.png)
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.018.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.018.png)
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.019.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.019.png)
 
 Version mobile:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.020.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.021.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.020.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.021.png)
 
 **4.3.2. [Landing Page Mock-up.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.2.)**
 
@@ -416,7 +416,7 @@ Version mobile:
 
 [**https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-\(Community\)?node-id=32-107&t=jxGSmKw9luCnRLDL-1)**  
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.022.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.023.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.024.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.022.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.023.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.024.png)
 
 **4.4. [Web Applications UX/UI Design.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.)**
 
@@ -424,7 +424,7 @@ Version mobile:
 
 Registro de empresario o empresa de logística:
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.025.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.025.png)
 
 
 
@@ -437,50 +437,50 @@ Registro de empresario o empresa de logística:
 
 **Dashboard para empresarios:**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.026.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.026.png)
 
 **Dashboard para empresas de logística:**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.027.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.027.png)
 
 **Elegir conductor y ver perfil:**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.028.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.028.png)
 
 **elegir tipo de auto:**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.029.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.029.png)
 
 **Ver mi perfil y chatear con conductor:**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.030.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.030.png)
 **Iniciar sesion y asociar tarjeta:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.031.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.031.png)**
 
 **Agendar paquetes y observar pedidos agendados:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.032.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.032.png)**
 
 **Trackear orden en tiempo real:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.033.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.033.png)**
 
 
 **4.4.2. [Web Applications Wireflow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.2.)**
 
 **user goal:Como usuario quiero poder registrarme,  iniciar sesion y ver el dashboard**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.034.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.034.png)
 
 **User goal: Como usuario quiero poder navegar por el dashboard**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.035.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.035.png)
 
 **User goal: Como empresario quiero poder crear una orden de envío**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.036.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.036.png)
 
 **User goal: Como empresario quiero poder trackear mi orden en tiempo real**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.037.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.037.png)
 
 
 
@@ -489,30 +489,30 @@ Registro de empresario o empresa de logística:
 **4.4.3. [Web Applications Mock-ups.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.3.)**
 
 **user goal:Landing page
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.038.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.039.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.038.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.039.png)**
 
 **user goal:Dashboards
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.041.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.041.png)
 
 **user goal:Información del conductor e información propia**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.042.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.042.png)
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.043.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.043.png)
 
 **user goal:Inicio de sesión , registro y registro de tarjeta:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)**
 
 **user goal:Agendar paquete y ver pedidos agendados:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)**
 
 **user goal:Elegir tipo de auto para pedido:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)**
 
 **user goal: Trackear orden en tiempo real:
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)**
 
 
 **4.4.4. [Web Applications User Flow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.4.)**
@@ -521,12 +521,12 @@ Registro de empresario o empresa de logística:
 
 **User goal: Como empresario quiero poder ver mi orden en tiempo real**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
 
 
 **User goal: Como empresario quiero poder agendar mis pedidos y ver mis pedidos agendados**
 
-![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
 
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
