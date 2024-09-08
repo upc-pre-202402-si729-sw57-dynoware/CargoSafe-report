@@ -823,16 +823,16 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 - Shipment (Envío): La mercancía que necesita ser transportada.
 - Load (carga): Asignación de la mercancía a un transportista en un viaje.
 - Delivery (Entrega): El proceso de transferir la carga desde el origen hasta el destino.
-- Trip (Viaje): El recorrido que realiza el transportista desde el lugar de recogida hasta el destino de entrega, posiblemente con varias paradas o rutas.
+- Trip (Viaje): El recorrido que realiza el transportista desde el lugar del recojo hasta el destino de entrega, posiblemente con varias paradas o rutas.
 - Pick-up Location (Lugar de recogida): El lugar donde el transportista recoge la mercancía.
-- Drop-off Location (Lugar de entrega): El destino final donde se entregan los bienes al destinatario.
-- Reserve (Reservar envío): El proceso que sigue el remitente para crear una solicitud de envío, especificando detalles como los lugares de recogida y entrega, tipo de carga y plazo de entrega.
-- Assign Transporter (Asignar transportista): La acción que toma el remitente para seleccionar a un transportista o carrier específico para manejar un envío.
-- Dispatch (Despacho): El proceso de enviar a un transportista al lugar de recogida para recoger un envío.
-- Payment (Pago): El flujo de fondos del remitente al transportista, generalmente después de que se completa una entrega.
+- Drop-off Location (Lugar de entrega): El destino final donde se entregan la mercancía al destinatario.
+- Reserve (Reservar envío): El proceso que sigue el remitente para crear una solicitud de envío, especificando detalles como el lugar donde se recoge la carga y donde se entrega, tipo de carga y plazo de entrega.
+- Assign Transporter (Asignar transportista): La acción que toma el empresario para seleccionar a un transportista específico para manejar un envío.
+- Dispatch (Despacho): El proceso de enviar a un transportista al lugar para recoger un envío.
+- Payment (Pago): El pago del remitente al transportista, generalmente después de que se completa una entrega.
 
 * Cargo Volume (Volumen de carga): La cantidad de espacio que ocupa el envío, generalmente medida en metros cúbicos.
-* Vehicle (Vehículo): El camión, furgoneta u otro medio de transporte utilizado por el transportista para llevar la carga.
+* Vehicle (Vehículo): El camión u otro medio de transporte utilizado por el transportista para llevar la carga.
 * Cargo Type (Tipo de carga): La clasificación de los bienes que se están transportando, como carga perecibles, materiales peligrosos o artículos frágiles.
 * Dashboard (Panel de control): La interfaz central donde tanto remitentes como transportistas pueden ver los envíos activos, rastrear la carga y gestionar sus tareas.
 * Update Delivery Status (Actualizar estado de entrega): La capacidad para que los transportistas marquen un envío como "En tránsito", "Retrasado" o "Entregado".
