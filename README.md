@@ -474,7 +474,7 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 
   <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
 
-Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la herramienta de Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. El enlace adjuntado acontinuación se podrá observar el repositorio con las pruebas de aceptación, donde se puede encontrar de manera detallada los escenarios de preuba y su implementación:
+Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la herramienta de Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. El enlace adjuntado acontinuación se podrá observar el repositorio con las pruebas de aceptación, donde se puede encontrar de manera detallada los escenarios de prueba y su implementación:
 
 [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
 
@@ -746,37 +746,65 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
   <div id='5.2.1.7.'><h5> 5.2.1.7.	Software Deployment Evidence for Sprint Review.</h5></div>
 
-  Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Rivaldo, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
+  Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Cortez, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
 
   Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
 
   **Pasos para este Sprint:**
 
-  1. Creación de cuenta en Netlify
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/), iniciar sesión o crear cuenta.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
+</div>
+
+
+2. Al ingresar, hacer click en el botón de "Add new site".
+  
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
    
-   <div align=center>
-    <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
 </div>
 
-  1. Nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
-   
-<div align=center>
-    <img src="./assets/chapter-5/Import-Git-Repository.png" width=400px >
-</div>
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
 
 <div align=center>
-    <img src="./assets/chapter-5/Import-CargoSafe-LandingPage.png" width=400px >
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
 </div>
 
-  3. Finalmente, dentro de las últimas configuraciones elegimos nuestra rama a desplegar y hacemos click en "Deploy".
-   
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
 <div align=center>
-    <img src="./assets/chapter-5/Configure-Project.png" width=350px >
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
 </div>
 
 <div align=center>
-    <img src="./assets/chapter-5/Deploy.png" width=350px >
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
 </div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
+</div>
+
+Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 
   <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
 
