@@ -197,7 +197,35 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 7. [**Bibliografía.**](#7.)<br>
 8. [**Anexos.**](#8.)<br>
 
+<div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 
+<div id='3.1.'><h3> To-Be Scenario Mapping.</h3></div>
+
+**To-Be Scenario Mapping :** Transportista
+
+**Enlace:** [https://miro.com/app/board/uXjVKh67JNU=/?share_link_id=689560199513](https://miro.com/app/board/uXjVKh67JNU=/?share_link_id=689560199513)
+
+**Brainstorm individually:**
+
+![Brainstorm_transportista](assets/chapter-3/Brainstorm_individually_transportista.jpg)
+
+**Identify phases:**
+
+![Identify__transportista](assets/chapter-3/Identify_phases_transportista.jpg)
+
+**To-Be Scenario Mapping :** Empresario
+
+**Enlace:** [https://miro.com/app/board/uXjVKh67JNU=/?share_link_id=689560199513](https://miro.com/app/board/uXjVKh67JNU=/?share_link_id=689560199513)
+
+**Brainstorm individually:**
+
+![Brainstorm_empresario](assets/chapter-3/Brainstorm_individually_empresario.jpg)
+
+**Identify phases:**
+
+![Identify_empresario](assets/chapter-3/Identify_phases_empresario.jpg)
+
+<div id='3.1.'><h3> User Stories</h3></div>
 
 | Epic/User Story ID | Título | Descripción | Criterios de aceptación | Relacionado con (Epic ID) |
 |--------------------|--------|-------------|-------------------------|---------------------------|
@@ -229,8 +257,3 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 | E4-US03 | Recuperación de Contraseña | **Como** usuario registrado **Quiero** poder recuperar mi contraseña en caso de olvidarla **Para** poder acceder nuevamente a mi cuenta | **Dado** que olvidé mi contraseña, **cuando** accedo a la opción de "Recuperar Contraseña", **entonces** debería recibir un correo electrónico con instrucciones para restablecer mi contraseña. | EP4 |
 | E4-US04 | Cerrar Sesión | **Como** usuario registrado **Quiero** poder cerrar sesión en cualquier momento **Para** asegurar la privacidad y seguridad de mi cuenta | **Dado** que estoy utilizando la plataforma, **cuando** selecciono la opción de "Cerrar Sesión", **entonces** debería ser redirigido a la página de inicio de sesión. | EP4 |
 | E4-US05 | Autenticación de Transportistas | **Como** transportista **Quiero** completar un proceso de verificación de identidad **Para** asegurar la confianza y seguridad en la plataforma | **Dado** que soy un transportista nuevo, **cuando** completo el registro, **entonces** debería recibir instrucciones para enviar mis documentos de identificación y completar la verificación. | EP4 |
-
-
-<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
-
-La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base a entrevistas.
