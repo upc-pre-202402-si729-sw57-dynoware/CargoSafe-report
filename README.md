@@ -499,6 +499,80 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
 
   <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
 
-  Distribución de aportes en el informe:
+El equipo desarrolló la Landing Page por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
-  URL del repositorio para el Project Report en la organización de GitHub del equipo: 
+Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que contamos con las ramas **develop** y **feature** según la funcionalidad. 
+
+A continuación, se presentrán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th>Boronda Heidinger, Astrid Jimena</th>
+   <th> Texto </th>
+ </tr>
+  <tr> 
+   <th>Cortez Flores, Ely Rivaldo</th>
+   <th>Texto</th>
+ </tr>
+  <tr> 
+   <th>Ramos Argüelles, Alexandra Belen</th>
+   <th>  Texto </th>
+ </tr>
+  <tr> 
+   <th>Silva Morales, Renzo Cesar</th>
+   <th>  Texto </th>
+ </tr> 
+ <tr> 
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+   <th> Texto </th>
+ </tr>
+ </table>
+
+ Hemos desarrollado en conjunto un total de N commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
+
+ Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+ <table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> AstridBH  </th>
+   <th>Boronda Heidinger, Astrid Jimena</th>
+ </tr>
+  <tr> 
+  <th> rivacortez </th>
+   <th>Cortez Flores, Ely Rivaldo</th>
+ </tr>
+  <tr> 
+   <th> AleRamosA </th>
+   <th>Ramos Argüelles, Alexandra Belen</th>
+
+ </tr>
+  <tr> 
+   <th> rrenzosilva </th>
+   <th>Silva Morales, Renzo Cesar</th>
+ </tr> 
+   <tr> 
+   <th> Relycloud </th>
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+ </tr> 
+</table>
+
+En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
+
+
+
+**Flujo de trabajo entre ramas:**
+
+**Commits en el período de un mes**
+
+**Flujo de trabajo en el período de un mes**
+
