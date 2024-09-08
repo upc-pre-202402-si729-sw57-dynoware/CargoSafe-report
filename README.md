@@ -202,7 +202,7 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 <div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+<div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
 
 DynoWare es una startup liderada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), orientada al desarrollo de software y soluciones tecnológicas dirigidas a los transportistas y empresarios que buscan la llegada a salvo y en buen estado de sus productos. Mediante nuestra plataforma CargoSafe buscamos brindar herramientas para el seguimiento, la gestión y optimización de rutas y la gestión de productos. 
 
@@ -217,7 +217,7 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 ##### Logotipo del servicio
 ![logotipo_servicio]()
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo</h4></div>
 
 ||Perfiles de los integrantes del equipo|
 | :--------| :--------: |
@@ -227,10 +227,10 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 | Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
 | Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
 
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brindar herramientas innovadoras para el seguimiento, la gestión y la optimización de rutas. La plataforma fue diseñada para mejorar la eficiencia logística y garantizar la seguridad de la carga en todo momento.
 
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 
 ##### What (Qué)
 ###### ¿Cuál es el problema?
@@ -447,5 +447,24 @@ El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado 
 
 Enlace para acceder al [Canvas](link del canvas )
 
-<div id='1.3.'><h3> 1.3. Segmento objetivo.</h3></div>
+<div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
 
+En el marco de nuestra propuesta innovadora, hemos identificado segmentos clave que se relacionan con el dominio del problema.
+
+* **Transportistas**
+  * Sexo: Masculino y Femenino
+  * Edad: Mayores de 25 años
+  * Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
+  * Nivel socioeconómico:
+    * A: Transportistas con varios vehículos en su propiedad. Suelen tener ingresos altos y operan en mercados más lucrativos.
+    * B: Transportistas autónomos o pequeños propietarios-operadores. Tienen ingresos medios-altos, pero con estabilidad laboral.
+    * C: Transportistas que trabajan para terceros, con ingresos medios o medios-bajos. Pueden no tener propiedad sobre los vehículos que manejan y su acceso a recursos financieros es más limitado.
+
+* **Empresarios**
+  * Sexo: Masculino y Femenino
+  * Edad: Mayores de 20 años
+  * Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
+  * Nivel socioeconómico:
+    * A: Grandes empresarios o dueños de empresas establecidas con altos ingresos. Tienen acceso a capital considerable, redes de influencia y recursos financieros avanzados.
+    * B: Empresarios medianos con ingresos medios-altos. Tienen acceso a financiamiento y recursos, pero en menor escala que los grandes empresarios.
+    * C: Pequeños empresarios con ingresos medios, dueños de negocios locales o familiares. Su acceso a recursos y capital es más limitado, y suelen operar en mercados más reducidos.
