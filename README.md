@@ -245,9 +245,9 @@ Las tareas están ubicadas en cada lista indicando el integrante encargado de re
 * Para las pruebas funcionales del software de la Landing page y de la aplicación web, se han utilizado las herramientas de desarrollo de los siguientes navegadores web: Google Chrome ( [https://www.google.com/chrome/](https://www.google.com/chrome/) ) , Microsoft Edge ( [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) ) y Mozilla Firefox ( [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/) ). 
   
   **Software Deployment**
-* Vercel: [https://vercel.com/](https://vercel.com/)
+* Netlify: [https://www.netlify.com/](https://www.netlify.com/)
 
-    Para implementar el despliegue utilizamos Vercel que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Vercel maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+    Para implementar el despliegue utilizamos En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
 
 **Software Documentation**
 * GitHub: [https://github.com/](https://github.com/)
@@ -337,40 +337,61 @@ Para el desarrollo de los aceptance test con el lenguaje de Gherkin se eligió e
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
-En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Vercel.
+En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify.
 
-1. Ingresar a [https://vercel.com/](https://vercel.com/), iniciar sesión o crear cuenta.
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/), iniciar sesión o crear cuenta.
 
 <div align=center>
-    <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
 </div>
 
 
-2. Al ingresar, seleccionar la opción "Add New Project".
+2. Al ingresar, hacer click en el botón de "Add new site".
   
 <div align=center>
-    <img src="./assets/chapter-5/Add-NewProject.png" width=200px >
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
 </div>
 
-3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
 
 <div align=center>
-    <img src="./assets/chapter-5/Import-Git-Repository.png" width=400px >
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+   
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
+</div>
+
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
 </div>
 
 <div align=center>
-    <img src="./assets/chapter-5/Import-CargoSafe-LandingPage.png" width=400px >
-</div>
-
-4. Por último realizamos las últimas configuraciones y seleccionamos la opción "Deploy".
-
-<div align=center>
-    <img src="./assets/chapter-5/Configure-Project.png" width=350px >
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
 </div>
 
 <div align=center>
-    <img src="./assets/chapter-5/Deploy.png" width=350px >
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
 </div>
+
+Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 
 <div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
 
@@ -429,7 +450,7 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
        <tr>
           <td style="font-weight: bold;"> Sprint 1 Goal</td>
           <td>  En este sprint  se planea implementar la Landing Page con sus respectivas secciones haciendo uso de HTML y CSS.
-          Para realizar la Langing Page se realizó un diseño previo en Figma. Luego de esto, mediante una reunión delequió, decidimos cómo es que cada un iba a contribuir con el desarrollo de esta página. Al finalizar este sprint la Landing Page está desplegada en Vercel y los usuarios podrán acceder a esta a través del link.
+          Para realizar la Langing Page se realizó un diseño previo en Figma. Luego de esto, mediante una reunión delequió, decidimos cómo es que cada un iba a contribuir con el desarrollo de esta página. Al finalizar este sprint la Landing Page está desplegada en Netlify y los usuarios podrán acceder a esta a través del link.
           <td>
       </tr>
        <tr>
@@ -717,7 +738,7 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
   Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
 
-  Enlace del deploy de la Landing Page mediante Vercel: 
+  Enlace del deploy de la Landing Page mediante Netlify: 
 
   <div id='5.2.1.6.'><h5> 5.2.1.6.	Services Documentation Evidence for Sprint Review.</h5></div>
 
@@ -727,11 +748,11 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
   Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Rivaldo, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
 
-  Hemos utilizado Vercel como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+  Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
 
   **Pasos para este Sprint:**
 
-  1. Creación de cuenta en Vercel
+  1. Creación de cuenta en Netlify
    
    <div align=center>
     <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
