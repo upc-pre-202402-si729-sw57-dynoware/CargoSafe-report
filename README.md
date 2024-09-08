@@ -257,3 +257,10 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 | E4-US03 | Recuperación de Contraseña | **Como** usuario registrado **Quiero** poder recuperar mi contraseña en caso de olvidarla **Para** poder acceder nuevamente a mi cuenta | **Dado** que olvidé mi contraseña, **cuando** accedo a la opción de "Recuperar Contraseña", **entonces** debería recibir un correo electrónico con instrucciones para restablecer mi contraseña. | EP4 |
 | E4-US04 | Cerrar Sesión | **Como** usuario registrado **Quiero** poder cerrar sesión en cualquier momento **Para** asegurar la privacidad y seguridad de mi cuenta | **Dado** que estoy utilizando la plataforma, **cuando** selecciono la opción de "Cerrar Sesión", **entonces** debería ser redirigido a la página de inicio de sesión. | EP4 |
 | E4-US05 | Autenticación de Transportistas | **Como** transportista **Quiero** completar un proceso de verificación de identidad **Para** asegurar la confianza y seguridad en la plataforma | **Dado** que soy un transportista nuevo, **cuando** completo el registro, **entonces** debería recibir instrucciones para enviar mis documentos de identificación y completar la verificación. | EP4 |
+
+<div id='4.3.'><h3> 3.3. Impact Mapping </h3></div>
+
+**Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV)
+<div align=center>
+    <img src="./assets/chapter-3/Impact-Mapping-Carrier.png" width=350px >
+</div>
