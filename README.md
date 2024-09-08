@@ -293,31 +293,49 @@ La necesidad de mejorar la seguridad y la eficiencia en el proceso de transporte
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
 
-###### **Problem Statement:** 
+###### **Problem Statement:**
+
 Nuestro servicio ofrece una solución integral para enfrentar los desafíos que tanto transportistas como empresarios encuentran en el transporte de carga, donde la falta de visibilidad y seguridad en tiempo real se ha convertido en un problema crítico. Actualmente, los transportistas deben tomar decisiones clave sobre la elección de rutas sin contar con herramientas que les permitan optimizar la seguridad y la eficiencia del trayecto. Por otro lado, los empresarios enfrentan una constante incertidumbre sobre la integridad de su carga, ya que no disponen de un monitoreo constante que garantice la entrega oportuna y en buen estado de la mercancía. Hemos observado que esta situación genera ineficiencias operativas, incrementa los riesgos de robo, daño o pérdida de la carga, y ocasiona costos adicionales, impactando negativamente a ambos grupos. ¿Cómo podemos mejorar la seguridad, eficiencia y visibilidad en tiempo real durante el proceso de transporte de carga?
+
+###### **Aspectos:**
+
+* **Domain:** Gestión y monitoreo de transporte de carga.
+* **Customer Segments:** Transportistas que realizan el traslado de carga y empresarios que necesitan monitorear sus envíos y optimizar sus procesos logísticos.
+* **Pain Points:** Los transportistas enfrentan dificultades para planificar rutas eficientes y seguras, lo que genera retrasos y riesgos para la mercancía. Los empresarios carecen de visibilidad en tiempo real sobre el estado de la carga, lo que crea incertidumbre y reduce su capacidad para reaccionar ante problemas inesperados, afectando la seguridad y la eficiencia del proceso.
+* **Gap:** Existe una brecha entre la necesidad de visibilidad y control del proceso de transporte por parte de los empresarios, y la capacidad de los transportistas para ofrecer un seguimiento y gestión eficiente de las rutas y de la seguridad de la carga.
+* **Visión/Strategy:** Desarrollar una plataforma integral que permita a transportistas y empresarios monitorear en tiempo real el estado de la carga, optimizar rutas de transporte y recibir notificaciones instantáneas sobre posibles incidentes, mejorando la seguridad y eficiencia de todo el proceso.
+* **Initial Segment:** Enfocarnos en crear herramientas que proporcionen monitoreo en tiempo real y alertas personalizadas, facilitando la toma de decisiones rápidas y reduciendo riesgos operativos para transportistas y empresarios, con el objetivo de mejorar la visibilidad y seguridad en el transporte de carga.
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
 ###### **User Assumptions:**
-###### **¿Quién es el usuario?**   
+
+###### **¿Quién es el usuario?**
+
 Nuestro usuario serán los transportistas y empresarios involucrados en la logística y transporte de cargamento.
 
 ###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
 Nuestro producto encaja en la vida de los usuarios, ya que facilita la optimización de rutas y el monitoreo en tiempo real de la seguridad de la mercancía y la seguridad del transportista.
 
 ###### **¿Qué problemas tiene que resolver nuestro producto?**
+
 Nuestro producto debe resolver varios problemas, como la falta de visibilidad en tiempo real sobre el estado de la carga, la inseguridad en rutas peligrosas, y la ineficiencia en la planificación de rutas.
 
 ###### **¿Cuándo y cómo es nuestro producto usado?**
+
 Nuestro producto es usado antes, durante y después del proceso de transporte de la mercancía. Los transportistas lo usan para planificar rutas seguras y eficientes, mientras que los empresarios lo emplean para monitorear el estado de la carga y recibir notificaciones en tiempo real.
 
 ###### **¿Qué características son importantes?**
+
 Algunas características importantes son el monitoreo en tiempo real de la ubicación de la carga, alertas personalizadas, optimización de rutas basada en datos de tráfico, clima y seguridad e interfaz intuitiva para facilitar su uso tanto en dispositivos móviles como en computadoras.
 
 ###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
 El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con un diseño limpio que permita acceder rápidamente a la información esencial. En dispositivos móviles, debe ser responsive y ofrecer una experiencia fluida.
 
 ###### **Business Assumptions:**
+
 1.  **Creemos que nuestros usuarios necesitan** una solución que les permita monitorear el transporte de carga en tiempo real, optimizar las rutas y mejorar la seguridad de la mercancía durante el proceso de envío.
 2.  **Estas necesidades se pueden satisfacer** proporcionando una plataforma que ofrezca herramientas avanzadas de seguimiento, alertas en tiempo real, y una interfaz intuitiva para gestionar eficientemente el transporte de carga.
 3.  **Nuestros clientes iniciales serán** transportistas y empresarios que operan en la industria de la logística y el transporte, buscando optimizar sus procesos y minimizar los riesgos durante el envío.
@@ -348,7 +366,6 @@ El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con 
 
 Los transportistas y empresarios experimentan una disminución en los costos asociados con pérdidas, daños o retrasos gracias a un seguimiento más preciso y rutas mejor planificadas.
 
-
 ###### **Business Outcomes:**
 
 * **Aumento en la retención de clientes**
@@ -363,7 +380,7 @@ Los transportistas y empresarios experimentan una disminución en los costos aso
 
  Los modelos de suscripción y los planes diferenciados basados en el uso de la plataforma proporcionarán fuentes de ingresos estables y escalables.
 
-* **Posicionamiento competitivo** 
+* **Posicionamiento competitivo**
 
 La empresa logrará una ventaja competitiva frente a otras soluciones logísticas, destacándose por su facilidad de uso, capacidades avanzadas de monitoreo y personalización para diferentes necesidades empresariales.
 
