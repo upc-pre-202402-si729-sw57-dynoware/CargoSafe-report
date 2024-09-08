@@ -219,13 +219,13 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo</h4></div>
 
-||Perfiles de los integrantes del equipo|
+|Descripción de los integrantes del equipo|Foto de los integrantes del equipo|
 | :--------| :--------: |
-| Mi nombre es **Astrid Jimena Boronda Heidinger**. |<img src="colocar el link de su foto" alt="" width="250px" />
-| Mi nombre es **Ely Rivaldo Cortez Flores**,  .|![](colocar el link de su foto)|
-| Mi nombre es **Alexandra Belen Ramos Argüelles** .|![](colocar el link de su foto)|
-| Mi nombre es **Renzo Cesar Silva Morales**, .|![]()|
-| Mi nombre es **Fabrizio Javier Quiroz Zambrano**, .|![](colocar el link de su foto)|
+| Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, HTML, CSS y Python. |![Integrante_Astrid](assets/chapter-1/Integrante_Astrid.png)
+| Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.|![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)|
+| Mi nombre es Alexandra Belen Ramos Argüelles, soy estudiante de la carrera de Ingeniería de software y actualmente me encuentro cursando el 6to ciclo. Me considero una persona empática, responsable y perseverante. Me adapto muy bien a los trabajos en equipo. Poseo habilidades en programación en lenguajes como C++, C#, Python y Java. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue.|![Integrante_Alexandra](assets/chapter-1/Integrante_Alexandra.png)|
+| Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.|![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)|
+| Mi nombre es Fabrizio Javier Quiroz Zambrano, Me encanta todo lo que tenga que ver con la tecnología y el mundo competitivo de los videojuegos, siempre trato de ser el mejor en lo que hago.|![Integrante_Fabrizio](assets/chapter-1/Integrante_Fabrizio.png)|
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brindar herramientas innovadoras para el seguimiento, la gestión y la optimización de rutas. La plataforma fue diseñada para mejorar la eficiencia logística y garantizar la seguridad de la carga en todo momento.
