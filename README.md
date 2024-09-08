@@ -686,16 +686,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong>  </strong> </th>
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
-
-    
-   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
-    <th> <strong> main </strong> </th>
-    <th> <strong> 979723b1330260d79ec1021ef747dd7da3b5e853 </strong> </th>
-    <th> <strong> chore: add AT07.feature file </strong> </th>
-    <th> <strong>  </strong> </th>
-    <th> <strong> 08/09/2024 </strong> </th>
- <tr>
-
    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
@@ -738,7 +728,109 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
   Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
 
-  Enlace del deploy de la Landing Page mediante Netlify: 
+  Enlace del deploy de la Landing Page mediante Netlify: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+
+  **Hero en versión desktop**
+
+  <div align=center>
+    <img src="./assets/chapter-5/Hero.png" width=350px >
+</div>
+
+**Hero en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Hero-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Services en versión desktop**
+
+<div align=center>
+    <img src="./assets/chapter-5/Services.png" width=350px >
+</div>
+
+**Sección Our Services en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Services-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Our Services en versión desktop**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Services.png" width=350px >
+</div>
+
+**Sección Our Services en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Services-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Pricing en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Choose-Your-Plan.png" width=350px >
+</div>
+
+**Sección Pricing en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Choose-Your-Plan-Mobile.jpeg" width=350px >
+</div>
+
+**Sección de AboutUs en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Try-The-App-Now.png" width=350px >
+</div>
+
+**Sección de AboutUs en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Try-The-App-Now-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Strenght en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Strength.png" width=350px >
+</div>
+
+**Sección Strenght en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Strenght- Mobile.jpeg" width=350px >
+</div>
+
+**Sección Testimonials en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/What-Our-Clients-Say.png" width=350px >
+</div>
+
+**Sección Testimonials en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/What-Our-Clients-Say-Mobile.jpeg" width=350px >
+</div>
+
+**Footer en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Footer.png" width=350px >
+</div>
+
+**Footer en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Footer-Mobile.jpeg" width=350px >
+</div>
+
 
   <div id='5.2.1.6.'><h5> 5.2.1.6.	Services Documentation Evidence for Sprint Review.</h5></div>
 
