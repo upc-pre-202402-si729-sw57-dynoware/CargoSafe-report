@@ -658,4 +658,5 @@ Para este proyecto, hemos optado por el motor de base de datos MySQL debido a su
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
 
-![Database_Diagram](https://i.postimg.cc/fTtvDXQm/database-diagram.png)
+![Database_Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/database-diagram.png)
+Enlace: [Database Diagram ](https://my.vertabelo.com/doc/UYn0eZPW4r3Ek5FEKjolgdmPOZZJI0yY)
