@@ -741,7 +741,7 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
 
 **As-is scenario Mapping :** Transportista <br>
-**Enlace:** <br>
+**Enlace:** [https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838](https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838)<br>
 **Brainstorm:**
 
 ![Brainstorm_transportista](assets/chapter_2/Brainstorm_transportista.png)
@@ -767,7 +767,7 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 - ¿Cómo puedo evitar retrasos con el tiempo durante el camino?
 
 **As-is scenario Mapping :** Empresario <br>
-**Enlace:** <br>
+**Enlace:** [https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838](https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838) <br>
 **Brainstorm:**
 
 ![Brainstorm_empresario](assets/chapter_2/Brainstorm_empresario.png)
