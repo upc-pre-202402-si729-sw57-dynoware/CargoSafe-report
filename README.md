@@ -561,7 +561,24 @@ Martin se dedica a las construcciones de obras, menciona que para él es muy imp
 - Consideran importante el uso del GPS para un mejor monitoreo del viaje.
 - Consideran el uso de aplicaciones que ayuden en su transporte, pero no los usan por completo por sentir que son complicados de usar.
 
+**Análisis por medio de herramientas estadísticas:**
+
+![Grafico1](assets/chapter_2/Grafico1.png)
+
+![Grafico2](assets/chapter_2/Grafico2.png)
+
+![Grafico3](assets/chapter_2/Grafico3.png)
+
+![Grafico4](assets/chapter_2/Grafico4.png)
+
 **Segmento Objetivo: Empresarios**
+
+![Grafico5](assets/chapter_2/Grafico5.png)
+
+![Grafico6](assets/chapter_2/Grafico6.png)
+
+![Grafico7](assets/chapter_2/Grafico7.png)
+
 **Características del segmento:**
 
 - Personas de 25 a 50 años tanto mujeres como hombres
@@ -573,8 +590,14 @@ Martin se dedica a las construcciones de obras, menciona que para él es muy imp
 - Creen importante brindar información detallada y relevante del remitente para un mejor conocimiento
 - Estarían dispuestos a usar una aplicación que facilite el servicio de transporte de carga porque servirá mucho para la comunicación y su propia tranquilidad.
 
+**Análisis por medio de herramientas estadísticas:**
+
 <div id='2.3.'><h3>2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4>2.3.1. User Personas</h4></div>
+
+<div align="justify">
+Se trata de una representación ficticia de un usuario, basada en datos reales de comportamientos observados. Estas representaciones incluyen detalles como edad, ocupación, intereses, frustraciones y habilidades, lo que ayuda a orientar la toma de decisiones y a crear productos más efectivos, enfocados en las necesidades reales del usuario. La herramienta que se utilizó fue Uxpresia para mostrar toda esta información.
+</div>
 
 **Segmento Objetivo: Transportistas**
 
@@ -589,6 +612,8 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix</h4></div>
+
+Los user task matrix permiten analizar el comportamiento del usuario a través de la lista de tareas que completan. A partir de ello, se clasificar por orden de importancia, determinando las tareas más y menos importantes.
 
 **Segmento Objetivo: Transportistas**
 
