@@ -264,3 +264,34 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 <div align=center>
     <img src="./assets/chapter-3/Impact-Mapping-Carrier.png" width=350px >
 </div>
+
+
+<div id='4.4.'><h3> 3.4. Product Backlog </h3></div>
+
+| #   | User Story ID | Titulo                                        | Descripción                                                                                              | Story Points |
+|-----|---------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------|
+| 1   | US-001        | Barra de Navegación en la Landing Page        | Como usuario visitante, quiero ver una barra de navegación en la landing page para acceder rápidamente a diferentes secciones de la página. | 3            |
+| 2   | US-002        | Información sobre los Beneficios del Servicio | Como visitante del sitio web, quiero informarme sobre los beneficios del servicio ofrecido.             | 5            |
+| 3   | US-003        | Conocer los Testimonios de los Clientes Pasados| Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del servicio. | 4            |
+| 4   | US-004        | Informarse sobre los Diferentes Planes de Precio del Producto | Como visitante, quiero conocer los diferentes planes de precio disponibles para el producto ofrecido. | 4            |
+| 5   | US-005        | Contactar con la Empresa                       | Como visitante, quiero poder contactarme fácilmente con la empresa desde la página de inicio.            | 3            |
+| 6   | US-006        | Idioma Internacionalizado                      | Como visitante, quiero poder cambiar el idioma de la landing page para entender mejor el contenido.      | 5            |
+| 7   | US-007        | Secciones Sobre el Producto y el Equipo        | Como visitante, quiero ver secciones sobre el producto y el equipo para conocer más sobre la empresa y sus servicios. | 6            |
+| 8   | US-008        | Seguimiento de Carga                           | Como transportista, quiero rastrear el estado y la ubicación de una carga para informar a los clientes sobre el progreso del envío. | 8            |
+| 9   | US-009        | Seguridad de la Carga                          | Como transportista, quiero asegurar la seguridad de la carga para prevenir daños o pérdidas durante el transporte. | 7            |
+| 10  | US-010        | Análisis Preventivo                            | Como transportista, quiero realizar un análisis preventivo sobre los bienes a transportar para anticipar posibles riesgos y tomar medidas proactivas. | 6            |
+| 11  | US-011        | Registro de Rutas                              | Como transportista, quiero registrar mis rutas habituales para optimizar la asignación de futuros envíos. | 5            |
+| 12  | US-012        | Gestión de Vehículos                           | Como transportista, quiero gestionar la información de mis vehículos para mantener sus detalles y estado actualizados. | 6            |
+| 13  | US-013        | Recepción de Órdenes de Transporte             | Como empresario, quiero recibir órdenes de transporte de manera clara y organizada para gestionar eficientemente los envíos entrantes. | 5            |
+| 14  | US-014        | Confirmación de Recepción de Bienes            | Como empresario, quiero confirmar la recepción de los bienes al final de la entrega para asegurarme de que todo ha llegado en buen estado y como se esperaba. | 4            |
+| 15  | US-015        | Realizar Solicitudes de Transporte             | Como empresario, quiero realizar órdenes de transporte para enviar mercancías de manera eficiente.       | 5            |
+| 16  | US-016        | Elegir Transportista                           | Como empresario, quiero poder elegir transportistas para mis envíos para optimizar el costo y el tiempo de entrega. | 6            |
+| 17  | US-017        | Seguimiento de Envíos                          | Como empresario, quiero rastrear mis envíos en tiempo real para estar informado sobre su progreso.      | 7            |
+| 18  | US-018        | Visualización de Gastos Durante el Viaje       | Como empresario, quiero ver un desglose de los gastos incurridos durante el viaje para mantener un control financiero claro. | 5            |
+| 19  | US-019        | Alertas para Eventos Importantes Durante la Entrega | Como empresario, quiero recibir alertas para eventos relevantes durante la entrega para estar al tanto de cualquier cambio o problema. | 6            |
+| 20  | US-020        | Registro de Cuenta                             | Como nuevo usuario, quiero poder registrarme en la plataforma para comenzar a utilizar sus servicios.     | 5            |
+| 21  | US-021        | Inicio de Sesión                               | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mis servicios personalizados. | 4            |
+| 22  | US-022        | Recuperación de Contraseña                     | Como usuario registrado, quiero poder recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta. | 6            |
+| 23  | US-023        | Cierre de Sesión                               | Como usuario registrado, quiero poder cerrar sesión en cualquier momento para asegurar la privacidad y seguridad de mi cuenta. | 3            |
+| 24  | US-024        | Autenticación del Transportista                | Como transportista, quiero completar un proceso de verificación de identidad para garantizar confianza y seguridad en la plataforma. | 7            |
+
