@@ -204,18 +204,18 @@ En esta sección se presenta la descripción del startup y los perfiles de los m
 
 <div id='1.1.1.'><h4> 1.1.1. Descripción de la Startup.</h4></div>
 
-DynoWare es una startup liderada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), orientada al desarrollo de software y soluciones tecnológicas dirigidas a los transportistas y empresarios que buscan la llegada a salvo y en buen estado de sus productos. Mediante nuestra plataforma CargoSafe buscamos brindar herramientas para el seguimiento, la gestión y optimización de rutas y la gestión de productos. 
+DynoWare es una startup liderada por un grupo de estudiantes de la Facultad de Ingeniería de la Universidad Peruana de Ciencias Aplicadas (UPC), orientada al desarrollo de software y soluciones tecnológicas dirigidas a los transportistas y empresarios que buscan la llegada a salvo y en buen estado de sus productos. Mediante nuestra plataforma CargoSafe buscamos brindar herramientas para el seguimiento, la gestión y optimización de rutas y la gestión de productos.
 
-**Misión:** 
+**Misión:**
 Nuestra misión es garantizar la integridad de los productos, mediante el uso de las herramientas brindadas por nuestra plataforma.
 
-**Visión:** 
+**Visión:**
 Nuestra visión es convertirnos en referentes globales en la industria de la logística y control del transporte de carga, revolucionando el sector con herramientas que transforman la manera en que se supervisa la carga.
 
-##### Logotipo de la Startup:
-![logotipo_start]()
-##### Logotipo del servicio
-![logotipo_servicio]()
+##### Logotipo del Startup:
+![logotipo_startup](assets/chapter-1/LogotipoStartup.jpg)
+##### Logotipo del producto:
+![logotipo_producto](assets/chapter-1/LogotipoProducto.jpeg)
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo</h4></div>
 
