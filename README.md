@@ -812,7 +812,7 @@ El equipo desarrolló la Landing Page por ramas con la finalidad de desarrollar 
 
 Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que contamos con las ramas **develop** y **feature** según la funcionalidad. 
 
-A continuación, se presentrán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
 
 <table>
   <tr> 
@@ -822,27 +822,27 @@ A continuación, se presentrán las tareas asignadas a cada integrante del equip
 
   <tr> 
    <th>Boronda Heidinger, Astrid Jimena</th>
-   <th> Texto </th>
+   <th> Implementación de la navbar tanto en la versión desktop como en la versión móvil, también se encargó de arreglar algunas partes del código.</th>
  </tr>
   <tr> 
    <th>Cortez Flores, Ely Rivaldo</th>
-   <th>Texto</th>
+   <th>Implementación de la sección hero y sección home tanto en la versión desktop como en la versión móvil. Además, se encargó de desplegar la Landing Page.</th>
  </tr>
   <tr> 
    <th>Ramos Argüelles, Alexandra Belen</th>
-   <th>  Texto </th>
+   <th>  Implementación de la sección de service y pricing tanto en la versión desktop como en la versión móvil.</th>
  </tr>
   <tr> 
    <th>Silva Morales, Renzo Cesar</th>
-   <th>  Texto </th>
+   <th>  Implementación de la sección home, strenght y testimonials tanto en la versión desktop como en la versión móvil. </th>
  </tr> 
  <tr> 
    <th>Quiroz Zambrano, Fabrizio Javier</th>
-   <th> Texto </th>
+   <th> Implementación de la sección contact y footer tanto en la versión desktop como en la versión móvil. </th>
  </tr>
  </table>
 
- Hemos desarrollado en conjunto un total de N commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
+ Hemos desarrollado en conjunto un total de 17 commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
 
  Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
 
@@ -877,11 +877,24 @@ A continuación, se presentrán las tareas asignadas a cada integrante del equip
 
 En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
 
-
+<div align=center>
+    <img src="./assets/chapter-5/Network-Graph.png" width=600px >
+</div>
 
 **Flujo de trabajo entre ramas:**
 
+<div align=center>
+    <img src="./assets/chapter-5/Contributions.png" width=600px >
+</div>
+
 **Commits en el período de un mes**
+
+<div align=center>
+    <img src="./assets/chapter-5/Commits-over-time.png" width=600px >
+</div>
 
 **Flujo de trabajo en el período de un mes**
 
+<div align=center>
+    <img src="./assets/chapter-5/Contributors.png" width=600px >
+</div>
