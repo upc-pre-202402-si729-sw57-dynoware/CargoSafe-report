@@ -472,6 +472,179 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 
   <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
 
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 1, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
+
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> d0c44ab560b9f6649f2947aaa16d48875eea7fe2 </th>
+   <th> chore: initialized project structure </th>
+   <th> </th>
+   <th> 31/08/2024 </th>
+  </tr>
+
+   <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> f056aa70107a26538b77c0eabbe1d8c45136af3e </th>
+   <th> feat: Add meta tags, preload images, and update font links in HTML head </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+   <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 029386b4b97b67e6b27d1da70e5581a3f0ddd411 </th>
+   <th> feat: add header </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 7f4e4246ac2adb75b7dc115ccddf0aeaf446492f </th>
+   <th> fix: changed name (index.html) </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> b84d0688f20d4a0027d238c506339faebef10e1e </th>
+   <th> feat: add hero section with slider and navigation buttons to main content
+ </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> f01dac881886d5082ac6d4949b5e24f8e580a772 </th>
+   <th> feat: add CargoSafe characteristics section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 1510d09efe573a8aada10ff330489ef75dcbd33c </th>
+   <th> feat: add service section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 8989ae8dd4c0a5f4f1af490ec272c19187b1b97a </th>
+   <th> feat: add pricing section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 81f50955f04bb4d8c7ce2d310626307aa0faedad </th>
+   <th> feat: add home section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 3e4cd123df0e97e943955b273548f999ad508089 </th>
+   <th> feat: add strenght </th>
+   <th> </th>
+   <th> 08/09/2024</th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> b3613015542c83982d4ed8a830394472581d8b5e </th>
+   <th> feat: add testimonials </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 4d209fe4cdc01d73ee0fc156f2afa6f4583fead4 </th>
+   <th> feat: add contact-section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 14d8f12902fa32f55c21e373f82060d273388217 </th>
+   <th> feat: add footer-section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> cb00d818c0923a5d517dd15b86491956c6f17cde </th>
+   <th> fix: image from second section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 0292ee0df4f9dd077f434242e3c394ddab1dff4a </th>
+   <th> fix: delete image form services </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 0eb927c8bdd5941f01460d34e91c7c75565d624f  </th>
+   <th> fix: renamed file </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 60222a7c7a6dbfdf1cc4278cbe221b4f4360eb4a  </th>
+   <th> feat: add responsive functionality with navbar, preloader, and hero slider </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+  
+  </table>
+
   <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
 
 Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la herramienta de Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. El enlace adjuntado acontinuación se podrá observar el repositorio con las pruebas de aceptación, donde se puede encontrar de manera detallada los escenarios de prueba y su implementación:
