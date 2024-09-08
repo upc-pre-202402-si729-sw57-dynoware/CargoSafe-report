@@ -201,37 +201,28 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
 <div id='4.1.1.'><h4> 4.1.1. General Style Guidelines.</h4></div>
 
-
-
 **Branding:**
+El camión simboliza movimiento, eficiencia y confiabilidad, valores clave para nuestra startup de logística y automatización de entregas. Este ícono representa nuestro compromiso de ofrecer soluciones tecnológicas que optimicen el transporte de mercancías, asegurando que cada entrega llegue a su destino de manera rápida y segura. Además, el camión refleja la fortaleza y capacidad de nuestra plataforma para manejar diferentes tipos de carga, desde productos perecederos hasta materiales delicados, siempre adaptándonos a las necesidades de nuestros clientes.
 
-**Brand Overview:**
+![logotipo_start]()
 
+**Tipografías:**
+Para las tipografías optamos por forum y DM Sans.
 
-
-**Misión:** 
-
-**Visión:** 
-
-![logotipo_start]() 
-
-**Brand Name:**
-
-
-
-![logotipo_servicio]() 
+![logotipo_servicio]()
 
 **Colores:**
+Nuestra paleta de colores consta de 4 colores, los cuales son amarillo(#F1F500)un negro (#0E0D0C), un blanco para las letras(#FFFFFF) y un plomo oscuro para los fondos(#393939).
 
+**Margin:**
+Se optó por hacer uso de margin de elementos pequeños: verticalmente: 13px, horizontalmente 32px y para elementos grandes: verticalmente: 16px, horizontalmente 48px.
 
+**Responsive y breakpoints:**
+Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros optamos por definir los siguiente breakpoints, mimos que los podrias etiquetar como:
 
-![PaletaDeColores]()
-
-**Tipografía:**
-
-
-
-![FontSize]()
+- sm: pantallas menores a 1120px.
+- lg: pantallas menores a 1420px.
+- xl: pantallas menores a 2460px.
 
 <div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
 
