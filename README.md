@@ -212,10 +212,13 @@ Nuestra misión es garantizar la integridad de los productos, mediante el uso de
 **Visión:**
 Nuestra visión es convertirnos en referentes globales en la industria de la logística y control del transporte de carga, revolucionando el sector con herramientas que transforman la manera en que se supervisa la carga.
 
-##### Logotipo del Startup:
-![logotipo_startup](assets/chapter-1/LogotipoStartup.jpg)
-##### Logotipo del producto:
-![logotipo_producto](assets/chapter-1/LogotipoProducto.jpeg)
+##### Logotipo de la Startup
+
+<img src="assets/chapter-1/LogotipoStartup.jpg" alt="logotipo_startup" width="250" height="250">
+
+##### Logotipo del producto
+
+<img src="assets/chapter-1/LogotipoProducto.jpeg" alt="logotipo_producto" width="250" height="250">
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo</h4></div>
 
