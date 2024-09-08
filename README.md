@@ -441,11 +441,11 @@ Genera informes personalizados que ofrecen datos sobre tiempos de entrega, efici
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
-El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo a través de la herramienta digital **Mural**:
+El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado en el usuario (UX) y la metodología Lean para crear y desarrollar productos de manera más eficiente y efectiva. Su objetivo es proporcionar un marco estructurado para la colaboración entre equipos multidisciplinarios. A continuación se presenta el Lean UX Canvas trabajado por el equipo:
 
-![CargoSafe_Lean Canvas](link de la cap del canvas)
+![CargoSafe_LeanUXCanvas](assets/chapter-1/LeanUXCanvas.png)
 
-Enlace para acceder al [Canvas](link del canvas )
+Enlace para acceder al [Lean UX Canvas](https://www.figma.com/board/bcEMECjgTvGn4oTfRc3KKR/Lean-UX-Canvas-(v2)?node-id=0-1&t=oqP4fklfl8Z4KYhT-1)
 
 <div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
 
