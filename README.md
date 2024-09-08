@@ -453,6 +453,12 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
 
   <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
 
+Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la herramienta de Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. El enlace adjuntado acontinuación se podrá observar el repositorio con las pruebas de aceptación, donde se puede encontrar de manera detallada los escenarios de preuba y su implementación:
+
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
+
+
+
   <div id='5.2.1.5.'><h5> 5.2.1.5.	Execution Evidence for Sprint Review.</h5></div>
 
   Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
@@ -477,7 +483,7 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
     <img src="./assets/chapter-5/LogIn-Vercel.png" width=350px >
 </div>
 
-  2. Nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
+  1. Nos dirgimos a la sección de "Import Git Repository" e importamos el repositorio.
    
 <div align=center>
     <img src="./assets/chapter-5/Import-Git-Repository.png" width=400px >
