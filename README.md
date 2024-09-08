@@ -217,7 +217,7 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
 <body>
     <table >
         <tr>
-			<td colspan="6">ompetitive Analysis Landscape</td>
+			<td colspan="6">Competitive Analysis Landscape</td>
 		</tr>
 		<tr>
 			<td colspan="2" rowspan="2">¿Por qué llevar acabo este análisis?</td>
@@ -234,7 +234,7 @@ El análisis competitivo es una herramienta esencial debido a su relevancia en l
             <td> Loadsmart </td>
 		</tr>
         <tr>
-			<td></td></td> 
+			<td><img src="assets/chapter_2/CargoSafe_logo.jpeg"></td>
             <td><img src="assets/chapter_2/gocargo_logo.png"></td> 
             <td><img src="assets/chapter_2/convoy_logo.png"></td>  
             <td><img src="assets/chapter_2/loadsmart_logo.jpeg"></td> 
@@ -739,4 +739,56 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 ![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
 
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
+
+**As-is scenario Mapping :** Transportista
+**Enlace:**
+**Brainstorm:**
+
+![Brainstorm_transportista](assets/chapter_2/Brainstorm_transportista.png)
+
+**Identify the highs and lows:**
+
+![Identity_highs_lows_transportista](assets/chapter_2/highs_lows_transportista.png)
+
+**Positive Areas:**
+
+- Utilizar plataformas de anuncios de contactos para encontrar cargas disponibles.
+- Mantener contacto con el empresario para informar el progreso.
+- Revisar los documentos de entrega y los firma para confirmar la recepción.
+
+**Negative Areas**
+
+- Preocupación por la seguridad de la mercancía en ruta.
+- Frustración si hay demoras en la descarga o problemas con la mercancía.
+
+**Blank Areas**
+
+- Evaluar y compara diferentes ofertas existentes.
+- ¿Cómo puedo evitar retrasos con el tiempo durante el camino?
+
+**As-is scenario Mapping :** Empresario
+**Enlace:**
+**Brainstorm:**
+
+![Brainstorm_empresario](assets/chapter_2/Brainstorm_empresario.png)
+
+**Identify the highs and lows:**
+
+![Identity_highs_lows_transportista](assets/chapter_2/highs_lows_empresario.png)
+
+**Positive Areas:**
+
+- Consulta plataformas o agencias para encontrar el transporte adecuado.
+- Monitorea el progreso del envío.
+- Recibe informes del transportista sobre cualquier incidencia durante el transporte.
+
+**Negative Areas**
+
+- Preocupación por la posible reacción de sus clientes si hay retrasos.
+- Estrés si hay algún daño o retraso en la entrega.
+
+**Blank Areas**
+
+- ¿Debería negociar mejores términos o buscar a otro proveedor?
+
 <div id='2.4.'><h3>2.4. Ubiquitous Language</h3></div>
