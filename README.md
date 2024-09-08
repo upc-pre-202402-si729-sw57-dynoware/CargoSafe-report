@@ -224,152 +224,309 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 - lg: pantallas menores a 1420px.
 - xl: pantallas menores a 2460px.
 
-<div id='4.1.2.'><h4> 4.1.2. Web Style Guidelines.</h4></div>
 
 
-##### Tarjetas:
+**4.1. [Style Guidelines.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.1.)**
 
-##### Imágenes:
+**4.1.1. [General Style Guidelines.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.1.1.)**
 
+**Branding:** 
 
+El camión simboliza movimiento, eficiencia y confiabilidad, valores clave para nuestra startup de logística y automatización de entregas. Este ícono representa nuestro compromiso de ofrecer soluciones tecnológicas que optimicen el transporte de mercancías, asegurando que cada entrega llegue a su destino de manera rápida y segura. Además, el camión refleja la fortaleza y capacidad de nuestra plataforma para manejar diferentes tipos de carga, desde productos perecederos hasta materiales delicados, siempre adaptándonos a las necesidades de nuestros clientes.
 
-##### Botones:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.001.png)
 
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.002.png)
 
-##### Tablas:
+**Tipografías:**
 
-##### Pantallas Emergentes:
+Para las tipografías optamos por forum y  DM Sans.
 
-####     1.3. Mobile Style Guidelines.
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.003.png)
 
-##### Tarjetas:
+**Colores:**
 
-##### Imágenes:
+Nuestra paleta de colores consta de 4 colores, los cuales son amarillo(#F1F500)un negro (#0E0D0C), un blanco para las letras(#FFFFFF) y un plomo oscuro para los fondos(#393939).
 
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.004.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.005.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.006.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.007.png)
 
 
-##### Botones:
 
 
-##### Tablas:
+**Margin:**
 
-##### Pantallas Emergentes:
+Se optó por hacer uso de margin de elementos pequeños: verticalmente: 13px, horizontalmente 32px y para elementos grandes: verticalmente: 16px, horizontalmente 48px.
 
+**Responsive y breakpoints:**
 
-<div id='4.2.'><h3> 4.2. Information Architecture.</h3></div>
+Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros optamos por definir los siguiente breakpoints, mimos que los podrias etiquetar como:
 
+- sm: pantallas menores a 1120px.
+- lg: pantallas menores a 1420px.
+- xl: pantallas menores a 2460px.
 
+**4.1.2. [Web Style Guidelines.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.1.2.)**
 
-<div id='4.2.1.'><h4> 4.2.1. Organization Systems.</h4></div>
+**Enlace del figma: <https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=85-2738&t=jxGSmKw9luCnRLDL-1>** 
 
 
+Con nuestro landing se busco tener un landing page elegante y bonito a la vista, y tiene poco botones en la primera pagina
 
-<div id='4.2.2.'><h4> 4.2.2. Labeling Systems.</h4></div>
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.008.png)Se tiene a su vez un section con los tipos de planes que ofrecemos a las empresas de logistica.
 
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.009.png)
 
-<div id='4.2.3.'><h4> 4.2.3. SEO Tags and Meta Tags.</h4></div>
+En la sección de Costumers presentamos un article con las opiniones de algunos de nuestros clientes con los que ya hayamos trabajado.
 
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.010.png)
 
+Y finalmente se puede ver un article  con información acerca de donde nos encontramos e información de contacto y el footer.
 
-Las metas etiquetas que usaremos:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.011.png)
 
-**Título:**
+Importante: la web está diseñada a su vez para ser responsive, con plena compatibilidad con Android y IOS.
 
 
-    
-**Codificación de carácteres:**
 
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.012.png)
 
 
 
 
-**Descripción:**
 
 
 
-**Palabras clave:**
 
 
 
-**Autor y Derechos de Autor:**
 
 
 
-<div id='4.2.4.'><h4> 4.2.4. Searching Systems.</h4></div>
 
 
 
-<div id='4.2.5.'><h4> 4.2.5. Navigation Systems.</h4></div>
 
 
-<div id='4.3.'><h4> 4.3. Landing Page UI Design.</h4></div>
 
-<div id='4.3.1.'><h5> 4.3.1. Landing Page Wireframe.</h5></div>
 
-##### Landing Page para Desktop Web Browser
 
+**4.2. [Information Architecture.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.)**
 
+**4.2.1. [Organization Systems.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.1.)**
 
-![Landing_Page_Wireframe]()
+En cuanto a la organización visual del contenido de nuestra plataforma, utilizaremos el principio de **jerarquía visual** para estructurar la información. Los títulos más importantes se mostrarán con un tamaño de fuente de **56px** para destacar su relevancia, mientras que las secciones secundarias usarán fuentes más pequeñas. Esto ayudará a los usuarios a identificar rápidamente las partes clave de la plataforma.
 
-##### Landing Page para Mobile Web Browser
+Para mostrar las características de nuestros productos y servicios, emplearemos una organización matricial, lo que permitirá una presentación clara y ordenada, facilitando la navegación para los usuarios.
 
+En términos de categorización del contenido, segmentaremos la plataforma en función de los diferentes tipos de usuarios que atendemos: **empresarios** y **empresas de logistica**. Cada grupo tendrá secciones dedicadas con funciones personalizadas para atender sus necesidades particulares. Adicionalmente, se utilizará una **categorización cronológica** para mostrar registros de viajes y entregas recientes, permitiendo a los usuarios visualizar primero los datos más actualizados.
 
+**4.2.2. [Labeling Systems.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.2.)**
+**
+`	`En la página de inicio, hemos decidido minimizar el uso de íconos en los enlaces, priorizando en su lugar el uso de texto con botones resaltados. Esta elección nos ayuda a mantener un diseño limpio y minimalista en la landing page.
 
-![Landing_Page_Mobile_Wireframe]()
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.013.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.014.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.015.png)
 
-<div id='4.3.2.'><h5> 4.3.2. Landing Page Mock-up.</h5></div>
 
-##### Landing page en español
-###### Landing Page para Desktop Web Browser
 
+**4.2.3. [SEO Tags and Meta Tags**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.3.)**
 
+`	`**Landing Page:** 
 
-![Landing_Page_ES_Mockup]()
+<meta charset="UTF-8"> 
 
-###### Landing Page para Mobile Web Browser
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta name="logistics" content="index, follow">
 
+` `<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon" /> 
 
-![Landing_Page_ES_Mockup_Mobile]()
+<title>MyLogistics</title> 
 
-##### Landing page en inglés
-###### Landing Page para Desktop Web Browser
+<meta name="keywords" content="logistics, shipments, cargo, delivery, tracking, software, transportation services">
 
+` `<meta name="description" content="Efficient logistics solutions for seamless shipment tracking and delivery. Join hundreds of businesses who trust our platform.">
 
-![Landing_Page_EN_Mockup]()
+**Web Application:** 
 
-##### Landing Page para Mobile Web Browser
-De la misma manera, se presenta la imagen de la landing page para mobile web browser en inglés.
-![Landing_Page_EN_Mockup_Mobile]()
+<meta charset="UTF-8"> 
 
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<div id='4.4.'><h3> 4.4. Web Applications UX/UI Design.</h3></div>
+` `<meta name="viewport" content="width=device-width, initial-scale=1.0"> <meta name="logistics app" content="index, follow">
 
-<div id='4.4.1.'><h4> 4.4.1. Web Applications Wireframes.</h4></div>
+` `<link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon"/>
 
-Enlace para acceder al [Figma]()
-##### Web Application para Desktop Web Browser
+` `<title>MyLogistics Web App</title> 
 
-<div id='4.4.2.'><h4> 4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+<meta name="keywords" content="MyLogistics, log in, sign up, track shipments, logistics software, delivery"> 
 
-##### Web Application para Mobile Web Browser
+<meta name="description" content="Log in to MyLogistics. Manage and track your shipments in real-time with our intuitive platform."> 
 
+**4.2.4. [Searching Systems.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.4.)**
+**
+`	`En lo que respecta a los sistemas de búsqueda en nuestra plataforma, implementaremos un sistema de tracking en tiempo real que permitirá a los usuarios seguir el estado de sus pedidos y entregas de manera dinámica y precisa. Los usuarios podrán buscar y visualizar la ubicación y progreso de sus envíos en tiempo real, a través de un mapa interactivo, mostrando el estado actual del pedido, como "En tránsito", "En camino a la entrega", o "Entregado".
 
-<div id='4.4.3.'><h4> 4.4.3.  Web Applications Mock-ups.</h4></div>
+Además, se integrarán filtros por estado del pedido que permitirán a los usuarios segmentar sus envíos según el progreso del mismo:
 
-Enlace para acceder al [Figma]()
+- Clientes podrán filtrar sus pedidos según su estado actual, como "Pendiente", "En tránsito", o "Entregado", proporcionando una visión clara y actualizada de sus entregas y permitiendo hacer un seguimiento en tiempo real.
+- Conductores y operadores logísticos podrán gestionar el estado de los vehículos en cada etapa del proceso de envío, tales como "Asignado", "Cargado", "En tránsito", o "Completado", facilitando la administración eficiente de los envíos y el control de las entregas.
 
-##### Web Application para Desktop Web Browser
+Este sistema de tracking no solo brindará información detallada del estado del pedido, sino también actualizaciones en tiempo real sobre la ubicación, los tiempos estimados de entrega y cualquier incidente o retraso que pueda ocurrir durante el transporte.
 
+**4.2.5. [Navigation Systems.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.5.)**
+**
+`	`En cuanto a los sistemas de navegación en nuestra aplicación, se implementará un diseño intuitivo y estructurado que facilite el acceso a todas las funcionalidades principales. Se emplearán menús desplegables y barras de navegación fijas que permitan a los usuarios cambiar rápidamente entre las secciones más utilizadas, como el seguimiento de envíos, gestión de vehículos y revisión de pedidos.
 
+El sistema de navegación estará optimizado tanto para dispositivos móviles como para escritorio, asegurando una experiencia fluida en todo tipo de plataformas. Los iconos claros y botones resaltados guiarán al usuario de manera eficiente, permitiendo un acceso rápido a las funciones críticas de la plataforma.
 
-##### Web Application para Mobile Web Browser
+**4.3. [Landing Page UI Design.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.)**
 
+`	`En esta sección, presentamos nuestra propuesta de diseño de interfaz de usuario (UI) para el Landing Page de nuestra plataforma de logística. Hemos traducido nuestras decisiones de diseño y arquitectura de la información en una experiencia visualmente atractiva y altamente funcional, diseñada para captar la atención de los usuarios desde el primer momento.
 
-<div id='4.4.4.'><h4> 4.4.4. Web Applications User Flow Diagrams.</h4></div>
+El Landing Page representa la primera impresión que los visitantes tendrán de nuestra plataforma, por lo que es fundamental que refleje fielmente nuestra marca, transmita con claridad nuestros mensajes clave, y guíe a los usuarios hacia las acciones que queremos que realicen, como el seguimiento de envíos o la gestión de pedidos.
+### <a name="_1289fybh9r93"></a>Principios de Diseño y Estrategias Implementadas:
+- Jerarquía Visual: Utilizamos una jerarquía visual clara, donde los elementos más importantes como el título principal y los botones de llamada a la acción (CTA) están resaltados con un tamaño de fuente prominente y colores llamativos. Esto facilita que los usuarios identifiquen rápidamente las secciones clave y sepan dónde interactuar.
+- Diseño Minimalista y Limpio: Hemos optado por un diseño minimalista que prioriza la claridad y simplicidad. Esto no solo facilita la navegación, sino que también reduce el ruido visual, permitiendo a los usuarios concentrarse en la funcionalidad principal de nuestra plataforma.
+- Colores y Tipografía Consistentes: El esquema de colores está alineado con la identidad de nuestra marca, utilizando tonos que evocan confianza y seguridad. La tipografía es moderna y fácil de leer, con diferentes tamaños y pesos para crear contrastes que guían al usuario a través de la página de manera intuitiva.
+- Llamadas a la Acción Claras: Botones bien definidos como "Iniciar Seguimiento", "Ver Servicios", o "Registrarse" están estratégicamente ubicados para maximizar la conversión y facilitar la interacción del usuario con nuestra plataforma.
+- Responsividad y Adaptabilidad: El diseño del Landing Page es completamente responsive, asegurando que la experiencia de usuario sea fluida tanto en dispositivos móviles como en escritorio, lo cual es crucial en el entorno actual.
 
-Enlace para acceder al [Lucid Chart]()
+**4.3.1. [Landing Page Wireframe.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.1.)**
+
+**Enlace del figma web:** 
+
+[**https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-\(Community\)?node-id=32-107&t=jxGSmKw9luCnRLDL-1)** 
+
+A continuación diseñamos el cómo sería el wireframe de nuestra landing page usando Figma
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.016.png)
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.017.png)
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.018.png)
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.019.png)
+
+Version mobile:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.020.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.021.png)
+
+**4.3.2. [Landing Page Mock-up.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.2.)**
+
+**Enlace del figma web:** 
+
+[**https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-\(Community\)?node-id=32-107&t=jxGSmKw9luCnRLDL-1)**  
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.022.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.023.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.024.png)
+
+**4.4. [Web Applications UX/UI Design.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.)**
+
+**4.4.1. [Web Applications Wireframes.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.1.)**
+
+Registro de empresario o empresa de logística:
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.025.png)
+
+
+
+
+
+
+
+
+
+
+**Dashboard para empresarios:**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.026.png)
+
+**Dashboard para empresas de logística:**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.027.png)
+
+**Elegir conductor y ver perfil:**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.028.png)
+
+**elegir tipo de auto:**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.029.png)
+
+**Ver mi perfil y chatear con conductor:**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.030.png)
+**Iniciar sesion y asociar tarjeta:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.031.png)**
+
+**Agendar paquetes y observar pedidos agendados:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.032.png)**
+
+**Trackear orden en tiempo real:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.033.png)**
+
+
+**4.4.2. [Web Applications Wireflow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.2.)**
+
+**user goal:Como usuario quiero poder registrarme,  iniciar sesion y ver el dashboard**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.034.png)
+
+**User goal: Como usuario quiero poder navegar por el dashboard**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.035.png)
+
+**User goal: Como empresario quiero poder crear una orden de envío**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.036.png)
+
+**User goal: Como empresario quiero poder trackear mi orden en tiempo real**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.037.png)
+
+
+
+
+
+**4.4.3. [Web Applications Mock-ups.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.3.)**
+
+**user goal:Landing page
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.038.png)![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.039.png)**
+
+**user goal:Dashboards
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.041.png)
+
+**user goal:Información del conductor e información propia**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.042.png)
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.043.png)
+
+**user goal:Inicio de sesión , registro y registro de tarjeta:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)**
+
+**user goal:Agendar paquete y ver pedidos agendados:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)**
+
+**user goal:Elegir tipo de auto para pedido:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)**
+
+**user goal: Trackear orden en tiempo real:
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)**
+
+
+**4.4.4. [Web Applications User Flow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.4.)**
+
+
+
+**User goal: Como empresario quiero poder ver mi orden en tiempo real**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
+
+
+**User goal: Como empresario quiero poder agendar mis pedidos y ver mis pedidos agendados**
+
+![](Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
 
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
