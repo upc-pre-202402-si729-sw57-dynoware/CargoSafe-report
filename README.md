@@ -487,3 +487,7 @@ En el marco de nuestra propuesta innovadora, hemos identificado segmentos clave 
     * A: Grandes empresarios o dueños de empresas establecidas con altos ingresos. Tienen acceso a capital considerable, redes de influencia y recursos financieros avanzados.
     * B: Empresarios medianos con ingresos medios-altos. Tienen acceso a financiamiento y recursos, pero en menor escala que los grandes empresarios.
     * C: Pequeños empresarios con ingresos medios, dueños de negocios locales o familiares. Su acceso a recursos y capital es más limitado, y suelen operar en mercados más reducidos.
+
+<div id='1.'><h2>Bibliografía</h2></div>
+
+* Portal Portuario. (2024, abril 1). *Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay*. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
