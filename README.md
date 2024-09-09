@@ -1859,7 +1859,980 @@ Para este proyecto, hemos optado por el motor de base de datos MySQL debido a su
 ![Database_Diagram](https://raw.githubusercontent.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/feature/chapter-4/assets/chapter-4/database-diagram.png)
 Enlace: [Database Diagram ](https://my.vertabelo.com/doc/UYn0eZPW4r3Ek5FEKjolgdmPOZZJI0yY)
 
+<div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+En la sección presentada a continuación, vamos a detallar las herramientas, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, las cuales nos ayudaron a mantener la consistencia del trabajo realizado.
+
+<div id='5.1.1'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+En el presente apartado, vamos a describir los productos de software que hemos utilizado durante el desarrollo del proyecto y el propósito por el cual han sido empleados.
+
+**Project Management**
+* Google Docs: [https://docs.google.com/](https://docs.google.com/)
+
+    Google Docs es una plataforma que permite crear documentos que se pueden compartir con otros usuarios para trabajar de manera colaborativa a tiempo real. Se ha empleado esta plataforma para organizar las diferentes secciones del informe y realizar una revisión previa antes de actualizar la información del informe en el repositorio de GitHub del equipo.
+
+**Requirements Management**
+* Trello: [https://trello.com/](https://trello.com/)
+
+    Trello es una plataforma que permite realizar gestión de proyectos. Por esto, se ha empleado para poder gestionar las tareas y organizar el flujo de trabajo del proyecto.
+Las tareas están ubicadas en cada lista indicando el integrante encargado de realizar dicha tarea.
+
+**Product UX/UI Design**
+* Figma: [https://www.figma.com/](https://www.figma.com/)
+
+    Figma es una plataforma de edición gráfica, en la que se pueden crear diseños y prototipos de páginas web de manera colaborativa. Esta plataforma nos fue de utilidad para desarrollar los wireframes, mockups y los desktop and mobile application prototype del proyecto.
+  
+* Miro: [https://miro.com/es/](https://miro.com/es/)
+
+    Miro es una plataforma que permite crear pizarras virtuales para el trabajo colativo en tiempo real. La cual posee distintas herramientas y plantillas que nos ayudaron a realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada segemento objetivo.
+  
+* UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
+
+    UXPressia es una plataforma que brinda diferentes plantillas que nos ayudan a comprender la problemática, conocer las necesidades de los segmentos objetivos en relación con la solución de software. Las plantillas de la plataforma fueron empleadas para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
+
+**Software Development**
+* Landing Page
+  
+    Para el desarrollo de la Landing Page se ha hecho empleo de las siguientes tecnologías de desarrollo web: HTML5, CSS y JavaScript. 
+
+* Fronted Web Applications
+
+    Para el desarrollo de la aplicación web frontend, se empleó HTML, CSS y JavaScript. En este caso utilizaremos Angular Material para la creación de componentes. Nuestro Stack tecnológico incluye el uso del lenguaje Java con Spring Boot como framework, junto con HTML, Angular, JavaScript, CSS y una base de datos en MySQL Workbench. 
+
+**Software Testing**
+
+* Para las pruebas funcionales del software de la Landing page y de la aplicación web, se han utilizado las herramientas de desarrollo de los siguientes navegadores web: Google Chrome ( [https://www.google.com/chrome/](https://www.google.com/chrome/) ) , Microsoft Edge ( [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) ) y Mozilla Firefox ( [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/) ). 
+  
+  **Software Deployment**
+* Netlify: [https://www.netlify.com/](https://www.netlify.com/)
+
+    Para implementar el despliegue utilizamos En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+
+**Software Documentation**
+* GitHub: [https://github.com/](https://github.com/)
+  
+    GitHub fue empleado para la creación de la documentación y de la Landing Page. En ambos casos se creo un repositorio. Además, nuestro grupo eligió esta plataforma para trabajar de manera colaborativa.
+
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+
+Se creó una organización en GitHub para el desarrollo y la gestión del proyecto. En dicha organización se registraban todas las modificaciones que se realizaron durante su ciclo de desarrollo. Nuestra organización se estructuró de la siguiente manera:
+
+Organización:
+[https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
+
+Repositorio del Landing Page: 
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
+
+Repositorio del Informe: 
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report)
+
+Por otro lado, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se ha implementado GitFlow.
+
+De esta manera, se establecieron 2 ramas principales: main y develop.
+
+Ramas principales:
+
+* Main: También denominada “master”, en esta rama se almacenan las versiones oficiales de nuestro repositorio antes de pasarlas a producción.
+* Develop: Es la rama que se va a emplear como punto de integración de las ramas “feature”. Una vez que el “head” sea estable y el equipo considere que esta listo para ser lanzadose unirá a la rama release.
+  
+Ramas auxiliares:
+
+* Feature: En esta rama se desarrollan las funcionalidades del proyecto solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Al completarlas se integrarán en la rama “develop”. 
+* Release: Esta rama se utiliza para la preparación de la próxima versión del programa. Aquí se realizan pruebas finales y se pueden solucionar errores menores antes del lanzamiento definitivo. Por último, los cambios se fucionan con la rama develop, y luego la rama main.
+
+    Se empleó el formato “Semantic Versioning 2.0.0” para la nomenclatura de versiones del proyecto. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
+
+  *  X, Y y Z son números enteros positivos, donde cada uno incrementa de manera numérica.
+
+  * X: Es la que representa una versión mayor. Aquí se encuentran aquellos cambios que no son compatibles con las versiones anteriores. Esto implica reiniciar a 0 las versiones Y(menores) y Z(parche).  
+  * Y: Es la versión menor. Aquí se encuentran los cambios que si son compatibles con las versiones anteriores. Esto implica que cada vez que Y se incremente, la versión Z(parche) se reiniciará a 0.
+  * Z: Parches y correcciones de errores menores. Solo se incrementa cuando se realizan correcciones que son compatible con versiones anteriores.
+
+**Commit Convention**
+
+El formato de los commits siguen la estructura de “Conventional Commits” en la versión 1.0.0, la cual tiene la siguiente estructura:
+
+```
+  <type>[optional scope]: <description>
+  
+  [optional body]
+  
+  [optional footer(s)]
+``` 
+
+Donde:
+*	type: Precisa el tipo de cambio realizado. Entre los tipos de cambios encontramos: fix, feat, build, chore, etc.
+*   scope: Permite dar el alcance y contexto del cambio.
+*   description: Indica de manera breve un resumen de los cambios del código.
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+Utilizaremos el lenguaje de etiquetas HTML y CSS se empleará la convención de Google HTML/CSS Style Guide. 
+
+Entre todas las convenciones destacamos:
+
+*   Se debe declarar el tipo de documento con <!DOCTYPE.html>.
+*   Evitar líneas de códigos extensas.
+*   Utilizar meta tags al inicio.
+* 	Utilizar siempre las letras minúsculas para los nombres de los elementos HTML, atributos, propiedades, valores y selectores CSS (como ```<p>```, ```<h1>```, ```<section>```, etc.).
+* 	Cada elemento de HTML debe tener una etiqueta de cierre (por ejemplo ```<p></p>```).
+* 	Siempre encerrar entre comillas los atributos dentro de un elemento HTML (```<p class=”name”></p>```).
+* 	Especificar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
+
+Para el desarrollo de código en TypeScript, se optó por utilizar la convención Google TypeScript Style Guide. Algunas convenciones son las siguientes:
+
+*   Usar el punto y coma a l final de cada sentencia “;”.
+*   Tanto las variables como las funciones deben estar nombradas en CamelCase.
+*   Utilizar comillas simples en los valores string.
+*   Evitar declarar variables con la sentencia var. En su lugar, se debería usar let o const para evitar errores en variables y valores.
+
+Para el desarrollo de los aceptance test con el lenguaje de Gherkin se eligió emplear las convenciones mencionadas en “Gherkin Conventions for Readable Specifications”. Entre ellas encontramos:
+
+*	Emplear lasas palabras “Given”, “When”, “Then” y “And” para describir los pasos de los escenarios.
+*	Evitar que la descripción de los pasos de cada escenario sea redundante.
+*	Agregar líneas entre pasos.
+*	En cada escenario, utilizar formato y estilo consistente en toda la especificación.
+*	Encerrar los parámetros en comillas simples.
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify.
+
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/), iniciar sesión o crear cuenta.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
+</div>
+
+
+2. Al ingresar, hacer click en el botón de "Add new site".
+  
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+   
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
+</div>
+
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
+</div>
+
+Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+
+<div id='5.2.'><h3> 5.2.	Landing Page, Services & Applications Implemetation.</h3></div>
+
+<div id='5.2.1.'><h4> 5.2.1.	Sprint 1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1.	Sprint Planning 1.</h5></div>
+
+<table>
+     <tr> 
+        <th>  Sprint #  </th>
+        <th> Sprint 1 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Planing Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 28/08/2024 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 16:00 horas (GMT-5) </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de la plataforma Zoom <td>
+     </tr>
+      <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Ramos Argüelles, Alexandra Belen <td>
+     </tr>
+        <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> Ramos Argüelles, Alexandra Belen
+        <br>
+         Cortez Flores, Ely Rivaldo
+           <br>
+         Boronda Heidinger, Astrid Jimena 
+          <br>
+         Quiroz Zambrano, Fabrizio Javier
+         <br>
+         Silva Morales, Renzo Cesar
+         <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Review Summary </td>
+        <td> Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint. <td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 0 Retrospective Summary </td>
+        <td> Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.<td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="7"> Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Goal</td>
+          <td>  En este sprint  se planea implementar la Landing Page con sus respectivas secciones haciendo uso de HTML y CSS.
+          Para realizar la Langing Page se realizó un diseño previo en Figma. Luego de esto, mediante una reunión delequió, decidimos cómo es que cada un iba a contribuir con el desarrollo de esta página. Al finalizar este sprint la Landing Page está desplegada en Netlify y los usuarios podrán acceder a esta a través del link.
+          <td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 1 Velocity </td>
+          <td>  19  <td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 19 <td>
+      </tr>
+
+  </table>
+
+  <div id='5.2.1.2.'><h5> 5.2.1.2.	Sprint Backlog 1.</h5></div>
+
+  En esta sección mostramos las tareas que se realizaron en este sprint.
+
+  Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
+
+  <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
+
+En esta sección, se presentan los commits realizados en el repositorio de la landing page en GitHub. Estos commits reflejan el progreso y las mejoras implementadas durante el sprint 1, proporcionando una visión detallada de las actividades de desarrollo y las contribuciones del equipo.
+
+Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
+
+<table>
+
+ <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> d0c44ab560b9f6649f2947aaa16d48875eea7fe2 </th>
+   <th> chore: initialized project structure </th>
+   <th> </th>
+   <th> 31/08/2024 </th>
+  </tr>
+
+   <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> f056aa70107a26538b77c0eabbe1d8c45136af3e </th>
+   <th> feat: Add meta tags, preload images, and update font links in HTML head </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+   <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 029386b4b97b67e6b27d1da70e5581a3f0ddd411 </th>
+   <th> feat: add header </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 7f4e4246ac2adb75b7dc115ccddf0aeaf446492f </th>
+   <th> fix: changed name (index.html) </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> b84d0688f20d4a0027d238c506339faebef10e1e </th>
+   <th> feat: add hero section with slider and navigation buttons to main content
+ </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> f01dac881886d5082ac6d4949b5e24f8e580a772 </th>
+   <th> feat: add CargoSafe characteristics section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 1510d09efe573a8aada10ff330489ef75dcbd33c </th>
+   <th> feat: add service section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 8989ae8dd4c0a5f4f1af490ec272c19187b1b97a </th>
+   <th> feat: add pricing section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 81f50955f04bb4d8c7ce2d310626307aa0faedad </th>
+   <th> feat: add home section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 3e4cd123df0e97e943955b273548f999ad508089 </th>
+   <th> feat: add strenght </th>
+   <th> </th>
+   <th> 08/09/2024</th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> b3613015542c83982d4ed8a830394472581d8b5e </th>
+   <th> feat: add testimonials </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+<tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 4d209fe4cdc01d73ee0fc156f2afa6f4583fead4 </th>
+   <th> feat: add contact-section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 14d8f12902fa32f55c21e373f82060d273388217 </th>
+   <th> feat: add footer-section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> cb00d818c0923a5d517dd15b86491956c6f17cde </th>
+   <th> fix: image from second section </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 0292ee0df4f9dd077f434242e3c394ddab1dff4a </th>
+   <th> fix: delete image form services </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 0eb927c8bdd5941f01460d34e91c7c75565d624f  </th>
+   <th> fix: renamed file </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+
+ <tr>
+   <th> CargoSafe-LandingPage </th> 
+   <th> develop </th>
+   <th> 60222a7c7a6dbfdf1cc4278cbe221b4f4360eb4a  </th>
+   <th> feat: add responsive functionality with navbar, preloader, and hero slider </th>
+   <th> </th>
+   <th> 08/09/2024 </th>
+  </tr>
+
+  </table>
+
+  <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
+
+Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la herramienta de Gherkin, asegurando que los requisitos del usuario se validen de manera efectiva. El enlace adjuntado acontinuación se podrá observar el repositorio con las pruebas de aceptación, donde se puede encontrar de manera detallada los escenarios de prueba y su implementación:
+
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
+
+<table>
+  <tr>
+    <th> <strong> Repository </strong> </th>
+    <th> <strong> Branch </strong> </th>
+    <th> <strong> Commit ID</strong> </th>
+    <th> <strong> Commit Message </strong> </th>
+     <th> <strong> Commit Message (Body) </strong> </th>
+     <th> <strong> Commited on (Date) </strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests
+ </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> a4652cdaa76f5fdd2026c29b987a611601acdc31  </strong> </th>
+    <th> <strong> Initial commit </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 78ecca1995868281bd2c7cbe1d9999b4aeca1d01 </strong> </th>
+    <th> <strong> chore: add AT01.feature file
+ </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 5d84249220b4eb0249b9d3a8c7f300f80e0076ad </strong> </th>
+    <th> <strong> chore: add AT02.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+ <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests</strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 300fe09670f2c0b9fa32a01158057d196e4cc4af </strong> </th>
+    <th> <strong> chore: add AT03.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> eb0725b4737f5b2ca42dd121d10d7868f0d78dc5 </strong> </th>
+    <th> <strong> chore: add AT04.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 5fadcd28c4bb2c1a69b3f75e54570caead4f66da </strong> </th>
+    <th> <strong> chore: add AT05.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  <tr>
+   <th> <strong> Acceptance-Test </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 6bc25b2cff6ebac6c51b46a30a1607953163d83b </strong> </th>
+    <th> <strong> chore: add AT06.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 979723b1330260d79ec1021ef747dd7da3b5e853 </strong> </th>
+    <th> <strong> chore: add AT07.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <tr>
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 192dce2ae15937b7b52aadd6188b001f59439ec8 </strong> </th>
+    <th> <strong> chore: add AT08.feature file
+ </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 54d2f4d0e84a4e6f8d91080ca5066f4146a460ac </strong> </th>
+    <th> <strong> chore: add AT09.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 16c63a57c263896e2ce59292f7a3097f359dbb30 </strong> </th>
+    <th> <strong> chore: add AT10.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+ 
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 6bf9fad59e430ae1b4bd21ea6e7c0032eb03fb02 </strong> </th>
+    <th> <strong> chore: add AT11.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 7366bd8bd0f3809a7e375d87e397db59bb733e6d </strong> </th>
+    <th> <strong> chore: add AT12.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 99d7a0aad45faa41585a33aaa1c0f4c9468087d3 </strong> </th>
+    <th> <strong> chore: add AT13.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 6616029c06b758a3a739f25ad1feda24d7177595 </strong> </th>
+    <th> <strong> chore: add AT14.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+    
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> c365d21d5a1425de35dd817a5ae1d64484e86662 </strong> </th>
+    <th> <strong> chore: add AT15.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 979723b1330260d79ec1021ef747dd7da3b5e853 </strong> </th>
+    <th> <strong> chore: add AT07.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> b95fcfee4e073b37a8b478ab75b67fefe37bbf9f </strong> </th>
+    <th> <strong> chore: add AT16.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+    
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> a1f268f60f368b29cc019b3a6a1d8abb1ba5b816 </strong> </th>
+    <th> <strong> chore: add AT17.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 96727fa620985209b627d4c0c80af26e221654e5 </strong> </th>
+    <th> <strong> chore: add AT18.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+    
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 6ac094295e54afd6c64a6dff725a5dd62f8fda87 </strong> </th>
+    <th> <strong> chore: add AT19.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+    
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> baea7364f3a7eced9dcb2d0609bbf4061b71cd6b </strong> </th>
+    <th> <strong> chore: add AT20.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+   
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 0006b1bd6814284363f87785796d0b7acf93d6f8 </strong> </th>
+    <th> <strong> chore: add AT21.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+  
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> dd7f398f1217edab41b87af809025bd2618e868f </strong> </th>
+    <th> <strong> chore: add AT22.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+    
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 22273dd29430b2c80d5759e89b01e45670a7d33c </strong> </th>
+    <th> <strong> chore: add AT23.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+   
+   <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
+    <th> <strong> main </strong> </th>
+    <th> <strong> 317a299880b1b3ea528a1e5b3ffaf2bb5e56ea0f </strong> </th>
+    <th> <strong> chore: add AT24.feature file </strong> </th>
+    <th> <strong>  </strong> </th>
+    <th> <strong> 08/09/2024 </strong> </th>
+ <tr>
+
+</table>
+
+  <div id='5.2.1.5.'><h5> 5.2.1.5.	Execution Evidence for Sprint Review.</h5></div>
+
+  Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
+
+  Enlace del deploy de la Landing Page mediante Netlify: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+
+  **Hero en versión desktop**
+
+  <div align=center>
+    <img src="./assets/chapter-5/Hero.png" width=350px >
+</div>
+
+**Hero en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Hero-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Services en versión desktop**
+
+<div align=center>
+    <img src="./assets/chapter-5/Services.png" width=350px >
+</div>
+
+**Sección Our Services en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Services-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Our Services en versión desktop**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Services.png" width=350px >
+</div>
+
+**Sección Our Services en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Services-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Pricing en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Choose-Your-Plan.png" width=350px >
+</div>
+
+**Sección Pricing en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Choose-Your-Plan-Mobile.jpeg" width=350px >
+</div>
+
+**Sección de AboutUs en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Try-The-App-Now.png" width=350px >
+</div>
+
+**Sección de AboutUs en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Try-The-App-Now-Mobile.jpeg" width=350px >
+</div>
+
+**Sección Strenght en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Strength.png" width=350px >
+</div>
+
+**Sección Strenght en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Our-Strenght- Mobile.jpeg" width=350px >
+</div>
+
+**Sección Testimonials en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/What-Our-Clients-Say.png" width=350px >
+</div>
+
+**Sección Testimonials en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/What-Our-Clients-Say-Mobile.jpeg" width=350px >
+</div>
+
+**Footer en versión desktop**
+
+
+<div align=center>
+    <img src="./assets/chapter-5/Footer.png" width=350px >
+</div>
+
+**Footer en versión mobile**
+
+<div align=center>
+    <img src="./assets/chapter-5/Footer-Mobile.jpeg" width=350px >
+</div>
+
+
+  <div id='5.2.1.6.'><h5> 5.2.1.6.	Services Documentation Evidence for Sprint Review.</h5></div>
+
+  En el alcance del aprint 1 se priorizó el desarrollo de la Landing Page, por lo que no se evidencia empleo de web services.
+
+  <div id='5.2.1.7.'><h5> 5.2.1.7.	Software Deployment Evidence for Sprint Review.</h5></div>
+
+  Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Cortez, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
+
+  Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+
+  **Pasos para este Sprint:**
+
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/), iniciar sesión o crear cuenta.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
+</div>
+
+
+2. Al ingresar, hacer click en el botón de "Add new site".
+  
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+   
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
+</div>
+
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
+</div>
+
+Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+
+  <div id='5.2.1.8.'><h5> 5.2.1.8.	Team Colaboration Insights during Sprint.</h5></div>
+
+El equipo desarrolló la Landing Page por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
+
+Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que contamos con las ramas **develop** y **feature** según la funcionalidad. 
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th>Boronda Heidinger, Astrid Jimena</th>
+   <th> Implementación de la navbar tanto en la versión desktop como en la versión móvil, también se encargó de arreglar algunas partes del código.</th>
+ </tr>
+  <tr> 
+   <th>Cortez Flores, Ely Rivaldo</th>
+   <th>Implementación de la sección hero y sección home tanto en la versión desktop como en la versión móvil. Además, se encargó de desplegar la Landing Page.</th>
+ </tr>
+  <tr> 
+   <th>Ramos Argüelles, Alexandra Belen</th>
+   <th>  Implementación de la sección de service y pricing tanto en la versión desktop como en la versión móvil.</th>
+ </tr>
+  <tr> 
+   <th>Silva Morales, Renzo Cesar</th>
+   <th>  Implementación de la sección home, strenght y testimonials tanto en la versión desktop como en la versión móvil. </th>
+ </tr> 
+ <tr> 
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+   <th> Implementación de la sección contact y footer tanto en la versión desktop como en la versión móvil. </th>
+ </tr>
+ </table>
+
+ Hemos desarrollado en conjunto un total de 17 commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
+
+ Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+ <table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> AstridBH  </th>
+   <th>Boronda Heidinger, Astrid Jimena</th>
+ </tr>
+  <tr> 
+  <th> rivacortez </th>
+   <th>Cortez Flores, Ely Rivaldo</th>
+ </tr>
+  <tr> 
+   <th> AleRamosA </th>
+   <th>Ramos Argüelles, Alexandra Belen</th>
+
+ </tr>
+  <tr> 
+   <th> rrenzosilva </th>
+   <th>Silva Morales, Renzo Cesar</th>
+ </tr> 
+   <tr> 
+   <th> Relycloud </th>
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+ </tr> 
+</table>
+
+En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
+
+<div align=center>
+    <img src="./assets/chapter-5/Network-Graph.png" width=600px >
+</div>
+
+**Flujo de trabajo entre ramas:**
+
+<div align=center>
+    <img src="./assets/chapter-5/Contributions.png" width=600px >
+</div>
+
+**Commits en el período de un mes**
+
+<div align=center>
+    <img src="./assets/chapter-5/Commits-over-time.png" width=600px >
+</div>
+
+**Flujo de trabajo en el período de un mes**
+
+<div align=center>
+    <img src="./assets/chapter-5/Contributors.png" width=600px >
+</div>
+
+
 <div id='7.'><h2>Bibliografía</h2></div>
 
 * Portal Portuario. (2024, abril 1). *Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay*. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
 
+<div id='8.'><h5> 8.	Anexos.</h5></div>
+
+Link de Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
+Link del del video: [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
