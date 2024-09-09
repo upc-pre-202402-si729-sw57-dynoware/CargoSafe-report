@@ -49,6 +49,10 @@ width=50%"/>
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report
+<div align=center>
+    <img src="./assets/commits.jpeg" width=350px >
+</div>
+
 
 **TB1**
 
