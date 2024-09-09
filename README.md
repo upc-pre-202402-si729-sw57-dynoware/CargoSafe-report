@@ -642,7 +642,7 @@ Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware/Car
    <th> </th>
    <th> 08/09/2024 </th>
   </tr>
-  
+
   </table>
 
   <div id='5.2.1.4.'><h5> 5.2.1.4.	Testing Suite Evidence for Sprint Review.</h5></div>
@@ -1163,3 +1163,10 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 <div align=center>
     <img src="./assets/chapter-5/Contributors.png" width=600px >
 </div>
+
+
+<div id='8.'><h5> 8.	Anexos.</h5></div>
+
+Link de Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
+Link del del video: [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
