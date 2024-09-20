@@ -19,7 +19,11 @@
   <h5> Producto: CargoSafe </h5>
 </div>
 
-## Team members:
+<div>
+  ## Team members:
+</div>
+
+<div>
 
 |              Nombre              |   Código   |
 | :------------------------------: | :--------: |
@@ -28,6 +32,7 @@
 | Ramos Argüelles, Alexandra Belen | U202215164 |
 |    Silva Morales, Renzo Cesar    | U20221c362 |
 | Quiroz Zambrano, Fabrizio Javier | U202213406 |
+</div>
 
 <div align="center">
 <h5> Ciclo 2024-02 </h5>
