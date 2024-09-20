@@ -19,19 +19,37 @@
   <h5> Producto: CargoSafe </h5>
 </div>
 
-<div>
-  ## Team members:
+<div align="center">
+    <h3>Team Members:</h3>
 </div>
 
 <div>
-
-|              Nombre              |   Código   |
-| :------------------------------: | :--------: |
-| Boronda Heidinger, Astrid Jimena | U202215823 |
-|    Cortez Flores, Ely Rivaldo    | U202215313 |
-| Ramos Argüelles, Alexandra Belen | U202215164 |
-|    Silva Morales, Renzo Cesar    | U20221c362 |
-| Quiroz Zambrano, Fabrizio Javier | U202213406 |
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Boronda Heidinger, Astrid Jimena</td>
+            <td>U202215823</td>
+        </tr>
+        <tr>
+            <td>Cortez Flores, Ely Rivaldo</td>
+            <td>U202215313</td>
+        </tr>
+        <tr>
+            <td>Ramos Argüelles, Alexandra Belen</td>
+            <td>U202215164</td>
+        </tr>
+        <tr>
+            <td>Silva Morales, Renzo Cesar</td>
+            <td>U20221c362</td>
+        </tr>
+         <tr>
+            <td>Quiroz Zambrano, Fabrizio Javier</td>
+            <td>U202213406</td>
+        </tr>
+    </table>
 </div>
 
 <div align="center">
