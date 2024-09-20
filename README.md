@@ -1,21 +1,23 @@
-<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
-<h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
+<div align="center">
+  <h1> Informe del Trabajo Final </h1>
+  <h3> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src= "./assets/UPC-logo.png" 
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=50%"/>
+  <img src= "./assets/UPC-logo.png" 
+  style="display: block; 
+  margin-left:auto; 
+  margin-right: auto; 
+  width=50%"/>
 
-<h5 style="text-align: center"> Ingeniería de Software </h5>
+  <h5> Ingeniería de Software </h5>
 
-<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - SW57 </h5>
+  <h5> Desarrollo de Aplicaciones Open Source - SW57 </h5>
 
-<h5 style="text-align: center"> Docente: Angel Augusto Velasquez Nuñez </h5>
+  <h5> Docente: Angel Augusto Velasquez Nuñez </h5>
 
-<h5 style="text-align: center"> Startup: DynoWare </h5>
+  <h5> Startup: DynoWare </h5>
 
-<h5 style="text-align: center"> Producto: CargoSafe </h5>
+  <h5> Producto: CargoSafe </h5>
+</div>
 
 ## Team members:
 
@@ -27,7 +29,9 @@ width=50%"/>
 |    Silva Morales, Renzo Cesar    | U20221c362 |
 | Quiroz Zambrano, Fabrizio Javier | U202213406 |
 
-<h5 style="text-align: center"> Ciclo 2024-02 </h5>
+<div align="center">
+<h5> Ciclo 2024-02 </h5>
+</div>
 
 ## Registro de versiones del informe
 
