@@ -134,9 +134,7 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 ![Commit_Timeline]()
 
-## Student Outcomes
-
-**Student Outcome**
+## Student Outcome
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 | - | - | - |
