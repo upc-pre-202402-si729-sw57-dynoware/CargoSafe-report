@@ -1555,13 +1555,13 @@ Registro de empresario o empresa de logística:
 
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Desktop y Mobile Web Browser, se siguieron una serie de criterios fundamentales, entre ellos:
 
-1. **Claridad y Facilidad:** 
+1. **Claridad y Facilidad:** El diseño de la aplicación se centró en ofrecer una experiencia de navegación altamente intuitiva y accesible. El objetivo principal fue garantizar que cualquier usuario, sin importar su nivel técnico, pueda interactuar fácilmente con las diversas funciones de la plataforma. Esto incluye desde el registro y gestión de procesos, hasta la visualización de reportes estadísticos detallados, permitiendo que los usuarios comprendan de manera rápida y clara el funcionamiento completo de la aplicación.
 
-2. **Diseño Responsive:** 
+2. **Diseño Responsive:** El diseño "responsive" fue un aspecto crucial en el desarrollo de la plataforma, asegurando que la aplicación web se adapte de manera óptima a diferentes dispositivos y tamaños de pantalla. Esto significa que, independientemente de si los usuarios acceden desde un teléfono móvil, una tablet o un ordenador de escritorio, la experiencia será fluida y sin limitaciones. La adaptabilidad del diseño garantiza que todas las funcionalidades estén disponibles y sean fáciles de usar en cualquier formato.
 
-3. **Priorización de Información Relevante:** 
+3. **Priorización de Información Relevante:** El enfoque principal del diseño de la aplicación es resaltar la información que realmente importa para los usuarios del segmento objetivo. Esto implica que la interfaz está estructurada de manera que los datos más importantes, como los reportes de rendimiento, el estado de los procesos y las métricas clave, se presenten de forma destacada. Esta priorización de la información permite a los usuarios tomar decisiones informadas y gestionar eficientemente sus actividades sin verse abrumados por detalles irrelevantes.
 
-![Web_Applications_Prototyping]()
+![Web_Applications_Prototyping](assets/chapter-4/landingfirstpage.png)
 
 Enlace para acceder al video de explicación del [Web Applications Prototyping]()
 
