@@ -60,18 +60,18 @@
 
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                     |
 | :-----: | :--------: | :-----------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1.0   | 15/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Creación del documento de trabajo en formato markdown                                                                                                           |
-|   1.1   | 20/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
+|   1.0   | 15/08/2024 | Ely Cortez | Creación del documento de trabajo en formato markdown                                                                                                           |
+|   1.1   | 20/08/2024 |Renzo Silva | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
 |   1.2   | 23/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas                                                                             |
-|   1.3   | 25/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
-|   1.4   | 26/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración de user stories, product backlog                                                                                                                    |
-|   1.5   | 28/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración de prototipos de wireframes y mockups                                                                                                               |
-|   1.6   | 31/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Redacción de style guidelines e information architecture                                                                                                        |
-|   1.7   | 03/09/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
-|   1.8   | 03/09/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Registro de evidencias del Sprint 1                                                                                                                             |
-|   1.9   | 04/09/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Rediseño de mockups. Elaboración de wireflows y user-flows                                                                                                      |
-|  1.10   | 07/09/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Redacción de software configuration management y conclusiones                                                                                                   |
-|   2.1   | 22/09/2024 |                Nombre                 | Redacción de Collaboration Insights                                                                                                                             |
+|   1.3   | 25/08/2024 | Astrid Boronda | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
+|   1.4   | 26/08/2024 | Ely Cortez, Belen Ramos | Elaboración de user stories, product backlog                                                                                                                    |
+|   1.5   | 28/08/2024 | Fabrizio Quiroz | Elaboración de prototipos de wireframes y mockups                                                                                                               |
+|   1.6   | 31/08/2024 | Fabrizio Quiroz | Redacción de style guidelines e information architecture                                                                                                        |
+|   1.7   | 03/09/2024 | Ely Cortez | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+|   1.8   | 03/09/2024 | Belen Ramos | Registro de evidencias del Sprint 1                                                                                                                             |
+|   1.9   | 04/09/2024 | Astrid Boronda | Rediseño de mockups. Elaboración de wireflows y user-flows                                                                                                      |
+|  1.10   | 07/09/2024 | Belen Ramos | Redacción de software configuration management y conclusiones                                                                                                   |
+|   2.1   | 22/09/2024 | Belen Ramos| Redacción de Collaboration Insights                                                                                                                             |
 
 ## Project Report Collaboration Insights
 
