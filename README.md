@@ -749,7 +749,7 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 
 **Duración:** 4:51 minutos<br>
 **Inicio de de la entrevista:** 01:00 <br>
-**Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EYs3EV4Xaf1KoFMRKegrgJQBJsRr1I4zWq_1GgTBj6SjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=twMEtL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EYs3EV4Xaf1KoFMRKegrgJQBJsRr1I4zWq_1GgTBj6SjHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=twMEtL)<br>
+**Link:** [Enlace de la entrevista](https://shorturl.at/he7Ui)<br>
 **Resumen de la entrevista:**
 
 <div align="justify">
@@ -770,7 +770,7 @@ Ruben menciona un problema que últimamente lo aqueja, se trata de la poca deman
 
 **Duración:** 4:53 minutos <br>
 **Inicio de de la entrevista:** 0:15 <br>
-**Link:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EZ4hfPktnqRHoRzmLkBxtzIBmzkcTbxMN139kkbYTpCOuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NObti8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215823_upc_edu_pe/EZ4hfPktnqRHoRzmLkBxtzIBmzkcTbxMN139kkbYTpCOuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NObti8) <br>
+**Link:** [Enlace de la entrevista](https://shorturl.at/3STmu) <br>
 **Resumen de la entrevista:**
 
 <div align="justify">
@@ -791,7 +791,7 @@ Durante la entrevista, el señor Boronda dijo que existen problemas frecuentes c
 
 **Duración:** 04:20 minutos<br>
 **Inicio de de la entrevista:** 00:01 <br>
-**Link:** [https://drive.google.com/file/d/18IPGicIZu4bbr0URBhD8VZdW5XIMbkoM/view](https://drive.google.com/file/d/18IPGicIZu4bbr0URBhD8VZdW5XIMbkoM/view)<br>
+**Link:** [Enlace de la entrevista](https://shorturl.at/PqnvL)<br>
 
 **Resumen de la entrevista:**
 
@@ -816,7 +816,7 @@ En la entrevista, el señor Félix Inga menciona que los problemas más frecuent
 
 **Duración:** 5:00 minutos <br>
 **Inicio de de la entrevista:** 0:01 <br>
-**Link:** [https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20segmento%20objetivo%20empresarios%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E90b5d2bd%2D2500%2D4ff1%2D863b%2D372292f050fd](https://upcedupe-my.sharepoint.com/personal/u202215164_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215164%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20segmento%20objetivo%20empresarios%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E90b5d2bd%2D2500%2D4ff1%2D863b%2D372292f050fd)<br>
+**Link:** [Enlace de la entrevista](https://shorturl.at/ke887)<br>
 
 **Resumen de la entrevista:**
 
@@ -839,7 +839,7 @@ Por último, nos contó al respecto de experiencias con otras aplicaciones de tr
 
 **Duración:** 4:51 minutos <br>
 **Inicio de de la entrevista:** 0:01 <br>
-**Link:** [https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view](https://drive.google.com/file/d/1dUL3xqWL-pjfEYeyQV1UhdcdHCnLFiUv/view) <br>
+**Link:** [Enlace de la entrevista](https://goo.su/FPECUq) <br>
 **Resumen de la entrevista:**
 
 <div align="justify">
@@ -860,7 +860,7 @@ Acerca de la entrevista: Jael Pinta se dedica a la venta mayorista de prendas al
 
 **Duración:** 4:51 minutos <br>
 **Inicio de de la entrevista:** 0:01 <br>
-**Link:** [https://drive.google.com/file/d/19fzmZ-l5aFzgck_1V5gZJwtUqmaTHwn6/view](https://drive.google.com/file/d/19fzmZ-l5aFzgck_1V5gZJwtUqmaTHwn6/view) <br>
+**Link:** [Enlace de la entrevista](https://drive.google.com/file/d/19fzmZ-l5aFzgck_1V5gZJwtUqmaTHwn6/view) <br>
 **Resumen de la entrevista:**
 
 <div align="justify">
@@ -923,13 +923,13 @@ Se trata de una representación ficticia de un usuario, basada en datos reales d
 
 **Segmento Objetivo: Transportistas**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
+Enlace: [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
 
 ![user_transportistas](assets/chapter_2/Marcelo_Dominguez.png)
 
 **Segmento Objetivo: Empresarios**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
+Enlace: [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
 
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
