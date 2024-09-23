@@ -115,24 +115,19 @@ Se explican las ramas más prominentes:
 **feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
 **feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 
-![Branch_Graph](captura del git flow)
+![Commit_Graph](https://i.postimg.cc/vTS2jW7x/branch-image.jpg)
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
 
 **TB1**
 
-![Commit_Graph]()
-![Commit_Graph_Individual1]()
-![Commit_Graph_Individual2]()
-![Commit_Graph_Individual3]()
-
-![Pull_Graphs]()
+![Pull_Graphs](https://i.postimg.cc/NGPNQkT5/commits-integrantes.jpg)
 
 El siguiente gráfico incluye la cantidad de commits realizados en la semana con más actividad durante el desarrollo del informe.
 
 **TB1**
 
-![Commit_Timeline]()
+![Commit_Graph](https://i.postimg.cc/KYrqFXr2/commits-contribution.jpg)
 
 ## Student Outcome
 
