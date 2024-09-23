@@ -1484,19 +1484,31 @@ Registro de empresario o empresa de logística:
 
 **user goal:Como usuario quiero poder registrarme,  iniciar sesion y ver el dashboard**
 
+En la pagina principal del landing page le damos click al icono inferior derecho la cual nos lleva directamente a la pagina de inicio de sesion en la cual si iniciamos sesion como empresa de logistica nos lleva directamente al dashboard para 
+empresas de logistica y si somos empresarios nos lleva al dashboard para empresarios; si en la pagina de inicio de sesion le damos a registrar tenemos dos opciones registrarse como empresario normal y como empresa de logistica luego de pasar
+por el registro nos llevara a una pagina en la cual nos pedira ingresar una tarjeta para recibir y pagar.
+
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.034.png)
 
-**User goal: Como usuario quiero poder navegar por el dashboard**
+**User goal: Como empresario quiero poder navegar por el dashboard**
+
+Como empresario se nos lleva al dashboard en el cual se puede ver los conductores disponibles, se puede ver perfil del conductor, chatear con el conductor, ver tu propio perfil y agendar paquetes.
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.035.png)
 
 **User goal: Como empresario quiero poder crear una orden de envío**
 
+En nuestro perfil como empresario podemos darle click al boton "agendar" la cual nos lleva a la pagina de agendar paquete, luego nos lleva a la pagina donde se muestra nuestros paquetes agendados e interactuando
+con estos pedidos podemos elegir el tipo de transporte que vamos a elegir
+
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.036.png)
 
 **User goal: Como empresario quiero poder trackear mi orden en tiempo real**
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.037.png)
+En el dashboard vamos a nuestro perfil con el boton superior derecho,luego en nuestro perfil como empresario podemos darle click al boton que esta en esquina superior derecha la cual nos lleva a la pagina de seguir ruta y 
+esto nos lleva al pedido en curso en tiempo real en el cual podemos monitorear.
+
+![realtimeorder](assets/chapter-4/realtimeorder.png)
 
 
 
@@ -1543,12 +1555,19 @@ Registro de empresario o empresa de logística:
 
 **User goal: Como empresario quiero poder ver mi orden en tiempo real**
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
+En el dashboard para empresarios le damos click al icono de usuario en la parte superior derecha de la pagina, luego de eso nos llevara al nuestro perfil en el cual hay otro boton en la parte superior derecha
+la cual es para acceder a nuestra orden en curso y poder verla y monitorear en tiempo real, tambien dentro de el dashboard podemos darle click a la foto de algun conductor esto llevandonos a su perfil y dentro
+de su perfil en el cuadro en la parte inferior derecha podemos escribirle al conductor.
+
+![realtimeorder](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
 
 
 **User goal: Como empresario quiero poder agendar mis pedidos y ver mis pedidos agendados**
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
+En el dashboard para empresarios le damos click al icono de usuario en la parte superior derecha de la pagina, entramos a nuestro perfil en el cual hay un boton que dice "agendar" luego de dar click en ese boton
+esto nos llevara a la interfaz para agendar un paquete pidiendonos todos los datos, luego de hacer esto nos muestra todas nuestras mercancias agendadas.
+
+![pedidosagendados](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
 
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
