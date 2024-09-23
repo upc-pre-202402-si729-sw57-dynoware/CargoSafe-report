@@ -1156,7 +1156,6 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 * Cargo Volume (Volumen de carga): La cantidad de espacio que ocupa el envío, generalmente medida en metros cúbicos.
 * Vehicle (Vehículo): El camión u otro medio de transporte utilizado por el transportista para llevar la carga.
 * Cargo Type (Tipo de carga): La clasificación de los bienes que se están transportando, como carga perecibles, materiales peligrosos o artículos frágiles.
-* Dashboard (Panel de control): La interfaz central donde tanto remitentes como transportistas pueden ver los envíos activos, rastrear la carga y gestionar sus tareas.
 * Update Delivery Status (Actualizar estado de entrega): La capacidad para que los transportistas marquen un envío como "En tránsito", "Retrasado" o "Entregado".
 
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
