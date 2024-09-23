@@ -1508,7 +1508,7 @@ con estos pedidos podemos elegir el tipo de transporte que vamos a elegir
 En el dashboard vamos a nuestro perfil con el boton superior derecho,luego en nuestro perfil como empresario podemos darle click al boton que esta en esquina superior derecha la cual nos lleva a la pagina de seguir ruta y 
 esto nos lleva al pedido en curso en tiempo real en el cual podemos monitorear.
 
-![realtimeorder](assets/chapter-4/realtimeorder.png)
+![realtimeorder](assets/chapter-4/realtimeorder.jpeg)
 
 
 
