@@ -2,7 +2,7 @@
   <h1> Informe del Trabajo Final </h1>
   <h3> Universidad Peruana de Ciencias Aplicadas </h3>
 
-  <img src= "./assets/UPC-logo.png" 
+<img src= "./assets/UPC-logo.png" 
   style="display: block; 
   margin-left:auto; 
   margin-right: auto; 
@@ -60,18 +60,18 @@
 
 | Versión |   Fecha    |                 Autor                 | Descripción de modificación                                                                                                                                     |
 | :-----: | :--------: | :-----------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1.0   | 15/08/2024 | Ely Cortez | Creación del documento de trabajo en formato markdown                                                                                                           |
-|   1.1   | 20/08/2024 |Renzo Silva | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
+|   1.0   | 15/08/2024 |              Ely Cortez               | Creación del documento de trabajo en formato markdown                                                                                                           |
+|   1.1   | 20/08/2024 |              Renzo Silva              | Redacción del startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas                      |
 |   1.2   | 23/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz | Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas                                                                             |
-|   1.3   | 25/08/2024 | Astrid Boronda | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
-|   1.4   | 26/08/2024 | Ely Cortez, Belen Ramos | Elaboración de user stories, product backlog                                                                                                                    |
-|   1.5   | 28/08/2024 | Fabrizio Quiroz | Elaboración de prototipos de wireframes y mockups                                                                                                               |
-|   1.6   | 31/08/2024 | Fabrizio Quiroz | Redacción de style guidelines e information architecture                                                                                                        |
-|   1.7   | 03/09/2024 | Ely Cortez | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
-|   1.8   | 03/09/2024 | Belen Ramos | Registro de evidencias del Sprint 1                                                                                                                             |
-|   1.9   | 04/09/2024 | Astrid Boronda | Rediseño de mockups. Elaboración de wireflows y user-flows                                                                                                      |
-|  1.10   | 07/09/2024 | Belen Ramos | Redacción de software configuration management y conclusiones                                                                                                   |
-|   2.1   | 22/09/2024 | Belen Ramos| Redacción de Collaboration Insights                                                                                                                             |
+|   1.3   | 25/08/2024 |            Astrid Boronda             | Elaboración de user personas, impact mapping, as-is y to-be                                                                                                     |
+|   1.4   | 26/08/2024 |        Ely Cortez, Belen Ramos        | Elaboración de user stories, product backlog                                                                                                                    |
+|   1.5   | 28/08/2024 |            Fabrizio Quiroz            | Elaboración de prototipos de wireframes y mockups                                                                                                               |
+|   1.6   | 31/08/2024 |            Fabrizio Quiroz            | Redacción de style guidelines e information architecture                                                                                                        |
+|   1.7   | 03/09/2024 |              Ely Cortez               | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+|   1.8   | 03/09/2024 |              Belen Ramos              | Registro de evidencias del Sprint 1                                                                                                                             |
+|   1.9   | 04/09/2024 |            Astrid Boronda             | Rediseño de mockups. Elaboración de wireflows y user-flows                                                                                                      |
+|  1.10   | 07/09/2024 |              Belen Ramos              | Redacción de software configuration management y conclusiones                                                                                                   |
+|   2.1   | 22/09/2024 |              Belen Ramos              | Redacción de Collaboration Insights                                                                                                                             |
 
 ## Project Report Collaboration Insights
 
@@ -81,7 +81,6 @@ URL del repositorio para el reporte del proyecto: https://github.com/upc-pre-202
     <img src="./assets/commits.png" width=350px >
 </div>
 
-
 **TB1**
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
@@ -90,9 +89,9 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
 | Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
-| Nombre1         | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
-| Nombre1         | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
-| Nombre1         | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
+| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
+| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
@@ -131,10 +130,10 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 ## Student Outcome
 
-|Criterio específico|Acciones realizadas|Conclusiones|
-| - | - | - |
-|Comunica oralmente con efectividad a diferentes rangos de audiencia.| **Astrid Boronda** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> <br> <br> **Ely Cortez** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> <br> <br> <br> **Alexandra Ramos** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> <br> <br> <br> **Renzo Silva** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> <br> <br> **Fabrizio Quiroz** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> <br> <br>|<p>**TB1:**</p><p>Desarrollamos las entrevistas necesarias para la validación de la idea de nuestro proyecto.</p><p>**TP:**</p><p>Hemos desarrollado un video explicando el desarrollo progresivo del proyecto</p>|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia|<p>**Astrid Boronda** <br> TB1: Me enfoqué en realizar un análisis competitivo, identificando a los competidores y transmitiendo la información encontrada sobre sus ventajas competitivas. Estas ventajas se pueden aprovechar para el desarrollo del producto. De manera similar, utilicé herramientas como User Personas, Task Matrix y Empathy Map para conocer mejor a los segmentos objetivo. <br> <br> <br> **Ely Cortez** <br> TB1: La creación de Historias de Usuario ayudó a comprender las características del software desde la perspectiva del usuario, permitiendo definir las funciones necesarias para la construcción de la aplicación. stas historias permitieron establecer claramente qué funcionalidades eran prioritarias para satisfacer las necesidades del usuario final. Además, se complementó el análisis con la elaboración de un diagrama de clases, que ayudó a estructurar y organizar los componentes clave del sistema, mostrando las relaciones entre ellos y asegurando que la lógica del negocio estuviera bien definida desde una perspectiva técnica. <br> <br> <br> <br> **Alexandra Ramos** <br> TB1: Además, creé esquemas narrativos y diagramas de casos de uso que ayudaron a ilustrar las posibles interacciones de los usuarios con la aplicación. Estos materiales no solo facilitaron la comprensión del equipo, sino que también sirvieron como referencia para la toma de decisiones durante las etapas de diseño y desarrollo. <br> <br> <br> <br> **Renzo Silva** <br> TB1: En la realización de este proyecto, consideré importante comprender la problemática que rodea la solución propuesta, tomando en cuenta los antecedentes que permitieran profundizar en el escenario y contexto. Además, se delimitó el segmento objetivo afectado directamente por el problema. Utilicé la herramienta Lean UX Canvas para recopilar toda la información relevante y redactar una guía del proceso de desarrollo del producto. <br> <br> <br> **Fabrizio Quiroz** <br> TB1: Para lograr una mayor comprensión de las expectativas y necesidades del usuario, se realizó una fase de investigación exhaustiva que incluyó entrevistas y encuestas. Los resultados obtenidos fueron analizados y resumidos en informes detallados, que luego se compartieron con todo el equipo de desarrollo. Esto permitió que todos los involucrados tuvieran una visión clara de los puntos clave a abordar en el proyecto. <br> <br> <br>|<p>**TB1:**</p><p>Hemos desarrollado todo el primer paso para mostrar por primera vez nuestra Start Up y nuestra solución de Software. Desarrollamos todos los puntos necesarios, desde la descripción de la start up hasta los primeros mock-ups de la aplicación web que se piensa entregar al usuario final.</p><p>**TP:**</p><p>Desplegamos la primera versión de nuestra web site, aplicando todos los conocimientos adquiridos en clase. También, se realizaron cambios desde la entrega pasada para la entrega de un mejor producto.</p><p></p>|
+| Criterio específico                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.  | **Astrid Boronda** <br> TB1: En esta entrega se realizaron los diagramas C4, diagramas involucrados en el proceso de DDD o Domain Driven Design. Una característica de esta metodología es el uso del lenguaje ubicuo que permite a todos los stakeholders internos y externos del proyecto entender detalles técnicos a un alto nivel mediante la visualización de los diagramas. <br> <br> <br> **Ely Cortez** <br> TB1: Realizó la seccion de header en el landing page, además de su correspondiente codigo en javascript para cumplir funcionalidades. Adicionalmente se encargo de documentar los commits realizados por el equipo. <br> <br> <br> <br> **Alexandra Ramos** <br> TB1: Para el trabajo se hizo uso de github para documentar el trabajo de modo que se aprendió a utilizar conventional commits y gitflow de modo que se pueda tener una correcta comunicación escrita en lo que corresponde a la documentación del proyecto, además de aprender a utiizar el lenguaje markdown para comunicarlo mediante github en un archivo README.md <br> <br> <br> <br> **Renzo Silva** <br> TB1: En el informe se comunicaron las herramientas a utilizar, su utilidad y las convenciones típicas, esto con el objetivo de documentar el proceso de elaboración y de explicar a un público ajeno al entorno de desarrollo de software los pasos necesarios para diseñar a la aplicación. <br> <br> <br> **Fabrizio Quiroz** <br> TB1: Se llevó a cabo el proceso de entrevistas con los segmentos objetivos para realizar el proceso de _requirements elicitation_, se comunicó la propuesta de solución a los clientes esperados del proyecto y se dirigió el diseño de la solución a una opción que cumple con los requisitos solicitados. <br> <br> <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | <p>**TB1:**</p><p>Desarrollamos las entrevistas necesarias para la validación de la idea de nuestro proyecto.</p><p>**TP:**</p><p>Hemos desarrollado un video explicando el desarrollo progresivo del proyecto</p>                                                                                                                                                                                                                                                                                                                                     |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | <p>**Astrid Boronda** <br> TB1: Me enfoqué en realizar un análisis competitivo, identificando a los competidores y transmitiendo la información encontrada sobre sus ventajas competitivas. Estas ventajas se pueden aprovechar para el desarrollo del producto. De manera similar, utilicé herramientas como User Personas, Task Matrix y Empathy Map para conocer mejor a los segmentos objetivo. <br> <br> <br> **Ely Cortez** <br> TB1: La creación de Historias de Usuario ayudó a comprender las características del software desde la perspectiva del usuario, permitiendo definir las funciones necesarias para la construcción de la aplicación. stas historias permitieron establecer claramente qué funcionalidades eran prioritarias para satisfacer las necesidades del usuario final. Además, se complementó el análisis con la elaboración de un diagrama de clases, que ayudó a estructurar y organizar los componentes clave del sistema, mostrando las relaciones entre ellos y asegurando que la lógica del negocio estuviera bien definida desde una perspectiva técnica. <br> <br> <br> <br> **Alexandra Ramos** <br> TB1: Además, creé esquemas narrativos y diagramas de casos de uso que ayudaron a ilustrar las posibles interacciones de los usuarios con la aplicación. Estos materiales no solo facilitaron la comprensión del equipo, sino que también sirvieron como referencia para la toma de decisiones durante las etapas de diseño y desarrollo. <br> <br> <br> <br> **Renzo Silva** <br> TB1: En la realización de este proyecto, consideré importante comprender la problemática que rodea la solución propuesta, tomando en cuenta los antecedentes que permitieran profundizar en el escenario y contexto. Además, se delimitó el segmento objetivo afectado directamente por el problema. Utilicé la herramienta Lean UX Canvas para recopilar toda la información relevante y redactar una guía del proceso de desarrollo del producto. <br> <br> <br> **Fabrizio Quiroz** <br> TB1: Para lograr una mayor comprensión de las expectativas y necesidades del usuario, se realizó una fase de investigación exhaustiva que incluyó entrevistas y encuestas. Los resultados obtenidos fueron analizados y resumidos en informes detallados, que luego se compartieron con todo el equipo de desarrollo. Esto permitió que todos los involucrados tuvieran una visión clara de los puntos clave a abordar en el proyecto. <br> <br> <br> | <p>**TB1:**</p><p>Hemos desarrollado todo el primer paso para mostrar por primera vez nuestra Start Up y nuestra solución de Software. Desarrollamos todos los puntos necesarios, desde la descripción de la start up hasta los primeros mock-ups de la aplicación web que se piensa entregar al usuario final.</p><p>**TP:**</p><p>Desplegamos la primera versión de nuestra web site, aplicando todos los conocimientos adquiridos en clase. También, se realizaron cambios desde la entrega pasada para la entrega de un mejor producto.</p><p></p> |
 
 ## Contenido
 
@@ -165,10 +164,10 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
    2.3.4. [Empathy Mapping.](#2.3.4.)<br>
    2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
 3. [**Capítulo III: Requirements Specification.**](#3.)<br>
-3.1. [To-Be Scenario Mapping.](#3.1.)<br>
-3.2. [User Stories.](#3.2.)<br>
-3.3. [Impact Mapping.](#3.3.)<br>
-3.4. [Product Backlog.](#3.4.)<br>
+   3.1. [To-Be Scenario Mapping.](#3.1.)<br>
+   3.2. [User Stories.](#3.2.)<br>
+   3.3. [Impact Mapping.](#3.3.)<br>
+   3.4. [Product Backlog.](#3.4.)<br>
 4. [**Capítulo IV: Product Design.**](#4.)<br>
    4.1. [Style Guidelines.](#4.1.)<br>
    4.1.1. [General Style Guidelines.](#4.1.1.)<br>
@@ -242,13 +241,13 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 
 <div id='1.1.2.'><h4> 1.1.2. Perfiles de integrantes del equipo</h4></div>
 
-|Descripción de los integrantes del equipo|Foto de los integrantes del equipo|
-| :--------| :--------: |
-| Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, HTML, CSS y Python. |![Integrante_Astrid](assets/chapter-1/Integrante_Astrid.png)
-| Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.|![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)|
-| Mi nombre es Alexandra Belen Ramos Argüelles, soy estudiante de la carrera de Ingeniería de software y actualmente me encuentro cursando el 6to ciclo. Me considero una persona empática, responsable y perseverante. Me adapto muy bien a los trabajos en equipo. Poseo habilidades en programación en lenguajes como C++, C#, Python y Java. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue.|![Integrante_Alexandra](assets/chapter-1/Integrante_Alexandra.png)|
-| Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.|![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)|
-| Mi nombre es Fabrizio Javier Quiroz Zambrano, Me encanta todo lo que tenga que ver con la tecnología y el mundo competitivo de los videojuegos, siempre trato de ser el mejor en lo que hago.|![Integrante_Fabrizio](assets/chapter-1/Integrante_Fabrizio.png)|
+| Descripción de los integrantes del equipo                                                                                                                                                                                                                                                                                                                                                                                            |                 Foto de los integrantes del equipo                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------: |
+| Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, HTML, CSS y Python.                                                                                                                                                  |    ![Integrante_Astrid](assets/chapter-1/Integrante_Astrid.png)    |
+| Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.                                                                                               |       ![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)       |
+| Mi nombre es Alexandra Belen Ramos Argüelles, soy estudiante de la carrera de Ingeniería de software y actualmente me encuentro cursando el 6to ciclo. Me considero una persona empática, responsable y perseverante. Me adapto muy bien a los trabajos en equipo. Poseo habilidades en programación en lenguajes como C++, C#, Python y Java. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. | ![Integrante_Alexandra](assets/chapter-1/Integrante_Alexandra.png) |
+| Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.                                                                                                           |     ![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)     |
+| Mi nombre es Fabrizio Javier Quiroz Zambrano, Me encanta todo lo que tenga que ver con la tecnología y el mundo competitivo de los videojuegos, siempre trato de ser el mejor en lo que hago.                                                                                                                                                                                                                                        |  ![Integrante_Fabrizio](assets/chapter-1/Integrante_Fabrizio.png)  |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brindar herramientas innovadoras para el seguimiento, la gestión y la optimización de rutas. La plataforma fue diseñada para mejorar la eficiencia logística y garantizar la seguridad de la carga en todo momento.
@@ -291,7 +290,7 @@ El problema surge en varios puntos críticos del proceso de transporte de carga,
 
 ##### Who (Quién)
 
-###### ¿Quiénes están involucrados? 
+###### ¿Quiénes están involucrados?
 
 Los involucrados en el proceso son los transportistas, quienes son los responsables directos de llevar la carga desde su punto de origen hasta su destino final, enfrentándose a los desafíos del trayecto, como la planificación de rutas y la seguridad de la carga. Los empresarios, por su parte, son aquellos que confían en que la mercancía llegue en buen estado y a tiempo, además, suelen ser dueños de la carga o encargados de la logística dentro de sus compañías.
 
@@ -329,8 +328,7 @@ La necesidad de mejorar la seguridad y la eficiencia en el proceso de transporte
 
 ##### How much (Cuánto)
 
-Según informó Portal Portuario en abril del 2024, en los últimos años se ha presenciado un incremento del 25% en incidentes de robos de camiones de carga en el país. También se menciona que los principales motivos por los que se sufren robos son el aprovechamiento de puntos ciegos cuando el camión está en ruta o cuando el vehículo se encuentra en congestión vehicular.  Por último, remarca que se deben monitorear las rutas y los horarios de entrega, para de esta manera poder detectar cualquier actividad sospechosa y manejarla de la mejor manera.
-
+Según informó Portal Portuario en abril del 2024, en los últimos años se ha presenciado un incremento del 25% en incidentes de robos de camiones de carga en el país. También se menciona que los principales motivos por los que se sufren robos son el aprovechamiento de puntos ciegos cuando el camión está en ruta o cuando el vehículo se encuentra en congestión vehicular. Por último, remarca que se deben monitorear las rutas y los horarios de entrega, para de esta manera poder detectar cualquier actividad sospechosa y manejarla de la mejor manera.
 
 <div id='1.2.2.'><h4> 1.2.2. Lean UX Process.</h4></div>
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements.</h5></div>
@@ -341,12 +339,12 @@ Nuestro servicio ofrece una solución integral para enfrentar los desafíos que 
 
 ###### **Aspectos:**
 
-* **Domain:** Gestión y monitoreo de transporte de carga.
-* **Customer Segments:** Transportistas que realizan el traslado de carga y empresarios que necesitan monitorear sus envíos y optimizar sus procesos logísticos.
-* **Pain Points:** Los transportistas enfrentan dificultades para planificar rutas eficientes y seguras, lo que genera retrasos y riesgos para la mercancía. Los empresarios carecen de visibilidad en tiempo real sobre el estado de la carga, lo que crea incertidumbre y reduce su capacidad para reaccionar ante problemas inesperados, afectando la seguridad y la eficiencia del proceso.
-* **Gap:** Existe una brecha entre la necesidad de visibilidad y control del proceso de transporte por parte de los empresarios, y la capacidad de los transportistas para ofrecer un seguimiento y gestión eficiente de las rutas y de la seguridad de la carga.
-* **Visión/Strategy:** Desarrollar una plataforma integral que permita a transportistas y empresarios monitorear en tiempo real el estado de la carga, optimizar rutas de transporte y recibir notificaciones instantáneas sobre posibles incidentes, mejorando la seguridad y eficiencia de todo el proceso.
-* **Initial Segment:** Enfocarnos en crear herramientas que proporcionen monitoreo en tiempo real y alertas personalizadas, facilitando la toma de decisiones rápidas y reduciendo riesgos operativos para transportistas y empresarios, con el objetivo de mejorar la visibilidad y seguridad en el transporte de carga.
+- **Domain:** Gestión y monitoreo de transporte de carga.
+- **Customer Segments:** Transportistas que realizan el traslado de carga y empresarios que necesitan monitorear sus envíos y optimizar sus procesos logísticos.
+- **Pain Points:** Los transportistas enfrentan dificultades para planificar rutas eficientes y seguras, lo que genera retrasos y riesgos para la mercancía. Los empresarios carecen de visibilidad en tiempo real sobre el estado de la carga, lo que crea incertidumbre y reduce su capacidad para reaccionar ante problemas inesperados, afectando la seguridad y la eficiencia del proceso.
+- **Gap:** Existe una brecha entre la necesidad de visibilidad y control del proceso de transporte por parte de los empresarios, y la capacidad de los transportistas para ofrecer un seguimiento y gestión eficiente de las rutas y de la seguridad de la carga.
+- **Visión/Strategy:** Desarrollar una plataforma integral que permita a transportistas y empresarios monitorear en tiempo real el estado de la carga, optimizar rutas de transporte y recibir notificaciones instantáneas sobre posibles incidentes, mejorando la seguridad y eficiencia de todo el proceso.
+- **Initial Segment:** Enfocarnos en crear herramientas que proporcionen monitoreo en tiempo real y alertas personalizadas, facilitando la toma de decisiones rápidas y reduciendo riesgos operativos para transportistas y empresarios, con el objetivo de mejorar la visibilidad y seguridad en el transporte de carga.
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
 
@@ -387,99 +385,93 @@ El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con 
 7.  **Vamos a obtener ingresos mediante** la suscripción a nuestro servicio, ofreciendo diferentes planes según el tamaño de la flota o el nivel de seguimiento y análisis que el cliente necesite.
 8.  **Nuestra competencia en el mercado serán** otras plataformas de monitoreo de transporte y gestión de rutas, así como soluciones logísticas integradas ofrecidas por grandes proveedores.
 9.  **Vamos a tener ventaja frente a nuestra competencia debido a** nuestra interfaz intuitiva, enfoque especializado en transportistas y empresarios, y las capacidades avanzadas de personalización y notificaciones en tiempo real que mejoran la seguridad de la carga.
-10.  **El mayor riesgo del servicio es** la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
-11.  **Lo resolveremos realizando** campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
+10. **El mayor riesgo del servicio es** la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
+11. **Lo resolveremos realizando** campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
 
 ###### **User Outcomes:**
 
-* **Mayor seguridad en el transporte**
+- **Mayor seguridad en el transporte**
 
- Los transportistas y empresarios logran un mayor control sobre la seguridad de la carga, con notificaciones y alertas en tiempo real que les permiten reaccionar ante cualquier incidente o desvío.
+Los transportistas y empresarios logran un mayor control sobre la seguridad de la carga, con notificaciones y alertas en tiempo real que les permiten reaccionar ante cualquier incidente o desvío.
 
-* **Optimización de rutas**
+- **Optimización de rutas**
 
- Los usuarios disfrutan de una planificación de rutas más eficiente, ahorrando tiempo y combustible gracias a las recomendaciones inteligentes basadas en datos de tráfico y condiciones climáticas.
+Los usuarios disfrutan de una planificación de rutas más eficiente, ahorrando tiempo y combustible gracias a las recomendaciones inteligentes basadas en datos de tráfico y condiciones climáticas.
 
-* **Visibilidad completa del estado de la carga**
+- **Visibilidad completa del estado de la carga**
 
- Los usuarios pueden monitorear el estado y la ubicación exacta de su mercancía durante todo el proceso de transporte, lo que les brinda tranquilidad y confianza.
+Los usuarios pueden monitorear el estado y la ubicación exacta de su mercancía durante todo el proceso de transporte, lo que les brinda tranquilidad y confianza.
 
-* **Reducción de costos operativos**
+- **Reducción de costos operativos**
 
 Los transportistas y empresarios experimentan una disminución en los costos asociados con pérdidas, daños o retrasos gracias a un seguimiento más preciso y rutas mejor planificadas.
 
 ###### **Business Outcomes:**
 
-* **Aumento en la retención de clientes**
+- **Aumento en la retención de clientes**
 
- Gracias a la plataforma intuitiva y las soluciones efectivas que ofrece, los clientes continuarán utilizando el servicio a largo plazo, mejorando la lealtad a la empresa.
+Gracias a la plataforma intuitiva y las soluciones efectivas que ofrece, los clientes continuarán utilizando el servicio a largo plazo, mejorando la lealtad a la empresa.
 
-* **Crecimiento de la base de usuarios**
+- **Crecimiento de la base de usuarios**
 
- La plataforma atraerá nuevos usuarios que buscan mejorar la eficiencia y seguridad de sus operaciones de transporte, lo que resultará en una expansión del mercado.
+La plataforma atraerá nuevos usuarios que buscan mejorar la eficiencia y seguridad de sus operaciones de transporte, lo que resultará en una expansión del mercado.
 
-* **Incremento en los ingresos**
+- **Incremento en los ingresos**
 
- Los modelos de suscripción y los planes diferenciados basados en el uso de la plataforma proporcionarán fuentes de ingresos estables y escalables.
+Los modelos de suscripción y los planes diferenciados basados en el uso de la plataforma proporcionarán fuentes de ingresos estables y escalables.
 
-* **Posicionamiento competitivo**
+- **Posicionamiento competitivo**
 
 La empresa logrará una ventaja competitiva frente a otras soluciones logísticas, destacándose por su facilidad de uso, capacidades avanzadas de monitoreo y personalización para diferentes necesidades empresariales.
 
 ###### **Features:**
 
-* **Monitoreo en tiempo real de la carga**
+- **Monitoreo en tiempo real de la carga**
 
 Permite a los usuarios rastrear la ubicación exacta de su cargamento durante todo el trayecto, con actualizaciones en tiempo real sobre su estado y progreso.
 
-* **Alertas y notificaciones personalizadas**
+- **Alertas y notificaciones personalizadas**
 
 Los usuarios reciben alertas automáticas sobre desvíos, retrasos, cambios en las condiciones de la ruta, o posibles incidentes de seguridad, adaptadas a sus necesidades específicas.
 
-* **Optimización inteligente de rutas**
+- **Optimización inteligente de rutas**
 
 La plataforma ofrece recomendaciones de rutas basadas en datos de tráfico, clima y seguridad, ayudando a los transportistas a elegir el camino más eficiente y seguro.
 
-* **Informes y análisis detallados**
+- **Informes y análisis detallados**
 
 Genera informes personalizados que ofrecen datos sobre tiempos de entrega, eficiencia de las rutas, costos operativos, y más, permitiendo a los empresarios tomar decisiones informadas para mejorar sus operaciones logísticas.
 
-
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
-* **Hypothesis Statement 01:**
-    
-    **Creemos que** al proporcionar una plataforma que ofrezca herramientas avanzadas para el seguimiento en tiempo real, la gestión eficiente de rutas y la mejora en la seguridad de la carga, podemos reducir significativamente los riesgos y mejorar la eficiencia en el transporte de carga para transportistas y empresarios.
-    
-    **Sabremos** que lo hemos hecho bien
-    
-    **Cuando** veamos que el porcentaje de diversos inconvenientes baje un 25% en los clientes que usen la plataforma.
+- **Hypothesis Statement 01:**
 
-* **Hypothesis Statement 02:**
-    
-    **Creemos que** al implementar notificaciones en tiempo real y alertas personalizadas en nuestra plataforma, los transportistas y empresarios podrán reaccionar de manera más rápida y efectiva a posibles incidentes durante el transporte.
-    
-    **Sabremos** que lo hemos hecho bien
-    
-    **Cuando**  veamos una reducción en el tiempo de respuesta ante incidentes.
+  **Creemos que** al proporcionar una plataforma que ofrezca herramientas avanzadas para el seguimiento en tiempo real, la gestión eficiente de rutas y la mejora en la seguridad de la carga, podemos reducir significativamente los riesgos y mejorar la eficiencia en el transporte de carga para transportistas y empresarios.
 
-* **Hypothesis Statement 03:**
-    
-    **Creemos que** al ofrecer una interfaz de usuario intuitiva y fácil de usar, tanto en dispositivos móviles como en computadoras, podemos aumentar la adopción y el uso continuo de nuestra plataforma por parte de transportistas y empresarios.
+  **Sabremos** que lo hemos hecho bien
 
-    
-    **Sabremos** que lo hemos hecho bien
-    
-    **Cuando** veamos un incremento en la frecuencia de uso de la plataforma, un mayor tiempo de permanencia en la aplicación, y recibamos comentarios positivos sobre la experiencia de usuario por parte de los clientes.
+  **Cuando** veamos que el porcentaje de diversos inconvenientes baje un 25% en los clientes que usen la plataforma.
 
-* **Hypothesis Statement 04:**
-    
-    **Creemos que** al integrar un sistema de recomendaciones automáticas de rutas optimizadas, basado en factores como tráfico y clima, los transportistas podrán reducir los tiempos de entrega y mejorar la eficiencia operativa. 
-    
-    **Sabremos** que lo hemos hecho bien
-    
-    **Cuando** veamos que los transportistas mencionen el uso de estas recomendaciones y vean una mejora en los tiempos de entrega y una disminución de incidencias en el trayecto.
+- **Hypothesis Statement 02:**
 
+  **Creemos que** al implementar notificaciones en tiempo real y alertas personalizadas en nuestra plataforma, los transportistas y empresarios podrán reaccionar de manera más rápida y efectiva a posibles incidentes durante el transporte.
+
+  **Sabremos** que lo hemos hecho bien
+
+  **Cuando** veamos una reducción en el tiempo de respuesta ante incidentes.
+
+- **Hypothesis Statement 03:**
+
+  **Creemos que** al ofrecer una interfaz de usuario intuitiva y fácil de usar, tanto en dispositivos móviles como en computadoras, podemos aumentar la adopción y el uso continuo de nuestra plataforma por parte de transportistas y empresarios.
+
+  **Sabremos** que lo hemos hecho bien
+
+  **Cuando** veamos un incremento en la frecuencia de uso de la plataforma, un mayor tiempo de permanencia en la aplicación, y recibamos comentarios positivos sobre la experiencia de usuario por parte de los clientes.
+
+- **Hypothesis Statement 04:**
+  **Creemos que** al integrar un sistema de recomendaciones automáticas de rutas optimizadas, basado en factores como tráfico y clima, los transportistas podrán reducir los tiempos de entrega y mejorar la eficiencia operativa.
+  **Sabremos** que lo hemos hecho bien
+  **Cuando** veamos que los transportistas mencionen el uso de estas recomendaciones y vean una mejora en los tiempos de entrega y una disminución de incidencias en el trayecto.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
@@ -487,29 +479,30 @@ El Lean UX Canvas es una herramienta utilizada en el campo del diseño centrado 
 
 ![CargoSafe_LeanUXCanvas](assets/chapter-1/LeanUXCanvas.png)
 
-Enlace para acceder al [Lean UX Canvas](https://www.figma.com/board/bcEMECjgTvGn4oTfRc3KKR/Lean-UX-Canvas-(v2)?node-id=0-1&t=oqP4fklfl8Z4KYhT-1)
+Enlace para acceder al [Lean UX Canvas](<https://www.figma.com/board/bcEMECjgTvGn4oTfRc3KKR/Lean-UX-Canvas-(v2)?node-id=0-1&t=oqP4fklfl8Z4KYhT-1>)
 
 <div id='1.3.'><h3> 1.3. Segmentos objetivo.</h3></div>
 
 En el marco de nuestra propuesta innovadora, hemos identificado segmentos clave que se relacionan con el dominio del problema.
 
-* **Transportistas**
-  * Sexo: Masculino y Femenino
-  * Edad: Mayores de 25 años
-  * Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
-  * Nivel socioeconómico:
-    * A: Transportistas con varios vehículos en su propiedad. Suelen tener ingresos altos y operan en mercados más lucrativos.
-    * B: Transportistas autónomos o pequeños propietarios-operadores. Tienen ingresos medios-altos, pero con estabilidad laboral.
-    * C: Transportistas que trabajan para terceros, con ingresos medios o medios-bajos. Pueden no tener propiedad sobre los vehículos que manejan y su acceso a recursos financieros es más limitado.
+- **Transportistas**
 
-* **Empresarios**
-  * Sexo: Masculino y Femenino
-  * Edad: Mayores de 20 años
-  * Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
-  * Nivel socioeconómico:
-    * A: Grandes empresarios o dueños de empresas establecidas con altos ingresos. Tienen acceso a capital considerable, redes de influencia y recursos financieros avanzados.
-    * B: Empresarios medianos con ingresos medios-altos. Tienen acceso a financiamiento y recursos, pero en menor escala que los grandes empresarios.
-    * C: Pequeños empresarios con ingresos medios, dueños de negocios locales o familiares. Su acceso a recursos y capital es más limitado, y suelen operar en mercados más reducidos.
+  - Sexo: Masculino y Femenino
+  - Edad: Mayores de 25 años
+  - Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
+  - Nivel socioeconómico:
+    - A: Transportistas con varios vehículos en su propiedad. Suelen tener ingresos altos y operan en mercados más lucrativos.
+    - B: Transportistas autónomos o pequeños propietarios-operadores. Tienen ingresos medios-altos, pero con estabilidad laboral.
+    - C: Transportistas que trabajan para terceros, con ingresos medios o medios-bajos. Pueden no tener propiedad sobre los vehículos que manejan y su acceso a recursos financieros es más limitado.
+
+- **Empresarios**
+  - Sexo: Masculino y Femenino
+  - Edad: Mayores de 20 años
+  - Zona geográfica donde reside: áreas urbanas, suburbanas y rurales
+  - Nivel socioeconómico:
+    - A: Grandes empresarios o dueños de empresas establecidas con altos ingresos. Tienen acceso a capital considerable, redes de influencia y recursos financieros avanzados.
+    - B: Empresarios medianos con ingresos medios-altos. Tienen acceso a financiamiento y recursos, pero en menor escala que los grandes empresarios.
+    - C: Pequeños empresarios con ingresos medios, dueños de negocios locales o familiares. Su acceso a recursos y capital es más limitado, y suelen operar en mercados más reducidos.
 
 <div id='2.'><h2> Capítulo II: Requirements Elicitation & Analysis.</h2></div>
 
@@ -1188,78 +1181,70 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 
 <div id='3.2.'><h3> User Stories</h3></div>
 
-
-|Epic/User Story ID|Título|**Descripción**|Criterios de aceptación|Relacionado con (Epic ID)|
-| - | - | - | - | - |
-|Epic 1: Landing Page|||||
-|Como visitante Quiero visualizar una página informativa Para conocer más acerca de la aplicación web y poder ingresar a ella|||||
-|E1-US01|Barra de Navegación en la Landing Page| <p>**Como** visitante </p> <p>**Quiero** ver una barra de navegación en la landing page</p> **Para** acceder rápidamente a diferentes secciones de la página|<p>**Escenario 1:  El usuario visitante accede a la landing page**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page,</p><p>**Cuando** accede a la página,</p><p>**Entonces** la barra de navegación es visible en la parte superior de la página.</p><p></p><p></p><p>**Escenario 2:** </p><p>**El usuario visitante navega a diferentes secciones**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page,</p><p>**Cuando** hace clic en un enlace de la barra de navegación,</p><p>**Entonces** es dirigido a la sección correspondiente de la página sin necesidad de recargar.</p><p></p><p></p><p></p><p>**Escenario 3:** </p><p>**El usuario visitante visualiza la barra en diferentes dispositivos**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page usando un dispositivo móvil o de escritorio,</p><p>**Cuando** visualiza la página,</p><p>**Entonces** la barra de navegación se ajusta de manera adecuada al tamaño de la pantalla, mostrando un menú desplegable en dispositivos móviles si es necesario.</p><p></p><p>.</p><p></p><p></p><p></p>|1|
-|E1-US02|información sobre los beneficios del servicio|<p>**Como** visitante del sitio web,</p> <p>**Quiero** informarme sobre los beneficios del servicio ofrecido</p> <p>**Para** entender cómo puede beneficiarse del mismo</p>|<p></p><p></p><p>**Escenario 1:** </p><p>**El usuario visitante accede a la información sobre los beneficios del servicio**</p><p></p><p>**Dado** que el usuario visitante está navegando en el sitio web,</p><p>**Cuando** accede a la sección de beneficios del servicio,</p><p>**Entonces** encuentra información clara y detallada sobre cómo el servicio puede beneficiarlo.</p><p></p><p>**Escenario 2:**</p><p>` `**El usuario visitante comprende los beneficios del servicio**</p><p></p><p>**Dado** que el usuario visitante está leyendo sobre los beneficios del servicio,</p><p>**Cuando** revisa la información proporcionada,</p><p>**Entonces** entiende cómo el servicio puede resolver sus problemas o mejorar sus procesos.</p><p></p><p>**Escenario 3:** </p><p>**El usuario visitante visualiza ejemplos y casos de uso**</p><p></p><p></p><p>**Dado** que el usuario visitante está en la sección de beneficios del servicio,</p><p>**Cuando** revisa los ejemplos y casos de uso presentados,</p><p>**Entonces** visualiza claramente cómo el servicio ha beneficiado a otros clientes similares.</p><p></p><p>**Escenario 4:** </p><p>**El usuario visitante accede a una visualización atractiva de los beneficios**</p><p></p><p>**Dado** que el usuario visitante está en la sección de beneficios del servicio,</p><p>**Cuando** ve las infografías, imágenes o videos,</p><p>**Entonces** le resulta más fácil comprender y retener la información sobre los beneficios del servicio.</p><p></p>|1|
-|<p>E1-US03</p><p></p>|Conocer los testimonios de los clientes pasados|<p>**Como** visitante,</p><p> **Quiero** acceder a testimonios de clientes anteriores </p><p>**Para** evaluar la experiencia y el desempeño del servicio.</p>|<p>**Escenario 1:**</p><p>` `**El usuario visitante accede a testimonios visibles**</p><p></p><p>**Dado** que el usuario visitante está navegando en el sitio web,</p><p>**Cuando** llega a la sección de testimonios de clientes,</p><p>**Entonces** ve claramente los testimonios destacados de clientes anteriores.</p><p></p><p>**Escenario 2:  El usuario visitante evalúa el impacto de los testimonios**</p><p></p><p>**Dado** que el usuario visitante está considerando contratar el servicio,</p><p>**Cuando** revisa los testimonios de clientes anteriores,</p><p>**Entonces** se siente más seguro en su decisión al ver que otros han tenido experiencias positivas y beneficios tangibles con el servicio.</p><p></p>|1|
-|E1-US04|Informarse sobre los Diferentes Planes de Precio del Producto|<p>**Como** visitante, </p> <p>**Quiero** conocer los diferentes planes de precio disponibles para el servicio ofrecido</p><p>**Para** evaluar cuál se adapta mejor a mis necesidades y presupuesto.</p>|<p><h4><a name="_c5tvt42f68lr"></a>**Escenario 1:** </h4></p><p><h4><a name="_bke827fm9phf"></a>**El usuario visitante visualiza los planes de precio**</h4></p><p>**Dado** que el usuario visitante está navegando en el sitio web,<br>**Cuando** accede a la sección de precios,<br>**Entonces** ve claramente todos los planes de precio disponibles para el producto.</p><p><h4><a name="_9x7dbudsg4mq"></a>**Escenario 2:** </h4></p><p><h4><a name="_9iwd3kcb9dwi"></a>**El usuario visitante compara los planes de precio**</h4></p><p>**Dado** que el usuario visitante está revisando los diferentes planes de precio,<br>**Cuando** compara las características y beneficios de cada plan,<br>**Entonces** puede identificar fácilmente las diferencias entre ellos para tomar una decisión informada.</p><p><h4><a name="_of5wvjatdtjq"></a>**Escenario 3:** </h4></p><p><h4><a name="_6teze662xq7x"></a>**El usuario visitante evalúa la transparencia de los precios**</h4></p><p>**Dado** que el usuario visitante está evaluando los planes de precio,<br>**Cuando** revisa los costos asociados a cada plan,<br>**Entonces** ve una estructura de precios clara y sin cargos ocultos, lo que le permite confiar en la oferta del producto.</p>|1|
-|E1-US05|Contactar con la empresa|<p>**Como** visitante,</p><p> **Quiero** poder contactar fácilmente con la empresa desde la página de inicio.</p><p>**Para** resolver dudas o solicitar más información</p>|<p>**Escenario 1:** </p><p>**El usuario visitante visualiza la opción de contacto**</p><p></p><p>**Dado** que el usuario visitante está en la página de inicio,</p><p></p><p>**cuando** busca una forma de contactar a la empresa,</p><p>**entonces** encuentra fácilmente un enlace o botón de contacto visible en la parte superior o inferior de la página.</p><p></p><p>**Escenario 2:**</p><p>` `**El usuario visitante accede a la información de contacto**</p><p></p><p>**Dado** que el usuario visitante está en la página de contacto,</p><p>**Cuando** revisa las opciones disponibles,</p><p>**Entonces** ve información de contacto como número de teléfono, correo electrónico y direcciones de redes sociales.</p><p></p>||
-|<p></p><p></p><p>E1-US06</p>|<p></p><p></p><p>**Internacionalización de Idiomas**</p>|<p></p><p></p><p>**Como** visitante, </p><p>**Quiero** poder cambiar el idioma de la landing page</p><p> **Para** comprender mejor el contenido.</p><p></p>|<p></p><p></p><p></p><p>**Escenario 1:  El usuario cambia el idioma desde el menú de opciones**</p><p></p><p>**Dado** que el usuario está en la landing page,</p><p>**cuando** selecciona un idioma diferente desde el menú de opciones,</p><p>**entonces** todo el contenido de la página se traduce automáticamente al idioma seleccionado.</p><p>**Escenario 2:  El usuario mantiene la persistencia del idioma seleccionado**</p><p></p><p>**Dado**  que el usuario ha cambiado el idioma de la landing page,</p><p>**Cuando** navega a otras secciones del sitio web,</p><p>**Entonces** el idioma seleccionado se mantiene sin necesidad de cambiarlo nuevamente.</p><p></p><p>**Escenario 3:**</p><p>**El usuario visualiza el indicador de idioma actual**</p><p></p><p>**Dado** que el usuario está navegando por la landing page,</p><p>**Cuando** revisa las opciones de idioma en el menú,</p><p>**Entonces** el idioma opuesto se resalta o se indica claramente para evitar confusiones.</p><p></p>||
-|<p>Epic 2: </p><p>Administración de cargas</p><p></p><p>E2-US06</p>|Monitoreo en Tiempo Real de Cargas|<p>**Como** empresa transportista,</p><p> **Quiero** rastrear el estado y la ubicación de una carga </p><p>**Para** informar al cliente sobre el progreso del envío.</p>|<p>**Escenario 1:**</p><p>` `**El empresario visualiza el mapa con la ubicación de la carga**</p><p></p><p>**Dado** que el empresario está conectado a la aplicación web,</p><p>**Cuando** selecciona una carga activa,</p><p>**Entonces** ve un mapa con la ubicación actual y el estado de la carga.</p><p></p><p>**Escenario 2:**</p><p>` `**El empresario recibe actualizaciones en tiempo real**</p><p></p><p>**Dado** que el empresario está visualizando el mapa con la ubicación de la carga,</p><p>**Cuando** la ubicación o el estado de la carga cambia,</p><p>**Entonces** el mapa se actualiza en tiempo real para reflejar la información más reciente.</p><p></p><p></p><p>**Escenario 3:** </p><p>**El empresario notifica el progreso al cliente**</p><p></p><p>**Dado** que el empresario ha rastreado la carga y tiene información actualizada,</p><p>**Cuando** desea informar al cliente sobre el progreso,</p><p>**Entonces** puede enviar una notificación automática o manual con los detalles del estado y ubicación de la carga.</p><p>**Escenario 4:** </p><p>**El empresario accede a detalles de la carga**</p><p></p><p>**Dado** que el empresario ha seleccionado una carga activa,</p><p>**Cuando** ve el mapa con la ubicación,</p><p>**Entonces** también tiene acceso a detalles adicionales como el horario estimado de llegada y el historial de ubicaciones anteriores.</p><p></p>||
-|<p>E2-US 07</p><p></p>|Seguridad de la carga|<p>**Como** empresa transportista,</p><p> **Quiero** asegurar la seguridad de la carga </p><p>**Para** prevenir daños o pérdidas durante el transporte.</p>|<p></p><p>**Escenario 1:** </p><p>**El transportista responde a alertas de seguridad**</p><p></p><p>**Dado** que el transportista ha recibido una alerta de seguridad,</p><p>**Cuando** recibe una notificación de desviación o parada no autorizada,</p><p>**Entonces** puede tomar acciones inmediatas para verificar la situación y asegurar la carga.</p><p></p><p>**Escenario 2: El transportista revisa el historial de alertas**</p><p></p><p>**Dado** que el transportista está rastreando una carga,</p><p>**Cuando**  revisa el historial de alertas,</p><p>**Entonces** puede ver un registro completo de todas las alertas de seguridad recibidas durante el transporte.</p><p></p>||
-|<p>E2-US 08</p><p></p>|Analisis preventivo|<p>**Como** transportista,</p> <p>**Quiero** realizar un análisis preventivo de las mercancías a transportar </p><p>**Para** anticipar posibles riesgos y tomar medidas proactivas.</p>|<p>**Escenario 1:** </p><p>**El transportista visualiza recomendaciones preventivas**</p><p></p><p>**Dado** que el transportista ha revisado los detalles del pedido,</p><p>**Cuando**  nota condiciones especiales de transporte,</p><p>**Entonces** ve recomendaciones específicas para el manejo seguro de las mercancías.</p><p></p><p>Escenario 2: **El transportista registra medidas preventivas tomadas**</p><p></p><p>**Dado** que el transportista ha seguido las recomendaciones preventivas,</p><p>**Cuando** revisa el historial de análisis preventivo,</p><p>**Entonces** puede ver un registro de las medidas que se tomaron para cada pedido y su impacto en la seguridad del transporte.</p><p></p><p></p>||
-|E2-US 09|Registro de rutas|<p>**Como** transportista,</p> <p>**Quiero** registrar mis rutas habituales</p><p>**Para** optimizar la asignación de futuros envíos.</p>|<p>**Escenario 1:**</p><p>` `**El transportista registra nuevas rutas**</p><p></p><p>**Dado**  que el transportista está conectado a la aplicación web,</p><p>**Cuando** accede a la sección de rutas en el panel,</p><p>**Entonces** puede agregar nuevas rutas habituales al sistema.</p><p></p><p>**Escenario 2:** </p><p>**El transportista edita rutas existentes**</p><p></p><p>**Dado** que el transportista está en la sección de rutas del panel de control,</p><p>**Cuando** selecciona una ruta existente,</p><p>**Entonces** puede editar los detalles de la ruta para actualizarla según cambios en las condiciones o necesidades.</p><p>**Escenario 3:** </p><p>**El transportista visualiza rutas registradas**</p><p></p><p>**Dado** que el transportista ha registrado o editado rutas,</p><p>**Cuando** revisa la sección de rutas en el panel de control,</p><p>**Entonces** ve una lista completa de todas las rutas habituales registradas y editadas.</p><p></p>||
-|E2-US 10|Gestión de Vehículos|<p>**Como** transportista,</p> <p> **Quiero** gestionar la información de mis vehículos</p><p> **Para** mantener sus detalles y estado actualizados.|<p></p><p></p><p>**Escenario 1:**</p><p>` `**El transportista agrega vehículos a la base de datos**</p><p></p><p>**Dado** que el transportista tiene varios vehículos,</p><p>**Cuando** accede a la sección de vehículos en la aplicación,</p><p>**Entonces** puede agregar la información de nuevos vehículos a la vista de registrar vehículos.</p><p></p><p>**Escenario 2:**</p><p>**El transportista edita información de vehículos existentes**</p><p></p><p>**Dado** que el transportista ha registrado vehículos en la vista de registrar vehículos,</p><p>**Cuando** selecciona un vehículo existente en la sección de vehículos,</p><p>**Entonces** </p><p>puede editar los detalles del vehículo, como el estado, la matrícula o el tipo de vehículo.</p><p></p><p>**Escenario 3:** </p><p>**El transportista elimina vehículos** </p><p></p><p>**Dado** que el transportista ha registrado vehículos en la vista de registrar vehículos,</p><p>**Cuando** decide eliminar un vehículo,</p><p>**Entonces** puede eliminar la información del vehículo de manera permanente.</p><p></p><p>**Escenario 4:** </p><p>**El transportista visualiza información actualizada de vehículos**</p><p></p><p>**Dado** que el transportista ha agregado, editado o eliminado vehículos,</p><p>**Cuando** revisa la sección de vehículos en la aplicación,</p><p>**Entonces** ve una lista actualizada con toda la información de los vehículos, reflejando los cambios realizados.</p><p></p>||
-|E3-US 10|Recepción de órdenes de transporte |<p>**Como** emprendedor, **Quiero** recibir órdenes de transporte de manera clara y organizada</p><p>**Para** gestionar eficientemente los envíos entrantes.</p>|<p>**Escenario 1:**</p><p>` `**El emprendedor visualiza órdenes pendientes**</p><p></p><p>**Dado** que tengo órdenes de transporte asignadas,</p><p>**Cuando** accedo a la sección de órdenes en la aplicación,</p><p>**Entonces** veo una lista clara y organizada de todas las órdenes pendientes.</p><p></p><p>**Escenario 2:  El emprendedor acepta órdenes**</p><p></p><p>**Dado** que estoy revisando la lista de órdenes pendientes,</p><p>**Cuando** selecciono una orden para aceptar,</p><p></p><p>**Entonces** </p><p>puedo confirmar la orden y la información se actualiza en el sistema.</p><p></p><p>**Escenario 3:** </p><p>` `**El emprendedor rechaza órdenes**</p><p></p><p>**Dado** </p><p>que estoy revisando la lista de órdenes pendientes,</p><p>**Cuando** </p><p></p><p>selecciono una orden para rechazar</p><p></p><p>**Entonces** </p><p>puedo rechazar la orden y la información se actualiza en el sistema.</p><p></p>||
-|E3-US 11|Confirmación de Recepción de Mercancías|<p>**Como** emprendedor, **Quiero** confirmar la recepción de las mercancías al finalizar la entrega</p><p>**Para** asegurarme de que todo ha sido recibido en buen estado y según lo esperado</p>|<p>**Escenario 1:** </p><p>**El emprendedor confirma la recepción tras la entrega**</p><p></p><p>**Dado** </p><p>que el emprendedor está haciendo seguimiento de su pedido,</p><p></p><p>**Y** que las mercancías han llegado,</p><p>**Cuando** el transportista marca la entrega como completada,</p><p>**Entonces** el emprendedor recibe una notificación para confirmar la recepción de las mercancías.</p><p><h4><a name="_45pi2evmlu2q"></a>**Escenario 2: El emprendedor verifica el estado de la entrega**</h4></p><p>**Dado** que el emprendedor ha recibido la notificación de confirmación,<br>**Cuando** revisa el estado de la entrega,<br>**Entonces** puede verificar que las mercancías están en buen estado y coinciden con lo esperado.</p><p><h4><a name="_tewg0hu0o54m"></a>**Escenario 3: El emprendedor resuelve discrepancias**</h4></p><p>**Dado** que el emprendedor ha confirmado la recepción de las mercancías,<br>**Cuando** encuentra alguna discrepancia o daño,<br>**Entonces** puede reportar el problema a través del sistema para que se tomen las medidas adecuadas.</p><p><h4><a name="_vp7phvr3gf6u"></a>**Escenario 4: El emprendedor registra la confirmación de recepción**</h4></p><p>**Dado** que el emprendedor ha confirmado la recepción de las mercancías,<br>**Cuando** revisa el historial de pedidos,<br>**Entonces** ve un registro actualizado que incluye la fecha y hora de la confirmación de recepción y cualquier nota adicional sobre el estado de la entrega.</p><p></p><p></p>||
-|E3-US 12|Realizar Solicitudes de Transporte|<p>**Como** emprendedor</p><p>**Quiero** realizar solicitudes de transporte</p><p>**Para** enviar y pedir mercancías de manera eficiente</p>|<p><h4><a name="_9r4qpu2ggdl7"></a>**Escenario 1: El emprendedor accede a la sección de órdenes**</h4></p><p>**Dado** que el emprendedor tiene mercancías para enviar,<br>**Cuando** accede a la sección de órdenes en la aplicación,<br>**Entonces** puede ver la opción para realizar nuevas solicitudes de transporte.</p><p><h4><a name="_ofben0yzovyi"></a>**Escenario 2: El emprendedor ingresa los detalles de envío**</h4></p><p>**Dado** que el emprendedor está en la sección de órdenes,<br>**Cuando** ingresa los detalles del envío, como la dirección de origen, destino, tipo de mercancía y fecha deseada,<br>**Entonces** el sistema muestra un resumen de la información ingresada para su revisión.</p><p><h4><a name="_n367ddmfuc83"></a>**Escenario 3: El emprendedor confirma la solicitud de transporte**</h4></p><p>**Dado** que el emprendedor ha ingresado todos los detalles del envío,<br>**Cuando** revisa y confirma la información,<br>**Entonces** puede colocar la orden de transporte y recibir una confirmación de que la solicitud ha sido registrada exitosamente.</p><p></p><p></p><p></p>||
-|E3-US 13|Elegir transportista|<p>**Como** emprendedor</p><p>**Quiero** poder elegir transportistas para mis envíos</p><p>**Para** optimizar el costo y el tiempo de entrega</p>|<p><h4><a name="_uqo81c7essdk"></a>**Escenario 1: El emprendedor filtra transportistas por calificación**</h4></p><p>**Dado** que el emprendedor tiene un envío que realizar,<br>**Cuando** accede a la lista de transportistas,<br>**Entonces** puede filtrar los transportistas según sus calificaciones para seleccionar uno con una buena reputación.</p><p><h4><a name="_hp5ub0nq2wef"></a>**Escenario 2: El emprendedor filtra transportistas por disponibilidad**</h4></p><p>**Dado** que el emprendedor está revisando la lista de transportistas,<br>**Cuando** aplica el filtro de disponibilidad,<br>**Entonces** ve solo aquellos transportistas que están disponibles para realizar el envío en la fecha deseada.</p><p><h4><a name="_e5d1u2645b44"></a>**Escenario 3: El emprendedor selecciona un transportista**</h4></p><p>**Dado** que el emprendedor ha filtrado los transportistas por calificación y disponibilidad,<br>**Cuando** revisa los resultados del filtro,<br>**Entonces** puede seleccionar un transportista adecuado para su envío y proceder con la contratación.</p><p><h4><a name="_s27naw6h6sof"></a>**Escenario 4: El emprendedor confirma la elección del transportista**</h4></p><p>**Dado** que el emprendedor ha seleccionado un transportista,<br>**Cuando** confirma la selección,<br>**Entonces** recibe una confirmación de que el transportista ha sido asignado para el envío y los detalles se actualizan en el sistema.</p><p></p><p></p>||
-|E3-US 14|Seguimiento de Envíos|<p>**Como** emprendedor</p><p>**Quiero** rastrear mi envío en tiempo real</p><p>**Para** estar informado sobre su progreso</p>|<p>**Escenario 1: El emprendedor visualiza la ubicación actual del envío**</p><p></p><p>**Dado** que el emprendedor ha contratado a un transportista,</p><p>**Cuando** selecciona el envío en su panel de control,</p><p>**Entonces** ve la ubicación actual del envío en un mapa.</p><p></p><p>**Escenario 2: El emprendedor estima el tiempo de llegada**</p><p></p><p>**Dado** que el emprendedor está viendo la ubicación actual del envío,</p><p>**Cuando** revisa los detalles del seguimiento,</p><p>**Entonces** puede ver la estimación del tiempo de llegada del envío a su destino.</p><p></p><p></p><p><h4><a name="_yewf9wwgtbus"></a>**Escenario 3: El emprendedor recibe actualizaciones en tiempo real**</h4></p><p>**Dado** que el emprendedor está rastreando el envío,<br>**Cuando** hay cambios en la ubicación o el estado del envío,<br>**Entonces** la información en el panel de control se actualiza en tiempo real para reflejar la información más reciente.</p><p><h4><a name="_iei08d6u2hmc"></a>**Escenario 4: El emprendedor recibe notificaciones de cambios en el progreso**</h4></p><p>**Dado** que el emprendedor está realizando el seguimiento del envío,<br>**Cuando** se producen cambios significativos en el progreso (por ejemplo, retrasos o cambios en la ruta),<br>**Entonces** recibe notificaciones para estar al tanto de cualquier alteración en el estado del envío.</p><p></p><p></p>||
-|E3-US 15|Visualización de Gastos Incurridos por  Viaje|<p>**Como** emprendedor</p><p>**Quiero** ver un desglose de los gastos incurridos durante el viaje</p><p>**Para** mantener un control financiero claro</p>|<p>**Escenario 1:  El emprendedor accede al informe de entrega**</p><p></p><p>**Dado** que el emprendedor sabe que su pedido ha sido enviado,</p><p>**Cuando** accede al informe de entrega,<br>**Entonces** puede ver un desglose detallado de los gastos asociados con el viaje.</p><p><h4><a name="_53yg61j5tn21"></a>**Escenario 2: El emprendedor visualiza el desglose de gastos**</h4></p><p>**Dado** que el emprendedor está revisando el informe de entrega,<br>**Cuando** visualiza el desglose de gastos,<br>**Entonces** ve una lista detallada de todos los costos incurridos durante el viaje, como combustible, peajes y otros gastos relacionados.</p><p></p><p></p>||
-|E3-US 16|Alertas para Eventos Importantes Durante la Entrega|<p>**Como** emprendedor</p><p>**Quiero** recibir alertas para eventos relevantes durante la entrega</p><p>**Para** estar al tanto de cualquier cambio o problema</p>|<p><h4><a name="_di2cpqokdo2f"></a>**Escenario 1: Recepción de alertas por retrasos**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** ocurre un retraso en la entrega,<br>**Entonces** recibe una notificación inmediata informando del retraso y de la nueva estimación de tiempo de llegada.</p><p><h4><a name="_en305ez4h6as"></a>**Escenario 2: Recepción de alertas por desviaciones de ruta**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** el envío se desvía de la ruta planificada,<br>**Entonces** recibe una alerta informando sobre la desviación y los posibles motivos.</p><p><h4><a name="_vx02899daq8q"></a>**Escenario 3: Recepción de alertas por problemas con la carga**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** se detecta un problema con la carga, como daños o pérdida,<br>**Entonces** recibe una notificación inmediata con detalles sobre el problema.</p><p></p><p></p>||
-|E4-US 17|Registro de Cuenta|<p>**Como** nuevo usuario</p><p>**Quiero** poder registrarme en la plataforma</p><p>**Para** comenzar a utilizar sus servicios</p>|<p><h4><a name="_3cr3ngczb3wf"></a>**Escenario 1: Acceso a la página de registro**</h4></p><p>**Dado** que el usuario es nuevo y desea registrarse,<br>**Cuando** accede a la página de registro,<br>**Entonces** puede ver el formulario de registro y los campos necesarios para ingresar su información.</p><p><h4><a name="_12wak9nf77pz"></a>**Escenario 2: Validación de datos del usuario**</h4></p><p>**Dado** que el usuario ha ingresado sus datos en el formulario de registro,<br>**Cuando** envía la información,<br>**Entonces** el sistema valida los datos ingresados para asegurarse de que cumplan con los requisitos, como formato correcto y campos obligatorios.</p><p><h4><a name="_nssh8fh08wgv"></a>**Escenario 3: Creación de cuenta exitosa**</h4></p><p>**Dado** que los datos del usuario han sido validados correctamente,<br>**Cuando** la información es aceptada por el sistema,<br>**Entonces** se crea una cuenta y el usuario recibe una confirmación de registro exitoso.</p><p></p><p></p>||
-|E4-US 18|Inicio de Sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la plataforma</p><p>**Para** acceder a mis servicios personalizados</p>|<p><h4><a name="_uxztv5xqun7y"></a>**Escenario 1: Acceso a la página de inicio de sesión**</h4></p><p>**Dado** que el usuario está registrado en la plataforma,<br>**Cuando** accede a la página de inicio de sesión,<br>**Entonces** puede ver los campos para ingresar su nombre de usuario y contraseña.</p><p><h4><a name="_1emhi5702eri"></a>**Escenario 2: Ingreso de credenciales correctas**</h4></p><p>**Dado** que el usuario está en la página de inicio de sesión,<br>**Cuando** ingresa sus credenciales correctas (nombre de usuario y contraseña),<br>**Entonces** puede enviar la información para autenticación.</p><p><h4><a name="_ybmqd0f09wf0"></a>**Escenario 3: Acceso exitoso a la cuenta**</h4></p><p>**Dado** que el usuario ha ingresado credenciales correctas,<br>**Cuando** el sistema verifica y auténtica la información,<br>**Entonces** el usuario accede a su cuenta y es dirigido al home de la aplicación.</p>||
-|E4-US 19|Recuperación de Contraseña|<p>**Como** usuario registrado</p><p>**Quiero** poder recuperar mi contraseña en caso de olvidarla</p><p>**Para** poder acceder nuevamente a mi cuenta</p>|<p><h4><a name="_x7810ti3fxen"></a>**Escenario 1: Acceso a la opción de recuperación de contraseña**</h4></p><p>**Dado** que el usuario ha olvidado su contraseña,<br>**Cuando** accede a la opción de "Recuperar Contraseña" en la página de inicio de sesión,<br>**Entonces** puede ver el formulario para ingresar su dirección de correo electrónico.</p><p><h4><a name="_z345nues19c9"></a>**Escenario 2: Envío de solicitud de recuperación**</h4></p><p>**Dado** que el usuario ha ingresado su dirección de correo electrónico en el formulario de recuperación,<br>**Cuando** envía la solicitud,<br>**Entonces** el sistema procesa la solicitud y envía un correo electrónico con instrucciones para restablecer la contraseña.</p><p><h4><a name="_2pqrpa1xmsbu"></a>**Escenario 3: Restablecimiento de contraseña**</h4></p><p>**Dado** que el usuario ha recibido el correo electrónico con el enlace para restablecer la contraseña,<br>**Cuando** sigue el enlace y establece una nueva contraseña,<br>**Entonces** la contraseña se actualiza en el sistema y el usuario puede iniciar sesión con la nueva contraseña.</p><p></p><p></p>||
-|E4-US 20|Cerrar Sesión|<p>**Como** usuario registrado</p><p>**Quiero** poder cerrar sesión en cualquier momento</p><p>**Para** asegurar la privacidad y seguridad de mi cuenta</p>|<p><h4><a name="_vlg874yurxea"></a>**Escenario 1: Selección de la opción de cierre de sesión**</h4></p><p>**Dado** que el usuario está utilizando la plataforma,<br>**Cuando** selecciona la opción de "Cerrar Sesión" en el menú de usuario,<br>**Entonces** el sistema procesa la solicitud de cierre de sesión.</p><p><h4><a name="_d2070dhb4yvz"></a>**Escenario 2: Confirmación del cierre de sesión**</h4></p><p>**Dado** que el usuario ha solicitado cerrar sesión,<br>**Cuando** el sistema confirma la acción,<br>**Entonces** se cierra la sesión y se eliminan las credenciales de la sesión actual.</p><p><h4><a name="_krqnpoocc9a8"></a>**Escenario 3: Redirección a la página de inicio de sesión**</h4></p><p>**Dado** que el usuario ha cerrado sesión correctamente,<br>**Cuando** la sesión se ha cerrado,<br>**Entonces** el usuario es redirigido automáticamente a la página de inicio de sesión para volver a ingresar sus credenciales si lo desea.</p><p></p><p></p>||
-|E4-US 21|Autenticación del Transportista|<p>**Como** transportista</p><p>**Quiero** completar un proceso de verificación de identidad</p><p>**Para** garantizar confianza y seguridad en la plataforma</p>|<p><h4><a name="_8o1oswwrsm93"></a>**Escenario 1: Acceso al proceso de verificación**</h4></p><p>**Dado** que el transportista es nuevo en la aplicación,<br>**Cuando** se ha registrado en la plataforma,<br>**Entonces** recibe instrucciones para iniciar el proceso de verificación de identidad.</p><p><h4><a name="_rage256qbwiv"></a>**Escenario 2: Envío de documentos de identificación**</h4></p><p>**Dado** que el transportista ha recibido las instrucciones para la verificación,<br>**Cuando** envía sus documentos de identificación según las instrucciones proporcionadas,<br>**Entonces** el sistema recibe y procesa los documentos para completar la verificación de identidad.</p><p><h4><a name="_uxkf0xkc8co7"></a>**Escenario 3: Confirmación de recepción de documentos**</h4></p><p>**Dado** que el transportista ha enviado los documentos necesarios,<br>**Cuando** el sistema recibe y revisa los documentos,<br>**Entonces** el transportista recibe una confirmación de que los documentos han sido recibidos y están siendo revisados.</p><p><h4><a name="_cyiwtremt62"></a>**Escenario 4: Finalización del proceso de verificación**</h4></p><p>**Dado** que el sistema ha revisado y aprobado los documentos de identificación,<br>**Cuando** la verificación de identidad se completa exitosamente,<br>**Entonces** el transportista recibe una notificación de que la verificación ha sido exitosa y su cuenta está activada para el uso en la plataforma.</p><p></p><p></p>||
-
-
-
-
-
-
-
+| Epic/User Story ID                                                                                                           | Título                                                        | **Descripción**                                                                                                                                                                                          | Criterios de aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Relacionado con (Epic ID) |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| Epic 1: Landing Page                                                                                                         |                                                               |                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                           |
+| Como visitante Quiero visualizar una página informativa Para conocer más acerca de la aplicación web y poder ingresar a ella |                                                               |                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                           |
+| E1-US01                                                                                                                      | Barra de Navegación en la Landing Page                        | <p>**Como** visitante </p> <p>**Quiero** ver una barra de navegación en la landing page</p> **Para** acceder rápidamente a diferentes secciones de la página                                             | <p>**Escenario 1: El usuario visitante accede a la landing page**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page,</p><p>**Cuando** accede a la página,</p><p>**Entonces** la barra de navegación es visible en la parte superior de la página.</p><p></p><p></p><p>**Escenario 2:** </p><p>**El usuario visitante navega a diferentes secciones**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page,</p><p>**Cuando** hace clic en un enlace de la barra de navegación,</p><p>**Entonces** es dirigido a la sección correspondiente de la página sin necesidad de recargar.</p><p></p><p></p><p></p><p>**Escenario 3:** </p><p>**El usuario visitante visualiza la barra en diferentes dispositivos**</p><p></p><p>**Dado** que el usuario visitante se encuentra en la landing page usando un dispositivo móvil o de escritorio,</p><p>**Cuando** visualiza la página,</p><p>**Entonces** la barra de navegación se ajusta de manera adecuada al tamaño de la pantalla, mostrando un menú desplegable en dispositivos móviles si es necesario.</p><p></p><p>.</p><p></p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                       | 1                         |
+| E1-US02                                                                                                                      | información sobre los beneficios del servicio                 | <p>**Como** visitante del sitio web,</p> <p>**Quiero** informarme sobre los beneficios del servicio ofrecido</p> <p>**Para** entender cómo puede beneficiarse del mismo</p>                              | <p></p><p></p><p>**Escenario 1:** </p><p>**El usuario visitante accede a la información sobre los beneficios del servicio**</p><p></p><p>**Dado** que el usuario visitante está navegando en el sitio web,</p><p>**Cuando** accede a la sección de beneficios del servicio,</p><p>**Entonces** encuentra información clara y detallada sobre cómo el servicio puede beneficiarlo.</p><p></p><p>**Escenario 2:**</p><p>` `**El usuario visitante comprende los beneficios del servicio**</p><p></p><p>**Dado** que el usuario visitante está leyendo sobre los beneficios del servicio,</p><p>**Cuando** revisa la información proporcionada,</p><p>**Entonces** entiende cómo el servicio puede resolver sus problemas o mejorar sus procesos.</p><p></p><p>**Escenario 3:** </p><p>**El usuario visitante visualiza ejemplos y casos de uso**</p><p></p><p></p><p>**Dado** que el usuario visitante está en la sección de beneficios del servicio,</p><p>**Cuando** revisa los ejemplos y casos de uso presentados,</p><p>**Entonces** visualiza claramente cómo el servicio ha beneficiado a otros clientes similares.</p><p></p><p>**Escenario 4:** </p><p>**El usuario visitante accede a una visualización atractiva de los beneficios**</p><p></p><p>**Dado** que el usuario visitante está en la sección de beneficios del servicio,</p><p>**Cuando** ve las infografías, imágenes o videos,</p><p>**Entonces** le resulta más fácil comprender y retener la información sobre los beneficios del servicio.</p><p></p>              | 1                         |
+| <p>E1-US03</p><p></p>                                                                                                        | Conocer los testimonios de los clientes pasados               | <p>**Como** visitante,</p><p> **Quiero** acceder a testimonios de clientes anteriores </p><p>**Para** evaluar la experiencia y el desempeño del servicio.</p>                                            | <p>**Escenario 1:**</p><p>` `**El usuario visitante accede a testimonios visibles**</p><p></p><p>**Dado** que el usuario visitante está navegando en el sitio web,</p><p>**Cuando** llega a la sección de testimonios de clientes,</p><p>**Entonces** ve claramente los testimonios destacados de clientes anteriores.</p><p></p><p>**Escenario 2: El usuario visitante evalúa el impacto de los testimonios**</p><p></p><p>**Dado** que el usuario visitante está considerando contratar el servicio,</p><p>**Cuando** revisa los testimonios de clientes anteriores,</p><p>**Entonces** se siente más seguro en su decisión al ver que otros han tenido experiencias positivas y beneficios tangibles con el servicio.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1                         |
+| E1-US04                                                                                                                      | Informarse sobre los Diferentes Planes de Precio del Producto | <p>**Como** visitante, </p> <p>**Quiero** conocer los diferentes planes de precio disponibles para el servicio ofrecido</p><p>**Para** evaluar cuál se adapta mejor a mis necesidades y presupuesto.</p> | <p><h4><a name="_c5tvt42f68lr"></a>**Escenario 1:** </h4></p><p><h4><a name="_bke827fm9phf"></a>**El usuario visitante visualiza los planes de precio**</h4></p><p>**Dado** que el usuario visitante está navegando en el sitio web,<br>**Cuando** accede a la sección de precios,<br>**Entonces** ve claramente todos los planes de precio disponibles para el producto.</p><p><h4><a name="_9x7dbudsg4mq"></a>**Escenario 2:** </h4></p><p><h4><a name="_9iwd3kcb9dwi"></a>**El usuario visitante compara los planes de precio**</h4></p><p>**Dado** que el usuario visitante está revisando los diferentes planes de precio,<br>**Cuando** compara las características y beneficios de cada plan,<br>**Entonces** puede identificar fácilmente las diferencias entre ellos para tomar una decisión informada.</p><p><h4><a name="_of5wvjatdtjq"></a>**Escenario 3:** </h4></p><p><h4><a name="_6teze662xq7x"></a>**El usuario visitante evalúa la transparencia de los precios**</h4></p><p>**Dado** que el usuario visitante está evaluando los planes de precio,<br>**Cuando** revisa los costos asociados a cada plan,<br>**Entonces** ve una estructura de precios clara y sin cargos ocultos, lo que le permite confiar en la oferta del producto.</p>                                                                                                                                                                                                                                                                             | 1                         |
+| E1-US05                                                                                                                      | Contactar con la empresa                                      | <p>**Como** visitante,</p><p> **Quiero** poder contactar fácilmente con la empresa desde la página de inicio.</p><p>**Para** resolver dudas o solicitar más información</p>                              | <p>**Escenario 1:** </p><p>**El usuario visitante visualiza la opción de contacto**</p><p></p><p>**Dado** que el usuario visitante está en la página de inicio,</p><p></p><p>**cuando** busca una forma de contactar a la empresa,</p><p>**entonces** encuentra fácilmente un enlace o botón de contacto visible en la parte superior o inferior de la página.</p><p></p><p>**Escenario 2:**</p><p>` `**El usuario visitante accede a la información de contacto**</p><p></p><p>**Dado** que el usuario visitante está en la página de contacto,</p><p>**Cuando** revisa las opciones disponibles,</p><p>**Entonces** ve información de contacto como número de teléfono, correo electrónico y direcciones de redes sociales.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                           |
+| <p></p><p></p><p>E1-US06</p>                                                                                                 | <p></p><p></p><p>**Internacionalización de Idiomas**</p>      | <p></p><p></p><p>**Como** visitante, </p><p>**Quiero** poder cambiar el idioma de la landing page</p><p> **Para** comprender mejor el contenido.</p><p></p>                                              | <p></p><p></p><p></p><p>**Escenario 1: El usuario cambia el idioma desde el menú de opciones**</p><p></p><p>**Dado** que el usuario está en la landing page,</p><p>**cuando** selecciona un idioma diferente desde el menú de opciones,</p><p>**entonces** todo el contenido de la página se traduce automáticamente al idioma seleccionado.</p><p>**Escenario 2: El usuario mantiene la persistencia del idioma seleccionado**</p><p></p><p>**Dado** que el usuario ha cambiado el idioma de la landing page,</p><p>**Cuando** navega a otras secciones del sitio web,</p><p>**Entonces** el idioma seleccionado se mantiene sin necesidad de cambiarlo nuevamente.</p><p></p><p>**Escenario 3:**</p><p>**El usuario visualiza el indicador de idioma actual**</p><p></p><p>**Dado** que el usuario está navegando por la landing page,</p><p>**Cuando** revisa las opciones de idioma en el menú,</p><p>**Entonces** el idioma opuesto se resalta o se indica claramente para evitar confusiones.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                           |
+| <p>Epic 2: </p><p>Administración de cargas</p><p></p><p>E2-US06</p>                                                          | Monitoreo en Tiempo Real de Cargas                            | <p>**Como** empresa transportista,</p><p> **Quiero** rastrear el estado y la ubicación de una carga </p><p>**Para** informar al cliente sobre el progreso del envío.</p>                                 | <p>**Escenario 1:**</p><p>` `**El empresario visualiza el mapa con la ubicación de la carga**</p><p></p><p>**Dado** que el empresario está conectado a la aplicación web,</p><p>**Cuando** selecciona una carga activa,</p><p>**Entonces** ve un mapa con la ubicación actual y el estado de la carga.</p><p></p><p>**Escenario 2:**</p><p>` `**El empresario recibe actualizaciones en tiempo real**</p><p></p><p>**Dado** que el empresario está visualizando el mapa con la ubicación de la carga,</p><p>**Cuando** la ubicación o el estado de la carga cambia,</p><p>**Entonces** el mapa se actualiza en tiempo real para reflejar la información más reciente.</p><p></p><p></p><p>**Escenario 3:** </p><p>**El empresario notifica el progreso al cliente**</p><p></p><p>**Dado** que el empresario ha rastreado la carga y tiene información actualizada,</p><p>**Cuando** desea informar al cliente sobre el progreso,</p><p>**Entonces** puede enviar una notificación automática o manual con los detalles del estado y ubicación de la carga.</p><p>**Escenario 4:** </p><p>**El empresario accede a detalles de la carga**</p><p></p><p>**Dado** que el empresario ha seleccionado una carga activa,</p><p>**Cuando** ve el mapa con la ubicación,</p><p>**Entonces** también tiene acceso a detalles adicionales como el horario estimado de llegada y el historial de ubicaciones anteriores.</p><p></p>                                                                                                                   |                           |
+| <p>E2-US 07</p><p></p>                                                                                                       | Seguridad de la carga                                         | <p>**Como** empresa transportista,</p><p> **Quiero** asegurar la seguridad de la carga </p><p>**Para** prevenir daños o pérdidas durante el transporte.</p>                                              | <p></p><p>**Escenario 1:** </p><p>**El transportista responde a alertas de seguridad**</p><p></p><p>**Dado** que el transportista ha recibido una alerta de seguridad,</p><p>**Cuando** recibe una notificación de desviación o parada no autorizada,</p><p>**Entonces** puede tomar acciones inmediatas para verificar la situación y asegurar la carga.</p><p></p><p>**Escenario 2: El transportista revisa el historial de alertas**</p><p></p><p>**Dado** que el transportista está rastreando una carga,</p><p>**Cuando** revisa el historial de alertas,</p><p>**Entonces** puede ver un registro completo de todas las alertas de seguridad recibidas durante el transporte.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                           |
+| <p>E2-US 08</p><p></p>                                                                                                       | Analisis preventivo                                           | <p>**Como** transportista,</p> <p>**Quiero** realizar un análisis preventivo de las mercancías a transportar </p><p>**Para** anticipar posibles riesgos y tomar medidas proactivas.</p>                  | <p>**Escenario 1:** </p><p>**El transportista visualiza recomendaciones preventivas**</p><p></p><p>**Dado** que el transportista ha revisado los detalles del pedido,</p><p>**Cuando** nota condiciones especiales de transporte,</p><p>**Entonces** ve recomendaciones específicas para el manejo seguro de las mercancías.</p><p></p><p>Escenario 2: **El transportista registra medidas preventivas tomadas**</p><p></p><p>**Dado** que el transportista ha seguido las recomendaciones preventivas,</p><p>**Cuando** revisa el historial de análisis preventivo,</p><p>**Entonces** puede ver un registro de las medidas que se tomaron para cada pedido y su impacto en la seguridad del transporte.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                           |
+| E2-US 09                                                                                                                     | Registro de rutas                                             | <p>**Como** transportista,</p> <p>**Quiero** registrar mis rutas habituales</p><p>**Para** optimizar la asignación de futuros envíos.</p>                                                                | <p>**Escenario 1:**</p><p>` `**El transportista registra nuevas rutas**</p><p></p><p>**Dado** que el transportista está conectado a la aplicación web,</p><p>**Cuando** accede a la sección de rutas en el panel,</p><p>**Entonces** puede agregar nuevas rutas habituales al sistema.</p><p></p><p>**Escenario 2:** </p><p>**El transportista edita rutas existentes**</p><p></p><p>**Dado** que el transportista está en la sección de rutas del panel de control,</p><p>**Cuando** selecciona una ruta existente,</p><p>**Entonces** puede editar los detalles de la ruta para actualizarla según cambios en las condiciones o necesidades.</p><p>**Escenario 3:** </p><p>**El transportista visualiza rutas registradas**</p><p></p><p>**Dado** que el transportista ha registrado o editado rutas,</p><p>**Cuando** revisa la sección de rutas en el panel de control,</p><p>**Entonces** ve una lista completa de todas las rutas habituales registradas y editadas.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                           |
+| E2-US 10                                                                                                                     | Gestión de Vehículos                                          | <p>**Como** transportista,</p> <p> **Quiero** gestionar la información de mis vehículos</p><p> **Para** mantener sus detalles y estado actualizados.                                                     | <p></p><p></p><p>**Escenario 1:**</p><p>` `**El transportista agrega vehículos a la base de datos**</p><p></p><p>**Dado** que el transportista tiene varios vehículos,</p><p>**Cuando** accede a la sección de vehículos en la aplicación,</p><p>**Entonces** puede agregar la información de nuevos vehículos a la vista de registrar vehículos.</p><p></p><p>**Escenario 2:**</p><p>**El transportista edita información de vehículos existentes**</p><p></p><p>**Dado** que el transportista ha registrado vehículos en la vista de registrar vehículos,</p><p>**Cuando** selecciona un vehículo existente en la sección de vehículos,</p><p>**Entonces** </p><p>puede editar los detalles del vehículo, como el estado, la matrícula o el tipo de vehículo.</p><p></p><p>**Escenario 3:** </p><p>**El transportista elimina vehículos** </p><p></p><p>**Dado** que el transportista ha registrado vehículos en la vista de registrar vehículos,</p><p>**Cuando** decide eliminar un vehículo,</p><p>**Entonces** puede eliminar la información del vehículo de manera permanente.</p><p></p><p>**Escenario 4:** </p><p>**El transportista visualiza información actualizada de vehículos**</p><p></p><p>**Dado** que el transportista ha agregado, editado o eliminado vehículos,</p><p>**Cuando** revisa la sección de vehículos en la aplicación,</p><p>**Entonces** ve una lista actualizada con toda la información de los vehículos, reflejando los cambios realizados.</p><p></p>                                                |                           |
+| E3-US 10                                                                                                                     | Recepción de órdenes de transporte                            | <p>**Como** emprendedor, **Quiero** recibir órdenes de transporte de manera clara y organizada</p><p>**Para** gestionar eficientemente los envíos entrantes.</p>                                         | <p>**Escenario 1:**</p><p>` `**El emprendedor visualiza órdenes pendientes**</p><p></p><p>**Dado** que tengo órdenes de transporte asignadas,</p><p>**Cuando** accedo a la sección de órdenes en la aplicación,</p><p>**Entonces** veo una lista clara y organizada de todas las órdenes pendientes.</p><p></p><p>**Escenario 2: El emprendedor acepta órdenes**</p><p></p><p>**Dado** que estoy revisando la lista de órdenes pendientes,</p><p>**Cuando** selecciono una orden para aceptar,</p><p></p><p>**Entonces** </p><p>puedo confirmar la orden y la información se actualiza en el sistema.</p><p></p><p>**Escenario 3:** </p><p>` `**El emprendedor rechaza órdenes**</p><p></p><p>**Dado** </p><p>que estoy revisando la lista de órdenes pendientes,</p><p>**Cuando** </p><p></p><p>selecciono una orden para rechazar</p><p></p><p>**Entonces** </p><p>puedo rechazar la orden y la información se actualiza en el sistema.</p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                           |
+| E3-US 11                                                                                                                     | Confirmación de Recepción de Mercancías                       | <p>**Como** emprendedor, **Quiero** confirmar la recepción de las mercancías al finalizar la entrega</p><p>**Para** asegurarme de que todo ha sido recibido en buen estado y según lo esperado</p>       | <p>**Escenario 1:** </p><p>**El emprendedor confirma la recepción tras la entrega**</p><p></p><p>**Dado** </p><p>que el emprendedor está haciendo seguimiento de su pedido,</p><p></p><p>**Y** que las mercancías han llegado,</p><p>**Cuando** el transportista marca la entrega como completada,</p><p>**Entonces** el emprendedor recibe una notificación para confirmar la recepción de las mercancías.</p><p><h4><a name="_45pi2evmlu2q"></a>**Escenario 2: El emprendedor verifica el estado de la entrega**</h4></p><p>**Dado** que el emprendedor ha recibido la notificación de confirmación,<br>**Cuando** revisa el estado de la entrega,<br>**Entonces** puede verificar que las mercancías están en buen estado y coinciden con lo esperado.</p><p><h4><a name="_tewg0hu0o54m"></a>**Escenario 3: El emprendedor resuelve discrepancias**</h4></p><p>**Dado** que el emprendedor ha confirmado la recepción de las mercancías,<br>**Cuando** encuentra alguna discrepancia o daño,<br>**Entonces** puede reportar el problema a través del sistema para que se tomen las medidas adecuadas.</p><p><h4><a name="_vp7phvr3gf6u"></a>**Escenario 4: El emprendedor registra la confirmación de recepción**</h4></p><p>**Dado** que el emprendedor ha confirmado la recepción de las mercancías,<br>**Cuando** revisa el historial de pedidos,<br>**Entonces** ve un registro actualizado que incluye la fecha y hora de la confirmación de recepción y cualquier nota adicional sobre el estado de la entrega.</p><p></p><p></p> |                           |
+| E3-US 12                                                                                                                     | Realizar Solicitudes de Transporte                            | <p>**Como** emprendedor</p><p>**Quiero** realizar solicitudes de transporte</p><p>**Para** enviar y pedir mercancías de manera eficiente</p>                                                             | <p><h4><a name="_9r4qpu2ggdl7"></a>**Escenario 1: El emprendedor accede a la sección de órdenes**</h4></p><p>**Dado** que el emprendedor tiene mercancías para enviar,<br>**Cuando** accede a la sección de órdenes en la aplicación,<br>**Entonces** puede ver la opción para realizar nuevas solicitudes de transporte.</p><p><h4><a name="_ofben0yzovyi"></a>**Escenario 2: El emprendedor ingresa los detalles de envío**</h4></p><p>**Dado** que el emprendedor está en la sección de órdenes,<br>**Cuando** ingresa los detalles del envío, como la dirección de origen, destino, tipo de mercancía y fecha deseada,<br>**Entonces** el sistema muestra un resumen de la información ingresada para su revisión.</p><p><h4><a name="_n367ddmfuc83"></a>**Escenario 3: El emprendedor confirma la solicitud de transporte**</h4></p><p>**Dado** que el emprendedor ha ingresado todos los detalles del envío,<br>**Cuando** revisa y confirma la información,<br>**Entonces** puede colocar la orden de transporte y recibir una confirmación de que la solicitud ha sido registrada exitosamente.</p><p></p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                           |                           |
+| E3-US 13                                                                                                                     | Elegir transportista                                          | <p>**Como** emprendedor</p><p>**Quiero** poder elegir transportistas para mis envíos</p><p>**Para** optimizar el costo y el tiempo de entrega</p>                                                        | <p><h4><a name="_uqo81c7essdk"></a>**Escenario 1: El emprendedor filtra transportistas por calificación**</h4></p><p>**Dado** que el emprendedor tiene un envío que realizar,<br>**Cuando** accede a la lista de transportistas,<br>**Entonces** puede filtrar los transportistas según sus calificaciones para seleccionar uno con una buena reputación.</p><p><h4><a name="_hp5ub0nq2wef"></a>**Escenario 2: El emprendedor filtra transportistas por disponibilidad**</h4></p><p>**Dado** que el emprendedor está revisando la lista de transportistas,<br>**Cuando** aplica el filtro de disponibilidad,<br>**Entonces** ve solo aquellos transportistas que están disponibles para realizar el envío en la fecha deseada.</p><p><h4><a name="_e5d1u2645b44"></a>**Escenario 3: El emprendedor selecciona un transportista**</h4></p><p>**Dado** que el emprendedor ha filtrado los transportistas por calificación y disponibilidad,<br>**Cuando** revisa los resultados del filtro,<br>**Entonces** puede seleccionar un transportista adecuado para su envío y proceder con la contratación.</p><p><h4><a name="_s27naw6h6sof"></a>**Escenario 4: El emprendedor confirma la elección del transportista**</h4></p><p>**Dado** que el emprendedor ha seleccionado un transportista,<br>**Cuando** confirma la selección,<br>**Entonces** recibe una confirmación de que el transportista ha sido asignado para el envío y los detalles se actualizan en el sistema.</p><p></p><p></p>                                                |                           |
+| E3-US 14                                                                                                                     | Seguimiento de Envíos                                         | <p>**Como** emprendedor</p><p>**Quiero** rastrear mi envío en tiempo real</p><p>**Para** estar informado sobre su progreso</p>                                                                           | <p>**Escenario 1: El emprendedor visualiza la ubicación actual del envío**</p><p></p><p>**Dado** que el emprendedor ha contratado a un transportista,</p><p>**Cuando** selecciona el envío en su panel de control,</p><p>**Entonces** ve la ubicación actual del envío en un mapa.</p><p></p><p>**Escenario 2: El emprendedor estima el tiempo de llegada**</p><p></p><p>**Dado** que el emprendedor está viendo la ubicación actual del envío,</p><p>**Cuando** revisa los detalles del seguimiento,</p><p>**Entonces** puede ver la estimación del tiempo de llegada del envío a su destino.</p><p></p><p></p><p><h4><a name="_yewf9wwgtbus"></a>**Escenario 3: El emprendedor recibe actualizaciones en tiempo real**</h4></p><p>**Dado** que el emprendedor está rastreando el envío,<br>**Cuando** hay cambios en la ubicación o el estado del envío,<br>**Entonces** la información en el panel de control se actualiza en tiempo real para reflejar la información más reciente.</p><p><h4><a name="_iei08d6u2hmc"></a>**Escenario 4: El emprendedor recibe notificaciones de cambios en el progreso**</h4></p><p>**Dado** que el emprendedor está realizando el seguimiento del envío,<br>**Cuando** se producen cambios significativos en el progreso (por ejemplo, retrasos o cambios en la ruta),<br>**Entonces** recibe notificaciones para estar al tanto de cualquier alteración en el estado del envío.</p><p></p><p></p>                                                                                                   |                           |
+| E3-US 15                                                                                                                     | Visualización de Gastos Incurridos por Viaje                  | <p>**Como** emprendedor</p><p>**Quiero** ver un desglose de los gastos incurridos durante el viaje</p><p>**Para** mantener un control financiero claro</p>                                               | <p>**Escenario 1: El emprendedor accede al informe de entrega**</p><p></p><p>**Dado** que el emprendedor sabe que su pedido ha sido enviado,</p><p>**Cuando** accede al informe de entrega,<br>**Entonces** puede ver un desglose detallado de los gastos asociados con el viaje.</p><p><h4><a name="_53yg61j5tn21"></a>**Escenario 2: El emprendedor visualiza el desglose de gastos**</h4></p><p>**Dado** que el emprendedor está revisando el informe de entrega,<br>**Cuando** visualiza el desglose de gastos,<br>**Entonces** ve una lista detallada de todos los costos incurridos durante el viaje, como combustible, peajes y otros gastos relacionados.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                           |
+| E3-US 16                                                                                                                     | Alertas para Eventos Importantes Durante la Entrega           | <p>**Como** emprendedor</p><p>**Quiero** recibir alertas para eventos relevantes durante la entrega</p><p>**Para** estar al tanto de cualquier cambio o problema</p>                                     | <p><h4><a name="_di2cpqokdo2f"></a>**Escenario 1: Recepción de alertas por retrasos**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** ocurre un retraso en la entrega,<br>**Entonces** recibe una notificación inmediata informando del retraso y de la nueva estimación de tiempo de llegada.</p><p><h4><a name="_en305ez4h6as"></a>**Escenario 2: Recepción de alertas por desviaciones de ruta**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** el envío se desvía de la ruta planificada,<br>**Entonces** recibe una alerta informando sobre la desviación y los posibles motivos.</p><p><h4><a name="_vx02899daq8q"></a>**Escenario 3: Recepción de alertas por problemas con la carga**</h4></p><p>**Dado** que el emprendedor está registrado en el sistema,<br>**Cuando** se detecta un problema con la carga, como daños o pérdida,<br>**Entonces** recibe una notificación inmediata con detalles sobre el problema.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| E4-US 17                                                                                                                     | Registro de Cuenta                                            | <p>**Como** nuevo usuario</p><p>**Quiero** poder registrarme en la plataforma</p><p>**Para** comenzar a utilizar sus servicios</p>                                                                       | <p><h4><a name="_3cr3ngczb3wf"></a>**Escenario 1: Acceso a la página de registro**</h4></p><p>**Dado** que el usuario es nuevo y desea registrarse,<br>**Cuando** accede a la página de registro,<br>**Entonces** puede ver el formulario de registro y los campos necesarios para ingresar su información.</p><p><h4><a name="_12wak9nf77pz"></a>**Escenario 2: Validación de datos del usuario**</h4></p><p>**Dado** que el usuario ha ingresado sus datos en el formulario de registro,<br>**Cuando** envía la información,<br>**Entonces** el sistema valida los datos ingresados para asegurarse de que cumplan con los requisitos, como formato correcto y campos obligatorios.</p><p><h4><a name="_nssh8fh08wgv"></a>**Escenario 3: Creación de cuenta exitosa**</h4></p><p>**Dado** que los datos del usuario han sido validados correctamente,<br>**Cuando** la información es aceptada por el sistema,<br>**Entonces** se crea una cuenta y el usuario recibe una confirmación de registro exitoso.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                           |
+| E4-US 18                                                                                                                     | Inicio de Sesión                                              | <p>**Como** usuario registrado</p><p>**Quiero** poder iniciar sesión en la plataforma</p><p>**Para** acceder a mis servicios personalizados</p>                                                          | <p><h4><a name="_uxztv5xqun7y"></a>**Escenario 1: Acceso a la página de inicio de sesión**</h4></p><p>**Dado** que el usuario está registrado en la plataforma,<br>**Cuando** accede a la página de inicio de sesión,<br>**Entonces** puede ver los campos para ingresar su nombre de usuario y contraseña.</p><p><h4><a name="_1emhi5702eri"></a>**Escenario 2: Ingreso de credenciales correctas**</h4></p><p>**Dado** que el usuario está en la página de inicio de sesión,<br>**Cuando** ingresa sus credenciales correctas (nombre de usuario y contraseña),<br>**Entonces** puede enviar la información para autenticación.</p><p><h4><a name="_ybmqd0f09wf0"></a>**Escenario 3: Acceso exitoso a la cuenta**</h4></p><p>**Dado** que el usuario ha ingresado credenciales correctas,<br>**Cuando** el sistema verifica y auténtica la información,<br>**Entonces** el usuario accede a su cuenta y es dirigido al home de la aplicación.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                           |
+| E4-US 19                                                                                                                     | Recuperación de Contraseña                                    | <p>**Como** usuario registrado</p><p>**Quiero** poder recuperar mi contraseña en caso de olvidarla</p><p>**Para** poder acceder nuevamente a mi cuenta</p>                                               | <p><h4><a name="_x7810ti3fxen"></a>**Escenario 1: Acceso a la opción de recuperación de contraseña**</h4></p><p>**Dado** que el usuario ha olvidado su contraseña,<br>**Cuando** accede a la opción de "Recuperar Contraseña" en la página de inicio de sesión,<br>**Entonces** puede ver el formulario para ingresar su dirección de correo electrónico.</p><p><h4><a name="_z345nues19c9"></a>**Escenario 2: Envío de solicitud de recuperación**</h4></p><p>**Dado** que el usuario ha ingresado su dirección de correo electrónico en el formulario de recuperación,<br>**Cuando** envía la solicitud,<br>**Entonces** el sistema procesa la solicitud y envía un correo electrónico con instrucciones para restablecer la contraseña.</p><p><h4><a name="_2pqrpa1xmsbu"></a>**Escenario 3: Restablecimiento de contraseña**</h4></p><p>**Dado** que el usuario ha recibido el correo electrónico con el enlace para restablecer la contraseña,<br>**Cuando** sigue el enlace y establece una nueva contraseña,<br>**Entonces** la contraseña se actualiza en el sistema y el usuario puede iniciar sesión con la nueva contraseña.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                  |                           |
+| E4-US 20                                                                                                                     | Cerrar Sesión                                                 | <p>**Como** usuario registrado</p><p>**Quiero** poder cerrar sesión en cualquier momento</p><p>**Para** asegurar la privacidad y seguridad de mi cuenta</p>                                              | <p><h4><a name="_vlg874yurxea"></a>**Escenario 1: Selección de la opción de cierre de sesión**</h4></p><p>**Dado** que el usuario está utilizando la plataforma,<br>**Cuando** selecciona la opción de "Cerrar Sesión" en el menú de usuario,<br>**Entonces** el sistema procesa la solicitud de cierre de sesión.</p><p><h4><a name="_d2070dhb4yvz"></a>**Escenario 2: Confirmación del cierre de sesión**</h4></p><p>**Dado** que el usuario ha solicitado cerrar sesión,<br>**Cuando** el sistema confirma la acción,<br>**Entonces** se cierra la sesión y se eliminan las credenciales de la sesión actual.</p><p><h4><a name="_krqnpoocc9a8"></a>**Escenario 3: Redirección a la página de inicio de sesión**</h4></p><p>**Dado** que el usuario ha cerrado sesión correctamente,<br>**Cuando** la sesión se ha cerrado,<br>**Entonces** el usuario es redirigido automáticamente a la página de inicio de sesión para volver a ingresar sus credenciales si lo desea.</p><p></p><p></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                           |
+| E4-US 21                                                                                                                     | Autenticación del Transportista                               | <p>**Como** transportista</p><p>**Quiero** completar un proceso de verificación de identidad</p><p>**Para** garantizar confianza y seguridad en la plataforma</p>                                        | <p><h4><a name="_8o1oswwrsm93"></a>**Escenario 1: Acceso al proceso de verificación**</h4></p><p>**Dado** que el transportista es nuevo en la aplicación,<br>**Cuando** se ha registrado en la plataforma,<br>**Entonces** recibe instrucciones para iniciar el proceso de verificación de identidad.</p><p><h4><a name="_rage256qbwiv"></a>**Escenario 2: Envío de documentos de identificación**</h4></p><p>**Dado** que el transportista ha recibido las instrucciones para la verificación,<br>**Cuando** envía sus documentos de identificación según las instrucciones proporcionadas,<br>**Entonces** el sistema recibe y procesa los documentos para completar la verificación de identidad.</p><p><h4><a name="_uxkf0xkc8co7"></a>**Escenario 3: Confirmación de recepción de documentos**</h4></p><p>**Dado** que el transportista ha enviado los documentos necesarios,<br>**Cuando** el sistema recibe y revisa los documentos,<br>**Entonces** el transportista recibe una confirmación de que los documentos han sido recibidos y están siendo revisados.</p><p><h4><a name="_cyiwtremt62"></a>**Escenario 4: Finalización del proceso de verificación**</h4></p><p>**Dado** que el sistema ha revisado y aprobado los documentos de identificación,<br>**Cuando** la verificación de identidad se completa exitosamente,<br>**Entonces** el transportista recibe una notificación de que la verificación ha sido exitosa y su cuenta está activada para el uso en la plataforma.</p><p></p><p></p>                          |                           |
 
 <div id='3.3.'><h3> 3.3. Impact Mapping </h3></div>
 
 **Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV)
+
 <div align=center>
     <img src="./assets/chapter-3/Impact-Mapping-Carrier.png" width=350px >
 </div>
 
-
 <div id='3.4.'><h3> 3.4. Product Backlog </h3></div>
 
-| #   | User Story ID | Titulo                                        | Descripción                                                                                              | Story Points |
-|-----|---------------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------|
-| 1   | US-001        | Barra de Navegación en la Landing Page        | Como usuario visitante, quiero ver una barra de navegación en la landing page para acceder rápidamente a diferentes secciones de la página. | 3            |
-| 2   | US-002        | Información sobre los Beneficios del Servicio | Como visitante del sitio web, quiero informarme sobre los beneficios del servicio ofrecido.             | 5            |
-| 3   | US-003        | Conocer los Testimonios de los Clientes Pasados| Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del servicio. | 4            |
-| 4   | US-004        | Informarse sobre los Diferentes Planes de Precio del Producto | Como visitante, quiero conocer los diferentes planes de precio disponibles para el producto ofrecido. | 4            |
-| 5   | US-005        | Contactar con la Empresa                       | Como visitante, quiero poder contactarme fácilmente con la empresa desde la página de inicio.            | 3            |
-| 6   | US-006        | Idioma Internacionalizado                      | Como visitante, quiero poder cambiar el idioma de la landing page para entender mejor el contenido.      | 5            |
-| 7   | US-007        | Secciones Sobre el Producto y el Equipo        | Como visitante, quiero ver secciones sobre el producto y el equipo para conocer más sobre la empresa y sus servicios. | 6            |
-| 8   | US-008        | Seguimiento de Carga                           | Como transportista, quiero rastrear el estado y la ubicación de una carga para informar a los clientes sobre el progreso del envío. | 8            |
-| 9   | US-009        | Seguridad de la Carga                          | Como transportista, quiero asegurar la seguridad de la carga para prevenir daños o pérdidas durante el transporte. | 7            |
-| 10  | US-010        | Análisis Preventivo                            | Como transportista, quiero realizar un análisis preventivo sobre los bienes a transportar para anticipar posibles riesgos y tomar medidas proactivas. | 6            |
-| 11  | US-011        | Registro de Rutas                              | Como transportista, quiero registrar mis rutas habituales para optimizar la asignación de futuros envíos. | 5            |
-| 12  | US-012        | Gestión de Vehículos                           | Como transportista, quiero gestionar la información de mis vehículos para mantener sus detalles y estado actualizados. | 6            |
-| 13  | US-013        | Recepción de Órdenes de Transporte             | Como empresario, quiero recibir órdenes de transporte de manera clara y organizada para gestionar eficientemente los envíos entrantes. | 5            |
-| 14  | US-014        | Confirmación de Recepción de Bienes            | Como empresario, quiero confirmar la recepción de los bienes al final de la entrega para asegurarme de que todo ha llegado en buen estado y como se esperaba. | 4            |
-| 15  | US-015        | Realizar Solicitudes de Transporte             | Como empresario, quiero realizar órdenes de transporte para enviar mercancías de manera eficiente.       | 5            |
-| 16  | US-016        | Elegir Transportista                           | Como empresario, quiero poder elegir transportistas para mis envíos para optimizar el costo y el tiempo de entrega. | 6            |
-| 17  | US-017        | Seguimiento de Envíos                          | Como empresario, quiero rastrear mis envíos en tiempo real para estar informado sobre su progreso.      | 7            |
-| 18  | US-018        | Visualización de Gastos Durante el Viaje       | Como empresario, quiero ver un desglose de los gastos incurridos durante el viaje para mantener un control financiero claro. | 5            |
-| 19  | US-019        | Alertas para Eventos Importantes Durante la Entrega | Como empresario, quiero recibir alertas para eventos relevantes durante la entrega para estar al tanto de cualquier cambio o problema. | 6            |
-| 20  | US-020        | Registro de Cuenta                             | Como nuevo usuario, quiero poder registrarme en la plataforma para comenzar a utilizar sus servicios.     | 5            |
-| 21  | US-021        | Inicio de Sesión                               | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mis servicios personalizados. | 4            |
-| 22  | US-022        | Recuperación de Contraseña                     | Como usuario registrado, quiero poder recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta. | 6            |
-| 23  | US-023        | Cierre de Sesión                               | Como usuario registrado, quiero poder cerrar sesión en cualquier momento para asegurar la privacidad y seguridad de mi cuenta. | 3            |
-| 24  | US-024        | Autenticación del Transportista                | Como transportista, quiero completar un proceso de verificación de identidad para garantizar confianza y seguridad en la plataforma. | 7            |
+| #   | User Story ID | Titulo                                                        | Descripción                                                                                                                                                   | Story Points |
+| --- | ------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 1   | US-001        | Barra de Navegación en la Landing Page                        | Como usuario visitante, quiero ver una barra de navegación en la landing page para acceder rápidamente a diferentes secciones de la página.                   | 3            |
+| 2   | US-002        | Información sobre los Beneficios del Servicio                 | Como visitante del sitio web, quiero informarme sobre los beneficios del servicio ofrecido.                                                                   | 5            |
+| 3   | US-003        | Conocer los Testimonios de los Clientes Pasados               | Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del servicio.                                  | 4            |
+| 4   | US-004        | Informarse sobre los Diferentes Planes de Precio del Producto | Como visitante, quiero conocer los diferentes planes de precio disponibles para el producto ofrecido.                                                         | 4            |
+| 5   | US-005        | Contactar con la Empresa                                      | Como visitante, quiero poder contactarme fácilmente con la empresa desde la página de inicio.                                                                 | 3            |
+| 6   | US-006        | Idioma Internacionalizado                                     | Como visitante, quiero poder cambiar el idioma de la landing page para entender mejor el contenido.                                                           | 5            |
+| 7   | US-007        | Secciones Sobre el Producto y el Equipo                       | Como visitante, quiero ver secciones sobre el producto y el equipo para conocer más sobre la empresa y sus servicios.                                         | 6            |
+| 8   | US-008        | Seguimiento de Carga                                          | Como transportista, quiero rastrear el estado y la ubicación de una carga para informar a los clientes sobre el progreso del envío.                           | 8            |
+| 9   | US-009        | Seguridad de la Carga                                         | Como transportista, quiero asegurar la seguridad de la carga para prevenir daños o pérdidas durante el transporte.                                            | 7            |
+| 10  | US-010        | Análisis Preventivo                                           | Como transportista, quiero realizar un análisis preventivo sobre los bienes a transportar para anticipar posibles riesgos y tomar medidas proactivas.         | 6            |
+| 11  | US-011        | Registro de Rutas                                             | Como transportista, quiero registrar mis rutas habituales para optimizar la asignación de futuros envíos.                                                     | 5            |
+| 12  | US-012        | Gestión de Vehículos                                          | Como transportista, quiero gestionar la información de mis vehículos para mantener sus detalles y estado actualizados.                                        | 6            |
+| 13  | US-013        | Recepción de Órdenes de Transporte                            | Como empresario, quiero recibir órdenes de transporte de manera clara y organizada para gestionar eficientemente los envíos entrantes.                        | 5            |
+| 14  | US-014        | Confirmación de Recepción de Bienes                           | Como empresario, quiero confirmar la recepción de los bienes al final de la entrega para asegurarme de que todo ha llegado en buen estado y como se esperaba. | 4            |
+| 15  | US-015        | Realizar Solicitudes de Transporte                            | Como empresario, quiero realizar órdenes de transporte para enviar mercancías de manera eficiente.                                                            | 5            |
+| 16  | US-016        | Elegir Transportista                                          | Como empresario, quiero poder elegir transportistas para mis envíos para optimizar el costo y el tiempo de entrega.                                           | 6            |
+| 17  | US-017        | Seguimiento de Envíos                                         | Como empresario, quiero rastrear mis envíos en tiempo real para estar informado sobre su progreso.                                                            | 7            |
+| 18  | US-018        | Visualización de Gastos Durante el Viaje                      | Como empresario, quiero ver un desglose de los gastos incurridos durante el viaje para mantener un control financiero claro.                                  | 5            |
+| 19  | US-019        | Alertas para Eventos Importantes Durante la Entrega           | Como empresario, quiero recibir alertas para eventos relevantes durante la entrega para estar al tanto de cualquier cambio o problema.                        | 6            |
+| 20  | US-020        | Registro de Cuenta                                            | Como nuevo usuario, quiero poder registrarme en la plataforma para comenzar a utilizar sus servicios.                                                         | 5            |
+| 21  | US-021        | Inicio de Sesión                                              | Como usuario registrado, quiero poder iniciar sesión en la plataforma para acceder a mis servicios personalizados.                                            | 4            |
+| 22  | US-022        | Recuperación de Contraseña                                    | Como usuario registrado, quiero poder recuperar mi contraseña en caso de olvidarla para poder acceder nuevamente a mi cuenta.                                 | 6            |
+| 23  | US-023        | Cierre de Sesión                                              | Como usuario registrado, quiero poder cerrar sesión en cualquier momento para asegurar la privacidad y seguridad de mi cuenta.                                | 3            |
+| 24  | US-024        | Autenticación del Transportista                               | Como transportista, quiero completar un proceso de verificación de identidad para garantizar confianza y seguridad en la plataforma.                          | 7            |
 
 <div id='4.'><h2> Capítulo IV: Product Design.</h2></div>
 
@@ -1267,17 +1252,15 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 
 **4.1.1. [General Style Guidelines.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.1.1.)**
 
-**Branding:** 
+**Branding:**
 
 El camión simboliza movimiento, eficiencia y confiabilidad, valores clave para nuestra startup de logística y automatización de entregas. Este ícono representa nuestro compromiso de ofrecer soluciones tecnológicas que optimicen el transporte de mercancías, asegurando que cada entrega llegue a su destino de manera rápida y segura. Además, el camión refleja la fortaleza y capacidad de nuestra plataforma para manejar diferentes tipos de carga, desde productos perecederos hasta materiales delicados, siempre adaptándonos a las necesidades de nuestros clientes.
 
 ![cargosafe](assets/chapter-4/cargosafeimg.png)
 
-
-
 **Tipografías:**
 
-Para las tipografías optamos por forum y  DM Sans.
+Para las tipografías optamos por forum y DM Sans.
 
 ![forum](assets/chapter-4/forumfuenteimg.png)
 ![dmsans](assets/chapter-4/dmsansfuente.png)
@@ -1287,9 +1270,6 @@ Para las tipografías optamos por forum y  DM Sans.
 Nuestra paleta de colores consta de 4 colores, los cuales son amarillo(#F1F500)un negro (#0E0D0C), un blanco para las letras(#FFFFFF) y un plomo oscuro para los fondos(#393939).
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.004.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.005.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.006.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.007.png)
-
-
-
 
 **Margin:**
 
@@ -1305,8 +1285,7 @@ Teniendo en cuenta que todos los diseños tienen que ser responsive nosotros opt
 
 **4.1.2. [Web Style Guidelines.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.1.2.)**
 
-**Enlace del figma: <https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=85-2738&t=jxGSmKw9luCnRLDL-1>** 
-
+**Enlace del figma: <https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=85-2738&t=jxGSmKw9luCnRLDL-1>**
 
 Con nuestro landing se busco tener un landing page elegante y bonito a la vista, y tiene poco botones en la primera pagina
 
@@ -1320,35 +1299,13 @@ En la sección de Costumers presentamos un article con las opiniones de algunos 
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.010.png)
 
-Y finalmente se puede ver un article  con información acerca de donde nos encontramos e información de contacto y el footer.
+Y finalmente se puede ver un article con información acerca de donde nos encontramos e información de contacto y el footer.
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.011.png)
 
 Importante: la web está diseñada a su vez para ser responsive, con plena compatibilidad con Android y IOS.
 
-
-
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.012.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **4.2. [Information Architecture.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.)**
 
@@ -1365,8 +1322,6 @@ En términos de categorización del contenido, segmentaremos la plataforma en fu
 En la página de inicio, hemos decidido minimizar el uso de íconos en los enlaces, priorizando en su lugar el uso de texto con botones resaltados. Esta elección nos ayuda a mantener un diseño limpio y minimalista en la landing page.
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.013.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.014.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.015.png)
-
-
 
 **4.2.3. [SEO Tags and Meta Tags](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.2.3.)**
 
@@ -1394,7 +1349,9 @@ El sistema de navegación estará optimizado tanto para dispositivos móviles co
 En esta sección, presentamos nuestra propuesta de diseño de interfaz de usuario (UI) para el Landing Page de nuestra plataforma de logística. Hemos traducido nuestras decisiones de diseño y arquitectura de la información en una experiencia visualmente atractiva y altamente funcional, diseñada para captar la atención de los usuarios desde el primer momento.
 
 El Landing Page representa la primera impresión que los visitantes tendrán de nuestra plataforma, por lo que es fundamental que refleje fielmente nuestra marca, transmita con claridad nuestros mensajes clave, y guíe a los usuarios hacia las acciones que queremos que realicen, como el seguimiento de envíos o la gestión de pedidos.
+
 ### <a name="_1289fybh9r93"></a>Principios de Diseño y Estrategias Implementadas:
+
 - Jerarquía Visual: Utilizamos una jerarquía visual clara, donde los elementos más importantes como el título principal y los botones de llamada a la acción (CTA) están resaltados con un tamaño de fuente prominente y colores llamativos. Esto facilita que los usuarios identifiquen rápidamente las secciones clave y sepan dónde interactuar.
 - Diseño Minimalista y Limpio: Hemos optado por un diseño minimalista que prioriza la claridad y simplicidad. Esto no solo facilita la navegación, sino que también reduce el ruido visual, permitiendo a los usuarios concentrarse en la funcionalidad principal de nuestra plataforma.
 - Colores y Tipografía Consistentes: El esquema de colores está alineado con la identidad de nuestra marca, utilizando tonos que evocan confianza y seguridad. La tipografía es moderna y fácil de leer, con diferentes tamaños y pesos para crear contrastes que guían al usuario a través de la página de manera intuitiva.
@@ -1403,9 +1360,9 @@ El Landing Page representa la primera impresión que los visitantes tendrán de 
 
 **4.3.1. [Landing Page Wireframe.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.1.)**
 
-**Enlace del figma web:** 
+**Enlace del figma web:**
 
-[**https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-\(Community\)?node-id=32-107&t=jxGSmKw9luCnRLDL-1)** 
+[\*\*https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](<https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1>)\*\*
 
 A continuación diseñamos el cómo sería el wireframe de nuestra landing page usando Figma
 
@@ -1423,9 +1380,9 @@ Version mobile:
 
 **4.3.2. [Landing Page Mock-up.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.3.2.)**
 
-**Enlace del figma web:** 
+**Enlace del figma web:**
 
-[**https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-\(Community\)?node-id=32-107&t=jxGSmKw9luCnRLDL-1)**  
+[\*\*https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1](<https://www.figma.com/design/ZsG5OvytHfaag1LbrL9Y7V/Web-to-Figma-(Community)?node-id=32-107&t=jxGSmKw9luCnRLDL-1>)\*\*
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.022.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.023.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.024.png)
 
@@ -1436,15 +1393,6 @@ Version mobile:
 Registro de empresario o empresa de logística:
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.025.png)
-
-
-
-
-
-
-
-
-
 
 **Dashboard para empresarios:**
 
@@ -1466,24 +1414,23 @@ Registro de empresario o empresa de logística:
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.030.png)
 
-**Iniciar sesion y asociar tarjeta:
+\*\*Iniciar sesion y asociar tarjeta:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.031.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.031.png)\*\*
 
-**Agendar paquetes y observar pedidos agendados:
+\*\*Agendar paquetes y observar pedidos agendados:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.032.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.032.png)\*\*
 
-**Trackear orden en tiempo real:
+\*\*Trackear orden en tiempo real:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.033.png)**
-
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.033.png)\*\*
 
 **4.4.2. [Web Applications Wireflow Diagrams.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.2.)**
 
-**user goal:Como usuario quiero poder registrarme,  iniciar sesion y ver el dashboard**
+**user goal:Como usuario quiero poder registrarme, iniciar sesion y ver el dashboard**
 
-En la pagina principal del landing page le damos click al icono inferior derecho la cual nos lleva directamente a la pagina de inicio de sesion en la cual si iniciamos sesion como empresa de logistica nos lleva directamente al dashboard para 
+En la pagina principal del landing page le damos click al icono inferior derecho la cual nos lleva directamente a la pagina de inicio de sesion en la cual si iniciamos sesion como empresa de logistica nos lleva directamente al dashboard para
 empresas de logistica y si somos empresarios nos lleva al dashboard para empresarios; si en la pagina de inicio de sesion le damos a registrar tenemos dos opciones registrarse como empresario normal y como empresa de logistica luego de pasar
 por el registro nos llevara a una pagina en la cual nos pedira ingresar una tarjeta para recibir y pagar.
 
@@ -1504,24 +1451,20 @@ con estos pedidos podemos elegir el tipo de transporte que vamos a elegir
 
 **User goal: Como empresario quiero poder trackear mi orden en tiempo real**
 
-En el dashboard vamos a nuestro perfil con el boton superior derecho,luego en nuestro perfil como empresario podemos darle click al boton que esta en esquina superior derecha la cual nos lleva a la pagina de seguir ruta y 
+En el dashboard vamos a nuestro perfil con el boton superior derecho,luego en nuestro perfil como empresario podemos darle click al boton que esta en esquina superior derecha la cual nos lleva a la pagina de seguir ruta y
 esto nos lleva al pedido en curso en tiempo real en el cual podemos monitorear.
 
 ![realtimeorder](assets/chapter-4/realtimeorder.jpeg)
 
-
-
-
-
 **4.4.3. [Web Applications Mock-ups.](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.3.)**
 
-**user goal:Landing page
+\*\*user goal:Landing page
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.038.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.039.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.038.png)![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.039.png)\*\*
 
-**user goal:Dashboards
+\*\*user goal:Dashboards
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)\*\*
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.041.png)
 
@@ -1531,26 +1474,23 @@ esto nos lleva al pedido en curso en tiempo real en el cual podemos monitorear.
 
 ![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.043.png)
 
-**user goal:Inicio de sesión , registro y registro de tarjeta:
+\*\*user goal:Inicio de sesión , registro y registro de tarjeta:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)\*\*
 
-**user goal:Agendar paquete y ver pedidos agendados:
+\*\*user goal:Agendar paquete y ver pedidos agendados:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)\*\*
 
-**user goal:Elegir tipo de auto para pedido:
+\*\*user goal:Elegir tipo de auto para pedido:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)\*\*
 
-**user goal: Trackear orden en tiempo real:
+\*\*user goal: Trackear orden en tiempo real:
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)**
+![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)\*\*
 
-
-**4.4.4. [Web Applications User Flow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.4.)**
-
-
+**4.4.4. [Web Applications User Flow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.4.)\*\*
 
 **User goal: Como empresario quiero poder ver mi orden en tiempo real**
 
@@ -1560,14 +1500,12 @@ de su perfil en el cuadro en la parte inferior derecha podemos escribirle al con
 
 ![realtimeorder](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.048.png)
 
-
 **User goal: Como empresario quiero poder agendar mis pedidos y ver mis pedidos agendados**
 
 En el dashboard para empresarios le damos click al icono de usuario en la parte superior derecha de la pagina, entramos a nuestro perfil en el cual hay un boton que dice "agendar" luego de dar click en ese boton
 esto nos llevara a la interfaz para agendar un paquete pidiendonos todos los datos, luego de hacer esto nos muestra todas nuestras mercancias agendadas.
 
 ![pedidosagendados](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.049.png)
-
 
 <div id='4.5.'><h3> 4.5. Web Applications Prototyping.</h3></div>
 
@@ -1589,7 +1527,6 @@ Enlace para acceder al [Flujo]()
 
 En esta sección utilizaremos el modelo C4 para definir la estructura del software, abarcando aspectos como el contexto, los contenedores, los componentes y la implementación. Este enfoque facilita una comprensión clara de la arquitectura, tanto para los miembros del equipo como para los interesados externos.
 
-
 <div id='4.6.1.'><h4> 4.6.1. Software Architecture Context Diagram.</h4></div>
 Para lograr identificar y representar correctamente los usuarios y sistemas externos que se relacionan con nuestro sistema, hemos creado un diagrama de contexto, en el cual podemos ver que tenemos 2 usuarios identificados
 
@@ -1609,20 +1546,20 @@ Enlace: [Container Diagram](https://www.structurizr.com/workspace/82957/diagrams
 
 Los diagramas de componentes muestra una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
 
-
 # Bounded context user management
+
 ![System Components Diagram](https://i.postimg.cc/zDQYMgY9/structurizr-82957-Component-002-1.png)
 
 Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-002)
 
-
-
 # Bounded context logistics companies
+
 ![System Components Diagram](https://i.postimg.cc/jjtpN6yJ/structurizr-82957-Component-003-1.png)
 
 Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-003)
 
-# Bounded context  Trip
+# Bounded context Trip
+
 ![System Components Diagram](https://i.postimg.cc/FH3v0sqw/structurizr-82957-Component-004-1.png)
 Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagrams#Component-004)
 
@@ -1633,134 +1570,105 @@ Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagram
 
 Enlace: [Class Diagram](https://lucid.app/lucidchart/3c6b7a66-b95b-4d42-8f60-8c4e8cf0ca0d/edit?viewport_loc=-3196%2C-1672%2C3328%2C1650%2C0_0&invitationId=inv_cc337c52-beb1-48f2-b583-8e156bc4e95c)
 
-
 <div id='4.7.2.'><h4> 4.7.2. Class Dictionary.</h4></div>
 
 Class Role
 
-| Attribute | Type  | Description                          |
-| --------- | ----- | ------------------------------------ |
-| id        | int   | Unique code for a role               |
-| type      | String| Type of a role                       |
-| instance  | Role  | Singleton instance of `Role`         |
+| Attribute | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| id        | int    | Unique code for a role       |
+| type      | String | Type of a role               |
+| instance  | Role   | Singleton instance of `Role` |
 
-| Method      | Return Type | Description                                 |
-| ----------- | ----------- | ------------------------------------------- |
-| getRole()   | Role        | Returns the singleton instance of Role.  |
+| Method    | Return Type | Description                             |
+| --------- | ----------- | --------------------------------------- |
+| getRole() | Role        | Returns the singleton instance of Role. |
 
+Class User
 
+| Attribute | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| id        | int    | Unique identifier for a user |
+| name      | String | First name of the user       |
+| lastname  | String | Last name of the user        |
+| password  | String | Password for user login      |
+| email     | String | Email address of the user    |
+| phone     | String | Phone number of the user     |
 
+| Method           | Return Type | Description                   |
+| ---------------- | ----------- | ----------------------------- |
+| changePassword() | void        | Changes the user's password.  |
+| getRole()        | Role        | Returns the role of the user. |
 
+Class Entrepreneur
 
- Class User
+| Attribute     | Type        | Description                        |
+| ------------- | ----------- | ---------------------------------- |
+| id            | int         | Unique identifier for entrepreneur |
+| entrepreneur  | User        | Associated user                    |
+| associateCard | PaymentCard | Associated payment card            |
 
-| Attribute | Type   | Description                         |
-| --------- | ------ | ----------------------------------- |
-| id        | int    | Unique identifier for a user        |
-| name      | String | First name of the user              |
-| lastname  | String | Last name of the user               |
-| password  | String | Password for user login             |
-| email     | String | Email address of the user           |
-| phone     | String | Phone number of the user            |
+Class Company
 
-| Method            | Return Type | Description                                 |
-| ----------------- | ----------- | ------------------------------------------- |
-| changePassword()  | void        | Changes the user's password.               |
-| getRole()         | Role        | Returns the role of the user.              |
+| Attribute     | Type           | Description                             |
+| ------------- | -------------- | --------------------------------------- |
+| id            | int            | Unique identifier for a company         |
+| name          | String         | Name of the company                     |
+| RUC           | String         | Company RUC                             |
+| drivers       | array[Driver]  | List of drivers associated with company |
+| membership    | MembershipType | Type of company membership              |
+| associateCard | PaymentCard    | Associated payment card                 |
+| instance      | Company        | Singleton instance of `Company`         |
 
+| Method       | Return Type | Description                                |
+| ------------ | ----------- | ------------------------------------------ |
+| getCompany() | Company     | Returns the singleton instance of Company. |
 
+Class MembershipTypes
 
+| Attribute | Type | Description         |
+| --------- | ---- | ------------------- |
+| STANDARD  | Enum | Standard membership |
+| PREMIUM   | Enum | Premium membership  |
 
+Class Driver
 
- Class Entrepreneur
+| Attribute | Type   | Description                  |
+| --------- | ------ | ---------------------------- |
+| id        | int    | Unique identifier for driver |
+| name      | String | Name of the driver           |
+| license   | String | Driver's license number      |
+| contact   | String | Contact number of the driver |
 
-| Attribute       | Type        | Description                        |
-| --------------- | ----------- | ---------------------------------- |
-| id              | int         | Unique identifier for entrepreneur |
-| entrepreneur    | User        | Associated user                    |
-| associateCard   | PaymentCard | Associated payment card            |
+| Method                 | Return Type | Description                   |
+| ---------------------- | ----------- | ----------------------------- |
+| assignTrip(trip: Trip) | void        | Assigns a trip to the driver. |
 
+Class Trip
 
+| Attribute      | Type          | Description                    |
+| -------------- | ------------- | ------------------------------ |
+| id             | int           | Unique identifier for the trip |
+| name           | String        | Name of the trip               |
+| type           | String        | Type of the trip               |
+| weight         | double        | Weight for the trip            |
+| unloadLocation | String        | Location for unloading         |
+| unloadDate     | Date          | Date for unloading             |
+| expensesId     | int           | Identifier for expenses        |
+| alertsId       | int           | Identifier for alerts          |
+| ongoingTripsId | int           | Identifier for ongoing trips   |
+| vehicleId      | int           | Reference to `Vehicle`         |
+| driverId       | int           | Reference to `Driver`          |
+| alert          | AlertObserver | Reference to `AlertObserver`   |
 
+| Method                        | Return Type | Description                  |
+| ----------------------------- | ----------- | ---------------------------- |
+| addExpenses(expense: Expense) | void        | Adds an expense to the trip. |
+| addAlert(alert: Alert)        | void        | Adds an alert to the trip.   |
+| addOrder(order: Order)        | void        | Adds an order to the trip.   |
+| getTrip(id: int)              | Trip        | Returns a trip by its ID.    |
 
-
- Class Company
-
-| Attribute      | Type                 | Description                             |
-| -------------- | -------------------- | --------------------------------------- |
-| id             | int                  | Unique identifier for a company         |
-| name           | String               | Name of the company                     |
-| RUC            | String               | Company RUC                             |
-| drivers        | array[Driver]        | List of drivers associated with company |
-| membership     | MembershipType       | Type of company membership              |
-| associateCard  | PaymentCard          | Associated payment card                 |
-| instance       | Company              | Singleton instance of `Company`         |
-
-| Method                  | Return Type | Description                               |
-| ----------------------- | ----------- | ----------------------------------------- |
-| getCompany()            | Company     | Returns the singleton instance of Company. |
-
-
-
-
-
- Class MembershipTypes
-
-| Attribute | Type   | Description           |
-| --------- | ------ | --------------------- |
-| STANDARD  | Enum   | Standard membership   |
-| PREMIUM   | Enum   | Premium membership    |
-
-
-
-
-
- Class Driver
-
-| Attribute | Type   | Description                   |
-| --------- | ------ | ----------------------------- |
-| id        | int    | Unique identifier for driver  |
-| name      | String | Name of the driver            |
-| license   | String | Driver's license number       |
-| contact   | String | Contact number of the driver  |
-
-| Method                  | Return Type | Description                        |
-| ----------------------- | ----------- | ---------------------------------- |
-| assignTrip(trip: Trip)  | void        | Assigns a trip to the driver.      |
-
-
-
-
-
- Class Trip
-
-| Attribute      | Type          | Description                                |
-| -------------- | ------------- | ------------------------------------------ |
-| id             | int           | Unique identifier for the trip            |
-| name           | String        | Name of the trip                           |
-| type           | String        | Type of the trip                           |
-| weight         | double        | Weight for the trip                        |
-| unloadLocation | String        | Location for unloading                     |
-| unloadDate     | Date          | Date for unloading                         |
-| expensesId     | int           | Identifier for expenses                    |
-| alertsId       | int           | Identifier for alerts                      |
-| ongoingTripsId | int           | Identifier for ongoing trips               |
-| vehicleId      | int           | Reference to `Vehicle`                     |
-| driverId       | int           | Reference to `Driver`                      |
-| alert          | AlertObserver | Reference to `AlertObserver`               |
-
-| Method                          | Return Type | Description                            |
-| ------------------------------- | ----------- | -------------------------------------- |
-| addExpenses(expense: Expense)   | void        | Adds an expense to the trip.           |
-| addAlert(alert: Alert)          | void        | Adds an alert to the trip.             |
-| addOrder(order: Order)          | void        | Adds an order to the trip.             |
-| getTrip(id: int)                | Trip        | Returns a trip by its ID.              |
-
-
-
-
-
- Class Vehicle
+Class Vehicle
 
 | Attribute | Type   | Description                    |
 | --------- | ------ | ------------------------------ |
@@ -1771,79 +1679,61 @@ Class Role
 | max_load  | double | Maximum load capacity          |
 | volume    | double | Volume capacity of the vehicle |
 
+Class AlertObserver
 
+| Attribute   | Type   | Description                     |
+| ----------- | ------ | ------------------------------- |
+| id          | int    | Unique identifier for the alert |
+| description | String | Description of the alert        |
 
+| Method                | Return Type | Description                                        |
+| --------------------- | ----------- | -------------------------------------------------- |
+| setAlertObservation() | void        | Configures the alert observation for the observer. |
 
+Class OngoingTrip
 
- Class AlertObserver
+| Attribute        | Type   | Description                           |
+| ---------------- | ------ | ------------------------------------- |
+| id               | int    | Unique identifier for ongoing trip    |
+| date             | Date   | Date of the trip                      |
+| status           | String | Current status of the trip            |
+| delivery_address | String | Delivery address for the ongoing trip |
+| total_amount     | double | Total amount for the ongoing trip     |
 
-| Attribute   | Type   | Description                           |
-| ----------- | ------ | ------------------------------------- |
-| id          | int    | Unique identifier for the alert       |
-| description | String | Description of the alert              |
+| Method                             | Return Type | Description                                         |
+| ---------------------------------- | ----------- | --------------------------------------------------- |
+| getTrip()                          | Trip        | Returns the trip associated with this ongoing trip. |
+| updateStatus(status: String)       | void        | Updates the status of the ongoing trip.             |
+| createOrder(details: OrderDetails) | Order       | Creates a new order based on provided details.      |
 
-| Method                          | Return Type | Description                                       |
-| ------------------------------- | ----------- | ------------------------------------------------- |
-| setAlertObservation()           | void        | Configures the alert observation for the observer.|
+Class Expense
 
+| Attribute         | Type   | Description                       |
+| ----------------- | ------ | --------------------------------- |
+| fuel_amount       | double | Amount spent on fuel              |
+| fuel_description  | String | Description of the fuel expense   |
+| vatic_amount      | double | Amount spent on other expenses    |
+| vatic_description | String | Description of the other expenses |
+| tolls_amount      | double | Amount spent on tolls             |
+| tolls_description | String | Description of the tolls expense  |
 
+| Method                                                 | Return Type | Description              |
+| ------------------------------------------------------ | ----------- | ------------------------ |
+| addExpense(typeExpense: String, amountExpense: double) | void        | Adds a specific expense. |
 
+Class PaymentCard
 
+| Attribute     | Type   | Description                             |
+| ------------- | ------ | --------------------------------------- |
+| id            | int    | Unique identifier for the payment card  |
+| card_number   | String | Card number of the payment card         |
+| expiry_date   | String | Expiry date of the payment card         |
+| security_code | int    | Security code (CVV) of the payment card |
 
- Class OngoingTrip
-
-| Attribute       | Type   | Description                               |
-| --------------- | ------ | ----------------------------------------- |
-| id              | int    | Unique identifier for ongoing trip        |
-| date            | Date   | Date of the trip                          |
-| status          | String | Current status of the trip                |
-| delivery_address| String | Delivery address for the ongoing trip     |
-| total_amount    | double | Total amount for the ongoing trip         |
-
-| Method                          | Return Type | Description                                 |
-| ------------------------------- | ----------- | ------------------------------------------- |
-| getTrip()                       | Trip        | Returns the trip associated with this ongoing trip. |
-| updateStatus(status: String)    | void        | Updates the status of the ongoing trip.     |
-| createOrder(details: OrderDetails)| Order      | Creates a new order based on provided details.|
-
-
-
-
-
- Class Expense
-
-| Attribute         | Type    | Description                        |
-| ----------------- | ------- | ---------------------------------- |
-| fuel_amount       | double  | Amount spent on fuel               |
-| fuel_description  | String  | Description of the fuel expense    |
-| vatic_amount      | double  | Amount spent on other expenses     |
-| vatic_description | String  | Description of the other expenses  |
-| tolls_amount      | double  | Amount spent on tolls              |
-| tolls_description | String  | Description of the tolls expense   |
-
-| Method                          | Return Type | Description                            |
-| ------------------------------- | ----------- | -------------------------------------- |
-| addExpense(typeExpense: String, amountExpense: double) | void | Adds a specific expense. |
-
-
-
-
-
- Class PaymentCard
-
-| Attribute      | Type   | Description                             |
-| -------------- | ------ | --------------------------------------- |
-| id             | int    | Unique identifier for the payment card  |
-| card_number    | String | Card number of the payment card         |
-| expiry_date    | String | Expiry date of the payment card         |
-| security_code  | int    | Security code (CVV) of the payment card |
-
-| Method                          | Return Type | Description                                       |
-| ------------------------------- | ----------- | ------------------------------------------------- |
-| pay()                           | void        | Processes a payment using the payment card.       |
-| assignToPayment()               | void        | Associates the payment card with a user |
-
-
+| Method            | Return Type | Description                                 |
+| ----------------- | ----------- | ------------------------------------------- |
+| pay()             | void        | Processes a payment using the payment card. |
+| assignToPayment() | void        | Associates the payment card with a user     |
 
 <div id='4.8.'><h3> 4.8. Database Design.</h3></div>
 
@@ -1865,51 +1755,58 @@ En la sección presentada a continuación, vamos a detallar las herramientas, re
 En el presente apartado, vamos a describir los productos de software que hemos utilizado durante el desarrollo del proyecto y el propósito por el cual han sido empleados.
 
 **Project Management**
-* Google Docs: [https://docs.google.com/](https://docs.google.com/)
 
-    Google Docs es una plataforma que permite crear documentos que se pueden compartir con otros usuarios para trabajar de manera colaborativa a tiempo real. Se ha empleado esta plataforma para organizar las diferentes secciones del informe y realizar una revisión previa antes de actualizar la información del informe en el repositorio de GitHub del equipo.
+- Google Docs: [https://docs.google.com/](https://docs.google.com/)
+
+  Google Docs es una plataforma que permite crear documentos que se pueden compartir con otros usuarios para trabajar de manera colaborativa a tiempo real. Se ha empleado esta plataforma para organizar las diferentes secciones del informe y realizar una revisión previa antes de actualizar la información del informe en el repositorio de GitHub del equipo.
 
 **Requirements Management**
-* Trello: [https://trello.com/](https://trello.com/)
 
-    Trello es una plataforma que permite realizar gestión de proyectos. Por esto, se ha empleado para poder gestionar las tareas y organizar el flujo de trabajo del proyecto.
-Las tareas están ubicadas en cada lista indicando el integrante encargado de realizar dicha tarea.
+- Trello: [https://trello.com/](https://trello.com/)
+
+      Trello es una plataforma que permite realizar gestión de proyectos. Por esto, se ha empleado para poder gestionar las tareas y organizar el flujo de trabajo del proyecto.
+
+  Las tareas están ubicadas en cada lista indicando el integrante encargado de realizar dicha tarea.
 
 **Product UX/UI Design**
-* Figma: [https://www.figma.com/](https://www.figma.com/)
 
-    Figma es una plataforma de edición gráfica, en la que se pueden crear diseños y prototipos de páginas web de manera colaborativa. Esta plataforma nos fue de utilidad para desarrollar los wireframes, mockups y los desktop and mobile application prototype del proyecto.
-  
-* Miro: [https://miro.com/es/](https://miro.com/es/)
+- Figma: [https://www.figma.com/](https://www.figma.com/)
 
-    Miro es una plataforma que permite crear pizarras virtuales para el trabajo colativo en tiempo real. La cual posee distintas herramientas y plantillas que nos ayudaron a realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada segemento objetivo.
-  
-* UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
+  Figma es una plataforma de edición gráfica, en la que se pueden crear diseños y prototipos de páginas web de manera colaborativa. Esta plataforma nos fue de utilidad para desarrollar los wireframes, mockups y los desktop and mobile application prototype del proyecto.
 
-    UXPressia es una plataforma que brinda diferentes plantillas que nos ayudan a comprender la problemática, conocer las necesidades de los segmentos objetivos en relación con la solución de software. Las plantillas de la plataforma fueron empleadas para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
+- Miro: [https://miro.com/es/](https://miro.com/es/)
+
+  Miro es una plataforma que permite crear pizarras virtuales para el trabajo colativo en tiempo real. La cual posee distintas herramientas y plantillas que nos ayudaron a realizar los As-Is Scenario Mapping y To-Be Scenario Mapping para cada segemento objetivo.
+
+- UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
+
+  UXPressia es una plataforma que brinda diferentes plantillas que nos ayudan a comprender la problemática, conocer las necesidades de los segmentos objetivos en relación con la solución de software. Las plantillas de la plataforma fueron empleadas para la creación de los User Personas, Empathy Maps, Journey Maps e Impact Maps.
 
 **Software Development**
-* Landing Page
-  
-    Para el desarrollo de la Landing Page se ha hecho empleo de las siguientes tecnologías de desarrollo web: HTML5, CSS y JavaScript. 
 
-* Fronted Web Applications
+- Landing Page
 
-    Para el desarrollo de la aplicación web frontend, se empleó HTML, CSS y JavaScript. En este caso utilizaremos Angular Material para la creación de componentes. Nuestro Stack tecnológico incluye el uso del lenguaje Java con Spring Boot como framework, junto con HTML, Angular, JavaScript, CSS y una base de datos en MySQL Workbench. 
+  Para el desarrollo de la Landing Page se ha hecho empleo de las siguientes tecnologías de desarrollo web: HTML5, CSS y JavaScript.
+
+- Fronted Web Applications
+
+  Para el desarrollo de la aplicación web frontend, se empleó HTML, CSS y JavaScript. En este caso utilizaremos Angular Material para la creación de componentes. Nuestro Stack tecnológico incluye el uso del lenguaje Java con Spring Boot como framework, junto con HTML, Angular, JavaScript, CSS y una base de datos en MySQL Workbench.
 
 **Software Testing**
 
-* Para las pruebas funcionales del software de la Landing page y de la aplicación web, se han utilizado las herramientas de desarrollo de los siguientes navegadores web: Google Chrome ( [https://www.google.com/chrome/](https://www.google.com/chrome/) ) , Microsoft Edge ( [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) ) y Mozilla Firefox ( [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/) ). 
-  
-  **Software Deployment**
-* Netlify: [https://www.netlify.com/](https://www.netlify.com/)
+- Para las pruebas funcionales del software de la Landing page y de la aplicación web, se han utilizado las herramientas de desarrollo de los siguientes navegadores web: Google Chrome ( [https://www.google.com/chrome/](https://www.google.com/chrome/) ) , Microsoft Edge ( [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) ) y Mozilla Firefox ( [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/) ).
 
-    Para implementar el despliegue utilizamos En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
+  **Software Deployment**
+
+- Netlify: [https://www.netlify.com/](https://www.netlify.com/)
+
+  Para implementar el despliegue utilizamos En esta sección, explicaremos los pasos realizados para el despliegue de la Landing Page empleando el servicio Netlify que es una plataforma de páginas y aplicaciones web, con los repositorios en GitHub. Esto permite que Netlify maneje automáticamente la implementación de la Landing Page cada vez que se realice una actualización en el repositorio.
 
 **Software Documentation**
-* GitHub: [https://github.com/](https://github.com/)
-  
-    GitHub fue empleado para la creación de la documentación y de la Landing Page. En ambos casos se creo un repositorio. Además, nuestro grupo eligió esta plataforma para trabajar de manera colaborativa.
+
+- GitHub: [https://github.com/](https://github.com/)
+
+  GitHub fue empleado para la creación de la documentación y de la Landing Page. En ambos casos se creo un repositorio. Además, nuestro grupo eligió esta plataforma para trabajar de manera colaborativa.
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 
@@ -1918,10 +1815,10 @@ Se creó una organización en GitHub para el desarrollo y la gestión del proyec
 Organización:
 [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
 
-Repositorio del Landing Page: 
+Repositorio del Landing Page:
 [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
 
-Repositorio del Informe: 
+Repositorio del Informe:
 [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report)
 
 Por otro lado, con el objetivo de mejorar el control sobre la creación de ramas y la implementación de cambios en el código fuente, se ha implementado GitFlow.
@@ -1930,21 +1827,21 @@ De esta manera, se establecieron 2 ramas principales: main y develop.
 
 Ramas principales:
 
-* Main: También denominada “master”, en esta rama se almacenan las versiones oficiales de nuestro repositorio antes de pasarlas a producción.
-* Develop: Es la rama que se va a emplear como punto de integración de las ramas “feature”. Una vez que el “head” sea estable y el equipo considere que esta listo para ser lanzadose unirá a la rama release.
-  
+- Main: También denominada “master”, en esta rama se almacenan las versiones oficiales de nuestro repositorio antes de pasarlas a producción.
+- Develop: Es la rama que se va a emplear como punto de integración de las ramas “feature”. Una vez que el “head” sea estable y el equipo considere que esta listo para ser lanzadose unirá a la rama release.
+
 Ramas auxiliares:
 
-* Feature: En esta rama se desarrollan las funcionalidades del proyecto solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Al completarlas se integrarán en la rama “develop”. 
-* Release: Esta rama se utiliza para la preparación de la próxima versión del programa. Aquí se realizan pruebas finales y se pueden solucionar errores menores antes del lanzamiento definitivo. Por último, los cambios se fucionan con la rama develop, y luego la rama main.
+- Feature: En esta rama se desarrollan las funcionalidades del proyecto solicitadas por los usuarios tanto en la página de inicio como en la aplicación web. Al completarlas se integrarán en la rama “develop”.
+- Release: Esta rama se utiliza para la preparación de la próxima versión del programa. Aquí se realizan pruebas finales y se pueden solucionar errores menores antes del lanzamiento definitivo. Por último, los cambios se fucionan con la rama develop, y luego la rama main.
 
-    Se empleó el formato “Semantic Versioning 2.0.0” para la nomenclatura de versiones del proyecto. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
+  Se empleó el formato “Semantic Versioning 2.0.0” para la nomenclatura de versiones del proyecto. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
 
-  *  X, Y y Z son números enteros positivos, donde cada uno incrementa de manera numérica.
+  - X, Y y Z son números enteros positivos, donde cada uno incrementa de manera numérica.
 
-  * X: Es la que representa una versión mayor. Aquí se encuentran aquellos cambios que no son compatibles con las versiones anteriores. Esto implica reiniciar a 0 las versiones Y(menores) y Z(parche).  
-  * Y: Es la versión menor. Aquí se encuentran los cambios que si son compatibles con las versiones anteriores. Esto implica que cada vez que Y se incremente, la versión Z(parche) se reiniciará a 0.
-  * Z: Parches y correcciones de errores menores. Solo se incrementa cuando se realizan correcciones que son compatible con versiones anteriores.
+  - X: Es la que representa una versión mayor. Aquí se encuentran aquellos cambios que no son compatibles con las versiones anteriores. Esto implica reiniciar a 0 las versiones Y(menores) y Z(parche).
+  - Y: Es la versión menor. Aquí se encuentran los cambios que si son compatibles con las versiones anteriores. Esto implica que cada vez que Y se incremente, la versión Z(parche) se reiniciará a 0.
+  - Z: Parches y correcciones de errores menores. Solo se incrementa cuando se realizan correcciones que son compatible con versiones anteriores.
 
 **Commit Convention**
 
@@ -1952,45 +1849,46 @@ El formato de los commits siguen la estructura de “Conventional Commits” en 
 
 ```
   <type>[optional scope]: <description>
-  
+
   [optional body]
-  
+
   [optional footer(s)]
-``` 
+```
 
 Donde:
-*	type: Precisa el tipo de cambio realizado. Entre los tipos de cambios encontramos: fix, feat, build, chore, etc.
-*   scope: Permite dar el alcance y contexto del cambio.
-*   description: Indica de manera breve un resumen de los cambios del código.
+
+- type: Precisa el tipo de cambio realizado. Entre los tipos de cambios encontramos: fix, feat, build, chore, etc.
+- scope: Permite dar el alcance y contexto del cambio.
+- description: Indica de manera breve un resumen de los cambios del código.
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
-Utilizaremos el lenguaje de etiquetas HTML y CSS se empleará la convención de Google HTML/CSS Style Guide. 
+Utilizaremos el lenguaje de etiquetas HTML y CSS se empleará la convención de Google HTML/CSS Style Guide.
 
 Entre todas las convenciones destacamos:
 
-*   Se debe declarar el tipo de documento con <!DOCTYPE.html>.
-*   Evitar líneas de códigos extensas.
-*   Utilizar meta tags al inicio.
-* 	Utilizar siempre las letras minúsculas para los nombres de los elementos HTML, atributos, propiedades, valores y selectores CSS (como ```<p>```, ```<h1>```, ```<section>```, etc.).
-* 	Cada elemento de HTML debe tener una etiqueta de cierre (por ejemplo ```<p></p>```).
-* 	Siempre encerrar entre comillas los atributos dentro de un elemento HTML (```<p class=”name”></p>```).
-* 	Especificar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
+- Se debe declarar el tipo de documento con <!DOCTYPE.html>.
+- Evitar líneas de códigos extensas.
+- Utilizar meta tags al inicio.
+-     Utilizar siempre las letras minúsculas para los nombres de los elementos HTML, atributos, propiedades, valores y selectores CSS (como ```<p>```, ```<h1>```, ```<section>```, etc.).
+-     Cada elemento de HTML debe tener una etiqueta de cierre (por ejemplo ```<p></p>```).
+-     Siempre encerrar entre comillas los atributos dentro de un elemento HTML (```<p class=”name”></p>```).
+-     Especificar el ancho y alto de las imágenes, así como el texto alternativo (*alt*).
 
 Para el desarrollo de código en TypeScript, se optó por utilizar la convención Google TypeScript Style Guide. Algunas convenciones son las siguientes:
 
-*   Usar el punto y coma a l final de cada sentencia “;”.
-*   Tanto las variables como las funciones deben estar nombradas en CamelCase.
-*   Utilizar comillas simples en los valores string.
-*   Evitar declarar variables con la sentencia var. En su lugar, se debería usar let o const para evitar errores en variables y valores.
+- Usar el punto y coma a l final de cada sentencia “;”.
+- Tanto las variables como las funciones deben estar nombradas en CamelCase.
+- Utilizar comillas simples en los valores string.
+- Evitar declarar variables con la sentencia var. En su lugar, se debería usar let o const para evitar errores en variables y valores.
 
 Para el desarrollo de los aceptance test con el lenguaje de Gherkin se eligió emplear las convenciones mencionadas en “Gherkin Conventions for Readable Specifications”. Entre ellas encontramos:
 
-*	Emplear lasas palabras “Given”, “When”, “Then” y “And” para describir los pasos de los escenarios.
-*	Evitar que la descripción de los pasos de cada escenario sea redundante.
-*	Agregar líneas entre pasos.
-*	En cada escenario, utilizar formato y estilo consistente en toda la especificación.
-*	Encerrar los parámetros en comillas simples.
+- Emplear lasas palabras “Given”, “When”, “Then” y “And” para describir los pasos de los escenarios.
+- Evitar que la descripción de los pasos de cada escenario sea redundante.
+- Agregar líneas entre pasos.
+- En cada escenario, utilizar formato y estilo consistente en toda la especificación.
+- Encerrar los parámetros en comillas simples.
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
@@ -2002,9 +1900,8 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
     <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
 </div>
 
-
 2. Al ingresar, hacer click en el botón de "Add new site".
-  
+
 <div align=center>
     <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
 </div>
@@ -2015,7 +1912,6 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
     <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
 </div>
 
-
 4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
 
 <div align=center>
@@ -2023,7 +1919,7 @@ En esta sección, explicaremos los pasos realizados para el despliegue de la Lan
 </div>
 
 5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
-   
+
 <div align=center>
     <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
 </div>
@@ -2123,9 +2019,9 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 
   <div id='5.2.1.2.'><h5> 5.2.1.2.	Sprint Backlog 1.</h5></div>
 
-  En esta sección mostramos las tareas que se realizaron en este sprint.
+En esta sección mostramos las tareas que se realizaron en este sprint.
 
-  Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
+Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
 
   <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
 
@@ -2179,7 +2075,6 @@ Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware/Car
    <th> </th>
    <th> 08/09/2024 </th>
   </tr>
-
 
 <tr>
    <th> CargoSafe-LandingPage </th> 
@@ -2289,7 +2184,6 @@ Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware/Car
    <th> </th>
    <th> 08/09/2024 </th>
   </tr>
-
 
  <tr>
    <th> CargoSafe-LandingPage </th> 
@@ -2402,7 +2296,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 54d2f4d0e84a4e6f8d91080ca5066f4146a460ac </strong> </th>
@@ -2419,7 +2312,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
- 
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 6bf9fad59e430ae1b4bd21ea6e7c0032eb03fb02 </strong> </th>
@@ -2428,7 +2320,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-  
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 7366bd8bd0f3809a7e375d87e397db59bb733e6d </strong> </th>
@@ -2437,7 +2328,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-  
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 99d7a0aad45faa41585a33aaa1c0f4c9468087d3 </strong> </th>
@@ -2446,7 +2336,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-   
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 6616029c06b758a3a739f25ad1feda24d7177595 </strong> </th>
@@ -2455,7 +2344,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> c365d21d5a1425de35dd817a5ae1d64484e86662 </strong> </th>
@@ -2472,7 +2360,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-   
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> b95fcfee4e073b37a8b478ab75b67fefe37bbf9f </strong> </th>
@@ -2481,7 +2368,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> a1f268f60f368b29cc019b3a6a1d8abb1ba5b816 </strong> </th>
@@ -2490,7 +2376,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-   
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 96727fa620985209b627d4c0c80af26e221654e5 </strong> </th>
@@ -2499,7 +2384,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 6ac094295e54afd6c64a6dff725a5dd62f8fda87 </strong> </th>
@@ -2508,7 +2392,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> baea7364f3a7eced9dcb2d0609bbf4061b71cd6b </strong> </th>
@@ -2525,7 +2408,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-  
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> dd7f398f1217edab41b87af809025bd2618e868f </strong> </th>
@@ -2534,7 +2416,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-    
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 22273dd29430b2c80d5759e89b01e45670a7d33c </strong> </th>
@@ -2543,7 +2424,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <th> <strong> 08/09/2024 </strong> </th>
  <tr>
 
-   
    <th> <strong> CargoSafe-Acceptance-Tests </strong> </th>
     <th> <strong> main </strong> </th>
     <th> <strong> 317a299880b1b3ea528a1e5b3ffaf2bb5e56ea0f </strong> </th>
@@ -2556,11 +2436,11 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
   <div id='5.2.1.5.'><h5> 5.2.1.5.	Execution Evidence for Sprint Review.</h5></div>
 
-  Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
+Para este entregable, como primera fase de este producto final, logramos desarrollar exitosamente la landing page haciendo uso de HTML y CSS, teniendo en cuenta el desarrollo responsive y brindando información específica acerca de los servicios que ofrecemos en nuestra aplicación web.
 
-  Enlace del deploy de la Landing Page mediante Netlify: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+Enlace del deploy de la Landing Page mediante Netlify: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 
-  **Hero en versión desktop**
+**Hero en versión desktop**
 
   <div align=center>
     <img src="./assets/chapter-5/Hero.png" width=350px >
@@ -2598,7 +2478,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
 **Sección Pricing en versión desktop**
 
-
 <div align=center>
     <img src="./assets/chapter-5/Choose-Your-Plan.png" width=350px >
 </div>
@@ -2610,7 +2489,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 </div>
 
 **Sección de AboutUs en versión desktop**
-
 
 <div align=center>
     <img src="./assets/chapter-5/Try-The-App-Now.png" width=350px >
@@ -2624,7 +2502,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
 **Sección Strenght en versión desktop**
 
-
 <div align=center>
     <img src="./assets/chapter-5/Our-Strength.png" width=350px >
 </div>
@@ -2636,7 +2513,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 </div>
 
 **Sección Testimonials en versión desktop**
-
 
 <div align=center>
     <img src="./assets/chapter-5/What-Our-Clients-Say.png" width=350px >
@@ -2650,7 +2526,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 
 **Footer en versión desktop**
 
-
 <div align=center>
     <img src="./assets/chapter-5/Footer.png" width=350px >
 </div>
@@ -2661,18 +2536,17 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <img src="./assets/chapter-5/Footer-Mobile.jpeg" width=350px >
 </div>
 
-
   <div id='5.2.1.6.'><h5> 5.2.1.6.	Services Documentation Evidence for Sprint Review.</h5></div>
 
-  En el alcance del aprint 1 se priorizó el desarrollo de la Landing Page, por lo que no se evidencia empleo de web services.
+En el alcance del aprint 1 se priorizó el desarrollo de la Landing Page, por lo que no se evidencia empleo de web services.
 
   <div id='5.2.1.7.'><h5> 5.2.1.7.	Software Deployment Evidence for Sprint Review.</h5></div>
 
-  Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Cortez, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
+Durante el presente sprint se ha desarrollado la Landing Page del proyecto. El despliegue de esta página fue realizado por Ely Cortez, uno de los integrantes del equipo, ya que el proceso no tomaba mucho tiempo.
 
-  Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
 
-  **Pasos para este Sprint:**
+**Pasos para este Sprint:**
 
 1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/), iniciar sesión o crear cuenta.
 
@@ -2680,9 +2554,8 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
 </div>
 
-
 2. Al ingresar, hacer click en el botón de "Add new site".
-  
+
 <div align=center>
     <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
 </div>
@@ -2693,7 +2566,6 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
     <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
 </div>
 
-
 4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
 
 <div align=center>
@@ -2701,7 +2573,7 @@ Para este sprint se ha incorporado las pruebas de aceptación haciendo uso de la
 </div>
 
 5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
-   
+
 <div align=center>
     <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
 </div>
@@ -2732,7 +2604,7 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 
 El equipo desarrolló la Landing Page por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
 
-Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que contamos con las ramas **develop** y **feature** según la funcionalidad. 
+Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que contamos con las ramas **develop** y **feature** según la funcionalidad.
 
 A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
 
@@ -2764,9 +2636,9 @@ A continuación, se presentarán las tareas asignadas a cada integrante del equi
  </tr>
  </table>
 
- Hemos desarrollado en conjunto un total de 17 commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
+Hemos desarrollado en conjunto un total de 17 commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
 
- Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
 
  <table>
   <tr> 
@@ -2821,13 +2693,12 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
     <img src="./assets/chapter-5/Contributors.png" width=600px >
 </div>
 
-
 <div id='7.'><h2>Bibliografía</h2></div>
 
-* Portal Portuario. (2024, abril 1). *Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay*. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
+- Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
 
 <div id='8.'><h5> 8.	Anexos.</h5></div>
 
 Link de Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
-Link del del video: [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
+Link del del video: [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
