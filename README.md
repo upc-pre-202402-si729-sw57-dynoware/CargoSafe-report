@@ -892,16 +892,6 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 - Boronda quiere tener más oportunidades con clientes para transportar carga a diferentes lugares.
 - Inga desea que los clientes tengan el tipo de carga adecuado para sus vehículos.
 
-**Análisis por medio de herramientas estadísticas:**
-
-![Grafico1](assets/chapter_2/Grafico1.png)
-
-![Grafico2](assets/chapter_2/Grafico2.png)
-
-![Grafico3](assets/chapter_2/Grafico3.png)
-
-![Grafico4](assets/chapter_2/Grafico4.png)
-
 **Segmento Objetivo: Empresarios**
 **Características del segmento:**
 
@@ -916,9 +906,13 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 
 2. **Canales de interacción**
 
-- Ramos usa Indrive como medio de transporte para su entrega de catering.
+- Ramos usa Whatsapp como medio de comunicación con sus clientes.
 - Pinta uso redes sociales como Facebook para contactar con algunos transportistas que le fueron recomendados.
 - Quiroz uso redes sociales como Facebook para buscar algún transportista capaz de transportar su carga.
+
+3. **Aplicaciones de interés**
+
+- Todos los entrevistados usaron alguna vez InDrive para la entrega cercana de sus productos.
 
 - **Subjetivas**
 
@@ -942,11 +936,17 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 
 **Análisis por medio de herramientas estadísticas:**
 
+![Grafico1](assets/chapter_2/Grafico1.png)
+
+![Grafico2](assets/chapter_2/Grafico2.png)
+
+![Grafico3](assets/chapter_2/Grafico3.png)
+
+![Grafico4](assets/chapter_2/Grafico4.png)
+
 ![Grafico5](assets/chapter_2/Grafico5.png)
 
 ![Grafico6](assets/chapter_2/Grafico6.png)
-
-![Grafico7](assets/chapter_2/Grafico7.png)
 
 <div id='2.3.'><h3>2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4>2.3.1. User Personas</h4></div>
