@@ -957,13 +957,13 @@ Se trata de una representación ficticia de un usuario, basada en datos reales d
 
 **Segmento Objetivo: Transportistas**
 
-Enlace: [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
 
-![user_transportistas](assets/chapter_2/Marcelo_Dominguez.png)
+![user_transportistas](assets/chapter_2/Marcelo_Domínguez.png)
 
 **Segmento Objetivo: Empresarios**
 
-Enlace: [Enlace de la entrevista](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
 
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
