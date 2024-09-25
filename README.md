@@ -914,7 +914,7 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 
 - Todos los entrevistados usaron alguna vez InDrive para la entrega cercana de sus productos.
 
-- **Subjetivas**
+**Subjetivas**
 
 1. **Experiencias**
 
@@ -949,11 +949,16 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 ![Grafico6](assets/chapter_2/Grafico6.png)
 
 <div id='2.3.'><h3>2.3. Needfinding</h3></div>
+
+<div align="justify">
+A través de la observación, entrevistas y análisis, se busca profundizar en las problemáticas que enfrentan nuestros segmentos objetivos. Este apartado se enfoca en recopilar información relevante que sirva como base para la creación del User persona, User Task Matrix, User Journey Maps y Empathy Mapping.
+<div>
+
 <div id='2.3.1.'><h4>2.3.1. User Personas</h4></div>
 
 <div align="justify">
 Se trata de una representación ficticia de un usuario, basada en datos reales de comportamientos observados. Estas representaciones incluyen detalles como edad, ocupación, intereses, frustraciones y habilidades, lo que ayuda a orientar la toma de decisiones y a crear productos más efectivos, enfocados en las necesidades reales del usuario. La herramienta que se utilizó fue Uxpresia para mostrar toda esta información.
-</div>
+</div><br>
 
 **Segmento Objetivo: Transportistas**
 
@@ -969,7 +974,7 @@ Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_up
 
 <div id='2.3.2.'><h4>2.3.2. User Task Matrix</h4></div>
 
-Los user task matrix permiten analizar el comportamiento del usuario a través de la lista de tareas que completan. A partir de ello, se clasificar por orden de importancia, determinando las tareas más y menos importantes.
+Los user task matrix permiten analizar el comportamiento del usuario a través de la lista de tareas que completan. A partir de ello, se clasificar por orden de importancia, determinando las tareas más y menos importantes. Al estructurar estas interacciones, se facilita la priorización de funcionalidades y se asegura que el diseño del sistema esté alineado con las necesidades específicas de cada usuario, mejorando así su experiencia y eficiencia.
 
 **Segmento Objetivo: Transportistas**
 
@@ -1086,7 +1091,7 @@ Elegir un transportista adecuado, realizar el seguimiento del estado y la ubicac
 <div id='2.3.3.'><h4>2.3.3. User Journey Mapping</h4></div>
 
 <div align="justify">
-En esta parte, describimos el recorrido de los user personas al interactuar desde el inicio hasta la finalización de una tarea. Este proceso permite identificar los puntos clave de interacción, las emociones, desafíos y oportunidades de mejora en cada fase de la experiencia del usuario.
+En esta parte, describimos el recorrido de los user personas al interactuar desde el inicio hasta la finalización de una tarea. Este proceso permite identificar los puntos clave de interacción, las emociones, desafíos y oportunidades de mejora en cada fase de la experiencia del usuario. Al mapear el recorrido del usuario, es posible identificar áreas de mejora y oportunidades para optimizar la experiencia, asegurando una interacción más fluida, satisfactoria y eficiente.
 </div><br>
 
 **User Journey Mapping: Transportista**
@@ -1104,7 +1109,7 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
 
 <div align="justify">
-Se presentarán los empathy mapping realizados según los user persona, esto permtirá las necesidades, pensamientos, sentimientos, motivaciones y deseos dentro de los 2 segmentos objetivos planteados en este proyecto. Nos ayudará a ofrecer una solución más efectiva que este relacionado con lo que el cliente quiere y necesita. 
+Se presentarán los empathy mapping realizados según los user persona, esto permtirá las necesidades, pensamientos, sentimientos, motivaciones y deseos dentro de los 2 segmentos objetivos planteados en este proyecto. Nos ayudará a ofrecer una solución más efectiva que este relacionado con lo que el cliente quiere y necesita, además que se logra una visión más completa de los usuarios, permitiendo diseñar soluciones más alineadas con sus expectativas y generar una mayor conexión emocional con el producto.
 </div><br>
 
 **User Journey Mapping: Transportista**
@@ -1120,6 +1125,8 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 ![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
 
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
+
+En esta parte visualizaremos el estado de los procesos que los usuarios experimentan al interactuar con el producto. Se centra en documentar las etapas actuales, identificando puntos positivos, puntos negativos y oportunidades de mejora. Al analizar el escenario, se obtiene una visión clara de los desafíos existentes, lo que sirve como punto de partida para definir mejoras y optimizar la experiencia del usuario en futuras iteraciones.
 
 **As-is scenario Mapping :** Transportista <br>
 **Enlace:** [https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838](https://miro.com/app/board/uXjVKh0GjXQ=/?share_link_id=541240251838)<br>
@@ -1174,6 +1181,8 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 
 <div id='2.4.'><h3>2.4. Ubiquitous Language</h3></div>
 
+En esta parte se define los términos clave que más usaremos a lo largo del proyecto, de esa forma, se elimina las ambigüedades y nos aseguramos que todos los involucrados, desde desarrolladores hasta usuarios finales, hablen el mismo "idioma" al referirse a los elementos del sistema. De esta forma, se mejora la comunicación y se reducen malentendidos.
+
 - Shipper (Transportista): Persona perteneciente a una empresa que transporta mercancías desde el origen hasta el destino.
 - Business Owner (Empresario): Cliente que necesita transportar su mercancía. Principalmente reserva el transporte, alista la carga y monitorea el proceso de envío.
 - Shipment (Envío): La mercancía que necesita ser transportada.
@@ -1186,11 +1195,10 @@ Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe
 - Assign Transporter (Asignar transportista): La acción que toma el empresario para seleccionar a un transportista específico para manejar un envío.
 - Dispatch (Despacho): El proceso de enviar a un transportista al lugar para recoger un envío.
 - Payment (Pago): El pago del remitente al transportista, generalmente después de que se completa una entrega.
-
-* Cargo Volume (Volumen de carga): La cantidad de espacio que ocupa el envío, generalmente medida en metros cúbicos.
-* Vehicle (Vehículo): El camión u otro medio de transporte utilizado por el transportista para llevar la carga.
-* Cargo Type (Tipo de carga): La clasificación de los bienes que se están transportando, como carga perecibles, materiales peligrosos o artículos frágiles.
-* Update Delivery Status (Actualizar estado de entrega): La capacidad para que los transportistas marquen un envío como "En tránsito", "Retrasado" o "Entregado".
+- Cargo Volume (Volumen de carga): La cantidad de espacio que ocupa el envío, generalmente medida en metros cúbicos.
+- Vehicle (Vehículo): El camión u otro medio de transporte utilizado por el transportista para llevar la carga.
+- Cargo Type (Tipo de carga): La clasificación de los bienes que se están transportando, como carga perecibles, materiales peligrosos o artículos frágiles.
+- Update Delivery Status (Actualizar estado de entrega): La capacidad para que los transportistas marquen un envío como "En tránsito", "Retrasado" o "Entregado".
 
 <div id='3.'><h2>Capítulo III: Requirements Specification</h2></div>
 
