@@ -1096,13 +1096,13 @@ En esta parte, describimos el recorrido de los user personas al interactuar desd
 
 **User Journey Mapping: Transportista**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETKzfXU8jZtJtF3NlV91BvEByPc9DLx6CNSHTnQPhRrvwQ?e=85v1dF](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETKzfXU8jZtJtF3NlV91BvEByPc9DLx6CNSHTnQPhRrvwQ?e=85v1dF)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETKzfXU8jZtJtF3NlV91BvEByPc9DLx6CNSHTnQPhRrvwQ?e=85v1dF)
 
 ![user_journey_mapping_transportista](assets/chapter_2/user_journey_mapping_transportista.png)
 
 **User Journey Mapping: Empresario**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH)
 
 ![user_journey_mapping_empresario](assets/chapter_2/user_journey_mapping_empresario.png)
 
@@ -1114,13 +1114,13 @@ Se presentarán los empathy mapping realizados según los user persona, esto per
 
 **User Journey Mapping: Transportista**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EXbEpNNm6bdHg9x-5yPG9kIBEKGzTB6Czk86Uw1B5MyX8g?e=g04Q6d](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EXbEpNNm6bdHg9x-5yPG9kIBEKGzTB6Czk86Uw1B5MyX8g?e=g04Q6d)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EXbEpNNm6bdHg9x-5yPG9kIBEKGzTB6Czk86Uw1B5MyX8g?e=g04Q6d)
 
 ![empathy_mapping_transportista](assets/chapter_2/empathy_mapping_transportista.png)
 
 **User Journey Mapping: Empresario**
 
-Enlace: [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E)
 
 ![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
 
