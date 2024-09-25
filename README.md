@@ -703,7 +703,7 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 - ¿Qué aspectos de seguridad te preocupan al contratar servicios de transporte?
 - ¿Cómo gestionas y verificas actualmente la llegada de tus pedidos al utilizar un servicio de transporte o carga?
 - ¿Cuáles han sido los principales inconvenientes que ha enfrentado en su experiencia como usuario de un servicio de transporte?
-- ¿Considera que el seguimiento de su pedido en tiempo real a través de una aplicación móvil permitirá gestionar el tiempo de llegada y mejorar la transparencia del proceso?
+- ¿Considera que el seguimiento de su pedido en tiempo real a través de una aplicación permitirá gestionar el tiempo de llegada y mejorar la transparencia del proceso?
 - ¿Consideraría óptimo que se calcule el peso de la carga antes y después del envío, especialmente para asegurar la transparencia y garantizar que todo llegue en las mismas condiciones en que fue enviado?
 - Según su experiencia como usuario de servicios de transporte, ¿qué funcionalidades le gustaría que incluyera la aplicación?
 - ¿Utilizará alguna aplicación que contenga esta funcionalidad principalmente?
@@ -730,7 +730,7 @@ Las entrevistas nos permitirán conocer más sobre nuestros segmentos objetivos,
 **Resumen de la entrevista:**
 
 <div align="justify">
-Ruben menciona un problema que últimamente lo aqueja, se trata de la poca demanda de carga, que a diferencia de algunos años se ofrecía el transporte de carga de toneladas era más seguido. Menciona que algunos problemas con solicitudes de carga se deben a la falta de información sobre recojo, pesaje y tamaño de la mercadería que dificulta al transporte. Considera importante saber el tipo de carga  porque así se adecua el camión para su transporte seguro. Ruben dice que para impartir confianza con el cliente, se mantiene en comunicación para avisar al inicio y pocas horas de llegada de la mercadería. Considera que se debe garantizar el buen estado de la carga al entregarla en igualdad de condiciones. Para él, las plataformas son complicadas, y considera que comparte este pensamiento con otros transportistas, aun así reconoce que una aplicación que ayude con el pesaje, el pago, calcule la ruta son opciones interesantes para que lo puedan ayudar siendo ese caso que mencione que lo mejor sería si las plataforma fuera simple y son tantos procesos a realizar. Según dice, una implementación que se estuvo haciendo hace poco a los camiones fue agregar un gps adicional para el monitoreo del punto de trayectoria hacia el destino, esto porque pueden ocurrir varias situaciones, entre accidentes, fallos del camión, factor climatológico e incluso que el transportista se enferme, que desafían el transporte de carga, y por ende, pueda retrasarse. Recomiendo aplicaciones como Waze o Atu Sit para el transporte, recomendando algunas funciones de estas apps. Para la comunicación entre transportistas como con la empresa usa un celular android tanto para comunicarse por llamadas o por mensajes a través de Whatsapp, además que, para búsquedas en internet sobre algún cliente usa Google Chrome.
+Ruben menciona un problema que últimamente lo aqueja, se trata de la poca demanda de carga, que a diferencia de algunos años se ofrecía el transporte de carga de toneladas era más seguido. Menciona que algunos problemas con solicitudes de carga se deben a la falta de información sobre recojo, pesaje y tamaño de la mercadería que dificulta al transporte. Considera importante saber el tipo de carga  porque así se adecua el camión para su transporte seguro. Ruben dice que para impartir confianza con el cliente, se mantiene en comunicación para avisar al inicio y pocas horas de llegada de la mercadería. Considera que se debe garantizar el buen estado de la carga al entregarla en igualdad de condiciones. Para él, las plataformas son complicadas, y considera que comparte este pensamiento con otros transportistas, aun así reconoce que una aplicación que ayude con el pesaje, el pago, calcule la ruta son opciones interesantes para que lo puedan ayudar siendo ese caso que mencione que lo mejor sería si las plataforma fuera simple y son tantos procesos a realizar. Según dice, una implementación que se estuvo haciendo hace poco a los camiones fue agregar un gps adicional para el monitoreo del punto de trayectoria hacia el destino, esto porque pueden ocurrir varias situaciones, entre accidentes, fallos del camión, factor climatológico e incluso que el transportista se enferme, que desafían el transporte de carga, y por ende, pueda retrasarse. Recomiendo aplicaciones como Waze o Atu Sit para el transporte, recomendando algunas funciones de estas apps. Para la comunicación entre transportistas como con la empresa usa un smartphone tanto para comunicarse por llamadas o por mensajes a través de Whatsapp, además que, para búsquedas en internet sobre algún cliente usa Google Chrome.
 </div>
 
 **Entrevista 2:**
@@ -751,7 +751,7 @@ Ruben menciona un problema que últimamente lo aqueja, se trata de la poca deman
 **Resumen de la entrevista:**
 
 <div align="justify">
-Durante la entrevista, el señor Boronda dijo que existen problemas frecuentes con la vía que toma, la cual es la carretera central, debido a que suele estar saturada por el tránsito de varios vehículos. Menciona que para saber si aceptar un trabajo de carga lo primero que hace es buscar en Google Chrome para verificar en la Sunat y Sunarp si los documentos de la persona están en regla, permitiendo tener confianza y saber si se tratara de un buen cliente. Afirma que no tuvo problemas con sus cliente, esto porque, en lo posible, hace bien su trabajo al entregar la carga en su debido tiempo. Menciona que es importante saber el tipo de carga a transportar porque si es perecible, es importante verificar sus condiciones antes de la carga, e incluso tener mucho cuidado con el tema de la temperatura, siendo esta carga con la que más cuidado tiene a diferencia de otro como fierro o cemento. Siempre usa su celular android para comunicarse con sus clientes ante algún imprevisto que pueda ocurrir, normalmente por llamadas o también por mensajes. Le gustaría una plataforma que pueda verificar principalmente su viaje con un GPS frente a posibles asaltos que ocurren en la carretera porque nadie sabe su ubicación una vez sale de Lima. Se cierra un poco a la idea de usar una aplicación pero que si seria utiliza para la organización de sus transportes.
+Durante la entrevista, el señor Boronda dijo que existen problemas frecuentes con la vía que toma, la cual es la carretera central, debido a que suele estar saturada por el tránsito de varios vehículos. Menciona que para saber si aceptar un trabajo de carga lo primero que hace es buscar en Google Chrome para verificar en la Sunat y Sunarp si los documentos de la persona están en regla, permitiendo tener confianza y saber si se tratara de un buen cliente. Afirma que no tuvo problemas con sus cliente, esto porque, en lo posible, hace bien su trabajo al entregar la carga en su debido tiempo. Menciona que es importante saber el tipo de carga a transportar porque si es perecible, es importante verificar sus condiciones antes de la carga, e incluso tener mucho cuidado con el tema de la temperatura, siendo esta carga con la que más cuidado tiene a diferencia de otro como fierro o cemento. Siempre usa su smartphone para comunicarse con sus clientes ante algún imprevisto que pueda ocurrir, normalmente por llamadas o también por mensajes. Le gustaría una plataforma que pueda verificar principalmente su viaje con un GPS frente a posibles asaltos que ocurren en la carretera porque nadie sabe su ubicación una vez sale de Lima. Se cierra un poco a la idea de usar una aplicación pero que si seria utiliza para la organización de sus transportes.
 </div>
 
 **Entrevista 3:**
@@ -773,7 +773,7 @@ Durante la entrevista, el señor Boronda dijo que existen problemas frecuentes c
 **Resumen de la entrevista:**
 
 <div align="justify">
-En la entrevista, el señor Félix Inga menciona que los problemas más frecuentes que tiene con mayor frecuencia son debido al tráfico vehicular, dando énfasis en la congestión vehicular en la ciudad. También menciona que suele tener problemas cuando el peso no es el exacto dado por el cliente. Además menciona que es importante conocer las condiciones de la carga, ya que esto permite definir el tipo de vehículo a usar y tomar decisiones sobre cualquier requisito especial que requiera el cargamento. Por otro lado, menciona que le gustaría que la plataforma ofrezca recomendaciones de rutas dependiendo del cargamento. Félix menciona que usa frecuentemente su celular android para tener cualquier contacto con el cliente ante algún imprevisto, siempre optando por llamarlo. Sobre la seguridad, nos cuenta que las medidas que toma son de acuerdo al tipo de cargamento, pudiendo ser inflamable o frágil. Además, resalta que los derrumbes que suelen haber en las carreteras tienen un impacto negativo en la velocidad de la entrega del cargamento. Asimismo, menciona que la facilidad de uso de una aplicación debe ser primordial, ya que no se encuentra muy familiarizado con la tecnología, siendo incluso importante que pueda accederse desde el browser que más utiliza, el cual es Google Chrome.
+En la entrevista, el señor Félix Inga menciona que los problemas más frecuentes que tiene con mayor frecuencia son debido al tráfico vehicular, dando énfasis en la congestión vehicular en la ciudad. También menciona que suele tener problemas cuando el peso no es el exacto dado por el cliente. Además menciona que es importante conocer las condiciones de la carga, ya que esto permite definir el tipo de vehículo a usar y tomar decisiones sobre cualquier requisito especial que requiera el cargamento. Por otro lado, menciona que le gustaría que la plataforma ofrezca recomendaciones de rutas dependiendo del cargamento. Félix menciona que usa frecuentemente su smartphone para tener cualquier contacto con el cliente ante algún imprevisto, siempre optando por llamarlo. Sobre la seguridad, nos cuenta que las medidas que toma son de acuerdo al tipo de cargamento, pudiendo ser inflamable o frágil. Además, resalta que los derrumbes que suelen haber en las carreteras tienen un impacto negativo en la velocidad de la entrega del cargamento. Asimismo, menciona que la facilidad de uso de una aplicación debe ser primordial, ya que no se encuentra muy familiarizado con la tecnología, siendo incluso importante que pueda accederse desde el browser que más utiliza, el cual es Google Chrome.
 
 </div>
 
@@ -798,7 +798,7 @@ En la entrevista, el señor Félix Inga menciona que los problemas más frecuent
 **Resumen de la entrevista:**
 
 <div align="justify">
-Durante la entrevista conocimos a Melany Ramos. Ella tiene un negocio de postres y entrega de catering por delivery. Nos comenta que cuenta con personas conocidas que le brindan la ayuda para transportar sus productos. Sin embargo, no siempre puede recurrir a sus servicios por la falta de disponibilidad, lo que desencadena una preocupación y carga laboral. Los aspectos que ella toma en cuenta al contratar un servicio de transporte es que los transportistas sean recomendados por conocidos y, de tratarse de una aplicación prefiere ver un filtro previo de multas, registro penal o recomendaciones como puntuación por el servicio. Para su dia a dia, suele utilizar una tablet para organizar su trabajo y también sus celular android para tener comunicación con sus clientes. El browser que más usa para sus búsquedas es Google Chrome. La señorita Ramos nos comenta que dentro de los principales problemas que ha tenido con transportes es que no llegan completos o en algunos casos llegan en mal estado. Lo que se espera de un servicio de transporte es que los productos que están siendo enviados lleguen correctamente al cliente que realizó el pedido y, al hacer un pedido de insumos, que estos lleguen en estado óptimo para su uso. 
+Durante la entrevista conocimos a Melany Ramos. Ella tiene un negocio de postres y entrega de catering por delivery. Nos comenta que cuenta con personas conocidas que le brindan la ayuda para transportar sus productos. Sin embargo, no siempre puede recurrir a sus servicios por la falta de disponibilidad, lo que desencadena una preocupación y carga laboral. Los aspectos que ella toma en cuenta al contratar un servicio de transporte es que los transportistas sean recomendados por conocidos y, de tratarse de una aplicación prefiere ver un filtro previo de multas, registro penal o recomendaciones como puntuación por el servicio. Para su dia a dia, suele utilizar una tablet para organizar su trabajo y también sus smartphone para tener comunicación con sus clientes. El browser que más usa para sus búsquedas es Google Chrome. La señorita Ramos nos comenta que dentro de los principales problemas que ha tenido con transportes es que no llegan completos o en algunos casos llegan en mal estado. Lo que se espera de un servicio de transporte es que los productos que están siendo enviados lleguen correctamente al cliente que realizó el pedido y, al hacer un pedido de insumos, que estos lleguen en estado óptimo para su uso. 
 Por último, nos contó al respecto de experiencias con otras aplicaciones de transporte como inDrive con la que tuvo algunos inconvenientes. Por ello, necesita un servicio confiable y seguro que garantice la entrega y envíos de sus pedidos.
 </div> <br>
 
@@ -851,16 +851,46 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 **Segmento Objetivo: Transportistas**
 **Características del segmento:**
 
-- Personas de 30 a 55 años tanto mujeres como hombres.
-- Su ocupación principal es de transportistas.
-- Tienen conocimientos básicos en el uso de aplicaciones web.
-- Personas que se sientan dispuestas al uso de un servicio que pueda ayudarlo con el transporte de carga.
-- Mencionan problemas como el tipo de carga debido a que sus camiones pueden no ser los adecuados para transportarlos.
-- Quieren comunicarse con clientes conociendo información básica que les brinde confianza y seguridad antes de aceptar el servicio.
-- Saben que es necesario conocer sobre la carga que van a transportar para saber cómo tratarlas antes y durante el transporte.
-- Problemas como derrumbes, accidentes y el clima como factores que pueden retrasar el transporte de mercadería
-- Consideran importante el uso del GPS para un mejor monitoreo del viaje.
-- Consideran el uso de aplicaciones que ayuden en su transporte, pero no los usan por completo por sentir que son complicados de usar.
+**Objetivas**
+
+1. **Uso de tecnología**
+
+- Los entrevistados no tienen tanto dominio en la tecnología, siendo esa razón por la que el dispositivo que usan más en su vida cotidiana es su smartphone.
+- Tanto Ruben Roman, como Ruben Boronda y Félix Inga solo usan su celular para su trabajo.
+- Google Chrome es el browser más usado entre los entrevistados al ser el más accesible.
+- Se prefiere el uso del smarthphone de parte de los entrevistados al ser fácil de usar y llevar a todos lados.
+
+2. **Canales de interacción**
+
+- Roman usa frecuentemente Whatsapp para comunicarse con sus compañeros transportistas.
+- Boronda prefiere las llamadas cuando se trata de comunicarse con sus clientes.
+- Inga usa Whatsapp porque los mensajes se le hacen más cómodo de responder.
+
+3. **Aplicaciones de interés**
+
+- Roman usa Waze y Atu Sit para saber su ubicación y evaluar la ruta más eficiente para la entrega de la carga.
+- Boronda suele usar Waze cuando necesita evadir el tráfico o algún desastre ocurrido en la carretera.
+- Inga usa Wase especialmente cuando necesita indicaciones sobre cómo llegar al lugar de destino.
+
+**Subjetivas**
+
+1. **Experiencias**
+
+- Boronda no se ha enfrentado con alguna queja de su servicio pero sí tuvo que alargar la entrega por retrasos antes derrumbes y por accidentes.
+- Inga tuvo alguna que otra mala experiencia con algún cliente debido a que una pequeña porción de la entrega de la mercancía llegó en mal estado.
+- Roman no tuvo malas experiencias con sus clientes pero sabe que algunos suelen ser muy exigentes con la puntualidad de las entregas.
+
+2. **Consideraciones**
+
+- Inga saben que es necesario conocer sobre la carga que van a transportar para saber cómo tratarlas antes y durante el transporte.
+- Boronda quiere comunicarse con clientes conociendo información básica que les brinde confianza y seguridad antes de aceptar el servicio.
+- Roman considera importante el uso del GPS para un mejor monitoreo del viaje.
+
+3. **Motivaciones**
+
+- Roman esta motivado por conseguir personas que requieran de sus servicios de transporte.
+- Boronda quiere tener más oportunidades con clientes para transportar carga a diferentes lugares.
+- Inga desea que los clientes tengan el tipo de carga adecuado para sus vehículos.
 
 **Análisis por medio de herramientas estadísticas:**
 
@@ -873,25 +903,50 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 ![Grafico4](assets/chapter_2/Grafico4.png)
 
 **Segmento Objetivo: Empresarios**
+**Características del segmento:**
+
+**Objetivas**
+
+1. **Uso de tecnología**
+
+- Los entrevistados están familiarizados con el uso de la tecnología.
+- Quiroz usa solo su celular.
+- Ramos usa principalmente su tablet y celular.
+- Pinta usa su celular y su laptop.
+
+2. **Canales de interacción**
+
+- Ramos usa Indrive como medio de transporte para su entrega de catering.
+- Pinta uso redes sociales como Facebook para contactar con algunos transportistas que le fueron recomendados.
+- Quiroz uso redes sociales como Facebook para buscar algún transportista capaz de transportar su carga.
+
+- **Subjetivas**
+
+1. **Experiencias**
+
+- Quiroz tuvo ciertas entregas con parte de la mercancía en mal estado, pero entiende que estos problemas suelen pasar.
+- Pinta no tuvo ningún inconveniente con algún transportista y prefiere que así sigan las cosas por el bien de su emprendimiento.
+- Ramos tuvo una mala experiencia, siendo así que se inclina mucho más a contratar transportistas cuando son recomendados.
+
+2. **Consideraciones**
+
+- Ramos toma en cuenta las recomendaciones de sus cercanos para confiar en algunos transportistas.
+- Pinta consideran que el servicio de transporte entrega el producto debe ser en buenas condiciones y al tiempo que se realizó el contrato.
+- Quiroz creen importante brindar información detallada y relevante de la mercancía para mejor conocimiento del transportista.
+
+3. **Motivaciones**
+
+- Pinta se siente motivada con la idea del monitoreo de su mercadería porque les ayudaría a sentirse más seguros con su entrega y saber del tiempo que llegaría al destino.
+- Ramos quiere que la entrega de sus productos estén en buen estado porque reflejan su emprendimiento.
+- Quiroz quisiera estar informado en todo momento sobre el estado de su mercancía y calcular el tiempo que tardaría en terminar las obras.
+
+**Análisis por medio de herramientas estadísticas:**
 
 ![Grafico5](assets/chapter_2/Grafico5.png)
 
 ![Grafico6](assets/chapter_2/Grafico6.png)
 
 ![Grafico7](assets/chapter_2/Grafico7.png)
-
-**Características del segmento:**
-
-- Personas de 25 a 50 años tanto mujeres como hombres
-- No tiene alguna ocupación definida principalmente, pueden tener ocupaciones diferentes, como el caso de nuestros entrevistados que son un ingeniero de software, un ingeniero civil y un comerciante.
-- Tienen conocimientos básicos en el empleo de aplicaciones web.
-- Toman en cuenta las recomendaciones de sus cercanos para confiar en algunos transportistas.
-- Consideran que el servicio de transporte entrega el producto en buenas condiciones y al tiempo que lo necesiten.
-- Les agrada la idea del monitoreo de su mercadería porque les ayudaría a sentirse más seguros con su entrega y saber del tiempo que llegaría al destino.
-- Creen importante brindar información detallada y relevante del remitente para un mejor conocimiento
-- Estarían dispuestos a usar una aplicación que facilite el servicio de transporte de carga porque servirá mucho para la comunicación y su propia tranquilidad.
-
-**Análisis por medio de herramientas estadísticas:**
 
 <div id='2.3.'><h3>2.3. Needfinding</h3></div>
 <div id='2.3.1.'><h4>2.3.1. User Personas</h4></div>
