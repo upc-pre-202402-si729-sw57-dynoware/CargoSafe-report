@@ -335,7 +335,11 @@ Según informó Portal Portuario en abril del 2024, en los últimos años se ha 
 
 ###### **Problem Statement:**
 
-Nuestro servicio ofrece una solución integral para enfrentar los desafíos que tanto transportistas como empresarios encuentran en el transporte de carga, donde la falta de visibilidad y seguridad en tiempo real se ha convertido en un problema crítico. Actualmente, los transportistas deben tomar decisiones clave sobre la elección de rutas sin contar con herramientas que les permitan optimizar la seguridad y la eficiencia del trayecto. Por otro lado, los empresarios enfrentan una constante incertidumbre sobre la integridad de su carga, ya que no disponen de un monitoreo constante que garantice la entrega oportuna y en buen estado de la mercancía. Hemos observado que esta situación genera ineficiencias operativas, incrementa los riesgos de robo, daño o pérdida de la carga, y ocasiona costos adicionales, impactando negativamente a ambos grupos. ¿Cómo podemos mejorar la seguridad, eficiencia y visibilidad en tiempo real durante el proceso de transporte de carga?
+El estado actual del transporte de carga se ha centrado principalmente en transportistas y empresarios.
+Lo que los productos o servicios existentes no logran abordar es la falta de visibilidad y seguridad del cargamento.
+Nuestro servicio abordará esta brecha mediante una aplicación web en donde se mostrará el estado y ubicación del cargamento.
+Nuestro enfoque inicial serán los transportistas de carga y empresarios que necesiten transportar y monitorear su carga.
+Sabremos que tenemos éxito cuando veamos una mejora en los tiempo de entrega y una disminución de incidencias en el trayecto.
 
 ###### **Aspectos:**
 
