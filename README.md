@@ -2729,6 +2729,7 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 <div id='5.2.2.'><h4> 5.2.2.	Sprint 2.</h4></div>
 
 <div id='5.2.2.1.'><h5> 5.2.2.1.	Sprint Planning 2.</h5></div>
+
 |**Sprint #**|**Sprint 2**|
 | :-: | :-: |
 |Sprint Planing Background||
@@ -2749,13 +2750,13 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 <tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-item / Task</b></td></tr>
 <tr><td>ID</td><td>Title</td><td>Id</td><td>Title</td><td>Description</td><td>Estimation(hours)</td><td>Assigned To</td><td>Status (To-do/in-Process/To-Review/Done)</td></tr>
 <tr><td rowspan="2">E3-US10</td><td rowspan="2">Seguimiento de envíos</td><td>T1</td><td>Dashboard para emprendedores</td><td valign="top">Implementar Dashboard para emprendedores</td><td>6h</td><td>Ely Cortez</td><td>Done</td></tr>
-<tr><td>T1</td><td>Información del transporte de producto agendado</td><td valign="top">Implementar una lista de ards que indique el proceso del transporte del producto</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E1-US002</td><td>Realizar Solicitudes de Transporte</td><td>T3</td><td>Solicitud de transporte</td><td valign="top"><p></p><p>Implementar formulario para el registro de información sobre la solicitud de transporte </p></td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E1-US003</td><td>Conocer los Testimonios de los Clientes Pasados</td><td>T4</td><td>Testimonios</td><td valign="top">Implementar Testimonials section</td><td>6h</td><td>Renzo Silva</td><td>Done</td></tr>
-<tr><td>E1-US04</td><td>Informarse sobre los Diferentes Planes de Precio del Producto</td><td>T5</td><td>Información de Planes</td><td valign="top">Implementar una sección de planes de precio de Producto</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E1- US-005</td><td>Contactar con la Empresa</td><td>T6</td><td>Contactar con la Empresa</td><td valign="top"><p>Implementar la sección</p><p>Contactar con la Empresa </p></td><td>4h</td><td>Fabrizio Quiroz</td><td>Done</td></tr>
-<tr><td>E1- US-006</td><td>Idioma Internacionalizado</td><td>T7</td><td><p></p><p>Idioma Internacionalizado</p></td><td valign="top">Implementar el cambio de idioma</td><td>4h</td><td>Astrid Boronda</td><td>Done</td></tr>
-<tr><td>E1- US-007</td><td>Secciones Sobre el Producto y el Equipo</td><td>T8</td><td>Product and About the Team section</td><td valign="top">Implementar Product and About the Team section </td><td>6h</td><td>Renzo Silva</td><td>Done</td></tr>
+<tr><td>T1</td><td>Información del transporte de producto agendado</td><td valign="top">Implementar una lista que indique el proceso del transporte del producto</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E3-US015</td><td>Solicitud de Transporte</td><td>T3</td><td>Realizar solicitudes de transporte</td><td valign="top"><p></p><p>Implementar un formulario para el registro de ordenes de manera eficiente</p></td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E4-US019</td><td>Conocer las Alertas para eventos importantes durante la entrega</td><td>T4</td><td>Alertas</td><td valign="top">Implementar dentro de la lista de tiempo real los eventos importantes durante la entrega</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E4-US017</td><td>Conocer el estado del envio en tiempo real</td><td>T5</td><td>Seguimiento de envios</td><td valign="top">Implementar una lista que indique el estado del pedido en tiempo real</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E2-US-025</td><td>Poder Registrar vehiculos y conductores</td><td>T6</td><td>Registro de conductores y vehiculos</td><td valign="top"><p>Implementar un formulario para el registro de vehiculos y para conductores</p></td><td>4h</td><td>Fabrizio Quiroz</td><td>Done</td></tr>
+<tr><td>E2-US-026</td><td>Conocer estadisitcas sobre los envios, gastos,etc</td><td>T7</td><td><p></p><p>Estadisticas del mes</p></td><td valign="top">Implementar pagina en la cual se muestren las estadisticas del mes de las empresas de logistica </td><td>4h</td><td>Astrid Boronda</td><td>Done</td></tr>
+<tr><td>E2-US-027</td><td>Ver ordenes Agendadas</td><td>T8</td><td>Ordenes agendadas</td><td valign="top">Implementar una pagina en la cual se visualicen las ordenes agendadas anteriormente </td><td>6h</td><td>Renzo Silva</td><td>Done</td></tr>
 </table>
 
 <div id='5.2.2.4.'><h5> 5.2.2.4.	Testing Suite Evidence for Sprint Review</h5></div>
