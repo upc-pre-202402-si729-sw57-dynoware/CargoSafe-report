@@ -1272,20 +1272,29 @@ En esta parte se define los términos clave que más usaremos a lo largo del pro
 
 
 <div id='3.3.'><h3> 3.3. Impact Mapping </h3></div>
+
 En la presente sección se elaboró el impact mapping partiendo desde las metas de negocio para cada user persona, los impactos, entregables y unirlos a las historias de usuario adecuadas.
 
 **Segmento: Transportistas**
+
 En este caso tenemos a Marcelo Dominguez y mediante nuestra meta de negocio, se han elaborado los impactos , entregables y los hemos relacionado a las user stories correspondientes.
 
 **Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq)
 
-![Impact Mapping-Carrier](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq)
+<div align=center>
+    <img src="./assets/Impact Mapping-Carrier.png" width=450px >
+</div>
+
 
 **Segmento: Emprendedores**
+
 En este caso tenemos a Alejandro Martinez y mediante nuestra meta de negocio, se han elaborado los impactos , entregables y los hemos relacionado a las user stories correspondientes.
 **Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd)
 
-![Impact Mapping- Entrepreneur](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd)
+<div align=center>
+    <img src="./assets/Impact Mapping-Entrepreneur.png" width=450px >
+</div>
+
 
 <div id='3.4.'><h3> 3.4. Product Backlog </h3></div>
 
