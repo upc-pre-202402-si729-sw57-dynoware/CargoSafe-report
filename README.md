@@ -1272,12 +1272,20 @@ En esta parte se define los términos clave que más usaremos a lo largo del pro
 
 
 <div id='3.3.'><h3> 3.3. Impact Mapping </h3></div>
+En la presente sección se elaboró el impact mapping partiendo desde las metas de negocio para cada user persona, los impactos, entregables y unirlos a las historias de usuario adecuadas.
 
-**Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EcdisfIaOJRLkUqLP1LlGnYB1zRe4KbZkbI0wksFuvnmRg?e=Le3TCV)
+**Segmento: Transportistas**
+En este caso tenemos a Marcelo Dominguez y mediante nuestra meta de negocio, se han elaborado los impactos , entregables y los hemos relacionado a las user stories correspondientes.
 
-<div align=center>
-    <img src="./assets/chapter-3/Impact-Mapping-Carrier.png" width=350px >
-</div>
+**Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq)
+
+![Impact Mapping-Carrier](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfsVGxog41hKnd9peni_BwABebMUw7U_A2lsnLD7RidW2w?e=qehRVq)
+
+**Segmento: Emprendedores**
+En este caso tenemos a Alejandro Martinez y mediante nuestra meta de negocio, se han elaborado los impactos , entregables y los hemos relacionado a las user stories correspondientes.
+**Enlace:** [https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd)
+
+![Impact Mapping- Entrepreneur](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215164_upc_edu_pe/EfSOZ9H342lNqZQUXWrX0TgB8rvjasEZhWelxzJpsUOqpQ?e=Vb4rqd)
 
 <div id='3.4.'><h3> 3.4. Product Backlog </h3></div>
 
@@ -2084,6 +2092,8 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 En esta sección mostramos las tareas que se realizaron en este sprint.
 
 Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
+![image](https://github.com/user-attachments/assets/751ec647-ed36-4c37-8b1c-c1cab53ddb01)
+
 
   <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
 
