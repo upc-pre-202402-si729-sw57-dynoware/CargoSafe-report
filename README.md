@@ -900,40 +900,45 @@ Usa frecuentemente su celular para la coordinación de pedidos de materiales, ad
 - Ramos quiere que la entrega de sus productos estén en buen estado porque reflejan su emprendimiento.
 - Quiroz quisiera estar informado en todo momento sobre el estado de su mercancía y calcular el tiempo que tardaría en terminar las obras.
 
-**Análisis por medio de herramientas estadísticas:**
+**Análisis por medio de herramientas estadísticas:**<br>
 
 <div align="justify">
-El gráfico muestra los dispositivos más utilizados por los entrevistados. Se observa que el celular es el dispositivo más usado, con un 100% de los usuarios.</div>
+El gráfico muestra los dispositivos más utilizados por los entrevistados. Se observa que el celular es el dispositivo más usado, con un 100% de los usuarios.</div><br>
 
 ![Grafico1](assets/chapter_2/Grafico1.png)
 
-<div align="justify">
+<br><div align="justify">
 El gráfico muestra los canales con mayor interacción utilizados por los entrevistados. En este caso, WhatsApp es utilizado todo el tiempo, siendo el canal favorito, mientras que en segundo lugar se encuentra el teléfono.
-</div>
+
+</div><br>
 
 ![Grafico2](assets/chapter_2/Grafico2.png)
 
-<div align="justify">
+<br><div align="justify">
 El gráfico muestra las aplicaciones de mayor interés para los entrevistados, es decir, aquellas que utilizaron en algún momento específico en relación con el transporte de carga, destacando que InDrive fue usada por una gran parte de ellos.
-</div>
+
+</div><br>
 
 ![Grafico3](assets/chapter_2/Grafico3.png)
 
-<div align="justify">
+<br><div align="justify">
 El gráfico muestra la experiencia en el uso de plataformas por parte de los empresarios y transportistas. En este caso, vemos que los transportistas dominan menos las plataformas que los empresarios.
-</div>
+
+</div><br>
 
 ![Grafico4](assets/chapter_2/Grafico4.png)
 
-<div align="justify">
+<br><div align="justify">
 El gráfico muestra la experiencia pasada de los transportistas y empresarios, destacando que, en su mayoría, fueron experiencias negativas. De esta forma, se resalta el impacto que tuvieron los empresarios en la búsqueda de transporte y la entrega de la mercancía.
-</div>
+
+</div><br>
 
 ![Grafico5](assets/chapter_2/Grafico5.png)
 
-<div align="justify">
+<br><div align="justify">
 El gráfico muestra cuán motivados están los transportistas y empresarios con la expectativa de mejora de su situación, observando que ambos grupos tienen un nivel de motivación superior al 50%.
-</div>
+
+</div><br>
 
 ![Grafico6](assets/chapter_2/Grafico6.png)
 
@@ -951,13 +956,24 @@ Se trata de una representación ficticia de un usuario, basada en datos reales d
 
 **Segmento Objetivo: Transportistas**
 
-Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ERJ0mrauDQxOjD-in1SsGzIBKPfER3TcIbiVne3YBq8c_Q?e=kQMyyK)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EYloKKTihldKvQ_x6wHf2iUBrdYCs22RaUWTG3PYl3IUfA?e=8tI0JU)
+
+<br><div align="justify">
+Este perfil refleja a un transportista que busca mejorar su eficiencia y mantener una buena comunicación con sus clientes, enfrentándose a desafíos como la falta de proveedores y la transparencia en el transporte de la carga. Destaca por tener el objetivo de mejorar su alcance en el transporte de carga, asegurando que su trabajo sea transparente y eficiente.
+
+</div><br>
 
 ![user_transportistas](assets/chapter_2/Marcelo_Domínguez.png)
 
 **Segmento Objetivo: Empresarios**
 
-Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EQcau_6MA8ZFvT_bmJlYWGIB8oKPGvZ3xmBlWlkTiBwlkw?e=s4qQez)
+Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ETJbpP7EgoZLphGdeWpKMIIBDImcJZnxyoEBbZqDxk8t8w?e=wLes72)
+
+<br> <div align="justify">
+Este perfil se centra en la necesidad de Alejandro de mejorar la gestión logística de sus envíos, utilizando herramientas que le brinden transparencia y fiabilidad en el proceso de entrega de mercancía. Ha experimentado problemas para encontrar transportistas confiables que entreguen sus productos a tiempo.
+Por eso se ve en la necesidad de buscar una herramienta que le ayude a coordinar entregas con transportistas capacitados y confiables.
+
+</div><br>
 
 ![user_empresarios](assets/chapter_2/Alejandro_Martinez.png)
 
@@ -2853,8 +2869,7 @@ Muestra de todas vistas programadas en Angular para este Sprint 2:
 - Agendar orden: Aquí se realiza el componente para agendar la orden,para ser posteriormente visualizada en una tabla de órdenes.
   ![image](https://github.com/user-attachments/assets/126f19cf-e569-4555-b1ee-c3664c7fa088)
 - Mercadería: En esta sección se realiza el componente que permmite ver la mercadería a transportar.
- ![image](https://github.com/user-attachments/assets/dbd89f73-42bf-4c0b-86fe-4c25601359f2)
-
+  ![image](https://github.com/user-attachments/assets/dbd89f73-42bf-4c0b-86fe-4c25601359f2)
 
 Video que detalla la visualización y navegación logrados en el Sprint 2
 
