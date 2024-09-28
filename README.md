@@ -1806,7 +1806,7 @@ Class Vehicle
 | model     | String | Model of the vehicle           |
 | plate     | String | License plate of the vehicle   |
 | license   | String | License number of the vehicle  |
-| max_load  | double | Maximum load capacity          |
+| maxLoad  | double | Maximum load capacity          |
 | volume    | double | Volume capacity of the vehicle |
 
 Class AlertObserver
@@ -1827,8 +1827,8 @@ Class OngoingTrip
 | id               | int    | Unique identifier for ongoing trip    |
 | date             | Date   | Date of the trip                      |
 | status           | String | Current status of the trip            |
-| delivery_address | String | Delivery address for the ongoing trip |
-| total_amount     | double | Total amount for the ongoing trip     |
+| deliveryAddress | String | Delivery address for the ongoing trip |
+| totalAmount     | double | Total amount for the ongoing trip     |
 
 | Method                             | Return Type | Description                                         |
 | ---------------------------------- | ----------- | --------------------------------------------------- |
@@ -1840,12 +1840,12 @@ Class Expense
 
 | Attribute         | Type   | Description                       |
 | ----------------- | ------ | --------------------------------- |
-| fuel_amount       | double | Amount spent on fuel              |
-| fuel_description  | String | Description of the fuel expense   |
-| vatic_amount      | double | Amount spent on other expenses    |
-| vatic_description | String | Description of the other expenses |
-| tolls_amount      | double | Amount spent on tolls             |
-| tolls_description | String | Description of the tolls expense  |
+| fuelAmount       | double | Amount spent on fuel              |
+| fuelDescription  | String | Description of the fuel expense   |
+| vaticAmount      | double | Amount spent on other expenses    |
+| vaticDescription | String | Description of the other expenses |
+| tollsAmount      | double | Amount spent on tolls             |
+| tollsDescription | String | Description of the tolls expense  |
 
 | Method                                                 | Return Type | Description              |
 | ------------------------------------------------------ | ----------- | ------------------------ |
@@ -1856,9 +1856,9 @@ Class PaymentCard
 | Attribute     | Type   | Description                             |
 | ------------- | ------ | --------------------------------------- |
 | id            | int    | Unique identifier for the payment card  |
-| card_number   | String | Card number of the payment card         |
-| expiry_date   | String | Expiry date of the payment card         |
-| security_code | int    | Security code (CVV) of the payment card |
+| cardNumber   | String | Card number of the payment card         |
+| expiryDate   | String | Expiry date of the payment card         |
+| securityCode | int    | Security code (CVV) of the payment card |
 
 | Method            | Return Type | Description                                 |
 | ----------------- | ----------- | ------------------------------------------- |
