@@ -2853,7 +2853,8 @@ Muestra de todas vistas programadas en Angular para este Sprint 2:
 - Agendar orden: Aquí se realiza el componente para agendar la orden,para ser posteriormente visualizada en una tabla de órdenes.
   ![image](https://github.com/user-attachments/assets/126f19cf-e569-4555-b1ee-c3664c7fa088)
 - Mercadería: En esta sección se realiza el componente que permmite ver la mercadería a transportar.
-  ![image](https://github.com/user-attachments/assets/73205342-5efc-47c1-8092-be203f4ad543)
+ ![image](https://github.com/user-attachments/assets/dbd89f73-42bf-4c0b-86fe-4c25601359f2)
+
 
 Video que detalla la visualización y navegación logrados en el Sprint 2
 
