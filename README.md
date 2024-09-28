@@ -1130,11 +1130,19 @@ Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_up
 
 ![empathy_mapping_transportista](assets/chapter_2/empathy_mapping_transportista.png)
 
+<div align="justify">
+Alejandro necesita asegurar que sus productos lleguen a tiempo y en buen estado, y busca innovaciones para optimizar su logística. Enfrenta desafíos sobre cómo encontrar transportistas confiables y mantener la eficiencia en sus operaciones logísticas. También desea mejorar las relaciones a largo plazo como transportistas y evitar retrasos que puedan afectar su reputación y la satisfacción de sus clientes.
+</div>
+
 **User Journey Mapping: Empresario**
 
 Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/ESkzoIurwdJMilx6Aus0GwsB73gUFta3oOg6wOPKZEXDEA?e=GN136E)
 
 ![empathy_mapping_empresario](assets/chapter_2/empathy_mapping_empresario.png)
+
+<div align="justify">
+Alejandro necesita asegurar que sus productos lleguen a tiempo y en buen estado. Enfrenta desafíos de cómo encontrar transportistas confiables y mantiene la eficiencia en sus operaciones logísticas. También desea mejorar las relaciones a largo plazo con sus transportistas confiables y evitar retrasos que puedan afectar su reputación y la satisfacción de sus clientes.
+</div>
 
 <div id='2.3.5.'><h4>2.3.5. As-is Scenario Mapping</h4></div>
 
