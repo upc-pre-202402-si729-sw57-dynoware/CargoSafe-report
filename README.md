@@ -2791,6 +2791,101 @@ Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-2-cargosafe](https://trello.
 <div id='5.2.2.7.'><h5> 5.2.2.7.	Software Deployment Evidence for Sprint Review</h5></div>
 <div id='5.2.2.8.'><h5> 5.2.2.8.	Team Colaboration Insights during Sprint</h5></div>
 
+El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
+
+Adicionalmente, se aplicaron las convenciones estandar del gitflow, por lo que hicimos que todo vaya el rama **develop**.
+
+A continuación, se presentarán las tareas asignadas a cada integrante del equipo, así como el insight del equipo a través de la plataforma GitHub:
+
+<table>
+  <tr> 
+   <th> <strong> Alumno </strong></th>
+   <th> <strong> Actividad </strong></th>
+   </tr>
+
+  <tr> 
+   <th>Boronda Heidinger, Astrid Jimena</th>
+   <th>Implementación de la página en la cual se muestren las estadísticas del mes de las empresas de logística.</th>
+ </tr>
+  <tr> 
+   <th>Cortez Flores, Ely Rivaldo</th>
+   <th>Implementación de Dashboard para emprendedores.</th>
+ </tr>
+  <tr> 
+   <th>Ramos Argüelles, Alexandra Belen</th>
+   <th>Implementación de un formulario para el registro de órdenes de manera eficiente.</th>
+ </tr>
+  <tr> 
+   <th>Ramos Argüelles, Alexandra Belen</th>
+   <th>Implementación dentro de la lista de tiempo real los eventos importantes durante la entrega.</th>
+ </tr>
+ <tr>
+   <th>Ramos Argüelles, Alexandra Belen</th>
+   <th>Implementación de una lista que indique el estado del pedido en tiempo real.</th>
+ </tr>
+ <tr>
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+   <th>Implementación de un formulario para el registro de vehículos y para conductores.</th>
+ </tr>
+ <tr>
+   <th>Silva Morales, Renzo Cesar</th>
+   <th>Implementación de una página en la cual se visualicen las órdenes agendadas anteriormente.</th>
+ </tr>
+</table>
+
+
+Hemos desarrollado en conjunto un total de 17 commits para el desarrollo de la Landing Page, las cuales representan merge entre ramas, las acciones de agregar secciones y correción de código fuente.
+
+Con la finalidad de identificar a cada integrante del equipo, presentaremos una tabla con los usuarios de los colaboradores en el repositorio de GitHub.
+
+ <table>
+  <tr> 
+   <th> <strong> Username (GitHub) </strong></th>
+   <th> <strong> Nombre </strong></th>
+   </tr>
+
+  <tr> 
+   <th> AstridBH  </th>
+   <th>Boronda Heidinger, Astrid Jimena</th>
+ </tr>
+  <tr> 
+  <th> rivacortez </th>
+   <th>Cortez Flores, Ely Rivaldo</th>
+ </tr>
+  <tr> 
+   <th> AleRamosA </th>
+   <th>Ramos Argüelles, Alexandra Belen</th>
+
+ </tr>
+  <tr> 
+   <th> rrenzosilva </th>
+   <th>Silva Morales, Renzo Cesar</th>
+ </tr> 
+   <tr> 
+   <th> Relycloud </th>
+   <th>Quiroz Zambrano, Fabrizio Javier</th>
+ </tr> 
+</table>
+
+En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
+
+<div align=center>
+    <img src="./assets/chapter-5/NetworkGraph.png" width=600px >
+</div>
+
+**Flujo de trabajo entre ramas:**
+
+<div align=center>
+    <img src="./assets/chapter-5/periodmonth.png" width=600px >
+</div>
+
+**Commits en el período de un mes**
+
+<div align=center>
+    <img src="./assets/chapter-5/workbranch.png" width=600px >
+</div>
+
+
 <div id='7.'><h2>Bibliografía</h2></div>
 
 - Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
