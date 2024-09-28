@@ -2937,8 +2937,11 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 
 ![image](https://github.com/user-attachments/assets/a3583504-2bef-4bbb-8431-395a8423074a)
 
+-Lind de la fake API desplegada: [https://cargosafe-fake-api.vercel.app/](https://cargosafe-fake-api.vercel.app/)
 - Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
-- Link del Frontend Aplicación Web: [https://cargosafewebapp.netlify.app/home](https://cargosafewebapp.netlify.app/home)
+- ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
+
+- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.	Team Colaboration Insights during Sprint</h5></div>
 
