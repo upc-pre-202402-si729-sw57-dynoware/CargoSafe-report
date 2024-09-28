@@ -1519,41 +1519,53 @@ En este mockup se muestra la página principal con todas las opciones y visuales
 
 En este mockup se presenta un panel de control con métricas y estadísticas relevantes, brindando al usuario una vista general de su actividad y pedidos.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.040.png)\*\*
+![](assets/chapter-4/logisdash.png)
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.041.png)
+![](assets/chapter-4/logisdash2.png)
+
+![](assets/chapter-4/dashboard.png)
+
+![](assets/chapter-4/dashboard2.png)
 
 **user goal:Información del conductor e información propia**
 
 En este mockup se visualiza la información personal del usuario y los detalles del conductor asignado para el pedido.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.042.png)
+![](assets/chapter-4/myinfo.png)
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.043.png)
+![](assets/chapter-4/conductorinfo.png)
 
 \*\*user goal:Inicio de sesión , registro y registro de tarjeta:
 
 En este mockup se muestra el proceso de inicio de sesión, registro de usuarios y la vinculación de tarjetas de pago.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.044.png)\*\*
+![](assets/chapter-4/loginregister.png)
 
 \*\*user goal:Agendar paquete y ver pedidos agendados:
 
 En este mockup se presenta la opción de programar un envío y consultar los pedidos previamente agendados.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.045.png)\*\*
+![](assets/chapter-4/registerpack.png)
+
+![](assets/chapter-4/registerpack2.png)
+
+![](assets/chapter-4/merchag.png)
 
 \*\*user goal:Elegir tipo de auto para pedido:
 
 En este mockup se muestra la selección del tipo de vehículo para el envío, adaptado a las necesidades del paquete.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.046.png)\*\*
+![](assets/chapter-4/choosevehicle.png)
+
+![](assets/chapter-4/choosevehicle2.png)
 
 \*\*user goal: Trackear orden en tiempo real:
 
 En este mockup se visualiza el rastreo del pedido en tiempo real, con un mapa interactivo que sigue la ubicación del vehículo.
 
-![](assets/Aspose.Words.9817e2c5-a02b-4ce4-adb5-f25303a0b781.047.png)\*\*
+![](assets/chapter-4/travel.png)
+
+![](assets/chapter-4/map.png)
 
 **4.4.4. [Web Applications User Flow Diagrams.**](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-report/tree/feature/chapter-4?tab=readme-ov-file#4.4.4.)\*\*
 
