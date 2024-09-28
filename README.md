@@ -958,9 +958,8 @@ Se trata de una representación ficticia de un usuario, basada en datos reales d
 
 Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EYloKKTihldKvQ_x6wHf2iUBrdYCs22RaUWTG3PYl3IUfA?e=8tI0JU)
 
-<br><div align="justify">
+<div align="justify">
 Este perfil refleja a un transportista que busca mejorar su eficiencia y mantener una buena comunicación con sus clientes, enfrentándose a desafíos como la falta de proveedores y la transparencia en el transporte de la carga. Destaca por tener el objetivo de mejorar su alcance en el transporte de carga, asegurando que su trabajo sea transparente y eficiente.
-
 </div><br>
 
 ![user_transportistas](assets/chapter_2/Marcelo_Domínguez.png)
@@ -1105,11 +1104,19 @@ Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_up
 
 ![user_journey_mapping_transportista](assets/chapter_2/user_journey_mapping_transportista.png)
 
+<div align="justify">
+Este mapa muestra el proceso de Marcelo Domínguez, un transportista, desde la búsqueda de contratos hasta la entrega de la carga. A lo largo de las etapas (búsqueda, exploración, implementación y resultados), Marcelo se enfrenta a diversos problemas como la dificultad de encontrar proveedores a tiempo, falta de espacio o información detallada sobre la mercancía, retrasos en el transporte y posibles pérdidas.
+</div>
+
 **User Journey Mapping: Empresario**
 
 Enlace: [Enlace](https://upcedupe-my.sharepoint.com/:i:/g/personal/u202215823_upc_edu_pe/EeuLpjmq_mxKtCH3nWRP0RABDyVmjgSkVfqxig9lTmuOhA?e=sIrumH)
 
 ![user_journey_mapping_empresario](assets/chapter_2/user_journey_mapping_empresario.png)
+
+<div align="justify">
+Este mapa muestra el proceso de Alejandro Martinez, un empresario que su experiencia emocional decae desde la distracción en la fase de búsqueda hasta la molestía al enfrentar problemas durante el transporte y la entrega. Se identifican oportunidades para mejorar su experiencia, como crear una plataforma que ofrezca información detallada sobre sus mercancías y tiempos de entrega, además de mantener una comunicación constante sobre retrasos.
+</div>
 
 <div id='2.3.4.'><h4>2.3.4. Empathy Mapping</h4></div>
 
