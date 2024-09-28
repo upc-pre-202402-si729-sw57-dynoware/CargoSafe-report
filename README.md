@@ -2620,11 +2620,11 @@ Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue neces
 |Location|Modalidad remota a través de la plataforma Zoom|
 |Prepared By|Ramos Argüelles, Alexandra Belen|
 |Attendees (to planning meeting)|Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar|
-|Sprint 0 Review Summary|Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.|
-|Sprint 0 Retrospective Summary|Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.|
+|Sprint 1 Review Summary|Se desarrolló la Landing Page así como los mockups de la aplicación web|
+|Sprint 1 Retrospective Summary|Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.|
 |Sprint Goal & User Stories||
-|Sprint 1 Goal|En este Sprint se planea desarrollar la aplicación web con Angular y Angular Material. Previamente a su respectivo diseñó en Figma. El grupo discutió que componentes iba a desarrollar para las vistas del emprendedor y del transportista.|
-|Sprint 1 Velocity|19|
+|Sprint 2 Goal|En este Sprint se planea desarrollar la aplicación web con Angular y Angular Material. Previamente a su respectivo diseñó en Figma. El grupo discutió que componentes iba a desarrollar para las vistas del emprendedor y del transportista.|
+|Sprint 2 Velocity|8|
 |Sum of Story Points|19|
 
 <div id='5.2.2.2.'><h5> 5.2.2.2.	Sprint Backlog 2 </h5></div>
@@ -2648,9 +2648,31 @@ Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-2-cargosafe](https://trello.
 </table>
 
 <div id='5.2.2.4.'><h5> 5.2.2.4.	Testing Suite Evidence for Sprint Review</h5></div>
+
+En este desarrollo del Sprint 2 se ha desarrollado el frntend de la aplicación, por lo que no se evidencia Testing.
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|||||||
+
 <div id='5.2.2.5.'><h5> 5.2.2.5.	Execution Evidence for Sprint Review</h5></div>
 <div id='5.2.2.6.'><h5> 5.2.2.6.	Services Documentation Evidence for Sprint Review</h5></div>
 <div id='5.2.2.7.'><h5> 5.2.2.7.	Software Deployment Evidence for Sprint Review</h5></div>
+
+Para este Sprint 2 utilizamos los servicios de Http con Json server que facilitó la elaboración de nuestra fake API.
+
+Nuestras variable de entorno serverBasePath que se dirigen al puerto 3000:
+
+![image](https://github.com/user-attachments/assets/17c4d3bd-9fc6-4559-80c6-037a85537304)
+
+Nuestro BaseService:
+![image](https://github.com/user-attachments/assets/6f8cba9b-deaa-4a7f-a12d-171241a30e1b)
+
+A continuación enseñaremos un ejemplo en cual se usa el endpoint:
+
+![image](https://github.com/user-attachments/assets/b6b25422-0310-497d-963e-d7c556b44a7b)
+
+
+
 <div id='5.2.2.8.'><h5> 5.2.2.8.	Team Colaboration Insights during Sprint</h5></div>
 
 El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
