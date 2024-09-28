@@ -1598,9 +1598,9 @@ Para poder elaborar los prototipos de la interfaz de usuario destinados a Deskto
 
 ![Web_Applications_Prototyping](assets/chapter-4/landingfirstpage.png)
 
-Enlace para acceder al video de explicación del [Web Applications Prototyping]()
+Enlace para acceder al video de explicación del [Web Applications Prototyping](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213406_upc_edu_pe/EXBl3U7CzjBCvzrgz62jgjUBLfghBNpKYBrXKSM5rSG6lA?e=YE2GwV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Enlace para acceder al [Flujo]()
+Enlace para acceder al [Flujo](https://www.figma.com/proto/w6sSZbaxzGPurnNVPFNkh5/Untitled?node-id=1-866&node-type=frame&t=013QYPZeDxQHUhxa-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A866)
 
 <div id='4.6.'><h3> 4.6. Domain-Driven Software Architecture.</h3></div>
 
