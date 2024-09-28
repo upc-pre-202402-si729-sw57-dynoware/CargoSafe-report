@@ -2784,8 +2784,37 @@ En este desarrollo del Sprint 2 se ha desarrollado el frntend de la aplicación,
 |||||||
 
 <div id='5.2.2.5.'><h5> 5.2.2.5.	Execution Evidence for Sprint Review</h5></div>
+
+En este sprint, alcanzamos la primera fase de nuestro producto final al desarrollar nuestra aplicación web utilizando Angular y Angular Material, junto con una API basada en JSON server.
+
+Muestra de todas vistas programadas en Angular para este Sprint 2:
+
+- Pantalla principal: En la pantalla principal se puede observar las herramientas que tiene la empresa de transporte.
+  ![image](https://github.com/user-attachments/assets/81134f53-4b9c-463d-8c34-6c3b1c1db60c)
+
+- Agregar conductores: En esta vista se observa el componente de Agregar conductores, con una tabla en la que se puede observar mediante una tabla la información de los conductores.
+  ![image](https://github.com/user-attachments/assets/278ed8b1-1322-46de-9798-6b658021dd22)
+- Conrtol de Vehículos: En esta vista se observa el componente de Manejo de Vehículos en el que se puede agregar un vehículo y ver los vehículos agregados mediante una tabla.
+  ![image](https://github.com/user-attachments/assets/605dc61e-9f29-41e4-b9bd-17f4ad37460e)
+
+- Segumiento de la orden: En esta pantalla se muestra el seguimiento de la orden para que el emprendedor pueda visualizar el estado de su paquete.
+  ![image](https://github.com/user-attachments/assets/f253e143-e501-42f6-8033-800d7b544209)
+
+- Estadísticas de transporte: Aquí se aprecia el componente de estadísticas, el cual es un reporte informativo sobre los gatos por viaje, alimetnación, entre otros.
+  ![image](https://github.com/user-attachments/assets/eaac7d2d-482e-4f2f-8cef-fef4a61b7208)
+- Agendar orden: Aquí se realiza el componente para agendar la orden,para ser posteriormente visualizada en una tabla de órdenes.
+  ![image](https://github.com/user-attachments/assets/126f19cf-e569-4555-b1ee-c3664c7fa088)
+- Mercadería: En esta sección se realiza el componente que permmite ver la mercadería a transportar.
+  ![image](https://github.com/user-attachments/assets/73205342-5efc-47c1-8092-be203f4ad543)
+
+
+Video que detalla la visualización y navegación logrados en el Sprint 2
+
+Video: 
+
+
+
 <div id='5.2.2.6.'><h5> 5.2.2.6.	Services Documentation Evidence for Sprint Review</h5></div>
-<div id='5.2.2.7.'><h5> 5.2.2.7.	Software Deployment Evidence for Sprint Review</h5></div>
 
 Para este Sprint 2 utilizamos los servicios de Http con Json server que facilitó la elaboración de nuestra fake API.
 
@@ -2799,6 +2828,42 @@ Nuestro BaseService:
 A continuación enseñaremos un ejemplo en cual se usa el endpoint:
 
 ![image](https://github.com/user-attachments/assets/b6b25422-0310-497d-963e-d7c556b44a7b)
+
+
+<div id='5.2.2.7.'><h5> 5.2.2.7.	Software Deployment Evidence for Sprint Review</h5></div>
+
+En este segundo sprint, seguimos aprovechando el servicio de despliegue automático de Netlify para asegurar una implementación continua y eficiente de nuestra aplicación web. El proceso de despliegue se alinea con los procedimientos previamente establecidos, garantizando una integración sin contratiempos dentro del flujo de trabajo. Esto permite que las mejoras y actualizaciones se reflejen de manera inmediata en la aplicación, proporcionando así una experiencia optimizada para los usuarios finales.
+
+Ingresar a Netlify, hacer click en el botón de "Add new site".
+
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+Ahora procedemos a elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+Después de seleccionar nuestra organización, ingresamos al repositorio del frontend de la aplicación web.
+
+![image](https://github.com/user-attachments/assets/a3583504-2bef-4bbb-8431-395a8423074a)
+
+- Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+- Link del Frontend Aplicación Web: [https://cargosafewebapp.netlify.app/home](https://cargosafewebapp.netlify.app/home)
 
 <div id='5.2.2.8.'><h5> 5.2.2.8.	Team Colaboration Insights during Sprint</h5></div>
 
