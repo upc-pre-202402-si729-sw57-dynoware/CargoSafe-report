@@ -1696,7 +1696,7 @@ Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagram
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
 
-![Clase UML](https://i.postimg.cc/KYF7PHkD/Class-diagram.png)
+![Clase UML](http://imgfz.com/i/6ol4BmE.png)
 
 Enlace: [Class Diagram](https://lucid.app/lucidchart/3c6b7a66-b95b-4d42-8f60-8c4e8cf0ca0d/edit?viewport_loc=-3196%2C-1672%2C3328%2C1650%2C0_0&invitationId=inv_cc337c52-beb1-48f2-b583-8e156bc4e95c)
 
