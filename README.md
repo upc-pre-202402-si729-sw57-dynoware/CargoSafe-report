@@ -354,79 +354,38 @@ Sabremos que tenemos éxito cuando veamos una mejora en los tiempo de entrega y 
 
 ###### **User Assumptions:**
 
-###### **¿Quién es el usuario?**
+Nuestro usuario serán los transportistas y empresarios involucrados en la logística y transporte de cargamento, y nuestro producto encaja en la vida de los usuarios, ya que facilita la optimización de rutas y el monitoreo en tiempo real de la seguridad de la mercancía y la seguridad del transportista.
 
-Nuestro usuario serán los transportistas y empresarios involucrados en la logística y transporte de cargamento.
+Además, nuestro producto debe resolver varios problemas, como la falta de visibilidad en tiempo real sobre el estado de la carga, la inseguridad en rutas peligrosas, y la ineficiencia en la planificación de rutas. Este, es usado antes, durante y después del proceso de transporte de la mercancía. Los transportistas lo usan para planificar rutas seguras y eficientes, mientras que los empresarios lo emplean para monitorear el estado de la carga y recibir notificaciones en tiempo real.
 
-###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
-
-Nuestro producto encaja en la vida de los usuarios, ya que facilita la optimización de rutas y el monitoreo en tiempo real de la seguridad de la mercancía y la seguridad del transportista.
-
-###### **¿Qué problemas tiene que resolver nuestro producto?**
-
-Nuestro producto debe resolver varios problemas, como la falta de visibilidad en tiempo real sobre el estado de la carga, la inseguridad en rutas peligrosas, y la ineficiencia en la planificación de rutas.
-
-###### **¿Cuándo y cómo es nuestro producto usado?**
-
-Nuestro producto es usado antes, durante y después del proceso de transporte de la mercancía. Los transportistas lo usan para planificar rutas seguras y eficientes, mientras que los empresarios lo emplean para monitorear el estado de la carga y recibir notificaciones en tiempo real.
-
-###### **¿Qué características son importantes?**
-
-Algunas características importantes son el monitoreo en tiempo real de la ubicación de la carga, alertas personalizadas, optimización de rutas basada en datos de tráfico, clima y seguridad e interfaz intuitiva para facilitar su uso tanto en dispositivos móviles como en computadoras.
-
-###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
-
-El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con un diseño limpio que permita acceder rápidamente a la información esencial. En dispositivos móviles, debe ser responsive y ofrecer una experiencia fluida.
+Algunas características importantes son el monitoreo en tiempo real de la ubicación de la carga, alertas personalizadas, optimización de rutas basada en datos de tráfico, clima y seguridad e interfaz intuitiva para facilitar su uso tanto en dispositivos móviles como en computadoras. El producto debe tener una interfaz moderna, intuitiva y fácil de navegar, con un diseño limpio que permita acceder rápidamente a la información esencial. En dispositivos móviles, debe ser responsive y ofrecer una experiencia fluida.
 
 ###### **Business Assumptions:**
 
-1.  **Creemos que nuestros usuarios necesitan** una solución que les permita monitorear el transporte de carga en tiempo real, optimizar las rutas y mejorar la seguridad de la mercancía durante el proceso de envío.
-2.  **Estas necesidades se pueden satisfacer** proporcionando una plataforma que ofrezca herramientas avanzadas de seguimiento, alertas en tiempo real, y una interfaz intuitiva para gestionar eficientemente el transporte de carga.
-3.  **Nuestros clientes iniciales serán** transportistas y empresarios que operan en la industria de la logística y el transporte, buscando optimizar sus procesos y minimizar los riesgos durante el envío.
-4.  **El valor más importante que un cliente quiere de nuestros servicios es** la capacidad de tener visibilidad en tiempo real de su cargamento, permitiendo una reacción rápida ante posibles incidentes y garantizando la seguridad de la mercancía.
-5.  **El cliente también va a obtener** un mayor control sobre la planificación de rutas, lo que mejorará la eficiencia operativa y reducirá los costos asociados con retrasos y desvíos inesperados.
-6.  **Vamos a obtener la mayoría de los clientes mediante** estrategias de marketing digital, como campañas publicitarias en línea, redes sociales, y a través de asociaciones estratégicas en la industria del transporte.
-7.  **Vamos a obtener ingresos mediante** la suscripción a nuestro servicio, ofreciendo diferentes planes según el tamaño de la flota o el nivel de seguimiento y análisis que el cliente necesite.
-8.  **Nuestra competencia en el mercado serán** otras plataformas de monitoreo de transporte y gestión de rutas, así como soluciones logísticas integradas ofrecidas por grandes proveedores.
-9.  **Vamos a tener ventaja frente a nuestra competencia debido a** nuestra interfaz intuitiva, enfoque especializado en transportistas y empresarios, y las capacidades avanzadas de personalización y notificaciones en tiempo real que mejoran la seguridad de la carga.
-10. **El mayor riesgo del servicio es** la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
-11. **Lo resolveremos realizando** campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
+Creemos que nuestros usuarios necesitan una solución que les permita monitorear el transporte de carga en tiempo real, optimizar las rutas y mejorar la seguridad de la mercancía durante el proceso de envío.
+Estas necesidades se pueden satisfacer proporcionando una plataforma que ofrezca herramientas avanzadas de seguimiento, alertas en tiempo real, y una interfaz intuitiva para gestionar eficientemente el transporte de carga.
+Nuestros clientes iniciales serán transportistas y empresarios que operan en la industria de la logística y el transporte, buscando optimizar sus procesos y minimizar los riesgos durante el envío.
+El valor más importante que un cliente quiere de nuestros servicios es la capacidad de tener visibilidad en tiempo real de su cargamento, permitiendo una reacción rápida ante posibles incidentes y garantizando la seguridad de la mercancía.
+El cliente también va a obtener un mayor control sobre la planificación de rutas, lo que mejorará la eficiencia operativa y reducirá los costos asociados con retrasos y desvíos inesperados.
+Vamos a obtener la mayoría de los clientes mediante estrategias de marketing digital, como campañas publicitarias en línea, redes sociales, y a través de asociaciones estratégicas en la industria del transporte.
+Vamos a obtener ingresos mediante la suscripción a nuestro servicio, ofreciendo diferentes planes según el tamaño de la flota o el nivel de seguimiento y análisis que el cliente necesite.
+Nuestra competencia en el mercado serán otras plataformas de monitoreo de transporte y gestión de rutas, así como soluciones logísticas integradas ofrecidas por grandes proveedores.
+Vamos a tener ventaja frente a nuestra competencia debido a nuestra interfaz intuitiva, enfoque especializado en transportistas y empresarios, y las capacidades avanzadas de personalización y notificaciones en tiempo real que mejoran la seguridad de la carga.
+El mayor riesgo del servicio es la falta de adopción por parte de los usuarios debido a la resistencia al cambio o la preferencia por métodos tradicionales de gestión del transporte.
+Lo resolveremos realizando campañas de marketing, demostrando los beneficios que ofrece nuestra plataforma en términos de eficiencia y seguridad.
 
 ###### **User Outcomes:**
 
-- **Mayor seguridad en el transporte**
-
-Los transportistas y empresarios logran un mayor control sobre la seguridad de la carga, con notificaciones y alertas en tiempo real que les permiten reaccionar ante cualquier incidente o desvío.
-
-- **Optimización de rutas**
-
-Los usuarios disfrutan de una planificación de rutas más eficiente, ahorrando tiempo y combustible gracias a las recomendaciones inteligentes basadas en datos de tráfico y condiciones climáticas.
-
-- **Visibilidad completa del estado de la carga**
-
-Los usuarios pueden monitorear el estado y la ubicación exacta de su mercancía durante todo el proceso de transporte, lo que les brinda tranquilidad y confianza.
-
-- **Reducción de costos operativos**
-
-Los transportistas y empresarios experimentan una disminución en los costos asociados con pérdidas, daños o retrasos gracias a un seguimiento más preciso y rutas mejor planificadas.
+Los transportistas y empresarios buscarían el producto porque necesitan una solución que les permita mejorar la seguridad y eficiencia en el transporte de carga, reducir el riesgo de pérdidas o daños y optimizar las rutas.
+Con el monitoreo, podrán reaccionar rápidamente ante cualquier incidente, reduciendo riesgos.
+Además, ahorrarán tiempo y costos operativos gracias a recomendaciones de rutas, mejorando la eficiencia.
+Por otro lado, tanto transportistas como empresarios tendrán visibilidad total del estado de la carga, lo que les proporcionará tranquilidad y mayor control.
 
 ###### **Business Outcomes:**
 
-- **Aumento en la retención de clientes**
-
-Gracias a la plataforma intuitiva y las soluciones efectivas que ofrece, los clientes continuarán utilizando el servicio a largo plazo, mejorando la lealtad a la empresa.
-
-- **Crecimiento de la base de usuarios**
-
-La plataforma atraerá nuevos usuarios que buscan mejorar la eficiencia y seguridad de sus operaciones de transporte, lo que resultará en una expansión del mercado.
-
-- **Incremento en los ingresos**
-
-Los modelos de suscripción y los planes diferenciados basados en el uso de la plataforma proporcionarán fuentes de ingresos estables y escalables.
-
-- **Posicionamiento competitivo**
-
-La empresa logrará una ventaja competitiva frente a otras soluciones logísticas, destacándose por su facilidad de uso, capacidades avanzadas de monitoreo y personalización para diferentes necesidades empresariales.
+Sabremos que hemos resuelto el Business Problem si los transportistas y empresarios logran mejorar la eficiencia y seguridad en el transporte de carga, y si la plataforma se convierte en una herramienta esencial en sus operaciones diarias. Los usuarios comenzarán a tomar decisiones más informadas, reaccionarán de manera más rápida a los incidentes, y optimizarán sus rutas de forma consistente.
+Un aumento del 10-15% en el valor promedio de los pedidos dentro de los primeros 6 meses indicará que los empresarios confían más en el servicio y están dispuestos a invertir más en envíos más grandes o frecuentes.
+Además, un incremento del 20% en el tiempo de permanencia en la plataforma muestra que los usuarios están interactuando más con las funcionalidades, lo que sugiere que encuentran la plataforma útil para sus operaciones diarias.
 
 ###### **Features:**
 
