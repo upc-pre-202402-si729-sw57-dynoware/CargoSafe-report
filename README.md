@@ -1871,7 +1871,7 @@ Para este proyecto, hemos optado por el motor de base de datos MySQL debido a su
 
 <div id='4.8.1.'><h4> 4.8.1. Database Diagram.</h4></div>
 
-![Database_Diagram](http://imgfz.com/i/mbjJWpG.png)
+![Database_Diagram](http://imgfz.com/i/c5oxpdq.png)
 Enlace: [Database Diagram ](https://my.vertabelo.com/doc/UYn0eZPW4r3Ek5FEKjolgdmPOZZJI0yY)
 
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
