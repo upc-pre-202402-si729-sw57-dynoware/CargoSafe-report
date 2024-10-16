@@ -38,17 +38,22 @@
             <td>U202215313</td>
         </tr>
         <tr>
+            <td>León Rioja, Carlos Andrés</td>
+            <td>U202111451</td>
+        </tr>
+        <tr>
             <td>Ramos Argüelles, Alexandra Belen</td>
             <td>U202215164</td>
+        </tr>
+        <tr>
+            <td>Revilla Quispe, Renzo Zamir</td>
+            <td>U201717085</td>
         </tr>
         <tr>
             <td>Silva Morales, Renzo Cesar</td>
             <td>U20221c362</td>
         </tr>
-         <tr>
-            <td>Quiroz Zambrano, Fabrizio Javier</td>
-            <td>U202213406</td>
-        </tr>
+         
     </table>
 </div>
 
