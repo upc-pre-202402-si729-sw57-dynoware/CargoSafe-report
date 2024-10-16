@@ -2697,6 +2697,8 @@ Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue neces
     <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
 </div>
 
+<div id='5.2.2.'><h4> 5.2.2.	Sprint 2.</h4></div>
+
 <div id='5.2.2.1.'><h5> 5.2.2.1.	Sprint Planning 2.</h5></div>
 
 |          **Sprint #**           |                                                                                                                 **Sprint 2**                                                                                                                 |
@@ -3042,6 +3044,26 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 <div align=center>
     <img src="./assets/chapter-5/workbranch.png" width=600px >
 </div>
+
+<div id='5.2.3.'><h4> 5.2.3.	Sprint 3</h4></div>
+
+<div id='5.2.3.1.'><h5> 5.2.3.1.	Sprint Planning 3.</h5></div>
+
+|          **Sprint #**           |                                                                                                                 **Sprint 3**                                                                                                                 |
+| :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Sprint Planing Background    |                                                                                                                                                                                                                                              |
+|              Date               |                                                                                                                  15/10/2024                                                                                                                  |
+|              Time               |                                                                                                             17:00 horas (GMT-5)                                                                                                              |
+|            Location             |                                                                                               Modalidad remota a través de la plataforma Zoom                                                                                                |
+|           Prepared By           |                                                                                                       Ramos Argüelles, Alexandra Belen                                                                                                       |
+| Attendees (to planning meeting) |                                     Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Silva Morales, Renzo Cesar                                     |
+|     Sprint 2 Review Summary     |                                                                                   Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                    |
+| Sprint 1 Retrospective Summary  |                                                                      Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                       |
+|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                              |
+|          Sprint 2 Goal          | **Nuestro enfoque está en** desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas.<br>**Creemos que esto proporcionará** una experiencia satisfactoria para el usuario.<br>**Esto se confirmará cuando** los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente. |
+|        Sprint 2 Velocity        |                                                                                                                      8                                                                                                                       |
+|       Sum of Story Points       |                                                                                                                      19                                                                                                                      |
+
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
