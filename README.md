@@ -268,12 +268,12 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 
 | Descripción de los integrantes del equipo                                                                                                                                                                                                                                                                                                                                                                                            |                 Foto de los integrantes del equipo                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------: |
-| Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, HTML, CSS y Python.                                                                                                                                                 |    ![Integrante_Astrid](assets/chapter-1/Integrante_Astrid.png)    |
-| Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.                                                                                            |       ![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)       |
+| Mi nombre es Astrid Jimena Boronda Heidinger, soy estudiante de la carrera de Ingeniería de Software, tengo 19 años y me considero una persona dispuesta a ayudar en los trabajos de grupos y atenta a los detalles de los trabajos. Tengo conocimiento en C++, HTML, CSS y Python.                                                                                                                                                  |    ![Integrante_Astrid](assets/chapter-1/Integrante_Astrid.png)    |
+| Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.                                                                                               |       ![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)       |
 | Mi nombre es Alexandra Belen Ramos Argüelles, soy estudiante de la carrera de Ingeniería de software y actualmente me encuentro cursando el 6to ciclo. Me considero una persona empática, responsable y perseverante. Me adapto muy bien a los trabajos en equipo. Poseo habilidades en programación en lenguajes como C++, C#, Python y Java. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. | ![Integrante_Alexandra](assets/chapter-1/Integrante_Alexandra.png) |
-| Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.                                                                                                          |     ![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)     |
+| Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.                                                                                                           |     ![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)     |
 | Mi nombre es Fabrizio Javier Quiroz Zambrano, Me encanta todo lo que tenga que ver con la tecnología y el mundo competitivo de los videojuegos, siempre trato de ser el mejor en lo que hago.                                                                                                                                                                                                                                        |  ![Integrante_Fabrizio](assets/chapter-1/Integrante_Fabrizio.png)  |
-| Mi nombre es Carlos Andres Leon Rioja, tengo 21 y soy estudiante de la carrera de Ingeniería de software. Me gusta todo lo que tenga que ver con la ciencia y tecnología. Tengo conocimientos en los lenguajes de programacion C++, C#, Python, Java, JavaScript, Lua, PHP y Kotlin ademas de conocimientos en HTML, CSS y en los frameworks de Vue, Angular y Flutter. Me considero una persona amable, autodidacta y responsable.    |  ![Integrante_Carlos](assets/chapter-1/Integrante_Carlos.png)  |
+| Mi nombre es Carlos Andres Leon Rioja, tengo 21 y soy estudiante de la carrera de Ingeniería de software. Me gusta todo lo que tenga que ver con la ciencia y tecnología. Tengo conocimientos en los lenguajes de programacion C++, C#, Python, Java, JavaScript, Lua, PHP y Kotlin ademas de conocimientos en HTML, CSS y en los frameworks de Vue, Angular y Flutter. Me considero una persona amable, autodidacta y responsable.  |    ![Integrante_Carlos](assets/chapter-1/Integrante_Carlos.png)    |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brindar herramientas innovadoras para el seguimiento, la gestión y la optimización de rutas. La plataforma fue diseñada para mejorar la eficiencia logística y garantizar la seguridad de la carga en todo momento.
@@ -1897,6 +1897,56 @@ Class PaymentCard
 | ----------------- | ----------- | ------------------------------------------- |
 | pay()             | void        | Processes a payment using the payment card. |
 | assignToPayment() | void        | Associates the payment card with a user     |
+
+Class Statistics
+
+| Attribute | Type | Description                                |
+| --------- | ---- | ------------------------------------------ |
+| data      | Data | Stores general data related to statistics. |
+
+| Method              | Return Type | Description                                     |
+| ------------------- | ----------- | ----------------------------------------------- |
+| getStatisticsData() | void        | Method to obtain statistical data of the class. |
+
+Class LogisticsStatistics
+
+| Attribute             | Type         | Description                                                |
+| --------------------- | ------------ | ---------------------------------------------------------- |
+| monthlyOrders         | List<int>    | List of the number of orders placed per month.             |
+| deliveryRegions       | List<String> | List of regions where deliveries are made.                 |
+| typesOfCargo          | List<String> | List of the different types of cargo that are transported. |
+| loadsDelivered        | List<int>    | Number of loads delivered on time or late                  |
+| monthlyTransportCosts | List<double> | Transportation costs per month.                            |
+| averageOrders         | List<int>    | Average number of orders completed per month.              |
+
+| Method              | Return Type | Description                                               |
+| ------------------- | ----------- | --------------------------------------------------------- |
+| getStatisticsData() | void        | Inherited method to obtain statistical data of the class. |
+
+Class TripsStatistics
+
+| Attribute      | Type   | Description                                          |
+| -------------- | ------ | ---------------------------------------------------- |
+| id             | int    | Unique identifier                                    |
+| tripId         | int    | Unique trip identifier.                              |
+| companyId      | int    | Identifier of the company to which the trip belongs. |
+| tripsComplete  | String | Number of trips completed.                           |
+| costOrders     | String | Order costs details.                                 |
+| ordersComplete | String | Details of completed orders.                         |
+| orderByRegions | List<> | Order Details by Region                              |
+| averageOrders  | String | Average orders                                       |
+
+| Method            | Return Type | Description                                           |
+| ----------------- | ----------- | ----------------------------------------------------- |
+| calculateReport() | void        | Method of calculating the report for trip statistics. |
+
+Class ChartGenerator
+
+| Method              | Return Type | Description                                                |
+| ------------------- | ----------- | ---------------------------------------------------------- |
+| generateBarChart()  | Chart       | Method for generating a bar chart from the data provided.  |
+| generatePieChart()  | Chart       | Method for generating a pie chart from the data provided.  |
+| generateLineChart() | Chart       | Method for generating a line chart from the data provided. |
 
 <div id='4.8.'><h3> 4.8. Database Design.</h3></div>
 
