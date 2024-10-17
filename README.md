@@ -1701,7 +1701,17 @@ Enlace: [Components Diagram](https://www.structurizr.com/workspace/82957/diagram
 <div id='4.7.'><h3> 4.7. Software Object-Oriented Design.</h3></div>
 <div id='4.7.1.'><h4> 4.7.1. Class Diagrams.</h4></div>
 
-![Clase UML](http://imgfz.com/i/6ol4BmE.png)
+# Trip Bounded Context
+
+![DC_Trip](assets/chapter-4/DC_Trip_Bounded_Context.png)
+
+# User Management Bounded Context
+
+![DC_User](assets/chapter-4/DC_UserManagement_Bounded_Context.png)
+
+# Logistics Companies Bounded Context
+
+![DC_User](assets/chapter-4/DC_LogisticsCompanies_Bounded_Context.png)
 
 Enlace: [Class Diagram](https://lucid.app/lucidchart/3c6b7a66-b95b-4d42-8f60-8c4e8cf0ca0d/edit?viewport_loc=-3196%2C-1672%2C3328%2C1650%2C0_0&invitationId=inv_cc337c52-beb1-48f2-b583-8e156bc4e95c)
 
@@ -1811,7 +1821,7 @@ Class Vehicle
 | model     | String | Model of the vehicle           |
 | plate     | String | License plate of the vehicle   |
 | license   | String | License number of the vehicle  |
-| maxLoad  | double | Maximum load capacity          |
+| maxLoad   | double | Maximum load capacity          |
 | volume    | double | Volume capacity of the vehicle |
 
 Class AlertObserver
@@ -1827,11 +1837,11 @@ Class AlertObserver
 
 Class OngoingTrip
 
-| Attribute        | Type   | Description                           |
-| ---------------- | ------ | ------------------------------------- |
-| id               | int    | Unique identifier for ongoing trip    |
-| date             | Date   | Date of the trip                      |
-| status           | String | Current status of the trip            |
+| Attribute       | Type   | Description                           |
+| --------------- | ------ | ------------------------------------- |
+| id              | int    | Unique identifier for ongoing trip    |
+| date            | Date   | Date of the trip                      |
+| status          | String | Current status of the trip            |
 | deliveryAddress | String | Delivery address for the ongoing trip |
 | totalAmount     | double | Total amount for the ongoing trip     |
 
@@ -1843,8 +1853,8 @@ Class OngoingTrip
 
 Class Expense
 
-| Attribute         | Type   | Description                       |
-| ----------------- | ------ | --------------------------------- |
+| Attribute        | Type   | Description                       |
+| ---------------- | ------ | --------------------------------- |
 | fuelAmount       | double | Amount spent on fuel              |
 | fuelDescription  | String | Description of the fuel expense   |
 | vaticAmount      | double | Amount spent on other expenses    |
@@ -1858,9 +1868,9 @@ Class Expense
 
 Class PaymentCard
 
-| Attribute     | Type   | Description                             |
-| ------------- | ------ | --------------------------------------- |
-| id            | int    | Unique identifier for the payment card  |
+| Attribute    | Type   | Description                             |
+| ------------ | ------ | --------------------------------------- |
+| id           | int    | Unique identifier for the payment card  |
 | cardNumber   | String | Card number of the payment card         |
 | expiryDate   | String | Expiry date of the payment card         |
 | securityCode | int    | Security code (CVV) of the payment card |
@@ -2701,20 +2711,20 @@ Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue neces
 
 <div id='5.2.2.1.'><h5> 5.2.2.1.	Sprint Planning 2.</h5></div>
 
-|          **Sprint #**           |                                                                                                                 **Sprint 2**                                                                                                                 |
-| :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Sprint Planing Background    |                                                                                                                                                                                                                                              |
-|              Date               |                                                                                                                  18/09/2024                                                                                                                  |
-|              Time               |                                                                                                             17:00 horas (GMT-5)                                                                                                              |
-|            Location             |                                                                                               Modalidad remota a través de la plataforma Zoom                                                                                                |
-|           Prepared By           |                                                                                                       Ramos Argüelles, Alexandra Belen                                                                                                       |
-| Attendees (to planning meeting) |                                     Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar                                     |
-|     Sprint 1 Review Summary     |                                                                                   Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                    |
-| Sprint 1 Retrospective Summary  |                                                                      Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                       |
-|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                              |
+|          **Sprint #**           |                                                                                                                                                                           **Sprint 2**                                                                                                                                                                            |
+| :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Sprint Planing Background    |                                                                                                                                                                                                                                                                                                                                                                   |
+|              Date               |                                                                                                                                                                            18/09/2024                                                                                                                                                                             |
+|              Time               |                                                                                                                                                                        17:00 horas (GMT-5)                                                                                                                                                                        |
+|            Location             |                                                                                                                                                          Modalidad remota a través de la plataforma Zoom                                                                                                                                                          |
+|           Prepared By           |                                                                                                                                                                 Ramos Argüelles, Alexandra Belen                                                                                                                                                                  |
+| Attendees (to planning meeting) |                                                                                               Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar                                                                                                |
+|     Sprint 1 Review Summary     |                                                                                                                                              Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                                                                              |
+| Sprint 1 Retrospective Summary  |                                                                                                                                 Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                                                                                 |
+|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                                                                                                                                                   |
 |          Sprint 2 Goal          | **Nuestro enfoque está en** desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas.<br>**Creemos que esto proporcionará** una experiencia satisfactoria para el usuario.<br>**Esto se confirmará cuando** los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente. |
-|        Sprint 2 Velocity        |                                                                                                                      8                                                                                                                       |
-|       Sum of Story Points       |                                                                                                                      19                                                                                                                      |
+|        Sprint 2 Velocity        |                                                                                                                                                                                 8                                                                                                                                                                                 |
+|       Sum of Story Points       |                                                                                                                                                                                19                                                                                                                                                                                 |
 
 <div id='5.2.2.2.'><h5> 5.2.2.2.	Sprint Backlog 2 </h5></div>
 
@@ -2945,6 +2955,7 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 ![image](https://github.com/user-attachments/assets/a3583504-2bef-4bbb-8431-395a8423074a)
 
 -Lind de la fake API desplegada: [https://cargosafe-fake-api.vercel.app/](https://cargosafe-fake-api.vercel.app/)
+
 - Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
 
@@ -3049,21 +3060,20 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 
 <div id='5.2.3.1.'><h5> 5.2.3.1.	Sprint Planning 3.</h5></div>
 
-|          **Sprint #**           |                                                                                                                 **Sprint 3**                                                                                                                 |
-| :-----------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Sprint Planing Background    |                                                                                                                                                                                                                                              |
-|              Date               |                                                                                                                  15/10/2024                                                                                                                  |
-|              Time               |                                                                                                             17:00 horas (GMT-5)                                                                                                              |
-|            Location             |                                                                                               Modalidad remota a través de la plataforma Zoom                                                                                                |
-|           Prepared By           |                                                                                                       Ramos Argüelles, Alexandra Belen                                                                                                       |
-| Attendees (to planning meeting) |                                     Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Silva Morales, Renzo Cesar                                     |
-|     Sprint 2 Review Summary     |                                                                                   Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                    |
-| Sprint 1 Retrospective Summary  |                                                                      Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                       |
-|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                              |
+|          **Sprint #**           |                                                                                                                                                                           **Sprint 3**                                                                                                                                                                            |
+| :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    Sprint Planing Background    |                                                                                                                                                                                                                                                                                                                                                                   |
+|              Date               |                                                                                                                                                                            15/10/2024                                                                                                                                                                             |
+|              Time               |                                                                                                                                                                        17:00 horas (GMT-5)                                                                                                                                                                        |
+|            Location             |                                                                                                                                                          Modalidad remota a través de la plataforma Zoom                                                                                                                                                          |
+|           Prepared By           |                                                                                                                                                                 Ramos Argüelles, Alexandra Belen                                                                                                                                                                  |
+| Attendees (to planning meeting) |                                                                                                                 Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Silva Morales, Renzo Cesar                                                                                                                  |
+|     Sprint 2 Review Summary     |                                                                                                                                              Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                                                                              |
+| Sprint 1 Retrospective Summary  |                                                                                                                                 Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                                                                                 |
+|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                                                                                                                                                   |
 |          Sprint 2 Goal          | **Nuestro enfoque está en** desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas.<br>**Creemos que esto proporcionará** una experiencia satisfactoria para el usuario.<br>**Esto se confirmará cuando** los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente. |
-|        Sprint 2 Velocity        |                                                                                                                      8                                                                                                                       |
-|       Sum of Story Points       |                                                                                                                      19                                                                                                                      |
-
+|        Sprint 2 Velocity        |                                                                                                                                                                                 8                                                                                                                                                                                 |
+|       Sum of Story Points       |                                                                                                                                                                                19                                                                                                                                                                                 |
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
