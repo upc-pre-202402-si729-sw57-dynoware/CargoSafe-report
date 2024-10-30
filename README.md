@@ -272,7 +272,6 @@ Nuestra visión es convertirnos en referentes globales en la industria de la log
 | Mi nombre es Ely Rivaldo Cortez Flores, tengo 18 años y actualmente curso el 6to ciclo. Tengo experiencia en diversos lenguajes de programación, como C#, Go y JavaScript. Me considero una persona responsable y empática, especialmente al trabajar en equipo. Espero contribuir de manera efectiva para sacar adelante el proyecto.                                                                                               |       ![Integrante_Ely](assets/chapter-1/Integrante_Ely.png)       |
 | Mi nombre es Alexandra Belen Ramos Argüelles, soy estudiante de la carrera de Ingeniería de software y actualmente me encuentro cursando el 6to ciclo. Me considero una persona empática, responsable y perseverante. Me adapto muy bien a los trabajos en equipo. Poseo habilidades en programación en lenguajes como C++, C#, Python y Java. Además, tengo conocimientos en HTML, CSS, JavaScript y frameworks como Angular y Vue. | ![Integrante_Alexandra](assets/chapter-1/Integrante_Alexandra.png) |
 | Mi nombre es Renzo Cesar Silva Morales, tengo 19 años y soy estudiante de la carrera de Ingeniería de Software. Me considero una persona atenta y responsable con los trabajos. Poseo conocimientos en programación en lenguajes como C++, C# y Python. Estoy dispuesto y me comprometo a ayudar al equipo en el proyecto.                                                                                                           |     ![Integrante_Renzo](assets/chapter-1/Integrante_Renzo.png)     |
-| Mi nombre es Fabrizio Javier Quiroz Zambrano, Me encanta todo lo que tenga que ver con la tecnología y el mundo competitivo de los videojuegos, siempre trato de ser el mejor en lo que hago.                                                                                                                                                                                                                                        |  ![Integrante_Fabrizio](assets/chapter-1/Integrante_Fabrizio.png)  |
 | Mi nombre es Carlos Andres Leon Rioja, tengo 21 y soy estudiante de la carrera de Ingeniería de software. Me gusta todo lo que tenga que ver con la ciencia y tecnología. Tengo conocimientos en los lenguajes de programacion C++, C#, Python, Java, JavaScript, Lua, PHP y Kotlin ademas de conocimientos en HTML, CSS y en los frameworks de Vue, Angular y Flutter. Me considero una persona amable, autodidacta y responsable.  |    ![Integrante_Carlos](assets/chapter-1/Integrante_Carlos.png)    |
 
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
@@ -284,7 +283,9 @@ Nuestra startup ha desarrollado la plataforma CargoSafe, con el objetivo de brin
 
 ###### ¿Cuál es el problema?
 
-El problema percibido es la poca facilidad para gestionar la carga y la falta de seguridad del vehículo de transporte y su cargamento, así como también la ineficiencia en la planificación de rutas y la falta de visibilidad en tiempo real.
+El problema percibido es la poca facilidad para gestionar la carga y la falta de seguridad del vehículo de transporte y su cargamento, así como también la ineficiencia en la planificación de rutas y la falta de visibilidad en tiempo real. "Considerando que el servicio de transporte de carga se ha creado para
+satisfacer las necesidades de la población mediante los tipos de bienes que demanda la
+misma, estableciendo reglas y normas para el mejor desempeño de sus actividades". (Cuya et al., 2015, p. 7)
 
 ###### ¿Cuál es la relación con la persona en cuestión?
 
@@ -294,7 +295,7 @@ La relación con la persona en cuestión depende de su rol en el proceso del tra
 
 ###### ¿Cuándo sucede el problema?
 
-El problema ocurre en múltiples etapas del proceso de transporte de carga. Puede manifestarse desde el momento en que la mercancía es cargada en el vehículo, durante su trayecto a través de rutas potencialmente riesgosas o mal planificadas, hasta su llegada al destino final. En cada una de estas fases, la falta de visibilidad en tiempo real y la ausencia de medidas de seguridad adecuadas pueden desencadenar problemas como robos, daños, o retrasos significativos que afectan tanto a transportistas como a empresarios.
+El problema ocurre en múltiples etapas del proceso de transporte de carga. Puede manifestarse desde el momento en que la mercancía es cargada en el vehículo, durante su trayecto a través de rutas potencialmente riesgosas o mal planificadas, hasta su llegada al destino final. En cada una de estas fases, la falta de visibilidad en tiempo real y la ausencia de medidas de seguridad adecuadas pueden desencadenar problemas como robos, daños, o retrasos significativos que afectan tanto a transportistas como a empresarios. Esta situación puede verse reflejada debido a que la distribución de las mercancías se caracteriza por su informalidad; dado que estas negociaciones suelen surgir para el traslado de los productos definidos en el momento por el costo de realizar el servicio. (Perez, 2023, p. 6)
 
 ###### ¿Cuándo utiliza el cliente el producto?
 
@@ -3145,11 +3146,15 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 
 <div id='7.'><h2>Bibliografía</h2></div>
 
-- Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/
+- Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. [https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/](https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/)
+
+- Cuya et al.(2015). _Calidad en el Sector Transporte de Carga en Lima Metropolitana_. [Tesis de Magíster, Pontificia Universidad Católica del Perú]. Repositorio de tesis PUCP. [http://hdl.handle.net/20.500.12404/14317](http://hdl.handle.net/20.500.12404/14317)
+
+- Perez, A. (2023). _Gestión de riesgos: factor importante en las empresas de transporte de carga_. [Tesis de Bachiller, Universidad Católica Santo Toribio de Mogrovejo]. Repositorio de Tesis USAT. [http://hdl.handle.net/20.500.12423/6326](http://hdl.handle.net/20.500.12423/6326)
 
 <div id='8.'><h5> 8.	Anexos.</h5></div>
 
-Link de Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
-Link del repositorio: [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
-Link del del video: [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
-Link del video de exposición del TP1: [https://shorturl.at/JsKN8](https://shorturl.at/JsKN8)
+- **Link de Landing Page:** [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+- **Link del repositorio:** [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
+- **Link del del video:** [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
+- **Link del video de exposición del TP1:** [https://shorturl.at/JsKN8](https://shorturl.at/JsKN8)
