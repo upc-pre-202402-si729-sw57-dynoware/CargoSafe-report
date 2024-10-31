@@ -3144,11 +3144,24 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 |        Sprint 2 Velocity        |                                                                                                                                                                                 8                                                                                                                                                                                 |
 |       Sum of Story Points       |                                                                                                                                                                                19                                                                                                                                                                                 |
 
+<div id='6.'><h2>Conclusiones</h2></div>
+
+<div align=justify>
+En conclusión, CargoSafe ha dado pasos firmes en su planificación para ser considerado un producto innovador y funcional. A través de un riguroso análisis de mercado y exploración de ciertas necesidades identificadas dentro de nuestro entorno, hemos construido una base informada y estratégica que guía nuestro desarrollo. Nos enfocamos en comprender a fondo los desafíos que enfrentan nuestros usuarios desde 2 perspectivas, con los transportistas contemplando las largas esperas por conseguir carga mientras que los empresarios no contando con transportes confiables y seguros. Esta propuesta no solo apunta a la eficiencia, sino también a una experiencia de uso intuitiva, que permita a los usuarios integrar la aplicación de manera práctica en su vida diaria.
+
+Con la idea de dar a conocer nuestra aplicación se realizó la construcción del landing page, con el cual, consolidamos una comprensión más profunda del problema y una solución claramente enfocada. Su implementación fue más allá de cubrir las necesidades del usuario, sino también buscar elevar su experiencia con una interfaz sencilla y navegación optimizada siguiendo los lineamiento del diseño UX/UI. El progreso refleja nuestro compromiso con la innovación, lo que nos permite enfrentar al adversidades en el futuro del proyecto con más confianza.
+
+Mediante el desarrollo del frontend, hemos aplicado nuestros conocimientos en el framework Angular para crear una aplicación web adaptable y completamente responsive, maximizando el potencial de diseño, a través del uso de angular material, y funcionalidad. Esta plataforma está concebida para brindar una interfaz atractiva y operativa, orientada a satisfacer las necesidades de nuestros dos segmentos objetivos: empresarios y transportistas. Aseguramos una navegación intuitiva y accesible en todas las funcionalidades, lo cual se traduce en una solución que no solo cumple con altos estándares técnicos y estéticos, sino que también enriquece la experiencia de ambos tipos de usuarios, superando sus expectativas.
+
+Por ahora, el desarrollo del backend va en progreso pero consideramos que la nuestra planificación permitió tener una mejor estrategia a la hora de construir los endpoints.
+
+</div>
+
 <div id='7.'><h2>Bibliografía</h2></div>
 
 - Portal Portuario. (2024, abril 1). _Llaman a prevenir robos al transporte de carga pesada ante próxima inauguración del megapuerto de Chancay_. [https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/](https://portalportuario.cl/llaman-a-prevenir-robos-al-transporte-de-carga-pesada-ante-proxima-inauguracion-del-megapuerto-de-chancay/)
 
-- Cuya et al.(2015). _Calidad en el Sector Transporte de Carga en Lima Metropolitana_. [Tesis de Magíster, Pontificia Universidad Católica del Perú]. Repositorio de tesis PUCP. [http://hdl.handle.net/20.500.12404/14317](http://hdl.handle.net/20.500.12404/14317)
+- Cuya et al. (2015). _Calidad en el Sector Transporte de Carga en Lima Metropolitana_. [Tesis de Magíster, Pontificia Universidad Católica del Perú]. Repositorio de tesis PUCP. [http://hdl.handle.net/20.500.12404/14317](http://hdl.handle.net/20.500.12404/14317)
 
 - Perez, A. (2023). _Gestión de riesgos: factor importante en las empresas de transporte de carga_. [Tesis de Bachiller, Universidad Católica Santo Toribio de Mogrovejo]. Repositorio de Tesis USAT. [http://hdl.handle.net/20.500.12423/6326](http://hdl.handle.net/20.500.12423/6326)
 
