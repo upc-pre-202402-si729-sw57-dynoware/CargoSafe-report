@@ -2995,7 +2995,7 @@ En esta sección, se muestran los commits que se realizaron dentro del repositor
 
 <div id='5.2.2.4.'><h5> 5.2.2.4.	Testing Suite Evidence for Sprint Review</h5></div>
 
-En este desarrollo del Sprint 2 se ha desarrollado el frntend de la aplicación, por lo que no se evidencia Testing.
+En este desarrollo del Sprint 2 se ha desarrollado el frontend de la aplicación, por lo que no se evidencia Testing.
 |**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
 | :- | :- | :- | :- | :- | :- |
 |||||||
@@ -3026,7 +3026,7 @@ Muestra de todas vistas programadas en Angular para este Sprint 2:
 
 Video que detalla la visualización y navegación logrados en el Sprint 2
 
-Video:
+Video: [https://acortar.link/Pa9r3U](https://acortar.link/Pa9r3U)
 
 <div id='5.2.2.6.'><h5> 5.2.2.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
@@ -3300,5 +3300,6 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 
 - **Link de Landing Page:** [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - **Link del repositorio:** [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
-- **Link del del video:** [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
+- **Link del del video de exposición del TB1:** [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
 - **Link del video de exposición del TP1:** [https://shorturl.at/JsKN8](https://shorturl.at/JsKN8)
+- **About The Product - version 1:** [https://acortar.link/Pa9r3U](https://acortar.link/Pa9r3U)
