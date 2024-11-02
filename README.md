@@ -2168,7 +2168,7 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 
 |          **Sprint #**           |                                                                                                                                                                                                                  **Sprint 1**                                                                                                                                                                                                                   |
 | :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Sprint Planing Background    |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|    Sprint Planing Background    |
 |              Date               |                                                                                                                                                                                                                   28/08/2024                                                                                                                                                                                                                    |
 |              Time               |                                                                                                                                                                                                               16:00 horas (GMT-5)                                                                                                                                                                                                               |
 |            Location             |                                                                                                                                                                                                 Modalidad remota a través de la plataforma Zoom                                                                                                                                                                                                 |
@@ -2176,7 +2176,7 @@ Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-e
 | Attendees (to planning meeting) |                                                                                                                                      Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar                                                                                                                                       |
 |     Sprint 0 Review Summary     |                                                                                                                                                                          Debido a que es nuestro primer sprint de desarrollo, no existe un review summary del sprint.                                                                                                                                                                           |
 | Sprint 0 Retrospective Summary  |                                                                                                                                                                                Debido a que es nuestro primer sprint de desarrollo, no existen planes de mejora.                                                                                                                                                                                |
-|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|   Sprint Goal & User Stories    |
 |          Sprint 1 Goal          | En este sprint se planea implementar la Landing Page con sus respectivas secciones haciendo uso de HTML y CSS. Para realizar la Langing Page se realizó un diseño previo en Figma. Luego de esto, mediante una reunión del equipo, decidimos cómo es que cada un iba a contribuir con el desarrollo de esta página. Al finalizar este sprint la Landing Page está desplegada en Netlify y los usuarios podrán acceder a esta a través del link. |
 |        Sprint 1 Velocity        |                                                                                                                                                                                                                        8                                                                                                                                                                                                                        |
 |       Sum of Story Points       |                                                                                                                                                                                                                       34                                                                                                                                                                                                                        |
@@ -2188,17 +2188,17 @@ En esta sección mostramos las tareas que se realizaron en este sprint.
 Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe](https://trello.com/b/QaWCIjk0/sprint-backlog-1-cargosafe)
 ![image](https://github.com/user-attachments/assets/751ec647-ed36-4c37-8b1c-c1cab53ddb01)
 
-| **Sprint #**   | **Sprint 1**                                                  |     |                                               |                                                                                            |                   |                 |                                          |
-| :------------- | :------------------------------------------------------------ | :-- | :-------------------------------------------- | :----------------------------------------------------------------------------------------- | :---------------- | :-------------- | :--------------------------------------- |
-| **User Story** | **Work-item / Task**                                          |     |                                               |                                                                                            |                   |                 |                                          |
-| ID             | Title                                                         | Id  | Title                                         | Description                                                                                | Estimation(hours) | Assigned To     | Status (To-do/in-Process/To-Review/Done) |
-| E1-US001       | Barra de navegación en la landing page                        | T1  | Navbar section                                | <p>Implementar navbar</p><p>con botón (redirige a la aplicación) y responsive design, </p> | 4h                | Astrid Boronda  | Done                                     |
-| E1-US002       | Información sobre los Beneficios del Servicio                 | T2  | Información sobre los Beneficios del Servicio | <p></p><p>Implementar sección sobre los Beneficios del Servicio </p>                       | 4h                | Ely Cortez      | Done                                     |
-| E1-US003       | Conocer los Testimonios de los Clientes Pasados               | T3  | Testimonios                                   | Implementar Testimonials section                                                           | 6h                | Renzo Silva     | Done                                     |
-| E1-US04        | Informarse sobre los Diferentes Planes de Precio del Producto | T4  | Información de Planes                         | Implementar una sección de planes de precio de Producto                                    | 6h                | Alexandra Ramos | Done                                     |
-| E1- US-005     | Contactar con la Empresa                                      | T6  | Contactar con la Empresa                      | <p>Implementar la sección</p><p>Contactar con la Empresa </p>                              | 4h                | Fabrizio Quiroz | Done                                     |
-| E1- US-006     | Idioma Internacionalizado                                     | T7  | <p></p><p>Idioma Internacionalizado</p>       | Implementar el cambio de idioma                                                            | 4h                | Astrid Boronda  | Done                                     |
-| E1- US-007     | Secciones Sobre el Producto y el Equipo                       | T8  | Product and About the Team section            | Implementar Product and About the Team section                                             | 6h                | Renzo Silva     | Done                                     |
+<table><tr><th colspan="2" valign="top" style="text-align: center;"><b>Sprint #</b></th><th colspan="6" valign="top" style="text-align: center;"><b>Sprint 1</b></th></tr>
+<tr><td colspan="2" valign="top" style="text-align: center;"><b>User Story</b></td><td colspan="6" valign="top" style="text-align: center;"><b>Work-item / Task</b></td></tr>
+<tr><td style="text-align: center;"><b>ID</b></td><td style="text-align: center;"><b>Title</b></td><td style="text-align: center;"><b>ID</b></td><td style="text-align: center;"><b>Title</b></td><td style="text-align: center;"><b>Description</b></td><td style="text-align: center;"><b>Estimation(hours)</b></td><td style="text-align: center;"><b>Assigned To</b></td><td style="text-align: center;"><b>Status (To-do/in-Process/To-Review/Done)</b></td></tr>
+<tr><td>E1-US001</td><td>Barra de navegación en la landing page</td><td>T1</td><td>Navbar section</td><td valign="top"><p></p><p>Implementar navbar con botón (redirige a la aplicación) y responsive design.</p></td><td style="text-align: center;">4h</td><td>Astrid Boronda</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US002</td><td>Información sobre los Beneficios del Servicio</td><td>T2</td><td>Información sobre los Beneficios del Servicio </td><td valign="top">Implementar sección sobre los Beneficios del Servicio</td><td style="text-align: center;">4h</td><td>Ely Cortez</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US003</td><td>Conocer los Testimonios de los Clientes Pasados</td><td>T3</td><td>Testimonios</td><td valign="top">Implementar Testimonials section</td><td style="text-align: center;">6h</td><td>Renzo Silva</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US004</td><td>Informarse sobre los Diferentes Planes de Precio del Producto</td><td>T4</td><td>Información de Planes</td><td valign="top"><p>Implementar una sección de planes de precio de Producto</p></td><td style="text-align: center;">6h</td><td>Alexandra Ramos</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US005</td><td>Contactar con la Empresa</td><td>T5</td><td><p>Contactar con la Empresa</p></td><td valign="top">Implementar la sección "Contactar con la Empresa"</td><td style="text-align: center;">4h</td><td>Fabrizio Quiroz</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US006</td><td>Idioma Internacionalizado </td><td>T6</td><td>Idioma Internacionalizado</td><td valign="top">Implementar el cambio de idioma</td><td style="text-align: center;">4h</td><td>Astrid Boronda</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E1-US007</td><td>Secciones Sobre el Producto y el Equipo</td><td>T8</td><td>Product and About the Team section</td><td valign="top">Implementar Product and About the Team section </td><td style="text-align: center;">6h</td><td>Renzo Silva</td><td style="text-align: center;">Done</td></tr>
+</table>
 
   <div id='5.2.1.3.'><h5> 5.2.1.3.	Development Evidence for Sprint Review.</h5></div>
 
@@ -2780,20 +2780,72 @@ Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue neces
 
 <div id='5.2.2.1.'><h5> 5.2.2.1.	Sprint Planning 2.</h5></div>
 
-|          **Sprint #**           |                                                                                                                                                                           **Sprint 2**                                                                                                                                                                            |
-| :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Sprint Planing Background    |                                                                                                                                                                                                                                                                                                                                                                   |
-|              Date               |                                                                                                                                                                            18/09/2024                                                                                                                                                                             |
-|              Time               |                                                                                                                                                                        17:00 horas (GMT-5)                                                                                                                                                                        |
-|            Location             |                                                                                                                                                          Modalidad remota a través de la plataforma Zoom                                                                                                                                                          |
-|           Prepared By           |                                                                                                                                                                 Ramos Argüelles, Alexandra Belen                                                                                                                                                                  |
-| Attendees (to planning meeting) |                                                                                               Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar                                                                                                |
-|     Sprint 1 Review Summary     |                                                                                                                                              Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                                                                              |
-| Sprint 1 Retrospective Summary  |                                                                                                                                 Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                                                                                 |
-|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                                                                                                                                                   |
-|          Sprint 2 Goal          | **Nuestro enfoque está en** desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas.<br>**Creemos que esto proporcionará** una experiencia satisfactoria para el usuario.<br>**Esto se confirmará cuando** los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente. |
-|        Sprint 2 Velocity        |                                                                                                                                                                                 8                                                                                                                                                                                 |
-|       Sum of Story Points       |                                                                                                                                                                                19                                                                                                                                                                                 |
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><b>Sprint #</b></td>
+			<td style="text-align: center;"><b>Sprint 2</b></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Planing Background</b></td>
+		</tr>
+		<tr>
+			<td><b>Date</b></td>
+			<td style="text-align: center;">18/09/2024</td>
+		</tr>
+		<tr>
+			<td><b>Time</b></td>
+			<td style="text-align: center;">17:00 horas (GMT-5)</td>
+		</tr>
+		<tr>
+			<td><b>Location</b></td>
+			<td style="text-align: center;">Modalidad remota a través de la plataforma Zoom</td>
+		</tr>
+		<tr>
+			<td><b>Attendees (to planning meeting)</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen</td>
+		</tr>
+		<tr>
+			<td><b>Prepared By</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar</td>
+		</tr>
+		<tr>
+			<td><b>Sprint 2 Review Summary</b></td>
+			<td>A partir de la revisión es necesario corregir: <br>
+      <ul>
+      <li>Problem Statement</li>
+      <li>Assumptions</li>
+      <li>User Personas</li>
+      <li>User Task Matrix</li>
+      <li>As-is Scenario Mapping</li>
+      <li>To-Be Scenario Mapping</li>
+      <li>User Stories</li>
+      <li>Product Backlog</li>
+      <li>Landing Page(switch language)</li>
+      </ul>
+      </td>
+		</tr>
+    <tr>
+			<td><b>Sprint 2 Retrospective Summary </b></td>
+			<td style="text-align: justify;">Durante este sprint, se completó el primer avance de la aplicación web utilizando el framework Angular. Basándonos en los mockups diseñados previamente en Figma, cada integrante del equipo desarrolló páginas específicas, trabajando de manera colaborativa en distintas ramas de GitHub. Posteriormente, estas ramas fueron integradas en la rama principal para consolidar el proyecto. Este proceso permitió identificar áreas de mejora en cuanto al diseño y la accesibilidad, las cuales se implementaron en preparación para el siguiente sprint, optimizando la aplicación y garantizando una mejor experiencia de usuario.</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Goal & User Stories</b></td>
+		</tr>
+		<tr>
+			<td><b>Sprint 2 Goal</b></td>
+			<td style="text-align: justify;"><b>Nuestro enfoque está en</b> desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas. <b>Creemos que esto</b> proporcionará una experiencia satisfactoria para el usuario. <b>Esto se confirmará cuando</b> los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente.</td>
+		</tr>
+		<tr>
+			<td><b>Sprint 2 Velocity</b></td>
+			<td style="text-align: center;">8</td>
+		</tr>
+		<tr>
+			<td><b>Sum of Story Points</b></td>
+			<td style="text-align: center;">19</td>
+		</tr>
+	</tbody>
+</table>
 
 <div id='5.2.2.2.'><h5> 5.2.2.2.	Sprint Backlog 2 </h5></div>
 
@@ -2802,17 +2854,17 @@ En esta sección mostramos las tareas que se realizaron en este sprint.
 Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-2-cargosafe](https://trello.com/invite/b/66f705ae07bcc7386481d7de/ATTI9ece1177cd98ee88c4f4936d948b0f6fE10D9342/sprint-backlog-2-cargosafe)
 ![image](assets/chapter-5/TrelloSprintBacklog2.png)
 
-<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top"><b>Sprint 2</b></th></tr>
-<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-item / Task</b></td></tr>
-<tr><td>ID</td><td>Title</td><td>Id</td><td>Title</td><td>Description</td><td>Estimation(hours)</td><td>Assigned To</td><td>Status (To-do/in-Process/To-Review/Done)</td></tr>
-<tr><td rowspan="2">E3-US19</td><td rowspan="2">Seguimiento de envíos</td><td>T1</td><td>Dashboard para emprendedores</td><td valign="top">Implementar Dashboard para emprendedores</td><td>6h</td><td>Ely Cortez</td><td>Done</td></tr>
-<tr><td>T1</td><td>Información del transporte de producto agendado</td><td valign="top">Implementar una lista que indique el proceso del transporte del producto</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E3-US017</td><td>Solicitud de Transporte</td><td>T3</td><td>Realizar solicitudes de transporte</td><td valign="top"><p></p><p>Implementar un formulario para el registro de ordenes de manera eficiente</p></td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E4-US021</td><td>Conocer las Alertas para eventos importantes durante la entrega</td><td>T4</td><td>Alertas</td><td valign="top">Implementar dentro de la lista de tiempo real los eventos importantes durante la entrega</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E4-US019</td><td>Conocer el estado del envio en tiempo real</td><td>T5</td><td>Seguimiento de envios</td><td valign="top">Implementar una lista que indique el estado del pedido en tiempo real</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
-<tr><td>E2-US-012</td><td>Poder Registrar vehiculos y conductores</td><td>T6</td><td>Registro de conductores y vehiculos</td><td valign="top"><p>Implementar un formulario para el registro de vehiculos y para conductores</p></td><td>4h</td><td>Fabrizio Quiroz</td><td>Done</td></tr>
-<tr><td>E2-US-013</td><td>Conocer estadisitcas sobre los envios, gastos,etc</td><td>T7</td><td><p></p><p>Estadisticas del mes</p></td><td valign="top">Implementar pagina en la cual se muestren las estadisticas del mes de las empresas de logistica </td><td>4h</td><td>Astrid Boronda</td><td>Done</td></tr>
-<tr><td>E2-US-027</td><td>Ver ordenes Agendadas</td><td>T8</td><td>Ordenes agendadas</td><td valign="top">Implementar una pagina en la cual se visualicen las ordenes agendadas anteriormente </td><td>6h</td><td>Renzo Silva</td><td>Done</td></tr>
+<table><tr><th colspan="2" valign="top" style="text-align: center;"><b>Sprint #</b></th><th colspan="6" valign="top" style="text-align: center;"><b>Sprint 2</b></th></tr>
+<tr><td colspan="2" valign="top" style="text-align: center;"><b>User Story</b></td><td colspan="6" valign="top" style="text-align: center;"><b>Work-item / Task</b></td></tr>
+<tr><td style="text-align: center;"><b>ID</b></td><td style="text-align: center;"><b>Title</b></td><td style="text-align: center;"><b>ID</b></td><td style="text-align: center;"><b>Title</b></td><td style="text-align: center;"><b>Description</b></td><td style="text-align: center;"><b>Estimation(hours)</b></td><td style="text-align: center;"><b>Assigned To</b></td><td style="text-align: center;"><b>Status (To-do/in-Process/To-Review/Done)</b></td></tr>
+<tr><td rowspan="2">E3-US19</td><td rowspan="2">Seguimiento de envíos</td><td>T1</td><td>Dashboard para emprendedores</td><td valign="top">Implementar Dashboard para emprendedores</td><td style="text-align: center;">6h</td><td>Ely Cortez</td><td style="text-align: center;">Done</td></tr>
+<tr><td>T2</td><td>Información del transporte de producto agendado</td><td valign="top">Implementar una lista que indique el proceso del transporte del producto</td><td style="text-align: center;">6h</td><td>Alexandra Ramos</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E3-US017</td><td>Realizar solicitudes de transporte</td><td>T3</td><td>Solicitud de Transporte</td><td valign="top"><p></p><p>Implementar un formulario para el registro de órdenes de manera eficiente</p></td><td style="text-align: center;">6h</td><td>Alexandra Ramos</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E3-US021</td><td>Alertas para eventos importantes durante la entrega</td><td>T4</td><td>Alertas</td><td valign="top">Implementar los eventos importantes durante la entrega</td><td style="text-align: center;">6h</td><td>Alexandra Ramos</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E3-US019</td><td>Seguimiento de envíos</td><td>T5</td><td>Conocer el estado del envio</td><td valign="top">Implementar una lista que indique el estado del pedido</td><td style="text-align: center;">6h</td><td>Alexandra Ramos</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E2-US012</td><td>Registro de vehículos y conductores</td><td>T6</td><td>Poder Registrar vehículos y conductores</td><td valign="top"><p>Implementar un formulario para el registro de vehículos y para conductores</p></td><td style="text-align: center;">4h</td><td>Fabrizio Quiroz</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E2-US013</td><td>Visualización de estadísticas</td><td>T7</td><td><p></p><p>Estadisticas del mes</p></td><td valign="top">Implementar página en la cual se muestren las estadisticas del mes de las empresas de logística </td><td style="text-align: center;">4h</td><td>Astrid Boronda</td><td style="text-align: center;">Done</td></tr>
+<tr><td>E2-US014</td><td>Visualización de órdenes agendadas</td><td>T8</td><td>Ordenes agendadas</td><td valign="top">Implementar una página en la cual se visualicen las órdenes agendadas anteriormente </td><td style="text-align: center;">6h</td><td>Renzo Silva</td><td style="text-align: center;">Done</td></tr>
 </table>
 
 <div id='5.2.2.3.'><h5> 5.2.2.3.  Development Evidence for Sprint Review</h5></div>
@@ -3129,20 +3181,99 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 
 <div id='5.2.3.1.'><h5> 5.2.3.1.	Sprint Planning 3.</h5></div>
 
-|          **Sprint #**           |                                                                                                                                                                           **Sprint 3**                                                                                                                                                                            |
-| :-----------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|    Sprint Planing Background    |                                                                                                                                                                                                                                                                                                                                                                   |
-|              Date               |                                                                                                                                                                            15/10/2024                                                                                                                                                                             |
-|              Time               |                                                                                                                                                                        17:00 horas (GMT-5)                                                                                                                                                                        |
-|            Location             |                                                                                                                                                          Modalidad remota a través de la plataforma Zoom                                                                                                                                                          |
-|           Prepared By           |                                                                                                                                                                 Ramos Argüelles, Alexandra Belen                                                                                                                                                                  |
-| Attendees (to planning meeting) |                                                                                                                 Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Silva Morales, Renzo Cesar                                                                                                                  |
-|     Sprint 2 Review Summary     |                                                                                                                                              Se desarrolló la Landing Page así como los mockups de la aplicación web                                                                                                                                              |
-| Sprint 1 Retrospective Summary  |                                                                                                                                 Se observó un problema con la Landing Page, ya que al volver a cambiar de idioma había conflicto.                                                                                                                                 |
-|   Sprint Goal & User Stories    |                                                                                                                                                                                                                                                                                                                                                                   |
-|          Sprint 2 Goal          | **Nuestro enfoque está en** desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas.<br>**Creemos que esto proporcionará** una experiencia satisfactoria para el usuario.<br>**Esto se confirmará cuando** los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente. |
-|        Sprint 2 Velocity        |                                                                                                                                                                                 8                                                                                                                                                                                 |
-|       Sum of Story Points       |                                                                                                                                                                                19                                                                                                                                                                                 |
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><b>Sprint #</b></td>
+			<td style="text-align: center;"><b>Sprint 3</b></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Planing Background</b></td>
+		</tr>
+		<tr>
+			<td><b>Date</b></td>
+			<td style="text-align: center;">15/10/2024</td>
+		</tr>
+		<tr>
+			<td><b>Time</b></td>
+			<td style="text-align: center;">17:00 horas (GMT-5)</td>
+		</tr>
+		<tr>
+			<td><b>Location</b></td>
+			<td style="text-align: center;">Modalidad remota a través de la plataforma Zoom</td>
+		</tr>
+		<tr>
+			<td><b>Attendees (to planning meeting)</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen</td>
+		</tr>
+		<tr>
+			<td><b>Prepared By</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar</td>
+		</tr>
+		<tr>
+			<td><b>Sprint 3 Review Summary</b></td>
+			<td>A partir de la revisión es necesario corregir: <br>
+      <ul>
+      <li>Mejorar el Sprint Goal</li>
+      <li>Mejorar el Sprint Backlog</li>
+      <li>Completar Testing Suite Evidence for Sprint Review</li>
+      <li>Seperación por bounded context (diagramas de componentes, clases y base de datos)</li>
+      <li>Agregar conclusiones</li>
+    Además, continuamos con el desarrollo del fronted hasta culminarlo.
+      </ul>
+      </td>
+		</tr>
+    <tr>
+			<td><b>Sprint 3 Retrospective Summary </b></td>
+			<td style="text-align: justify;">Durante este sprint, se avanzó con el desarrollo del frontend, completando las páginas y funcionalidades pendientes, siguiendo la misma metodología empleada en el sprint anterior. Es decir, se trabajó en cada rama individualmente para luego integrarlas en una sola. Además, se inició la construcción de la API de la aplicación utilizando Spring Boot.</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Goal & User Stories</b></td>
+		</tr>
+		<tr>
+			<td><b>Sprint 3 Goal</b></td>
+			<td style="text-align: justify;"><b>Nuestro enfoque está en</b> desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas. <b>Creemos que esto</b> proporcionará una experiencia satisfactoria para el usuario. <b>Esto se confirmará cuando</b> los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente.</td>
+		</tr>
+		<tr>
+			<td><b>Sprint 3 Velocity</b></td>
+			<td style="text-align: center;"></td>
+		</tr>
+		<tr>
+			<td><b>Sum of Story Points</b></td>
+			<td style="text-align: center;"></td>
+		</tr>
+	</tbody>
+</table>
+
+<div id='5.2.3.2.'><h5> 5.2.3.2.	Sprint Backlog 3 </h5></div>
+
+Link: [https://trello.com/b/QaWCIjk0/sprint-backlog-2-cargosafe](https://trello.com/invite/b/66f705ae07bcc7386481d7de/ATTI9ece1177cd98ee88c4f4936d948b0f6fE10D9342/sprint-backlog-2-cargosafe)
+![image](assets/chapter-5/TrelloSprintBacklog2.png)
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top"><b>Sprint 3</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-item / Task</b></td></tr>
+<tr><td>ID</td><td>Title</td><td>Id</td><td>Title</td><td>Description</td><td>Estimation(hours)</td><td>Assigned To</td><td>Status (To-do/in-Process/To-Review/Done)</td></tr>
+<tr><td rowspan="2">E3-US19</td><td rowspan="2">Seguimiento de envíos</td><td>T1</td><td>Dashboard para emprendedores</td><td valign="top">Implementar Dashboard para emprendedores</td><td>6h</td><td>Ely Cortez</td><td>Done</td></tr>
+<tr><td>T1</td><td>Información del transporte de producto agendado</td><td valign="top">Implementar una lista que indique el proceso del transporte del producto</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E3-US017</td><td>Solicitud de Transporte</td><td>T3</td><td>Realizar solicitudes de transporte</td><td valign="top"><p></p><p>Implementar un formulario para el registro de ordenes de manera eficiente</p></td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E4-US021</td><td>Conocer las Alertas para eventos importantes durante la entrega</td><td>T4</td><td>Alertas</td><td valign="top">Implementar dentro de la lista de tiempo real los eventos importantes durante la entrega</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E4-US019</td><td>Conocer el estado del envio en tiempo real</td><td>T5</td><td>Seguimiento de envios</td><td valign="top">Implementar una lista que indique el estado del pedido en tiempo real</td><td>6h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E2-US-012</td><td>Poder Registrar vehiculos y conductores</td><td>T6</td><td>Registro de conductores y vehiculos</td><td valign="top"><p>Implementar un formulario para el registro de vehiculos y para conductores</p></td><td>4h</td><td>Fabrizio Quiroz</td><td>Done</td></tr>
+<tr><td>E2-US-013</td><td>Conocer estadisitcas sobre los envios, gastos,etc</td><td>T7</td><td><p></p><p>Estadisticas del mes</p></td><td valign="top">Implementar pagina en la cual se muestren las estadisticas del mes de las empresas de logistica </td><td>4h</td><td>Astrid Boronda</td><td>Done</td></tr>
+<tr><td>E2-US-027</td><td>Ver ordenes Agendadas</td><td>T8</td><td>Ordenes agendadas</td><td valign="top">Implementar una pagina en la cual se visualicen las ordenes agendadas anteriormente </td><td>6h</td><td>Renzo Silva</td><td>Done</td></tr>
+</table>
+
+<div id='5.2.3.3.'><h5> 5.2.3.3.  Development Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.4.'><h5> 5.2.3.4.	Testing Suite Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.6.'><h5> 5.2.3.6.	Services Documentation Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.7.'><h5> 5.2.3.7.	Software Deployment Evidence for Sprint Review</h5></div>
+
+<div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
 
