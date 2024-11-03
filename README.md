@@ -1938,7 +1938,8 @@ Para este proyecto, hemos optado por el motor de base de datos MySQL debido a su
 
 ![Database_Diagram](http://imgfz.com/i/c5oxpdq.png)
 Enlace: [Database Diagram ](https://my.vertabelo.com/doc/UYn0eZPW4r3Ek5FEKjolgdmPOZZJI0yY)
-
+![BC1](https://i.postimg.cc/rFN4m6WK/diagram1.png)
+![BC2](https://i.postimg.cc/g0QX5G9B/diagram2.png)
 <div id='5.'><h2> Capítulo V: Product Implementation, Validation & Deployment. </h2></div>
 
 <div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
