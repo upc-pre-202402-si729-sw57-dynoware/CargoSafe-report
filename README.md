@@ -3493,4 +3493,5 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 - **Link del repositorio:** [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
 - **Link del del video de exposición del TB1:** [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
 - **Link del video de exposición del TP1:** [https://shorturl.at/JsKN8](https://shorturl.at/JsKN8)
-- **About The Product - version 1:** [https://acortar.link/Pa9r3U](https://acortar.link/Pa9r3U)
+- **About The Product:** [https://shorturl.at/hE7Hu](https://shorturl.at/hE7Hu)
+- **About The Team:** [https://www.youtube.com/embed/HpzzpyDrM5A](https://www.youtube.com/embed/HpzzpyDrM5A)
