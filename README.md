@@ -1911,35 +1911,16 @@ Class Statistics
 
 Class LogisticsStatistics
 
-| Attribute             | Type         | Description                                                |
-| --------------------- | ------------ | ---------------------------------------------------------- |
-| monthlyOrders         | List<int>    | List of the number of orders placed per month.             |
-| deliveryRegions       | List<String> | List of regions where deliveries are made.                 |
-| typesOfCargo          | List<String> | List of the different types of cargo that are transported. |
-| loadsDelivered        | List<int>    | Number of loads delivered on time or late                  |
-| monthlyTransportCosts | List<double> | Transportation costs per month.                            |
-| averageOrders         | List<int>    | Average number of orders completed per month.              |
+| Attribute                | Type      | Description                                                             |
+| ------------------------ | --------- | ----------------------------------------------------------------------- |
+| monthlyOrders            | List<int> | List of the number of orders placed per month.                          |
+| monthlyOnTimeDeliveries  | List<int> | List representing the count of deliveries that were on time each month. |
+| monthlyDelayedDeliveries | List<int> | List representing the count of deliveries that were delayed each month. |
+| monthlyCostPerDelivery   | List<int> | List representing the cost incurred per delivery each month.            |
 
-| Method              | Return Type | Description                                               |
-| ------------------- | ----------- | --------------------------------------------------------- |
-| getStatisticsData() | void        | Inherited method to obtain statistical data of the class. |
-
-Class TripsStatistics
-
-| Attribute      | Type   | Description                                          |
-| -------------- | ------ | ---------------------------------------------------- |
-| id             | int    | Unique identifier                                    |
-| tripId         | int    | Unique trip identifier.                              |
-| companyId      | int    | Identifier of the company to which the trip belongs. |
-| tripsComplete  | String | Number of trips completed.                           |
-| costOrders     | String | Order costs details.                                 |
-| ordersComplete | String | Details of completed orders.                         |
-| orderByRegions | List<> | Order Details by Region                              |
-| averageOrders  | String | Average orders                                       |
-
-| Method            | Return Type | Description                                           |
-| ----------------- | ----------- | ----------------------------------------------------- |
-| calculateReport() | void        | Method of calculating the report for trip statistics. |
+| Method                      | Return Type | Description                                               |
+| --------------------------- | ----------- | --------------------------------------------------------- |
+| getDeliveryMetricsByMonth() | void        | Inherited method to obtain statistical data of the class. |
 
 Class ChartGenerator
 
@@ -3278,11 +3259,205 @@ Link: [https://trello.com/invite/b/6710221264cb421ef9e8ad88/ATTI0349b692821427e9
 
 <div id='5.2.3.3.'><h5> 5.2.3.3.  Development Evidence for Sprint Review</h5></div>
 
+En esta sección, se presentarán los avances y mejoras realizadas con respecto al sprint 2 tanto en el fronted como en el backend, mostrando el progreso realizado en conjunto por cada uno de los integrantes:
+
+- [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend)
+- [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend)
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong> Repository</strong> </td>
+      <td><strong> Branch</strong> </td>
+      <td><strong> Commit Id</strong> </td>
+      <td><strong> Commit Message</strong> </td>
+      <td><strong> Commit Message Body</strong> </td>
+      <td><strong> Committed on (Date)</strong> </td>
+    </tr>
+    <tr>
+      <td rowspan="17"><strong> CargoSafe-Frontend</strong> </td>
+      <td rowspan="17"><strong> main</strong> </td>
+      <td>15ea5a0da21976804b25cf1a5816ad853c6edbd9</td>
+      <td>fix: change route of environments</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>f692663f43d94145bfb755f05298eab8ee04d2d0</td>
+      <td>fix: order trip (service)</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+    <td>f2ac77e544698ff77c9276251a660d5dcd972007</td>
+      <td>feat:add vehicle management</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>91ecdfa9b801557b9850366224cb64bee2470f0c</td>
+      <td>feat: addded trip track component</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>c5faa6b931636ebd9df054e7648614632c9d8845</td>
+      <td>feat: add base service</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>ab3a8818ed73f656e3849fe29b715ae02ddd9350</td>
+      <td>feat:added trip entity & trip components</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>ee6d08eafbff461ec3678b4f7c93942b9c406793</td>
+      <td>feat: added referencial images</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>9596fcd17f5d5a24f1b63b9c055c4bc77ddd311a</td>
+      <td>feat: added toolbar content (public)</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>43326bfbab47e81eb1f46d1094275cda836225fa</td>
+      <td>feat: addd left sidebar component</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>1946884d96c36c1458a463b050a8b8d3a419ca1c</td>
+      <td>chore: installed dependencies (i18n)</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>135ad17a8b87c95194605c87c77ce713697a5eeb</td>
+      <td>chore: installed dependencies (i18n)</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>fdb0a11660c076f7444098911d2f2291ec8c2e27</td>
+      <td>feat: add orders-on-trip (context)</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>2f1a7b7558f1dd7f749852775a5927e9e279e50e</td>
+      <td>feat: add main component</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>a82f69c61ed720be26674820f413a18c1a6979be</td>
+      <td>feat:added drivers management</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>e15632cb3fa18202e46647ce6ec50ebff1bdd5ef</td>
+      <td>feat: added company management</td>
+      <td>-</td>
+      <td>Sep 27, 2024</td>
+    </tr>
+    <tr>
+      <td>9b15d1314bebcf311f0b689f2ec9acc4a598521b</td>
+      <td>chore: project setup</td>
+      <td>-</td>
+      <td>Sep 23, 2024</td>
+    </tr>
+    <tr>
+      <td>7e56067b1c278ef0e3dd3f9f81b5d0e079ce72ca</td>
+      <td>initial commit</td>
+      <td>-</td>
+      <td>Sep 23, 2024</td>
+    </tr>
+  </tbody>
+</table>
+
 <div id='5.2.3.4.'><h5> 5.2.3.4.	Testing Suite Evidence for Sprint Review</h5></div>
+
+Para este sprint, logramos desarrollar la API de nuestra aplicación utilizando Java en Sprint Boot
+
+- **Muestra de la API en swagger:**
+
+![image](assets/chapter-5/API_CargoSafe.jpeg)
+
+- **Video que muestra el avance de la aplicación en este sprint:**
+
+![image]()
+
+**Link del video:**
 
 <div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
 
 <div id='5.2.3.6.'><h5> 5.2.3.6.	Services Documentation Evidence for Sprint Review</h5></div>
+
+Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boot. A continuación, se detallan los endpoints que nuestro equipo creó, organizados por Bounded Context y documentados en Swagger.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Trip</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>Evidence</td>
+			<td>api/v1/evidence</td>
+			<td><img src="./assets/chapter-5/endpoint_evidence.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>Expense</td>
+			<td>api/v1/expense</td>
+			<td><img src="./assets/chapter-5/endpoint_expense.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>Vehicles</td>
+			<td>api/v1/vehicles</td>
+			<td><img src="./assets/chapter-5/endpoint_vehicles.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+    <tr>
+			<td>Alert</td>
+			<td>api/v1/alert</td>
+			<td><img src="./assets/chapter-5/endpoint_alert.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">User Management</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>Company</td>
+			<td>api/v1/companie</td>
+			<td><img src="./assets/chapter-5/endpoint_company.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+		<tr>
+			<td>Payment Card</td>
+			<td>api/v1/payment-card</td>
+			<td><img src="./assets/chapter-5/endpoint_payment.png" alt="Imagen" width="600" height="100"></td>
+		</tr>
+	</tbody>
+</table>
 
 <div id='5.2.3.7.'><h5> 5.2.3.7.	Software Deployment Evidence for Sprint Review</h5></div>
 
