@@ -3400,6 +3400,18 @@ Para este sprint, logramos desarrollar la API de nuestra aplicación utilizando 
 
 <div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
 
+Para este entregable, logramos desarrollar exitosamente el Backend de nuestra aplicación web. Esta implementación se realizó gracias a Spring Boot Framework y Java language. Además, se tuvo presente el uso de Domain-Drive Design.
+
+Muestra de los endpoints en Swagger:
+
+![image](assets/chapter-5/execution01.jpg)
+
+![image](assets/chapter-5/execution02.jpg)
+
+![image](assets/chapter-5/execution03.jpg)
+
+![image](assets/chapter-5/execution04.jpg)
+
 <div id='5.2.3.6.'><h5> 5.2.3.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
 Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boot. A continuación, se detallan los endpoints que nuestro equipo creó, organizados por Bounded Context y documentados en Swagger.
@@ -3487,7 +3499,7 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 
 - Perez, A. (2023). _Gestión de riesgos: factor importante en las empresas de transporte de carga_. [Tesis de Bachiller, Universidad Católica Santo Toribio de Mogrovejo]. Repositorio de Tesis USAT. [http://hdl.handle.net/20.500.12423/6326](http://hdl.handle.net/20.500.12423/6326)
 
-<div id='8.'><h5> 8.	Anexos.</h5></div>
+<div id='8.'><h2> 8.	Anexos.</h2></div>
 
 - **Link de Landing Page:** [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - **Link del repositorio:** [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
