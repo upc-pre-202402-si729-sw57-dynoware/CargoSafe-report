@@ -3271,122 +3271,105 @@ En esta sección, se presentarán los avances y mejoras realizadas con respecto 
 - [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend)
 - [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend)
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong> Repository</strong> </td>
-      <td><strong> Branch</strong> </td>
-      <td><strong> Commit Id</strong> </td>
-      <td><strong> Commit Message</strong> </td>
-      <td><strong> Commit Message Body</strong> </td>
-      <td><strong> Committed on (Date)</strong> </td>
-    </tr>
-    <tr>
-      <td rowspan="17"><strong> CargoSafe-Frontend</strong> </td>
-      <td rowspan="17"><strong> main</strong> </td>
-      <td>15ea5a0da21976804b25cf1a5816ad853c6edbd9</td>
-      <td>fix: change route of environments</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>f692663f43d94145bfb755f05298eab8ee04d2d0</td>
-      <td>fix: order trip (service)</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-    <td>f2ac77e544698ff77c9276251a660d5dcd972007</td>
-      <td>feat:add vehicle management</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>91ecdfa9b801557b9850366224cb64bee2470f0c</td>
-      <td>feat: addded trip track component</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>c5faa6b931636ebd9df054e7648614632c9d8845</td>
-      <td>feat: add base service</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>ab3a8818ed73f656e3849fe29b715ae02ddd9350</td>
-      <td>feat:added trip entity & trip components</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>ee6d08eafbff461ec3678b4f7c93942b9c406793</td>
-      <td>feat: added referencial images</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>9596fcd17f5d5a24f1b63b9c055c4bc77ddd311a</td>
-      <td>feat: added toolbar content (public)</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>43326bfbab47e81eb1f46d1094275cda836225fa</td>
-      <td>feat: addd left sidebar component</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>1946884d96c36c1458a463b050a8b8d3a419ca1c</td>
-      <td>chore: installed dependencies (i18n)</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>135ad17a8b87c95194605c87c77ce713697a5eeb</td>
-      <td>chore: installed dependencies (i18n)</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>fdb0a11660c076f7444098911d2f2291ec8c2e27</td>
-      <td>feat: add orders-on-trip (context)</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>2f1a7b7558f1dd7f749852775a5927e9e279e50e</td>
-      <td>feat: add main component</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>a82f69c61ed720be26674820f413a18c1a6979be</td>
-      <td>feat:added drivers management</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>e15632cb3fa18202e46647ce6ec50ebff1bdd5ef</td>
-      <td>feat: added company management</td>
-      <td>-</td>
-      <td>Sep 27, 2024</td>
-    </tr>
-    <tr>
-      <td>9b15d1314bebcf311f0b689f2ec9acc4a598521b</td>
-      <td>chore: project setup</td>
-      <td>-</td>
-      <td>Sep 23, 2024</td>
-    </tr>
-    <tr>
-      <td>7e56067b1c278ef0e3dd3f9f81b5d0e079ce72ca</td>
-      <td>initial commit</td>
-      <td>-</td>
-      <td>Sep 23, 2024</td>
-    </tr>
-  </tbody>
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
+<tr><td rowspan="22" valign="top">CargoSafe-Frontend</td><td rowspan="22" valign="top">v1.0</td><td valign="top">8b88fbd89a67c0e8e6b2919c56bdc34f54de3849</td><td valign="top">feat: add role entity</td><td valign="top">-</td><td valign="top">Oct 7, 2024</td></tr>
+<tr><td valign="top">b09ded3f480ea062978035deced9cab308b5fa04</td><td valign="top">feat: add iam model & service</td><td valign="top">-</td><td valign="top">Oct 7, 2024</td></tr>
+<tr><td valign="top">84429b1f6484d99dbbbd1332c06f9f9b2b38f251</td><td valign="top">feat: added membership entity</td><td valign="top">-</td><td valign="top">Oct 7, 2024</td></tr>
+<tr><td valign="top">48ccbda812c1a86f029f29dc30d3be5343d5078d</td><td valign="top">feat: added partial login & register</td><td valign="top">-</td><td valign="top">Oct 7, 2024</td></tr>
+<tr><td valign="top">486fccc33fc5a996e96f2ebc41d9cf20dd5b728e</td><td valign="top">refactor: change driver management style</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">a56132cfb44a0463e8afa8ac37fc997fa95499a8</td><td valign="top">feat: delete update function (driver management)</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">22787bcba6d8eb015835d70cdf540f14390d78d1</td><td valign="top">feat: add toolbar entrepreneur content</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">3f8ff7efc3d7755999d56b8214beb493987d4c8a</td><td valign="top">refactor: update toolbar entrepreneur content</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">26fdebadd5fed6b826498da9ce4208df55e3d7ac</td><td valign="top">feat: add request trip form</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">f56f4090ffc488225461f67304412ac903667e9c</td><td valign="top">feat: added map component</td><td valign="top">-</td><td valign="top">Oct 8, 2024</td></tr>
+<tr><td valign="top">a05369d3eddbd7eb2baacb84e8d6597e45cb8f7c</td><td valign="top">refactor: change position texbox on form request trip (Add trip)</td><td valign="top">-</td><td valign="top">Oct 9, 2024</td></tr>
+<tr><td valign="top">7adad8708d015df6ed38b13dff796bb00692ab6b</td><td valign="top">refactor: change position texbox on form request trip (Add trip)</td><td valign="top">-</td><td valign="top">Oct 9, 2024</td></tr>
+<tr><td valign="top">830a406b48e31fc597cdccf5dea0ffb2188d155f</td><td valign="top">fix: change textbox in add-trip component</td><td valign="top">-</td><td valign="top">Oct 13, 2024</td></tr>
+<tr><td valign="top">6472e0bdc39d7cab4feac94f3a530d5bee992836</td><td valign="top">feat: add dialog-successfully</td><td valign="top">-</td><td valign="top">Oct 13, 2024</td></tr>
+<tr><td valign="top">7b99a77e0e2fcfa6807aea0bc9e1d46e34e5e2b9</td><td valign="top">feat: add list trip request management</td><td valign="top">-</td><td valign="top">Oct 13, 2024</td></tr>
+<tr><td valign="top">3038285383b7b78ede910a175810f0da264acabf</td><td valign="top">fix: component optimization add driver</td><td valign="top">-</td><td valign="top">Oct 13, 2024</td></tr>
+<tr><td valign="top">6eb3ddb78edacc8fdbd9d164c897b0f43f89a231</td><td valign="top">refactor: update form for adding new drivers</td><td valign="top">-</td><td valign="top">Oct 14, 2024</td></tr>
+<tr><td valign="top">27d393892261c773ac53874cdf311655ea4d322e</td><td valign="top">feat(vehicles): add vehicle management and success dialog</td><td valign="top">-</td><td valign="top">Oct 15, 2024</td></tr>
+<tr><td valign="top">6069729fc6de9f7a21b5b982a00a421cdebecd7a</td><td valign="top">fix(db.json): change position of ordersOnTrip</td><td valign="top">-</td><td valign="top">Oct 15, 2024</td></tr>
+<tr><td valign="top">968a4b2732457027e4057302c15c80d6d8fc5f0e</td><td valign="top">feat: add auth</td><td valign="top">-</td><td valign="top">Oct 30, 2024</td></tr>
+<tr><td valign="top">99954043cb0e4d312af8a3bd0367410b4f834f33</td><td valign="top">feat: add payment functionality.</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+<tr><td valign="top">c92b928bee3e2285cec6bff9f6c4b5491e7a3217</td><td valign="top">feat: add functionality de mapas in the project</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
 </table>
+
+
+
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id</th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Committed on (Date)</th></tr>
+<tr><td rowspan="65" valign="top">CargoSafe-Backendv</td><td rowspan="65" valign="top">main</td><td valign="top">d73b7a8950ee3ae872d3f744d80e8fdaca07161e</td><td valign="top">Merge pull request #6 from upc-pre-202402-si729-sw57-dynoware/develop</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+<tr><td valign="top">2dd229c73bd9cb5dd83390a6abc2be0986130b8a</td><td valign="top">feat: update version</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">c8e1b31c0b03cceee8653dcc2bcd15891311c89b</td><td valign="top">fix: duplicate dependencies</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">6572d4b2bfdb97e1c0bd23cd9a61d6968842cd80</td><td valign="top">Merge pull request #5 from upc-pre-202402-si729-sw57-dynoware/feature/vehicles</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">44d33930bfafa0de96c8a0bd937725c2a6138355</td><td valign="top">Merge branch 'develop' into feature/vehicles</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">017a25add0128aff416d45f3a422eb846be9aafe</td><td valign="top">Merge pull request #4 from upc-pre-202402-si729-sw57-dynoware/feature/paymentsCards</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">47da5a84465976130de9098455df0ae8f5811506</td><td valign="top">Merge branch 'develop' into feature/paymentsCards</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">1fe82d630dd9aff187eeb8f67f6e235f8728ea3b</td><td valign="top">fix: update dependencies</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">132b7becb1beb9cc83337432ab135a93d66f79d4</td><td valign="top">Merge pull request #3 from upc-pre-202402-si729-sw57-dynoware/feature/on-going-trips</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">5c4468c8185b8ffc6a11e24cd6543533a251cd05</td><td valign="top">Merge pull request #2 from upc-pre-202402-si729-sw57-dynoware/feature/expenses</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">1b516c215aa8b1c8148ba5d0a7cde2265fd05722</td><td valign="top">fix: aggregate name</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">536bc9947e884fcf5a1157e8d0b17ce067984ca5</td><td valign="top"><p>feat(evidences): add inbound service for evidence aggregate.</p><p></p></td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">40666e8256b97f82abb51576677b97543db56c49</td><td valign="top">feat(evidences): add resources and assemblers for interfaces layer.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">72f56798e4b2530ecf549f27acdbacc12261cd1d</td><td valign="top">feat(evidences): add command and query service implementation.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">e184fc552fe8e1e90fefd4ed6630a93146704814</td><td valign="top">feat(evidences): add evidence outbound service.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">af0482a8d0b8d5807136bb2ffe2da0b6620dc1a5</td><td valign="top">feat(evidences): add commands, queries and service contracts in domain.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">5f2da3b42a99ae9f70a54e930bf618cc0deae285</td><td valign="top">feat(evidences): add aggregate create evidence command handling at root level</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">c2ed365d6df9c614c4aa32ddbc9f6e04e6455570</td><td valign="top">feat: add dependencies.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">954255a374eaea08dc62a1feff8742fa35d87272</td><td valign="top">feat: add dependencies.</td><td valign="top">-</td><td valign="top">Nov 2, 2024</td></tr>
+<tr><td valign="top">80a6db2fdfe482a85946ef831972994041522f40</td><td valign="top">feat: add dependencies</td><td valign="top">-</td><td valign="top">Oct 30, 2024</td></tr>
+<tr><td valign="top">4373f7b18a12329b37f9d36c76faa96049d40117</td><td valign="top">feat: companie and functions added</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+<tr><td valign="top">a62484746d2653891518436c825a10f8b0289daa</td><td valign="top">feat: delete payment card by id added</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+<tr><td valign="top">a69ef3d1f6e86454948f6b487aeb96211b557d79</td><td valign="top">feat: get payment card by id added</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+<tr><td valign="top">7efc4c272c08875e87c5c9a2e3cdd4d2316f9bf0</td><td valign="top">fix(vehicles): fix vehicle query service, repository and controller.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">18eaed854ce67fa5333b130ebc77b6bb035c2d7a</td><td valign="top">feat(vehicle): add get vehicle by model query</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">78608c28b25bb6efb33fc258f16b660d80927833</td><td valign="top">fix(vehicle): fix command and query service implementation</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">9c8934957ed4d28e7ac24cf732c2a9ce6f9dd621</td><td valign="top">feat: add dependencies</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">b625d427c24d2885b8a856d40c8d4dfbd340faf0</td><td valign="top">feat(drivers): add dependencies.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">94790741e9e8ca3af511d9de8aaf2b92440c57c8</td><td valign="top">feat: updated dependencies and added JpaAuditing</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">faaed2fa2a5017bde64de5e494cd9fbe8d0f0c11</td><td valign="top">feat: paymentcard added</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">9fc1665b78a0b4a1d7bb6b09959888f867643fd2</td><td valign="top">feat(drivers): add driver not found exception.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">db70faeb4ad86c38357ef1803e0bdfb3d0e98cae</td><td valign="top">feat(drivers): add driver command and query services.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">955db31edf529acf4ea39a3ff5aee063c58ecec7</td><td valign="top">feat(drivers): add driver aggregate, commands and queries.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">e7021daaf6a9b8d9abbeac7437980a4b174d9966</td><td valign="top">feat(drivers): add outbound service.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">fcd5abbbb5063bfa85d19f8bc7a403ee941c5028</td><td valign="top">feat(drivers): add command and query service implementations.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">17f520cc3e5694adc93e257f306ceb4b24a7fa4d</td><td valign="top">feat(drivers): add interface resources and transform.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">8789537d1bd737380a6e9f512542c83f521ee8bc</td><td valign="top">feat(drivers): add driver inbound service.</td><td valign="top">-</td><td valign="top">Nov 1, 2024</td></tr>
+<tr><td valign="top">b4feeb92490f435ec2224189268917509a59ae85</td><td valign="top">feat(vehicles): add inbound service for vehicle aggregate.</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">497cd1e8b399a7aca54fbdb7520f0fd158930746</td><td valign="top">feat(vehicles): add resources and assemblers for interfaces layer.</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">501d1ad67997449699950b49e06a5a034b603cc7</td><td valign="top">feat(vehicles): add command and query service implementation.</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">c6b6824bfa343bded4cd5d46d011a3c36e6f84b7</td><td valign="top">feat(vehicles): add vehicle outbound service.</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">75a67442ef148aa30a437852eeb0f56f32655b5b</td><td valign="top">feat(vehicles): add commands, queries and service contracts in domain.</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">ad3d91e51f7c7b7ae00196d3e846f403ccfe5eeb</td><td valign="top">feat(vehicles): add aggregate create, delete and update vehicle command handling at root level</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">be94ca95dcb1da33bf9ae46893e366982eafd5d7</td><td valign="top">feat: delete test file</td><td valign="top">-</td><td valign="top">Oct 31, 2024</td></tr>
+<tr><td valign="top">069c4259a203aac93540a7e847a9e20733b43183</td><td valign="top">feat(on-going-trips): add on going trip not found exception.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">26ed9bbda04cf20e568e64195cd9885182a73220</td><td valign="top">feat(on-going-trips): add on going trip command and query services.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">1f11f043f67dd4feaa261a1d340ed78db680a5c5</td><td valign="top">feat(on-going-trips): add on going trip aggregate, commands and queries.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">833fdbc35ee86d4e27af6b195211b50d8009fa14</td><td valign="top">feat(on-going-trips): add outbound service.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">91a78a4d7635d04c2ea4c7e87eb86a118a057f6e</td><td valign="top">feat(on-going-trips): add command and query service implementations.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">05e1fbe63df3c6348621fce3a1f0edecb0a88812</td><td valign="top">feat(on-going-trips): add interface resources and transform.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">2ae620def1eb711dbf452b31cdebf5fd915a5a29</td><td valign="top">feat(on-going-trips): add on going trip inbound service.</td><td valign="top">-</td><td valign="top">Oct 29, 2024</td></tr>
+<tr><td valign="top">9ba217fd751aa4316c328b46066ed773ae70d8cf</td><td valign="top"><p>feat(expense): add inbound service.</p><p></p></td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">dd40282e66767de65e793419e770de8cc49de615</td><td valign="top">feat(expense): add interface resources and transform</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">f1f761701b5a4f286ff53d4f968220e2b097689a</td><td valign="top"><p>feat(expense): add command and query service implementations.</p><p></p></td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">29645e976623b26e6206c7bde27307c7d1ebd4e7</td><td valign="top">feat(expense): add outbound service</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">b0d3fd1105886025a4320b04be76d6a426505d82</td><td valign="top">feat(expense): add expense aggregate, commands, queries and command and query service contracts</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">159bdbccb837a5793ae565a4a6b8d29e29272220</td><td valign="top">feat(alert): add inbound service.</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">7027d02fc5621f37c166cab8ad09bfcc91799635</td><td valign="top">feat(alert): add interface resources and transform</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">08173b7fd47a549124ba21a6239902a9e0154e89</td><td valign="top">feat(alert): add alert command and query service implementations.</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">d3774255b13efcf01acd0306060df0d140cd3844</td><td valign="top">feat(alert): add alert outbound service</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">06f846c7df4bf455127e997de3f4577d6f9557f8</td><td valign="top">feat(alert): add alert aggregate, commands, queries and command and query service contracts</td><td valign="top">-</td><td valign="top">Oct 28, 2024</td></tr>
+<tr><td valign="top">08d1355c575a89c14c123dc27da3b80070a4a662</td><td valign="top">feat(orm): setup persistence physical naming strategy.</td><td valign="top">-</td><td valign="top">Oct 16, 2024</td></tr>
+<tr><td valign="top">db1ae140a14374117bdd66081521f548e7fd18d8</td><td valign="top">feat: add AuditableAbstractAggregateRoot</td><td valign="top">-</td><td valign="top">Oct 16, 2024</td></tr>
+<tr><td valign="top">6fdaa45a9db2619072774bd08c2d5d8ec2d06351</td><td valign="top">chore: project setup</td><td valign="top">-</td><td valign="top">Oct 16, 2024</td></tr>
+<tr><td valign="top">c26c3c640673ac18a1a4957b2954cf12017a25a6</td><td valign="top">chore: project setup</td><td valign="top">-</td><td valign="top">Oct 16, 2024</td></tr>
+</table>
+
+
+
 
 <div id='5.2.3.4.'><h5> 5.2.3.4.	Testing Suite Evidence for Sprint Review</h5></div>
 
