@@ -3064,6 +3064,12 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 
 - Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
 
+![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
+![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
+![image](https://github.com/user-attachments/assets/6e4b6697-8a43-4bb9-8d40-464e966d44ef)
+![image](https://github.com/user-attachments/assets/2659a1a2-1cc5-49f1-a0ed-ef0b46f618d5)
+
+
 <div id='5.2.2.8.'><h5> 5.2.2.8.	Team Colaboration Insights during Sprint</h5></div>
 
 El equipo desarrolló el frontend por ramas con la finalidad de desarrollar cada sección de manera individual para optimizar el mantenimientoy colaboración durante el sprint.
