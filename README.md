@@ -3218,11 +3218,11 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 		</tr>
 		<tr>
 			<td><b>Sprint 3 Velocity</b></td>
-			<td style="text-align: center;"></td>
+			<td style="text-align: center;">8</td>
 		</tr>
 		<tr>
 			<td><b>Sum of Story Points</b></td>
-			<td style="text-align: center;"></td>
+			<td style="text-align: center;">33</td>
 		</tr>
 	</tbody>
 </table>
