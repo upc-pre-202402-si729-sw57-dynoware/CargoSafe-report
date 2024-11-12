@@ -3497,6 +3497,34 @@ Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boo
 
 <div id='5.3.1.'><h4> 5.3.1.	Diseño de Entrevistas.</h4></div>
 
+En esta sección se redactaron las preguntas para las entrevistas a fin de obtener la información necesaria acerca de la aplicación, viendo aspectos a mantener y a mejorar.
+
+**Preguntas principales:**
+
+1. ¿Cómo te llamas?
+2. ¿Qué edad tienes?
+3. ¿Cuál es tu profesión?
+
+**Segmento Objetivo: Transportistas**
+
+1. ¿Qué te parece el diseño de la interfaz del landing page? ¿Te resulta atractiva y fácil de entender?
+2. ¿Qué te parece el diseño de la interfaz de la aplicación? ¿Crees que hay aspectos a mejorar?
+3. ¿Consideras que es facil agregar o actualizar la información de los conductores en la aplicación?
+4. ¿Qué tan útil te resulta la función de seguimiento de la disponibilidad de los conductores?
+5. ¿Qué información adicional crees que sería beneficiosa incluir?
+6. ¿Consideras que la aplicación permite gestionar fácilmente las solicitudes de servicio? ¿Habria algo por mejorar?
+7. ¿Te parece útil la función de programación de mantenimientos o inspecciones de los vehículos?
+
+**Segmento Objetivo: Empresarios**
+
+1. ¿Qué te parece el diseño de la interfaz del landing page? ¿Te resulta atractiva y fácil de entender?
+2. ¿Qué te parece el diseño de la interfaz de la aplicación? ¿Crees que hay aspectos a mejorar?
+3. ¿Te parece que la información es suficiente y clara para mantenerte al tanto de la evolución de tus solicitudes?
+4. ¿Qué elementos adicionales te gustaría que se incluyeran para hacer el seguimiento más eficaz?
+5. ¿Qué tan intuitivo y fácil de usar encuentras el proceso de solicitud para el transporte de una carga?
+6. ¿Hay algún paso que crees que podría simplificarse o mejorarse para hacer el proceso más rápido y eficiente?
+7. ¿Qué tan bien se adaptan las funciones de la aplicación a tus necesidades diarias como empresario que solicita transporte de carga?
+
 <div id='5.3.2.'><h4> 5.3.2.	Registro de Entrevistas.</h4></div>
 
 <div id='5.3.3.'><h4> 5.3.3.	Evaluaciones según heurísticas.</h4></div>
