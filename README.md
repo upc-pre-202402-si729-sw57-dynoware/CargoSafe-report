@@ -3527,6 +3527,120 @@ En esta sección se redactaron las preguntas para las entrevistas a fin de obten
 
 <div id='5.3.2.'><h4> 5.3.2.	Registro de Entrevistas.</h4></div>
 
+Link: [https://shorturl.at/DVL4X](https://shorturl.at/DVL4X)
+Segmento 1: Transportistas
+
+Entrevista 1:
+
+- Datos del entrevistado<br>
+  Nombres: Diego Stefano<br>
+  Apellidos: Alvarez Castillo<br>
+  Edad: 30 años<br>
+  Profesión: Conductor<br>
+
+- Acerca de la entrevista <br>
+
+![image](assets/chapter-5/VI-renzo.png)
+
+Inicio de la entrevista: 10:51<br>
+Duración: 2:09 segundos<br>
+Resumen: <br>
+
+<div align=justify>
+El entrevistado comenta que estuvo revisando la landing page y considera que le gusta toda la información que le proporciona se encuentre de manera organizada.
+También opina lo mismo de la aplicación considerando que tiene interfaces atrayentes. Asimismo, menciona que las acciones de agregar conductos y agregar vehículo resultan útiles y fáciles de entender.
+Piensa que la aplicación ya es lo bastante funcional y no sería necesario agregar algo más.
+</div>
+
+Entrevista 2:
+
+- Datos del entrevistado<br>
+  Nombres: Cristofer<br>
+  Apellidos: Paucar<br>
+  Edad:26 años<br>
+  Profesión: Transporte de carga pesada y ligera<br>
+
+- Acerca de la entrevista <br>
+
+![image](assets/chapter-5/VI-belen2.png)
+
+Inicio de la entrevista: 23:09<br>
+Duración: 5:17 minutos<br>
+Resumen: <br>
+
+<div align=justify>
+Cristofer destaca la utilidad de la comunicación dentro de la aplicación, especialmente para gestionar rutas e incidentes inesperados en el camino. También plantea dudas sobre la funcionalidad offline de la aplicación y el acceso a información en caso de falta de conexión.
+La persona considera fácil autorizar y actualizar la información de los conductores y encuentra útil la función de seguimiento de disponibilidad, ya que facilita el monitoreo de la ubicación y situación de los conductores. En cuanto a mejoras, sugiere que la aplicación podría incluir una función para programar mantenimientos e inspecciones de los vehículos, lo cual sería beneficioso para evitar problemas durante el transporte y responder ante imprevistos.
+</div>
+
+Entrevista 3:
+
+- Datos del entrevistado<br>
+  Nombres: Lya Nicole <br>
+  Apellidos: Aquino Sotelo<br>
+  Edad: 30 años<br>
+  Profesión: conductor<br>
+
+- Acerca de la entrevista <br>
+
+![image](assets/chapter-5/VI-astrid.png)
+
+Inicio de la entrevista: 17:59<br>
+Duración: 5:08 minutos<br>
+Resumen: <br>
+
+<div align=justify>
+Lya encuentra la aplicación fácil de entender y atractiva en cuanto a diseño. Menciona que la información principal podría estar mejor organizada, sugiriendo que botones y accesos directos podrían mejorar. En cuanto a la interfaz, sugiere que algunos colores podrían ser más llamativos, aunque en general está satisfecha con el diseño. Considera que es práctico actualizar y gestionar la información de los conductores y que la función de seguimiento de disponibilidad es muy útil para planificar entregas.
+Propone que los conductores podrían presentarse con una pequeña descripción para facilitar la conexión con los usuarios. Además, la aplicación le parece sencilla de usar Sin embargo, nota que a veces las fotos de los vehículos no se cargan correctamente, lo cual podría mejorar.
+</div>
+
+Segmento 2: Empresas
+
+Entrevista 1:
+
+- Datos del entrevistado<br>
+  Nombres: Rubi Jael<br>
+  Apellidos: Pinta Alves<br>
+  Edad: 28 años <br>
+  Profesión: Comerciante mayorista de prendas<br>
+
+- Acerca de la entrevista <br>
+
+![image](assets/chapter-5/VI-ely.png)
+
+Inicio de la entrevista: 0:00<br>
+Duración: 10: 50 minutos<br>
+Resumen: <br>
+
+<div align=justify>
+En la entrevista, Jael brindó comentarios sobre el diseño y la usabilidad de la aplicación web.
+Respecto al diseño de la interfaz, ella comentó que los colores utilizados ayudan a resaltar las partes importantes,especialmente la combinación de blanco y amarillo, que resulta efectiva. Sin embargo, sugirió que la posición de algunos iconos puedan mejorarse debido a que se ven demasiado pequeños y genera una impresión extraña.
+En cuanto a la tipografía, indicó que es del tamaño correcto y es fácil de leer, aunque los títulos de la parte superior de la interfaz principal de la aplicación podría ser un poco más grande. En general, consideró que el diseño es comprensible y está bien estructurado.
+Respecto a la funcionalidad de la aplicación, resaltó que una interfaz limpia y con íconos claros facilita el uso, especialmente para aquellos usuarios que no están tan familiarizados con la tecnología. Propuso agregar una función que permitiera registrar y reutilizar las direcciones más frecuentes, similar a las aplicaciones de transporte como Uber o Drive, para hacer el proceso más eficiente.
+</div>
+<br>
+
+Entrevista 2:
+
+- Datos del entrevistado<br>
+  Nombres: Melany Milagros<br>
+  Apellidos: Ramos Argüelles<br>
+  Edad: 27 años<br>
+  Profesión: Ingeniera de Software y empresaria independiente<br>
+
+- Acerca de la entrevista <br>
+
+![image](assets/chapter-5/VI-belen.png)
+
+Inicio de la entrevista: 13:02<br>
+Duración: 4:57 minutos <br>
+Resumen: <br>
+
+<div align=justify>
+La entrevistada menciona que la aplicación se ve bastante útil para alguien que necesite este tipo de servicios como es su caso, aunque menciona que en la parte de solicitar servicio podría resultar difícil de entender para otras personas. Le agradan los colores y le parece en su mayoría muy predictiva. Siente que para el "seguimiento del pedido" tenga más información acerca del conductor que se encuentra manejando para
+poder contactarlo en caso de emergencia. Menciona que se adapta muy bien a sus necesidades como empresarios.
+</div>
+
 <div id='5.3.3.'><h4> 5.3.3.	Evaluaciones según heurísticas.</h4></div>
 
 <div id='5.4.'><h3> 5.4.	Video About-the-Product.</h3></div>
