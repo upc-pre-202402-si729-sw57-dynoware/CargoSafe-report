@@ -3643,6 +3643,217 @@ poder contactarlo en caso de emergencia. Menciona que se adapta muy bien a sus n
 
 <div id='5.3.3.'><h4> 5.3.3.	Evaluaciones según heurísticas.</h4></div>
 
+<div align=center>
+UX Heuristics & Principles Evaluation Usability – Inclusive Design – Information Architecture
+</div>
+
+CARRERA : Ingeniería de Software
+
+CURSO : Desarrollo de Aplicaciones Open Source
+
+SECCIÓN : SW57
+
+PROFESORES : Todos
+
+AUDITOR : CargoSafe
+
+CLIENTE(S) : Todos
+
+---
+
+SITE o APP A EVALUAR: CargoSafe
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+**Web Application**
+
+- Posición de los elementos
+- Tamaño de los elementos
+- Información de los viajes
+- Información de los vehículos
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+**Web Application**
+
+- Registro de viaje
+- Perfil de usuario
+- Notificaciones
+
+**ESCALA DE SEVERIDAD:**<br>
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+	<tbody>
+		<tr>
+			<td>Nivel</td>
+			<td>Descripción</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td> Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td> Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+		</tr>
+	</tbody>
+</table>
+
+**TABLA RESUMEN: Segmento objetivo transportistas**<br>
+
+Web Application
+
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de severidad</td>
+			<td>Heurística/Principio violada(o)</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>Los botones no están bien ubicados</td>
+			<td>1</td>
+			<td>IA - Is it usable?</td>
+		</tr>
+    <tr>
+			<td>2</td>
+			<td>Las imagenes de los vehículos no cargan</td>
+			<td>1</td>
+			<td>IA - Is it usable?</td>
+		</tr>
+	</tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+_PROBLEMA #1:_ Los botones no están bien ubicados <br>
+
+_Severidad:_ 1<br>
+
+_Heurística violada:_ IA - Is it usable?
+
+_Problema:_
+
+Al ingresar a la aplicación el botón que esta centrado en el centro de la página de inicio es confuso de acceder
+
+![image](/assets/Heuristica4.png)
+
+_Recomendación:_
+
+Ajustar el tamaño y cambiarlo de color
+
+_PROBLEMA #2:_ Las imagenes de los vehículos no cargan <br>
+
+_Severidad:_ 1<br>
+
+_Heurística violada:_ IA - Is it usable?
+
+_Problema:_
+
+Al registrar algún vehículo, la sección de las imagenes no muestra las imagenes adecuadamente.
+
+![image](/assets/Heuristica5.png)
+
+_Recomendación:_
+
+Comprobar el tamaño de las imagenes y si necesitan más espacio dentro de las tablas.
+
+**TABLA RESUMEN: Segmento objetivo empresarios**<br>
+
+Web Application
+
+<table>
+	<tbody>
+		<tr>
+			<td>#</td>
+			<td>Problema</td>
+			<td>Escala de severidad</td>
+			<td>Heurística/Principio violada(o)</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>El registro de viaje no almacena información del conductor</td>
+			<td>2</td>
+			<td>IA - Is it clear?</td>
+		</tr>
+    <tr>
+			<td>2</td>
+			<td>Íconos demasiado pequeños</td>
+			<td>1</td>
+			<td>IA - Is it clear?</td>
+		</tr>
+    <tr>
+			<td>3</td>
+			<td>Títulos demasiado pequeños</td>
+			<td>1</td>
+			<td>IA - Is it findable?</td>
+		</tr>
+	</tbody>
+</table>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+_PROBLEMA #1:_ El registro de viaje no almacena información del conductor<br>
+
+_Severidad:_ 2<br>
+
+_Heurística violada:_ IA - Is it clear?<br>
+
+_Problema:_
+
+Dentro del registro de los viajes hay ausencia de la información importante del conductor que realiza los viajes.
+
+![image](/assets/Heuristica1.png)
+
+_Recomendación:_
+
+Agregar el nombre y contacto del conductor para facilitarlo a los empresarios.
+
+_PROBLEMA #2:_ Íconos demasiado pequeños <br>
+
+_Severidad:_ 1<br>
+
+_Heurística violada:_ IA - Is it clear?<br>
+
+_Problema:_
+
+Los íconos resultan muy pequeños, lo que podria dificultar verlos a simple vista.
+
+![image](/assets/Heuristica2.png)
+
+_Recomendación:_
+
+Agrandar el tamaño de los íconos.
+
+_PROBLEMA #3:_ Títulos demasiado pequeños<br>
+
+_Severidad:_ 1<br>
+
+_Heurística violada:_ IA - Is it findable?<br>
+
+_Problema:_
+
+Los títulos son visibles pero sería mejor si fuera más grandes.
+
+![image](/assets/Heuristica3.png)
+
+_Recomendación:_
+
+Agrandar los títulos.
+
 <div id='5.4.'><h3> 5.4.	Video About-the-Product.</h3></div>
 
 <div id='6.'><h2>Conclusiones</h2></div>
