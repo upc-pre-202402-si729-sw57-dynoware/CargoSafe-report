@@ -99,6 +99,49 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
+**TP1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
+| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
+| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
+| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
+| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
+
+**TB2**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
+| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
+| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
+| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
+| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
+
+
+**TF1**
+
+Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
+| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
+| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
+| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
+| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+
+El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
+
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
