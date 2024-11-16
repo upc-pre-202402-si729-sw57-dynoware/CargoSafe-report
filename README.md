@@ -127,15 +127,15 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 **TP1**
 
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
-| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
-| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
-| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
-| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+| Ely Cortez      | Ubiquitous Language, User Stories, Database Diagram, Class Dictionary y Class Diagram.                                                      |
+| Fabrizio Quiroz | General Style Guidelines, Web Applications Prototyping y Mockups.                  |
+| Astrid Boronda  | Resumen de entrevistas, Análisis de entrevistas, User Personas y Development Evidence for Sprint Review.                                                |
+| Renzo Silva     | Problem Statement y Lean UX Assumptions |
+| Alexandra Ramos | Collaboration Insights, Impact Mapping, Sprint Planning 2, Sprint Backlog 2, Execution Evidence for Sprint Review.                                                                                                                  |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
@@ -145,15 +145,15 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 **TB2**
 
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
-| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
-| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
-| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
-| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+| Ely Cortez      | Database Diagram, Validation Interview y video About the Team.                                            |
+| Carlos León | Execution Evidence for Sprint Review 3,  Validation Interview y video About the Team.                            |
+| Astrid Boronda  | Diagrama de clases, Class Dictionary, Sprint Backlog 3, documentación del Sprint 3, videos About the Product y About the Team, Diseño de Entrevistas, Evaluaciones de acuerdo a las heurísticas.                                                  |
+| Renzo Silva     | Execution Evidence for Sprint Review 3, Validation Interview y video About the Team |
+| Alexandra Ramos | Sprint Planning 3, Development Evidence for Sprint Review, Validation Interview y video About the Team.                                                                                                                |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
@@ -161,7 +161,7 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 **TF1**
 
-Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+Para el desarrollo del informe perteneciente a la entrega TF1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
 | Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
