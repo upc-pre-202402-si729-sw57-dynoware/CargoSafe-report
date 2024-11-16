@@ -121,6 +121,10 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
+
+
+![image](https://github.com/user-attachments/assets/80cdf9ca-3520-4542-b6fd-43fdf3a0f84b)
+
 **TP1**
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
@@ -135,6 +139,10 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
+
+
+![image](https://github.com/user-attachments/assets/0af2b929-7ca0-48d2-b63e-58a8d396d4d8)
+
 **TB2**
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
@@ -148,6 +156,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
+
 
 
 **TF1**
