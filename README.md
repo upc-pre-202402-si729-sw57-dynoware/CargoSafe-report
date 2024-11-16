@@ -151,7 +151,7 @@ Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la im
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ely Cortez      | Database Diagram, Validation Interview y video About the Team.                                            |
 | Carlos León | Execution Evidence for Sprint Review 3,  Validation Interview y video About the Team.                            |
-| Astrid Boronda  | Diagrama de clases, Class Dictionary, Sprint Backlog 3, documentación del Sprint 3, videos About the Product y About the Team, Diseño de Entrevistas, Evaluaciones de acuerdo a las heurísticas.                                                  |
+| Astrid Boronda  | Diagrama de clases, Class Dictionary, Sprint Backlog 3, documentación del Sprint 3, videos About the Product y About the Team, Validation Interview, Diseño de Entrevistas, Evaluaciones de acuerdo a las heurísticas.                                                  |
 | Renzo Silva     | Execution Evidence for Sprint Review 3, Validation Interview y video About the Team |
 | Alexandra Ramos | Sprint Planning 3, Development Evidence for Sprint Review, Validation Interview y video About the Team.                                                                                                                |
 
