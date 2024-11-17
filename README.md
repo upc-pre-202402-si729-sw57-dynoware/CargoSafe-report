@@ -3621,9 +3621,9 @@ Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boo
 		</tr>
 		<tr>
 			<td><b>Sprint 4 Goal</b></td>
-			<td style="text-align: justify;"><b> Nuestro enfoque está en mejorar la eficiencia y satisfacción de nuestros usuarios en la plataforma CargoSafe.
+			<td style="text-align: justify;"><b> Nuestro enfoque está en incrementar el conocimiento de nuestra plataforma entre los visitantes a través de demostraciones efectivas del producto y del equipo. Creemos que esto logrará que los usuarios comprendan los beneficios de la aplicación CargoSafe. Esto se confirmará cuando observemos un mayor interés de los visitantes en descargar la aplicación.</b> <b>Nuestro enfoque está en mejorar la eficiencia y satisfacción de nuestros usuarios en la plataforma CargoSafe.
 Creemos que esto permitirá una gestión más ágil y personalizada de sus envíos.
-Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera más rápida y precisa, utilizando las nuevas funcionalidades de la aplicación.</b></td>
+Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera más rápida y precisa, utilizando las nuevas funcionalidades de la aplicación.</b> <b>Nuestro enfoque está en mejorar la facilidad de comunicación y transporte de nuestro usuarios en la plataforma CargoSafe. Creemos que esto permitirá optimizar la coordinación entre transportistas y empresarios. Esto se confirmará cuando observemos un aumento en la velocidad de las entregas y una mayor satisfacción de los usuarios.</b> <b>Nuestro enfoque está en centralizar la lógica de negocio y facilitar la gestión de la base de datos. Creemos que esto permitirá que los desarrolladores implementen los endpoints necesarios para garantizar un manejo de datos óptimo. Esto se confirmará cuando se puedan hacer solicitudes para obtener o enviar los datos.</b></td>
 		</tr>
 		<tr>
 			<td><b>Sprint 4 Velocity</b></td>
