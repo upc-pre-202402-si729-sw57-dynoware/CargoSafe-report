@@ -3294,15 +3294,15 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 			<td style="text-align: center;">Modalidad remota a través de la plataforma Zoom</td>
 		</tr>
 		<tr>
-			<td><b>Attendees (to planning meeting)</b></td>
+			<td><b>Prepared By</b></td>
 			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen</td>
 		</tr>
 		<tr>
-			<td><b>Prepared By</b></td>
+			<td><b>Attendees (to planning meeting)</b></td>
 			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar</td>
 		</tr>
 		<tr>
-			<td><b>Sprint 3 Review Summary</b></td>
+			<td><b>Sprint 2 Review Summary</b></td>
 			<td>A partir de la revisión es necesario corregir: <br>
       <ul>
       <li>Mejorar el Sprint Goal</li>
@@ -3566,8 +3566,75 @@ Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boo
 <div id='5.2.4.'><h4> 5.2.4.	Sprint 4</h4></div>
 
 <div id='5.2.4.1.'><h5> 5.2.4.1.	Sprint Planning 4.</h5></div>
-
-
+<table>
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><b>Sprint #</b></td>
+			<td style="text-align: center;"><b>Sprint 4</b></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Planing Background</b></td>
+		</tr>
+		<tr>
+			<td><b>Date</b></td>
+			<td style="text-align: center;">14/11/2024</td>
+		</tr>
+		<tr>
+			<td><b>Time</b></td>
+			<td style="text-align: center;">21:00 horas (GMT-5)</td>
+		</tr>
+		<tr>
+			<td><b>Location</b></td>
+			<td style="text-align: center;">Modalidad remota a través de la plataforma Zoom</td>
+		</tr>
+		<tr>
+			<td><b>Prepared By</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen</td>
+		</tr>
+		<tr>
+			<td><b>Attendees (to planning meeting)</b></td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar</td>
+		</tr>
+		<tr>
+			<td><b>Sprint 3 Review Summary</b></td>
+			<td>A partir de la revisión es necesario corregir: <br>
+      <ul>
+      <li>Mejorar el Sprint Goal</li>
+      <li>Registar las entrevistas de Validación</li>
+      <li>Actualizar el registro de versiones</li>
+      <li>Documentar el desarrollo Frontend de la aplicación web</li>
+      <li>Documentar el desarrollo Backend de la aplicación web</li>
+      <li>Mejorar el Sprint Backlog</li>
+      <li>Completar Testing Suite Evidence for Sprint Review</li>
+      <li>Separación por bounded context (diagramas de componentes, clases y base de datos)</li>
+      <li>Agregar conclusiones</li>
+    Además, continuamos con el desarrollo del Backend hasta culminarlo y se busca unir el Fronted con el Backend de la Aplicación.
+      </ul>
+      </td>
+		</tr>
+    <tr>
+			<td><b>Sprint 3 Retrospective Summary </b></td>
+			<td style="text-align: justify;">Durante este sprint, se avanzó con el desarrollo del frontend, completando las páginas y funcionalidades pendientes, siguiendo la misma metodología empleada en el sprint anterior. Además, se inició la construcción de la API de la aplicación utilizando Spring Boot.</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="text-align: center;"><b>Sprint Goal & User Stories</b></td>
+		</tr>
+		<tr>
+			<td><b>Sprint 4 Goal</b></td>
+			<td style="text-align: justify;"><b> Nuestro enfoque está en mejorar la eficiencia y satisfacción de nuestros usuarios en la plataforma CargoSafe.
+Creemos que esto permitirá una gestión más ágil y personalizada de sus envíos.
+Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera más rápida y precisa, utilizando las nuevas funcionalidades de la aplicación.</b></td>
+		</tr>
+		<tr>
+			<td><b>Sprint 4 Velocity</b></td>
+			<td style="text-align: center;">8</td>
+		</tr>
+		<tr>
+			<td><b>Sum of Story Points</b></td>
+			<td style="text-align: center;">33</td>
+		</tr>
+	</tbody>
+</table>
 
 <div id='5.2.4.2.'><h5> 5.2.4.2.	Sprint Backlog 4 </h5></div>
 
