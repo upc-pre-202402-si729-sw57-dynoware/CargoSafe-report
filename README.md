@@ -3368,7 +3368,7 @@ Link: [https://trello.com/invite/b/6710221264cb421ef9e8ad88/ATTI0349b692821427e9
 
 <div id='5.2.3.3.'><h5> 5.2.3.3.  Development Evidence for Sprint Review</h5></div>
 
-En esta sección, se presentarán los avances y mejoras realizadas con respecto al sprint 2 tanto en el fronted como en el backend, mostrando el progreso realizado en conjunto por cada uno de los integrantes:
+En esta sección, se presentarán los avances y mejoras realizadas con respecto al sprint 3 tanto en el fronted como en el backend, mostrando el progreso realizado en conjunto por cada uno de los integrantes:
 
 - [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend)
 - [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend)
@@ -3468,7 +3468,13 @@ En esta sección, se presentarán los avances y mejoras realizadas con respecto 
 
 <div id='5.2.3.4.'><h5> 5.2.3.4.	Testing Suite Evidence for Sprint Review</h5></div>
 
-Para este sprint, logramos desarrollar la API de nuestra aplicación utilizando Java en Sprint Boot
+Para este sprint, logramos desarrollar el fronted de la aplicación web por lo que se han realizando algunas pruebas de aceptación con respecto al alcance:
+[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
+
+![image](https://github.com/user-attachments/assets/ec6a9262-5ac9-42f3-9c00-00fea788e675)
+
+
+la API de nuestra aplicación utilizando Java en Sprint Boot
 
 - **Muestra de la API en swagger:**
 
