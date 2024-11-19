@@ -161,13 +161,13 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 Para el desarrollo del informe perteneciente a la entrega TF1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ely Cortez      | Diseño de entrevistas. Diagrama de clases. Diagrama de contexto, componentes y contenedores. User Personas. Information Architecture. User Stories. Diagrama de base de datos.                                                      |
-| Fabrizio Quiroz | Diseño de mockups y wireframes. Descripción de user flows. Capítulo V, Software Development Environment Configuration, Source Code Management, Style Guide & Conventions. User Stories. Product Backlog                             |
-| Astrid Boronda  | Impact Mapping, registro y análisis de entrevistas. User Task Matrix. As-Is To-be Scenarios. Empathy Mapping. Technical User Stories. User Stories. Product Backlog. Bibliografía.                                                  |
-| Renzo Silva     | Antecedentes y problemática 5W y 2H. Lean UX Process, Problem Statement, Assumptions e Hypothesis statements. Lean UX Canvas. Segmentos Objetivos. Análisis de competidores. Diseño de entrevistas. Conclusiones y recomendaciones. |
-| Alexandra Ramos | General Style Guidelines. Landing Page, Services & Applications implementation. Software Deployment Configuration.                                                                                                                  |
+|**Integrante**|**Tareas Asignadas**|
+| :-: | :-: |
+|Ely Cortez|Execution Evidence for Sprint Review|
+|Carlos León|Services Documentation Evidence for Sprint Review|
+|Astrid Boronda|Sprint Backlog 4, Sprint Planning y Team Collaboration Insights during Sprint.|
+|Renzo Silva|Software Deployment Evidence for Sprint Review|
+|Alexandra Ramos|Collaboration insights, Sprint Planning y Testing Suite Evidence for Sprint Review|
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
@@ -3836,7 +3836,76 @@ Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera m
 
 <div id='5.2.4.3.'><h5> 5.2.4.3.  Development Evidence for Sprint Review</h5></div>
 
+En esta sección, se presentarán los avances y mejoras realizadas con respecto al sprint 4 tanto en el fronted como en el backend y la landing page, mostrando el progreso realizado en conjunto por cada uno de los integrantes:
+
+- Backend: [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Backend)
+- Frontend:[https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Frontend)
+- Landing Page: [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-LandingPage)
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="22" valign="top">CargoSafe-Frontend</td><td rowspan="22" valign="top">main</td><td valign="top">696446a9652c7ddb723a2a051c314e9b9d63608b</td><td valign="top">feat: add drivers component</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">8ed0c9690bb1b0823bcf7df69bba0161c82b6864</td><td valign="top">feat: add company component</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">84429b1f6484d99dbbbd1332c06f9f9b2b38f251</td><td valign="top">feat: add dialogs</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">8ed0c9690bb1b0823bcf7df69bba0161c82b6864</td><td valign="top">feat: add left sidebar</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">62d73d7b2aaa398ce6a4ddd9d01d87cdba30509a</td><td valign="top">feat: add toolbar-content</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">0113de921e0e00a2b417d68ab95cf1959f39099d</td><td valign="top">feat: add toolbar-entrepreneur</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">16817c8e418d5a77b105bd9e391a42f4359a7f0f</td><td valign="top"><p>feat: add home-compnay</p><p></p><p></p></td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">7002a2a621856d3e6f140669bea56b5d5bb93504</td><td valign="top">feat: update home entrepreneur</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">88604f2cc348a8680c65d0212668b006c13817f4</td><td valign="top">feat(request-service): add request trip</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">2cae03f77c47858a9f0857282fad72b3c55510a1</td><td valign="top">feat(request-service): add list request trip</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">c1cd0fbfe294f03ce327ee217da46ed488242dad</td><td valign="top">feat(request-service): add list request status</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">7bcaaf3bdad5ddba019b0123d82fd0a7505e26f4</td><td valign="top">feat(request-service): add notifications</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">2aa22a10824f6d390bbc8519639c86524b4edd71</td><td valign="top">feat(request-service): add request</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">c8864bd465bf270e8ff5422ba130084fda707cef</td><td valign="top">feat(request-service): add request notification</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">ce5629cea03dbb8f29d8be86959a40ead3c78f05</td><td valign="top">feat(request service): add request-service entity</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">78df24f9de94ada3c95541a08d50897cbbfc8f54</td><td valign="top">feat(request service): add status entity</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">dec3bf0a96adb9a424b7211ced88eb59b56efcd5</td><td valign="top">feat(service): add request & status service</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">4c92d54551b24b09ad22fff8bba54fb97df10479</td><td valign="top">feat(trip): add details trip</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">6dc8145a4f916930fcf2dc8259d562377ca14769</td><td valign="top"><p>feat(trip): update details trip</p><p></p></td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">1329a26a909fb0ea1c60646c9ac3475b43fb637b</td><td valign="top">feat(trip): add list trips entrepreneurs</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">46247df20a659c393a6d1eeb34a003ec182f8432</td><td valign="top">refactor(trip entity): update trip entity</td><td valign="top">-</td><td valign="top">Nov 14, 2024</td></tr>
+<tr><td valign="top">c92b928bee3e2285cec6bff9f6c4b5491e7a3217</td><td valign="top">feat: add functionality de mapas in the project</td><td valign="top">-</td><td valign="top">Nov 3, 2024</td></tr>
+</table>
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="11" valign="top">CargoSafe-Backendv</td><td rowspan="11" valign="top">main</td><td valign="top">a8763a47a7a4aec40e5afc95dbd69f754afe0bc1</td><td valign="top">feat: update roles</td><td valign="top">-</td><td valign="top">Nov 12, 2024</td></tr>
+<tr><td valign="top">ca82f818f612600e2232ce4a96a17afc4b23e6b3</td><td valign="top">feat: add auth & profile</td><td valign="top">-</td><td valign="top">Nov 12, 2024</td></tr>
+<tr><td valign="top">d2125b0d87605bc8086cf2a15813b31ea6d787fd</td><td valign="top">feat(shared): add message resource</td><td valign="top">-</td><td valign="top">Nov 13, 2024</td></tr>
+<tr><td valign="top">cc1658e0491de314a3a1caaf60e86743ca6ca78b</td><td valign="top">feat: add openapi</td><td valign="top">-</td><td valign="top">Nov 13, 2024</td></tr>
+<tr><td valign="top">398ce39702e40f1c2ce43d653b950f7b7880a663</td><td valign="top">feat(iam): implement anti-corruption layer</td><td valign="top">-</td><td valign="top">Nov 16, 2024</td></tr>
+<tr><td valign="top">dfcbdf57217fa5e7f2c924785967f569da9c3f76</td><td valign="top">feat(iam): implement interface layer and open api configuration.</td><td valign="top">-</td><td valign="top">Nov 16, 2024</td></tr>
+<tr><td valign="top">c643ff1942c25c8781df10b375b245c84eedab9e</td><td valign="top">fix(iam): CHANGE ROLES</td><td valign="top">-</td><td valign="top">Nov 17, 2024</td></tr>
+<tr><td valign="top">1d74a64e3a853e3762fb771afc044b23a40aee4c</td><td valign="top">fix(iam): change roles</td><td valign="top">-</td><td valign="top">Nov 17, 2024</td></tr>
+<tr><td valign="top">43cc904ae7ead9e224e28567ae073e48061788a2</td><td valign="top">fix(iam): add roles</td><td valign="top">-</td><td valign="top">Nov 17, 2024</td></tr>
+<tr><td valign="top">cf282905d20368cda9bb731cbee5b8d06012caf7</td><td valign="top">fix(signup): debugged and fixed issue to allow adding multiple roles during user signup</td><td valign="top">-</td><td valign="top">Nov 17, 2024</td></tr>
+<tr><td valign="top">a9569dc5128dbbcc669d0ab50733d372834c8872</td><td valign="top">feat(profile): implement UserProfile entity</td><td valign="top">-</td><td valign="top">Nov 18, 2024</td></tr>
+</table>
+
+
+
+
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b></th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Committed on (Date)</b></th></tr>
+<tr><td rowspan="3" valign="top">CargoSafe-LandingPage</td><td rowspan="3" valign="top">main</td><td valign="top">53bea421fc49fa680636be4c3a5746ae04eb9ca4</td><td valign="top">fix: i18n & navbar</td><td valign="top">-</td><td valign="top">Nov 15, 2024</td></tr>
+<tr><td valign="top">959f7063b290291782e4d32ccbf6f08b3044e4e2</td><td valign="top">fix: about us section</td><td valign="top">-</td><td valign="top">Nov 15, 2024</td></tr>
+<tr><td valign="top">580a59634916b25419b69a7ebb115b644bf6b899</td><td valign="top">fix: spanish website link</td><td valign="top">-</td><td valign="top">Nov 16, 2024</td></tr>
+</table>
+
+
 <div id='5.2.4.4.'><h5> 5.2.4.4.	Testing Suite Evidence for Sprint Review</h5></div>
+
+Para este sprint, logramos desarrollar el fronted y un porcentaje de backend de la aplicación web por lo que se han realizando algunas pruebas de aceptación con respecto al alcance: [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|**Commit Message (Body)**|**Commited on (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|CargoSafe-Acceptance-Tests|main|192dce2ae15937b7b52aadd6188b001f59439ec8|chore: add AT08.feature file||08/09/2024|
+|CargoSafe-Acceptance-Tests|main|54d2f4d0e84a4e6f8d91080ca5066f4146a460ac|chore: add AT09.feature file||08/09/2024|
+|CargoSafe-Acceptance-Tests|main|f7d33314786767c952048fbd923236e0fa44b112|chore: add AT15.feature file||08/09/2024|
+|CargoSafe-Acceptance-Tests|main|b95fcfee4e073b37a8b478ab75b67fefe37bbf9f|chore: add AT16.feature file||<p>08/09/2024</p><p></p>|
+|CargoSafe-Acceptance-Tests|main|c0001b53f8cd2d0a2769d7f3e732c56cea329ccc|chore: add AT26.feature file||19/11/2024|
+|CargoSafe-Acceptance-Tests|main|72e84d49b7bf1bba5c3b9db06e5bc12651c90005|chore: add AT29.feature file||17/11/2024|
+|CargoSafe-Acceptance-Tests|main|7ea74aed8e9633b90cdff45c81778cc28f20937a|chore: add AT30.feature file||19/11/2024|
+|CargoSafe-Acceptance-Tests|main|f2e5955de048ae30af4023c0c120dbd2b457aa91|chore: add AT31.feature file||19/11/2024|
 
 <div id='5.2.4.5.'><h5> 5.2.4.5.	Execution Evidence for Sprint Review</h5></div>
 
@@ -4053,6 +4122,54 @@ Y la verificamos.
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.	Team Colaboration Insights during Sprint</h5></div>
 
+El equipo desarrolló la versión final de Frontend de la aplicación por ramas para optimizar la colaboración durante este sprint. Además, se finalizó el desarrollo del Backend de la aplicación. Por último, se logró conectar el Frontend con Backend de nuestra aplicación web.
+
+Acontinuación se presentarán las tareas asignadas a cada integrante del quipo, así como el insight del equipo a tráves de la plataforma GitHub:
+
+|**Alumno**|**Actividad**|
+| :-: | :-: |
+|Boronda Heidinger, Astrid Jimena|Desarrollar un formulario para la confirmación de la recepción|
+|Cortez Flores, Ely Rivaldo|Implementar el endpoint para gestionar a los usuarios, Implementar permisos específicos para cada rol|
+|Ramos Argüelles, Alexandra Belen|Desarrollar un proceso de verificación de identidad|
+|León Rioja, Carlos Andrés|Diseñar un formulario de recepción de órdenes, Implementar un endpoint para la gestión de la información de los viajes y Desarrollar un sistema de seguimientos seguro y confiable|
+|Silva Morales, Renzo Cesar|Implementar el endpoint para gestionar la información de los viajes en curso, diseñar una interfaz de usuario para el seguimiento de cargas implementar el endpoint para gestionar la información de las evidencias.|
+
+|**Username (GitHub)**|**Nombre**|
+| :-: | :-: |
+|AstridBH|Boronda Heidinger, Astrid Jimena|
+|rivacortez|Cortez Flores, Ely Rivaldo|
+|AleRamosA|Ramos Argüelles, Alexandra Belen|
+|rrenzosilva|Silva Morales, Renzo Cesar|
+|Sr-Anonymus-maker|León Rioja, Carlos Andrés|
+
+Hemos desarrollado en conjunto un total de 6 commits para el desarrollo de la Landing Page, 57 commits para el desarrollo del Frontend de la aplicación web y 70 commits para el desarrollo del Backend de la aplicación.
+
+En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
+
+**Flujo de trabajo entre ramas:**
+
+- Landing Page:
+  ![image](https://github.com/user-attachments/assets/468fb2aa-5805-45f7-b51c-c2c9f90f471c)
+
+- Frontend:
+  ![image](https://github.com/user-attachments/assets/f2878741-c7e1-4bdb-8c2c-0246f4754ae9)
+
+- Backend:
+  ![image](https://github.com/user-attachments/assets/b423fa6a-b24c-419c-93ca-b2f5b9b74336)
+
+
+**Commits en el período de un mes:**
+
+- Landing Page:
+  ![image](https://github.com/user-attachments/assets/3f03d177-acf0-4f6e-8279-edabd24f4559)
+
+- Frontend:
+  ![image](https://github.com/user-attachments/assets/f4038cd7-765f-4a7e-95cd-adefb446667f)
+
+- Backend:
+  ![image](https://github.com/user-attachments/assets/09a362f4-6100-45fe-9c35-a2accedc42ee)
+
+  
 <div id='5.3.'><h3> 5.3.	Validation Interviews.</h3></div>
 
 <div id='5.3.1.'><h4> 5.3.1.	Diseño de Entrevistas.</h4></div>
