@@ -3686,8 +3686,10 @@ En Settings seleccionamos la rama de "feature/deployment".
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 23_8f042e15](https://github.com/user-attachments/assets/cbe1ff7a-5965-4d51-96ae-8d39d9a798f1)
 
 Como penúlimo paso agregamos el puerto 8080.
+![image](https://github.com/user-attachments/assets/b92c9a83-6abd-4898-8c35-3a6cb66526b5)
 
 Finalmente confirmamos que el despliegue se ha realizado correctamente.
+![image](https://github.com/user-attachments/assets/aec6f4a6-81ee-4ddc-a118-534a2a24b433)
 
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
