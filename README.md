@@ -3831,6 +3831,20 @@ Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera m
 
 <div id='5.2.4.5.'><h5> 5.2.4.5.	Execution Evidence for Sprint Review</h5></div>
 
+Para este entregable, logramos desarrollar la versión final de nuestra Landing Page, además de el Frontend y Backend de nuestra Aplicación Web.
+
+Muestra de la versión final de la Landing Page: 
+
+- Se agregó la sección "About Us".
+
+
+- Se movieron los videos de "About the Product" y "About the Team" a la sección de "About Us".
+
+
+Muestra de la versión final del Frontend de la Aplicación Web:
+
+Muestra de la versión final del Backend de la Aplicación Web:
+
 <div id='5.2.4.6.'><h5> 5.2.4.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
 <div id='5.2.4.7.'><h5> 5.2.4.7.	Software Deployment Evidence for Sprint Review</h5></div>
