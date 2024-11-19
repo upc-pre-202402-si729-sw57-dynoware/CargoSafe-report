@@ -4035,6 +4035,16 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 
 - Creative Tim. (s. f.). _Paper Dashboard PRO Angular by Creative Tim._. [https://demos.creative-tim.com/paper-dashboard-pro-angular/#/charts](https://demos.creative-tim.com/paper-dashboard-pro-angular/#/charts)
 
+- Spring Security. (s. f.). _OAUTH 2.0 Resource Server JWT_. [https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html](https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/jwt.html)
+
+- Jacky. (2023, noviembre 6). _Understanding CQRS Pattern: Pros, Cons, and a Spring Boot Example. DEV Community_. [https://dev.to/jackynote/understanding-cqrs-pattern-pros-cons-and-a-spring-boot-example-3flb](https://dev.to/jackynote/understanding-cqrs-pattern-pros-cons-and-a-spring-boot-example-3flb)
+
+- Chandrakant y Cummings. (2024, mayo 11). _CQRS and Event Sourcing in Java_. [https://www.baeldung.com/cqrs-event-sourcing-java](https://www.baeldung.com/cqrs-event-sourcing-java)
+
+- VMware Tanzu. (s. f.). _Getting Started | Accessing Data With MySQL_. [https://spring.io/guides/gs/accessing-data-mysql](https://spring.io/guides/gs/accessing-data-mysql)
+
+- Tiwari, A. (2023, julio 31). _Spring Boot + MySQL + Spring Data JPA: A Beginner’s Guide to REST API CRUD Operations. DEV Community_. [https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl](https://dev.to/abhi9720/a-beginners-guide-to-crud-operations-of-rest-api-in-spring-boot-mysql-5hcl)
+
 <div id='8.'><h2> 8.	Anexos.</h2></div>
 
 - **Link de Landing Page:** [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
