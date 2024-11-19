@@ -3836,9 +3836,12 @@ Para este entregable, logramos desarrollar la versión final de nuestra Landing 
 Muestra de la versión final de la Landing Page: 
 
 - Se agregó la sección "About Us".
+![image](https://github.com/user-attachments/assets/a27418f0-bd85-4653-a5b8-095c1d0e2926)
 
 
 - Se movieron los videos de "About the Product" y "About the Team" a la sección de "About Us".
+![image](https://github.com/user-attachments/assets/fc4d7357-41f5-486d-bd99-2d5236a54e59)
+![image](https://github.com/user-attachments/assets/1a36b67b-f08a-4b65-b9b2-4d069d0eed0c)
 
 
 Muestra de la versión final del Frontend de la Aplicación Web:
