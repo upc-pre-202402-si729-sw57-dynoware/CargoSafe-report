@@ -3833,9 +3833,133 @@ Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera m
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
-<div id='5.2.3.7.'><h5> 5.2.4.7.	Software Deployment Evidence for Sprint Review</h5></div>
+<div id='5.2.4.7.'><h5> 5.2.4.7.	Software Deployment Evidence for Sprint Review</h5></div>
 
-<div id='5.2.3.8.'><h5> 5.2.4.8.	Team Colaboration Insights during Sprint</h5></div>
+Para esta entrega hemos realizado el despliegue, tanto de la Landing Page, como del Frontend y Backend de la Aplicación Web.
+
+**Landing Page:**
+Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+
+**Pasos para este Sprint:**
+
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/) e iniciar sesión.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
+</div>
+
+2. Al ingresar, hacer click en el botón de "Add new site".
+
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
+</div>
+
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
+</div>
+
+**Frontend de la aplicación web:**
+
+El proceso de despliegue se alinea con los procedimientos previamente establecidos, garantizando una integración sin contratiempos dentro del flujo de trabajo. Esto permite que las mejoras y actualizaciones se reflejen de manera inmediata en la aplicación, proporcionando así una experiencia optimizada para los usuarios finales.
+
+1. Ingresar a Netlify, hacer click en el botón de "Add new site".
+
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+2. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+3. Ahora procedemos a elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+4. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+5. Después de seleccionar nuestra organización, ingresamos al repositorio del frontend de la aplicación web.
+
+![image](https://github.com/user-attachments/assets/a3583504-2bef-4bbb-8431-395a8423074a)
+
+- Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+- ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
+
+- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
+
+![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
+![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
+![image](https://github.com/user-attachments/assets/6e4b6697-8a43-4bb9-8d40-464e966d44ef)
+![image](https://github.com/user-attachments/assets/2659a1a2-1cc5-49f1-a0ed-ef0b46f618d5)
+
+**Backend de la Aplicación Web:**
+Como primer paso, ingresamos a [https://portal.azure.com/#home](portal.azure.com/#home). 
+
+1. Creamos una máquina virtual en Azure.
+
+2. Creamos un Dockerfile.
+
+3. Se crea la imagen base del API con Java incluido.
+
+4. Se exporta la imagen.
+
+5. Se carga el archivo al servidor.
+
+6. Creamos el contenedor de la Base de Datos con MySQL en el servidor con Docker y asignamos la red creada al contenedor.
+
+7. Después de la creación de la Base de Datos se crea una nueva red virtual para los contenedores.
+
+8. Importamos la imagen del API.
+
+9. Creamos un nuevo contenedor con la imagen importada.
+
+10. Asignamos la red creada al contenedor.
+
+11. Se comprueba la funcionalidad de ambas instancias.
+
+<div id='5.2.4.8.'><h5> 5.2.4.8.	Team Colaboration Insights during Sprint</h5></div>
 
 <div id='5.3.'><h3> 5.3.	Validation Interviews.</h3></div>
 
