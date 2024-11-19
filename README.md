@@ -3831,22 +3831,31 @@ Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera m
 
 <div id='5.2.4.5.'><h5> 5.2.4.5.	Execution Evidence for Sprint Review</h5></div>
 
-Para este entregable, logramos desarrollar la versión final de nuestra Landing Page, además de el Frontend y Backend de nuestra Aplicación Web.
+Para este entregable, logramos desarrollar la versión final de nuestra Landing Page, y la versión final del Backend de nuestra Aplicación Web.
 
 Muestra de la versión final de la Landing Page: 
 
 - Se agregó la sección "About Us".
 ![image](https://github.com/user-attachments/assets/a27418f0-bd85-4653-a5b8-095c1d0e2926)
 
-
 - Se movieron los videos de "About the Product" y "About the Team" a la sección de "About Us".
 ![image](https://github.com/user-attachments/assets/fc4d7357-41f5-486d-bd99-2d5236a54e59)
 ![image](https://github.com/user-attachments/assets/1a36b67b-f08a-4b65-b9b2-4d069d0eed0c)
 
+Sobre la versión final del Backend de la Aplicación Web:
+- Se realizaron correcciones para los endpoints de drivers y vehicles.
+![image](https://github.com/user-attachments/assets/fd5e96fa-a39a-4353-ade8-be5172f3e55b)
+![image](https://github.com/user-attachments/assets/dda08961-d394-4a74-a983-e37714ab03cb)
 
-Muestra de la versión final del Frontend de la Aplicación Web:
+- Se agregó el endpoint de trips.
+![image](https://github.com/user-attachments/assets/4b5c8f91-e9d2-4a3e-a02f-c05e472f8ebd)
 
-Muestra de la versión final del Backend de la Aplicación Web:
+Sobre la versión final del Frontend de la Aplicación Web:
+- Se desplegó nuevamente el Frontend de nuestra Aplicacion Web usando Netlify.
+![image](https://github.com/user-attachments/assets/505eee79-f3ea-40fe-9de4-5638aa2fb737)
+![image](https://github.com/user-attachments/assets/ae718ebb-baae-486c-9f57-73bfe3cf866d)
+
+
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
