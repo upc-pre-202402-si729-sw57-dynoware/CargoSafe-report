@@ -3152,7 +3152,7 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 - Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
 
-- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
+- Link del Frontend Aplicación Web: [https://cargosafewebapp.netlify.app/](https://cargosafewebapp.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
 ![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
@@ -3653,7 +3653,7 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 - Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
 
-- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
+- Link del Frontend de la Aplicación Web: [https://cargosafewebapp.netlify.app/](https://cargosafewebapp.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
 ![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
@@ -3686,6 +3686,8 @@ Como penúlimo paso agregamos el puerto 8080.
 
 Finalmente confirmamos que el despliegue se ha realizado correctamente.
 ![image](https://github.com/user-attachments/assets/aec6f4a6-81ee-4ddc-a118-534a2a24b433)
+
+- Link del Backend de la Aplicación Web: [http://4.201.139.165:8080/swagger-ui/index.html](http://4.201.139.165:8080/swagger-ui/index.html)
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
 
@@ -3953,7 +3955,7 @@ El proceso de despliegue se alinea con los procedimientos previamente establecid
 - Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
 - ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
 
-- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
+- Link del Frontend Aplicación Web: [https://cargosafewebapp.netlify.app/](https://cargosafewebapp.netlify.app/)
 
 ![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
 ![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
@@ -4006,6 +4008,8 @@ Y la verificamos.
 
 12. Se comprueba la funcionalidad de ambas instancias.
 ![image](https://github.com/user-attachments/assets/a052c05f-31f6-43ec-bf5f-15efae1e9425)
+
+- Link del Backend de la Aplicación Web: [http://4.201.139.165:8080/swagger-ui/index.html](http://4.201.139.165:8080/swagger-ui/index.html)
 
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.	Team Colaboration Insights during Sprint</h5></div>
@@ -4417,6 +4421,8 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 <div id='8.'><h2> 8.	Anexos.</h2></div>
 
 - **Link de Landing Page:** [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+- **Link de la Aplicación Web:** [https://cargosafewebapp.netlify.app/](https://cargosafewebapp.netlify.app/)
+- **Link del Backend de la Aplicación Web:** [http://4.201.139.165:8080/swagger-ui/index.html#](http://4.201.139.165:8080/swagger-ui/index.html#)
 - **Link del repositorio:** [https://github.com/upc-pre-202402-si729-sw57-dynoware](https://github.com/upc-pre-202402-si729-sw57-dynoware)
 - **Link del del video de exposición del TB1:** [https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c](https://upcedupe-my.sharepoint.com/personal/u202215313_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202215313_upc_edu_pe%2FDocuments%2Fupc-pre-202402-%20dynoware-%20si729-SW57-keynote-tb1.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.81e798b9-cb38-454a-9431-ebb4b6aef01c)
 - **Link del video de exposición del TP1:** [https://shorturl.at/JsKN8](https://shorturl.at/JsKN8)
