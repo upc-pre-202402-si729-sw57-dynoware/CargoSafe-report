@@ -4541,17 +4541,25 @@ Agrandar los títulos.
 
 <div id='5.4.'><h3> 5.4.	Video About-the-Product.</h3></div>
 
+En esta sección, introducimos y describimos el contenido del Video About-the-Product, el cual está dirigido a los visitantes de la Landing Page que desean conocer un poco más acerca de CargoSafe.
+
+El video presenta tanto la Landing Page como la aplicación web de CargoSage, permitiendo a los usuarios apreciar sus funcionalidades. El tono utilizado en el video es consistente con el tono adoptado para el producto, asegurando una comunicación coherente y efectiva.
+
+Incluimos un testimonio positivo de un usuario por cada segmento objetivo que participó en las entrevistas de validación, destacando la satisfacción y los beneficios experimentados al utilizar la plataforma.
+Link del video en Microsoft Stream: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221c362_upc_edu_pe/EeD22M5j401Ktz2JreIfq9UB1rsJPWQLxAIoGOtSh_q4YA?e=G8TOlO> 
+Link del video en YouTube: <https://www.youtube.com/watch?v=1Nk28k2SUE4>  
+Duración del video: 2:13
+
 <div id='6.'><h2>Conclusiones</h2></div>
 
 <div align=justify>
-En conclusión, CargoSafe ha dado pasos firmes en su planificación para ser considerado un producto innovador y funcional. A través de un riguroso análisis de mercado y exploración de ciertas necesidades identificadas dentro de nuestro entorno, hemos construido una base informada y estratégica que guía nuestro desarrollo. Nos enfocamos en comprender a fondo los desafíos que enfrentan nuestros usuarios desde 2 perspectivas, con los transportistas contemplando las largas esperas por conseguir carga mientras que los empresarios no contando con transportes confiables y seguros. Esta propuesta no solo apunta a la eficiencia, sino también a una experiencia de uso intuitiva, que permita a los usuarios integrar la aplicación de manera práctica en su vida diaria.
+En conclusión, CargoSafe ha alcanzado un hito importante con la finalización del desarrollo tanto del frontend como del backend. Desde el inicio, la planificación estratégica y un riguroso análisis de mercado nos permitieron identificar necesidades clave dentro del entorno logístico. Nos enfocamos en resolver desafíos críticos desde dos perspectivas: las largas esperas de los transportistas para conseguir carga y la dificultad de los empresarios para encontrar transportes confiables y seguros. 
 
-Con la idea de dar a conocer nuestra aplicación se realizó la construcción del landing page, con el cual, consolidamos una comprensión más profunda del problema y una solución claramente enfocada. Su implementación fue más allá de cubrir las necesidades del usuario, sino también buscar elevar su experiencia con una interfaz sencilla y navegación optimizada siguiendo los lineamiento del diseño UX/UI. El progreso refleja nuestro compromiso con la innovación, lo que nos permite enfrentar al adversidades en el futuro del proyecto con más confianza.
+El desarrollo del frontend se llevó a cabo utilizando el framework Angular, integrando Angular Material para maximizar la adaptabilidad, el diseño responsivo y la funcionalidad. El resultado es una interfaz atractiva, operativa y optimizada para una experiencia de usuario intuitiva que supera expectativas, atendiendo tanto a transportistas como a empresarios. 
 
-Mediante el desarrollo del frontend, hemos aplicado nuestros conocimientos en el framework Angular para crear una aplicación web adaptable y completamente responsive, maximizando el potencial de diseño, a través del uso de angular material, y funcionalidad. Esta plataforma está concebida para brindar una interfaz atractiva y operativa, orientada a satisfacer las necesidades de nuestros dos segmentos objetivos: empresarios y transportistas. Aseguramos una navegación intuitiva y accesible en todas las funcionalidades, lo cual se traduce en una solución que no solo cumple con altos estándares técnicos y estéticos, sino que también enriquece la experiencia de ambos tipos de usuarios, superando sus expectativas.
+En cuanto al backend, la planificación previa resultó esencial para diseñar una arquitectura robusta, asegurando la creación de endpoints eficientes y alineados con las necesidades funcionales del sistema. Esta base técnica sólida respalda nuestra visión de ofrecer un producto innovador, escalable y preparado para los retos futuros. 
 
-Por ahora, el desarrollo del backend va en progreso pero consideramos que la nuestra planificación permitió tener una mejor estrategia a la hora de construir los endpoints.
-
+El progreso en ambas áreas refleja nuestro compromiso con la excelencia técnica, la innovación y la mejora continua, consolidando a CargoSafe como una solución tecnológica de vanguardia en el sector logístico.
 </div>
 
 <div id='7.'><h2>Bibliografía</h2></div>
