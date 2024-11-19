@@ -3861,6 +3861,38 @@ Sobre la versión final del Frontend de la Aplicación Web:
 
 <div id='5.2.4.6.'><h5> 5.2.4.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
+Para este sprint, hemos utilizado el API que desarrollamos con Java y Spring Boot. A continuación, se detallan los endpoints que nuestro equipo creó y corrigió, documentados en Swagger.
+Se realizaron correcciones para los endpoints de Drivers y Vehicles y se creó el endpoint de Trips.
+
+<table>
+	<tbody>
+		<tr>
+			<td>Bounded Context</td>
+			<td colspan="2">Trip</td>
+		</tr>
+		<tr>
+			<td>Entity</td>
+			<td>Endpoint URL</td>
+			<td>Swagger</td>
+		</tr>
+		<tr>
+			<td>Drivers</td>
+			<td>api/v1/drivers</td>
+			<td><img src="https://github.com/user-attachments/assets/d8178234-985f-4417-8052-223d87724639" alt="image"></td>
+		</tr>
+    <tr>
+			<td>Vehicles</td>
+			<td>api/v1/vehicles</td>
+			<td><img src="https://github.com/user-attachments/assets/6b7b69dc-4363-46e1-9252-f3c64270c76f" alt="image"></td>
+		</tr>
+		    <tr>
+			<td>Trips</td>
+			<td>api/v1/trips</td>
+			<td><img src="https://github.com/user-attachments/assets/d1416ff3-af80-4018-b6f6-9e6b46fd5f8f" alt="image"></td>
+		</tr>
+	</tbody>
+</table>
+
 <div id='5.2.4.7.'><h5> 5.2.4.7.	Software Deployment Evidence for Sprint Review</h5></div>
 
 Para esta entrega hemos realizado el despliegue, tanto de la Landing Page, como del Frontend y Backend de la Aplicación Web.
