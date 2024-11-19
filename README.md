@@ -3285,7 +3285,7 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 		</tr>
 		<tr>
 			<td><b>Attendees (to planning meeting)</b></td>
-			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>Quiroz Zambrano, Fabrizio Javier<br>Silva Morales, Renzo Cesar</td>
+			<td style="text-align: center;">Ramos Argüelles, Alexandra Belen<br>Cortez Flores, Ely Rivaldo<br>Boronda Heidinger, Astrid Jimena<br>León Rioja, Carlos Andrés<br>Silva Morales, Renzo Cesar</td>
 		</tr>
 		<tr>
 			<td><b>Sprint 2 Review Summary</b></td>
