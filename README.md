@@ -3309,7 +3309,9 @@ En las imágenes que se presentarán a continuación mostrarán los gráficos de
 		</tr>
 		<tr>
 			<td><b>Sprint 3 Goal</b></td>
-			<td style="text-align: justify;"><b>Nuestro enfoque está en</b> desarrollar la primera versión de la aplicación realizando componentes para las vistas de los clientes y transportistas. <b>Creemos que esto</b> proporcionará una experiencia satisfactoria para el usuario. <b>Esto se confirmará cuando</b> los usuarios puedan acceder a las secciones de la aplicación sin ningún inconveniente.</td>
+			<td style="text-align: justify;">Nuestro enfoque esta en incrementar el conocimiento de nuestra plataforma entre los visitantes a través de demostraciones efectivas del producto y del equipo. Creemos que esto logrará que los usuarios comprendan los beneficios de la aplicación CargoSafe. Esto se confirmará cuando observemos un mayor interés de los visitantes en descargar la aplicación.<br>Nuestro enfoque está en mejorar la eficiencia y satisfacción de nuestros usuarios en la plataforma CargoSafe.
+Creemos que esto permitirá una gestión más ágil y personalizada de sus envíos.
+Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera más rápida y precisa, utilizando las nuevas funcionalidades de la aplicación.<br>Nuestro enfoque está en mejorar la facilidad de comunicación y transporte de nuestro usuarios en la plataforma CargoSafe. Creemos que esto permitirá optimizar la coordinación entre transportistas y empresarios. Esto se confirmará cuando observemos un aumento en la velocidad de las entregas y una mayor satisfacción de los usuarios.<br>Nuestro enfoque está en centralizar la lógica de negocio y facilitar la gestión de la base de datos. Creemos que esto permitirá que los desarrolladores implementen los endpoints necesarios para garantizar un manejo de datos óptimo. Esto se confirmará cuando se puedan hacer solicitudes para obtener o enviar los datos.  </td>
 		</tr>
 		<tr>
 			<td><b>Sprint 3 Velocity</b></td>
@@ -3454,10 +3456,34 @@ En esta sección, se presentarán los avances y mejoras realizadas con respecto 
 
 <div id='5.2.3.4.'><h5> 5.2.3.4.	Testing Suite Evidence for Sprint Review</h5></div>
 
-Para este sprint, logramos desarrollar el fronted de la aplicación web por lo que se han realizando algunas pruebas de aceptación con respecto al alcance:
+Para este sprint, logramos desarrollar el fronted y un porcentaje de backend de la aplicación web por lo que se han realizando algunas pruebas de aceptación con respecto al alcance:
 [https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests](https://github.com/upc-pre-202402-si729-sw57-dynoware/CargoSafe-Acceptance-Tests)
 
 ![image](https://github.com/user-attachments/assets/ec6a9262-5ac9-42f3-9c00-00fea788e675)
+
+
+|**Repository**|**Branch**|**Commit ID**|**Commit Message**|**Commit Message (Body)**|**Commited on (Date)**|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|CargoSafe-Acceptance-Tests|main|5eaa6ca656156b19991b5e3526dfef672ea86976|chore: add AT25.feature file||08/09/2024|
+|CargoSafe-Acceptance-Tests|main|6ab6048d043bd9fe92d5b61d006cfd604c2aa887|feat: update AT25.feature||17/11/2024|
+|CargoSafe-Acceptance-Tests|main|b4fb5837239d211b3527b56aa8c55365e53d9e90|chore: add AT27.feature file||17/11/2024|
+|CargoSafe-Acceptance-Tests|main|e12ef08697cb9f1101d01a28ea88c7e367598dd6|chore: add AT28.feature file||17/11/2024|
+|CargoSafe-Acceptance-Tests|main|72e84d49b7bf1bba5c3b9db06e5bc12651c90005|chore: add AT29.feature file||17/11/2024|
+
+
+<div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
+
+Para este entregable, logramos desarrollar exitosamente el Backend de nuestra aplicación web. Esta implementación se realizó gracias a Spring Boot Framework y Java language. Además, se tuvo presente el uso de Domain-Drive Design.
+
+Muestra de los endpoints en Swagger:
+
+![image](assets/chapter-5/execution01.jpg)
+
+![image](assets/chapter-5/execution02.jpg)
+
+![image](assets/chapter-5/execution03.jpg)
+
+![image](assets/chapter-5/execution04.jpg)
 
 la API de nuestra aplicación utilizando Java en Sprint Boot
 
@@ -3473,20 +3499,6 @@ la API de nuestra aplicación utilizando Java en Sprint Boot
 
 - Streams: [https://shorturl.at/hE7Hu](https://shorturl.at/hE7Hu)
 - Youtube: [https://youtu.be/1Nk28k2SUE4](https://youtu.be/1Nk28k2SUE4)
-
-<div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
-
-Para este entregable, logramos desarrollar exitosamente el Backend de nuestra aplicación web. Esta implementación se realizó gracias a Spring Boot Framework y Java language. Además, se tuvo presente el uso de Domain-Drive Design.
-
-Muestra de los endpoints en Swagger:
-
-![image](assets/chapter-5/execution01.jpg)
-
-![image](assets/chapter-5/execution02.jpg)
-
-![image](assets/chapter-5/execution03.jpg)
-
-![image](assets/chapter-5/execution04.jpg)
 
 <div id='5.2.3.6.'><h5> 5.2.3.6.	Services Documentation Evidence for Sprint Review</h5></div>
 
