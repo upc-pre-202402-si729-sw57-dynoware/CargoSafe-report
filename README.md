@@ -3563,8 +3563,167 @@ Para este sprint, hemos utilizado la API que desarrollamos con Java y Spring Boo
 </table>
 
 <div id='5.2.3.7.'><h5> 5.2.3.7.	Software Deployment Evidence for Sprint Review</h5></div>
+Para esta entrega hemos realizado tanto el despliegue tante de la Landing Page como del Frontend y Backend de la aplicación web.
+
+**Landing Page:**
+Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue necesario crear una cuenta e iniciar sesión en esta plataforma. Antes de desplegar la rama "main", llevamos a cabo varias pruebas en la rama "develop" para garantizar que no hubiera inconvenientes.
+
+**Pasos para este Sprint:**
+
+1. Ingresar a [https://www.netlify.com/](https://www.netlify.com/) e iniciar sesión.
+
+<div align=center>
+    <img src="./assets/chapter-5/LogIn-Netlify.png" width=350px >
+</div>
+
+2. Al ingresar, hacer click en el botón de "Add new site".
+
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+3. Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+4. Ahora nos pedirá elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+5. Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+6. Seleccionamos el repositorio que contiene a nuestra Landing Page
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Repository.png" width=350px >
+</div>
+
+7. Por último, indicamos el nombre con el que se desplegará la landing page y la rama para el deploy (main). Finalmente le damos click a "Deploy cargosafe-en".
+
+<div align=center>
+    <img src="./assets/chapter-5/Configuration-CargoSafe.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Branch-To-Deploy.png" width=350px >
+</div>
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
+</div>
+
+
+**Frontend de la aplicación web:**
+
+El proceso de despliegue se alinea con los procedimientos previamente establecidos, garantizando una integración sin contratiempos dentro del flujo de trabajo. Esto permite que las mejoras y actualizaciones se reflejen de manera inmediata en la aplicación, proporcionando así una experiencia optimizada para los usuarios finales.
+
+Ingresar a Netlify, hacer click en el botón de "Add new site".
+
+<div align=center>
+    <img src="./assets/chapter-5/Add-New-Site.png" width=350px >
+</div>
+
+Luego de haber seleccionado esa opción, nos dirgimos a la sección de "Import an existing project".
+
+<div align=center>
+    <img src="./assets/chapter-5/Import-An-Existing-Repository.png" width=400px >
+</div>
+
+Ahora procedemos a elegir nuestro proveedor de Git. Para este trabajo el equipo ha manejado GitHub, por lo que seleccionaremos "Deploy with GitHub".
+
+<div align=center>
+    <img src="./assets/chapter-5/Deploy-Your-Project-With.png" width=350px >
+</div>
+
+Netlify pedirá permisos en GitHub. Luego seleccionaremos la organización donde queremos instalar Netlify y qué repositorio queremos vincular.
+
+<div align=center>
+    <img src="./assets/chapter-5/Select-Your-Organization.png" width=350px >
+</div>
+
+Después de seleccionar nuestra organización, ingresamos al repositorio del frontend de la aplicación web.
+
+![image](https://github.com/user-attachments/assets/a3583504-2bef-4bbb-8431-395a8423074a)
+
+- Link de la Landing Page: [https://cargosafe-en.netlify.app/](https://cargosafe-en.netlify.app/)
+- ![Imagen de WhatsApp 2024-09-28 a las 11 31 01_491d856b](https://github.com/user-attachments/assets/c6973454-9de3-4c5c-93e1-40befd5127e6)
+
+- Link del Frontend Aplicación Web: [https://main--cargosafefront.netlify.app/](https://main--cargosafefront.netlify.app/)
+
+![image](https://github.com/user-attachments/assets/0f8039d0-414a-46e2-963a-827d0a370541)
+![image](https://github.com/user-attachments/assets/d919f1e5-de28-42c2-8f8b-753d21dc186e)
+![image](https://github.com/user-attachments/assets/6e4b6697-8a43-4bb9-8d40-464e966d44ef)
+![image](https://github.com/user-attachments/assets/2659a1a2-1cc5-49f1-a0ed-ef0b46f618d5)
+
+
+**Backend de la aplicación web:**
+
+
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
+
+El equipo desarrolló el porcentaje de Frontend restante de la aplicación por ramas para optimizar el mantenimiento y la colaboración durante este sprint. Además, se trabajó la primera versión del Backend de la aplicación.
+
+Acontinuación se presentarán las tareas asignadas a cada integrante del quipo, así como el insight del equipo a tráves de la plataforma GitHub:
+
+
+|**Alumno**|**Actividad**|
+| :-: | :-: |
+|Boronda Heidinger, Astrid Jimena|Implementar la funcionalidad de cerrar sesión, implementar el endpoint para mostrar la información de los gastos del viaje e implementar el endpoint para mostrar la información de una alerta en relación al viaje.|
+|Cortez Flores, Ely Rivaldo|Visualizar gastos por solicitud, relacionar el gasto calculado con el viaje a solicitar, desarrollar un formulario de registro de cuenta y se almacene correctamente, e Implementar la sección Product and About the Team.|
+|Ramos Argüelles, Alexandra Belen|Desarrollar un formulario de inicio de sesión e implementar la autenticación de usuarios, diseñar un formulario para la recuperación de contraseña, implementar el endpoint para gestionar la información de los vehículos e implementar el endpoint para gestionar la información de los conductores.|
+|León Rioja, Carlos Andrés|IImplementar un sistema de almacenamiento para rutas registradas, implementar y mostrar una lista de transportistas para seleccionar, implementar el endpoint para gestionar la información de las empresas e implementar el endpoint para gestionar la información de los pagos realizados para el viaje.|
+|Silva Morales, Renzo Cesar|Implementar el endpoint para gestionar la información de los viajes en curso, diseñar una interfaz de usuario para el seguimiento de cargasimplementar el endpoint para gestionar la información de las evidencias.|
+
+
+|**Username (GitHub)**|**Nombre**|
+| :-: | :-: |
+|AstridBH|Boronda Heidinger, Astrid Jimena|
+|rivacortez|Cortez Flores, Ely Rivaldo|
+|AleRamosA|Ramos Argüelles, Alexandra Belen|
+|rrenzosilva|Silva Morales, Renzo Cesar|
+|Sr-Anonymus-maker|León Rioja, Carlos Andrés|
+
+
+
+Hemos desarrollado en conjunto un total de 6 commits para el desarrollo de la Landing Page, 66 commits para el desarrollo del Frontend de la aplicación web y 85 commits para el desarrollo del Backend de la aplicación.
+
+En las imágenes que se presentarán a continuación mostrarán los gráficos de insights durante el sprint:
+
+Flujo de trabajo entre ramas:
+**- Landing Page:**
+![image](https://github.com/user-attachments/assets/ba8852e2-a9b6-4653-a1cc-6063374a599b)
+
+
+**- Frontend:**
+![image](https://github.com/user-attachments/assets/9719eeb3-ac48-4fce-8c2e-8fb301d3ee4a)
+
+**- Backend:**
+![image](https://github.com/user-attachments/assets/c7d1679c-6f50-4f7a-8e75-27ce0518abbe)
+
+
+
+**Commits en el período de un mes**
+
+**- Landing Page:**
+![image](https://github.com/user-attachments/assets/4a93a997-ad28-4cb0-be96-e2b895ee72ca)
+
+
+**- Frontend:**
+![image](https://github.com/user-attachments/assets/8a02872c-2ecc-4b68-a763-b66a58b15743)
+
+**- Backend:**
+![image](https://github.com/user-attachments/assets/39836b00-26e3-434d-b660-f962ed7e80e7)
+
+
 
 <div id='5.2.4.'><h4> 5.2.4.	Sprint 4</h4></div>
 
