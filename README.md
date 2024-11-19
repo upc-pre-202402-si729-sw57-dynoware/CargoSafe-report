@@ -3461,15 +3461,13 @@ Para este sprint, logramos desarrollar el fronted y un porcentaje de backend de 
 
 ![image](https://github.com/user-attachments/assets/ec6a9262-5ac9-42f3-9c00-00fea788e675)
 
-
-|**Repository**|**Branch**|**Commit ID**|**Commit Message**|**Commit Message (Body)**|**Commited on (Date)**|
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|CargoSafe-Acceptance-Tests|main|5eaa6ca656156b19991b5e3526dfef672ea86976|chore: add AT25.feature file||08/09/2024|
-|CargoSafe-Acceptance-Tests|main|6ab6048d043bd9fe92d5b61d006cfd604c2aa887|feat: update AT25.feature||17/11/2024|
-|CargoSafe-Acceptance-Tests|main|b4fb5837239d211b3527b56aa8c55365e53d9e90|chore: add AT27.feature file||17/11/2024|
-|CargoSafe-Acceptance-Tests|main|e12ef08697cb9f1101d01a28ea88c7e367598dd6|chore: add AT28.feature file||17/11/2024|
-|CargoSafe-Acceptance-Tests|main|72e84d49b7bf1bba5c3b9db06e5bc12651c90005|chore: add AT29.feature file||17/11/2024|
-
+|       **Repository**       | **Branch** |              **Commit ID**               |      **Commit Message**      | **Commit Message (Body)** | **Commited on (Date)** |
+| :------------------------: | :--------: | :--------------------------------------: | :--------------------------: | :-----------------------: | :--------------------: |
+| CargoSafe-Acceptance-Tests |    main    | 5eaa6ca656156b19991b5e3526dfef672ea86976 | chore: add AT25.feature file |                           |       08/09/2024       |
+| CargoSafe-Acceptance-Tests |    main    | 6ab6048d043bd9fe92d5b61d006cfd604c2aa887 |  feat: update AT25.feature   |                           |       17/11/2024       |
+| CargoSafe-Acceptance-Tests |    main    | b4fb5837239d211b3527b56aa8c55365e53d9e90 | chore: add AT27.feature file |                           |       17/11/2024       |
+| CargoSafe-Acceptance-Tests |    main    | e12ef08697cb9f1101d01a28ea88c7e367598dd6 | chore: add AT28.feature file |                           |       17/11/2024       |
+| CargoSafe-Acceptance-Tests |    main    | 72e84d49b7bf1bba5c3b9db06e5bc12651c90005 | chore: add AT29.feature file |                           |       17/11/2024       |
 
 <div id='5.2.3.5.'><h5> 5.2.3.5.	Execution Evidence for Sprint Review</h5></div>
 
@@ -3620,7 +3618,6 @@ Hemos utilizado Netlify como plataforma para el despliegue. Para esto, fue neces
     <img src="./assets/chapter-5/Deploy-CargoSafe.png" width=350px >
 </div>
 
-
 **Frontend de la aplicación web:**
 
 El proceso de despliegue se alinea con los procedimientos previamente establecidos, garantizando una integración sin contratiempos dentro del flujo de trabajo. Esto permite que las mejoras y actualizaciones se reflejen de manera inmediata en la aplicación, proporcionando así una experiencia optimizada para los usuarios finales.
@@ -3663,7 +3660,6 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 ![image](https://github.com/user-attachments/assets/6e4b6697-8a43-4bb9-8d40-464e966d44ef)
 ![image](https://github.com/user-attachments/assets/2659a1a2-1cc5-49f1-a0ed-ef0b46f618d5)
 
-
 **Backend de la aplicación web:**
 Como primer paso, ingresamos a [railway.com](railway.com), inciamos sesión para luego dirigirnos a start a new project.
 
@@ -3682,7 +3678,7 @@ Como paso siguiente añadiremos el repositorio de la organización en GitHub de 
 Luego, se agregan las variables de referencia:
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 22_f40c84bb](https://github.com/user-attachments/assets/711910d0-004b-45c7-81cb-8e8657e62670)
 
-En Settings seleccionamos la rama de "feature/deployment". 
+En Settings seleccionamos la rama de "feature/deployment".
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 23_8f042e15](https://github.com/user-attachments/assets/cbe1ff7a-5965-4d51-96ae-8d39d9a798f1)
 
 Como penúlimo paso agregamos el puerto 8080.
@@ -3691,32 +3687,27 @@ Como penúlimo paso agregamos el puerto 8080.
 Finalmente confirmamos que el despliegue se ha realizado correctamente.
 ![image](https://github.com/user-attachments/assets/aec6f4a6-81ee-4ddc-a118-534a2a24b433)
 
-
 <div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
 
 El equipo desarrolló el porcentaje de Frontend restante de la aplicación por ramas para optimizar el mantenimiento y la colaboración durante este sprint. Además, se trabajó la primera versión del Backend de la aplicación.
 
 Acontinuación se presentarán las tareas asignadas a cada integrante del quipo, así como el insight del equipo a tráves de la plataforma GitHub:
 
+|            **Alumno**            |                                                                                                                                               **Actividad**                                                                                                                                                |
+| :------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Boronda Heidinger, Astrid Jimena |                                            Implementar la funcionalidad de cerrar sesión, implementar el endpoint para mostrar la información de los gastos del viaje e implementar el endpoint para mostrar la información de una alerta en relación al viaje.                                            |
+|    Cortez Flores, Ely Rivaldo    |                                         Visualizar gastos por solicitud, relacionar el gasto calculado con el viaje a solicitar, desarrollar un formulario de registro de cuenta y se almacene correctamente, e Implementar la sección Product and About the Team.                                         |
+| Ramos Argüelles, Alexandra Belen |   Desarrollar un formulario de inicio de sesión e implementar la autenticación de usuarios, diseñar un formulario para la recuperación de contraseña, implementar el endpoint para gestionar la información de los vehículos e implementar el endpoint para gestionar la información de los conductores.   |
+|    León Rioja, Carlos Andrés     | IImplementar un sistema de almacenamiento para rutas registradas, implementar y mostrar una lista de transportistas para seleccionar, implementar el endpoint para gestionar la información de las empresas e implementar el endpoint para gestionar la información de los pagos realizados para el viaje. |
+|    Silva Morales, Renzo Cesar    |                                            Implementar el endpoint para gestionar la información de los viajes en curso, diseñar una interfaz de usuario para el seguimiento de cargasimplementar el endpoint para gestionar la información de las evidencias.                                             |
 
-|**Alumno**|**Actividad**|
-| :-: | :-: |
-|Boronda Heidinger, Astrid Jimena|Implementar la funcionalidad de cerrar sesión, implementar el endpoint para mostrar la información de los gastos del viaje e implementar el endpoint para mostrar la información de una alerta en relación al viaje.|
-|Cortez Flores, Ely Rivaldo|Visualizar gastos por solicitud, relacionar el gasto calculado con el viaje a solicitar, desarrollar un formulario de registro de cuenta y se almacene correctamente, e Implementar la sección Product and About the Team.|
-|Ramos Argüelles, Alexandra Belen|Desarrollar un formulario de inicio de sesión e implementar la autenticación de usuarios, diseñar un formulario para la recuperación de contraseña, implementar el endpoint para gestionar la información de los vehículos e implementar el endpoint para gestionar la información de los conductores.|
-|León Rioja, Carlos Andrés|IImplementar un sistema de almacenamiento para rutas registradas, implementar y mostrar una lista de transportistas para seleccionar, implementar el endpoint para gestionar la información de las empresas e implementar el endpoint para gestionar la información de los pagos realizados para el viaje.|
-|Silva Morales, Renzo Cesar|Implementar el endpoint para gestionar la información de los viajes en curso, diseñar una interfaz de usuario para el seguimiento de cargasimplementar el endpoint para gestionar la información de las evidencias.|
-
-
-|**Username (GitHub)**|**Nombre**|
-| :-: | :-: |
-|AstridBH|Boronda Heidinger, Astrid Jimena|
-|rivacortez|Cortez Flores, Ely Rivaldo|
-|AleRamosA|Ramos Argüelles, Alexandra Belen|
-|rrenzosilva|Silva Morales, Renzo Cesar|
-|Sr-Anonymus-maker|León Rioja, Carlos Andrés|
-
-
+| **Username (GitHub)** |            **Nombre**            |
+| :-------------------: | :------------------------------: |
+|       AstridBH        | Boronda Heidinger, Astrid Jimena |
+|      rivacortez       |    Cortez Flores, Ely Rivaldo    |
+|       AleRamosA       | Ramos Argüelles, Alexandra Belen |
+|      rrenzosilva      |    Silva Morales, Renzo Cesar    |
+|   Sr-Anonymus-maker   |    León Rioja, Carlos Andrés     |
 
 Hemos desarrollado en conjunto un total de 6 commits para el desarrollo de la Landing Page, 66 commits para el desarrollo del Frontend de la aplicación web y 85 commits para el desarrollo del Backend de la aplicación.
 
@@ -3726,28 +3717,22 @@ Flujo de trabajo entre ramas:
 **- Landing Page:**
 ![image](https://github.com/user-attachments/assets/ba8852e2-a9b6-4653-a1cc-6063374a599b)
 
-
 **- Frontend:**
 ![image](https://github.com/user-attachments/assets/9719eeb3-ac48-4fce-8c2e-8fb301d3ee4a)
 
 **- Backend:**
 ![image](https://github.com/user-attachments/assets/c7d1679c-6f50-4f7a-8e75-27ce0518abbe)
 
-
-
 **Commits en el período de un mes**
 
 **- Landing Page:**
 ![image](https://github.com/user-attachments/assets/4a93a997-ad28-4cb0-be96-e2b895ee72ca)
-
 
 **- Frontend:**
 ![image](https://github.com/user-attachments/assets/8a02872c-2ecc-4b68-a763-b66a58b15743)
 
 **- Backend:**
 ![image](https://github.com/user-attachments/assets/39836b00-26e3-434d-b660-f962ed7e80e7)
-
-
 
 <div id='5.2.4.'><h4> 5.2.4.	Sprint 4</h4></div>
 
@@ -3823,6 +3808,22 @@ Esto se confirmará cuando los usuarios puedan gestionar sus envíos de manera m
 </table>
 
 <div id='5.2.4.2.'><h5> 5.2.4.2.	Sprint Backlog 4 </h5></div>
+
+![image](assets/chapter-5/TrelloSprintBacklog4.png)
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top"><b>Sprint 4</b></th></tr>
+<tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top"><b>Work-item / Task</b></td></tr>
+<tr><td>ID</td><td>Title</td><td>Id</td><td>Title</td><td>Description</td><td>Estimation(hours)</td><td>Assigned To</td><td>Status (To-do/in-Process/To-Review/Done)</td></tr>
+<tr><td>E5-US31</td><td>Gestionar usuarios</td><td>T1</td><td>Desarrollo de un API endpoint perteneciente a los usuarios</td><td valign="top"><p></p><p>Implementar el endpoint para gestionar a los usuarios</p></td><td>5h</td><td>Ely Cortez</td><td>Done</td></tr>
+<tr><td>E5-US30</td><td>Gestionar roles</td><td>T2</td><td>Determinar permisos específicos en los roles</td><td valign="top">Implementar permisos específicos para cada rol</td><td>5h</td><td>Ely Cortez</td><td>Done</td></tr>
+<tr><td>E4-US26</td><td>Autenticación del transportista</td><td>T3</td><td>Verificación de identidad</td><td valign="top">Desarrollar un proceso de verificación de identidad</td><td>4h</td><td>Alexandra Ramos</td><td>Done</td></tr>
+<tr><td>E3-US16</td><td>Confirmación de Recepción de Mercancías</td><td>T4</td><td>Confirmación de la recepción</td><td valign="top"><p>Desarrollar un formulario para la confirmación de la recepción</p></td><td>4h</td><td> Astrid Boronda</td><td>Done</td></tr>
+<tr><td>E3-US15</td><td>Recepción de órdenes de transporte</td><td>T5</td><td><p></p><p>Recepción de ordenes</p></td><td valign="top">Diseñar un formulario de recepción de órdenes</td><td>5h</td><td>Carlos León</td><td>Done</td></tr>
+<tr><td>E5-US29</td><td>Gestionar viajes</td><td>T6</td><td>Desarrollo de un API endpoint perteneciente a los viajes</td><td valign="top"><p> Implementar un endpoint para la gestión de la información de los viajes</p></td><td>5h</td><td>Carlos León</td><td>Done</td></tr>
+<tr><td>E2-US09</td><td>Análisis preventivo</td><td>T7</td><td><p></p><p>Identificación de riesgos</p></td><td valign="top">Desarrollar un sistema para para identificar posibles riesgos de carga</td><td>5h</td><td>Renzo Silva</td><td>Done</td></tr>
+<tr><td>E2-US08</td><td>Seguridad de la carga</td><td>T8</td><td>Implementar sistemas de seguimiento de seguridad</td><td>Desarrollar un sistema de seguimientos seguro y confiable</td><td>4h</td><td>Carlos León</td><td>Done</td></tr></table>
+
+**Link:** [https://trello.com/b/Ypp22jdp/sprint-backlog-4](https://trello.com/b/Ypp22jdp/sprint-backlog-4)
 
 <div id='5.2.4.3.'><h5> 5.2.4.3.  Development Evidence for Sprint Review</h5></div>
 
