@@ -3938,26 +3938,49 @@ El proceso de despliegue se alinea con los procedimientos previamente establecid
 Como primer paso, ingresamos a [https://portal.azure.com/#home](portal.azure.com/#home). 
 
 1. Creamos una máquina virtual en Azure.
+![image](https://github.com/user-attachments/assets/3835133b-7f01-43b1-ac8f-36d4940bdefd)
+Y la verificamos.
+![image](https://github.com/user-attachments/assets/daca2c31-5cf0-4b14-b9a6-4cf3f8317014)
 
-2. Creamos un Dockerfile.
 
-3. Se crea la imagen base del API con Java incluido.
+3. Creamos un Dockerfile.
+![image](https://github.com/user-attachments/assets/e460ab3f-3b1c-4cb8-a038-6e2c626c113e)
 
-4. Se exporta la imagen.
 
-5. Se carga el archivo al servidor.
+4. Se crea la imagen base del API con Java incluido.
+![image](https://github.com/user-attachments/assets/7b992ef0-5b28-47b6-bfa5-57d656134084)
 
-6. Creamos el contenedor de la Base de Datos con MySQL en el servidor con Docker y asignamos la red creada al contenedor.
 
-7. Después de la creación de la Base de Datos se crea una nueva red virtual para los contenedores.
+5. Se exporta la imagen.
+![image](https://github.com/user-attachments/assets/d3c9bd50-1a7a-45ae-b04a-8ac85872d3ed)
 
-8. Importamos la imagen del API.
 
-9. Creamos un nuevo contenedor con la imagen importada.
+6. Se carga el archivo al servidor.
+![image](https://github.com/user-attachments/assets/ff03901e-9928-447a-8579-b4bc61e38546)
 
-10. Asignamos la red creada al contenedor.
 
-11. Se comprueba la funcionalidad de ambas instancias.
+7. Creamos el contenedor de la Base de Datos con MySQL en el servidor con Docker y asignamos la red creada al contenedor.
+![image](https://github.com/user-attachments/assets/10c35bf5-a0ae-48fd-940c-c2f4907209b9)
+
+
+8. Después de la creación de la Base de Datos se crea una nueva red virtual para los contenedores.
+![image](https://github.com/user-attachments/assets/b3cf12e4-a729-490b-bd91-5a89b5d22f2a)
+
+9. Importamos la imagen del API.
+![image](https://github.com/user-attachments/assets/c388401a-f587-44c8-a611-7b429b2497d6)
+
+
+10. Creamos un nuevo contenedor con la imagen importada.
+![image](https://github.com/user-attachments/assets/599006a0-94ff-4406-a648-99ad3a7f44c0)
+
+
+11. Asignamos la red creada al contenedor.
+![image](https://github.com/user-attachments/assets/0d8a546c-21ce-44b5-87bd-709accbfe989)
+
+
+12. Se comprueba la funcionalidad de ambas instancias.
+![image](https://github.com/user-attachments/assets/a052c05f-31f6-43ec-bf5f-15efae1e9425)
+
 
 <div id='5.2.4.8.'><h5> 5.2.4.8.	Team Colaboration Insights during Sprint</h5></div>
 
