@@ -3667,35 +3667,27 @@ Después de seleccionar nuestra organización, ingresamos al repositorio del fro
 **Backend de la aplicación web:**
 Como primer paso, ingresamos a [railway.com](railway.com), inciamos sesión para luego dirigirnos a start a new project.
 
+Seleccionamos "Empty project".
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 17_30e7886a](https://github.com/user-attachments/assets/c19b736e-72e7-412d-9d3f-f678bd0acebc)
 
-![Imagen de WhatsApp 2024-11-19 a las 01 58 17_8d29051a](https://github.com/user-attachments/assets/ace32599-0766-445f-a7d2-44b14b3ed109)
-
+Agregamos una base de datos:
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 17_b339f4ff](https://github.com/user-attachments/assets/523c66bf-5cb2-4e7a-acf1-7dbb908d42a2)
 
-![Imagen de WhatsApp 2024-11-19 a las 01 58 17_6678a792](https://github.com/user-attachments/assets/ac01842f-d933-412b-a583-162ee33cf4e4)
-
+Luego seleccionamos la opción "Add MySQL"
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 18_80a998fc](https://github.com/user-attachments/assets/be1faa30-98c2-429e-b398-0771b0b507c3)
 
-![Imagen de WhatsApp 2024-11-19 a las 01 58 18_f0495f07](https://github.com/user-attachments/assets/9fb91028-3707-45bb-8f50-36b60ebf4f79)
-
+Como paso siguiente añadiremos el repositorio de la organización en GitHub de nuestro Backend.
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 18_a9b1d191](https://github.com/user-attachments/assets/a3083906-b1e1-42cd-acf8-5242d2837976)
 
-![Imagen de WhatsApp 2024-11-19 a las 01 58 20_da040ae3](https://github.com/user-attachments/assets/021101b7-d0b3-401c-a9ba-c31bb0d9117c)
-
-![Imagen de WhatsApp 2024-11-19 a las 01 58 21_9da6dade](https://github.com/user-attachments/assets/972b7243-4f17-4e40-b141-d58e4b3cf5f0)
-
-![Imagen de WhatsApp 2024-11-19 a las 01 58 21_768c7c64](https://github.com/user-attachments/assets/a855c8f1-130c-4c8b-88f0-0ea8a4bed5c5)
-
-![Imagen de WhatsApp 2024-11-19 a las 01 58 21_52857d47](https://github.com/user-attachments/assets/15d44ec2-10cf-442d-8c3d-c86cbf5174b5)
-
-![Imagen de WhatsApp 2024-11-19 a las 01 58 22_7a2d9afe](https://github.com/user-attachments/assets/af1eb3a9-d6fd-4a09-9b42-8e8d49852557)
-
+Luego, se agregan las variables de referencia:
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 22_f40c84bb](https://github.com/user-attachments/assets/711910d0-004b-45c7-81cb-8e8657e62670)
 
+En Settings seleccionamos la rama de "feature/deployment". 
 ![Imagen de WhatsApp 2024-11-19 a las 01 58 23_8f042e15](https://github.com/user-attachments/assets/cbe1ff7a-5965-4d51-96ae-8d39d9a798f1)
 
-![Imagen de WhatsApp 2024-11-19 a las 01 58 23_ae132924](https://github.com/user-attachments/assets/451623eb-b991-422a-a529-7ab77f19fa21)
+Como penúlimo paso agregamos el puerto 8080.
+
+Finalmente confirmamos que el despliegue se ha realizado correctamente.
 
 
 <div id='5.2.3.8.'><h5> 5.2.3.8.	Team Colaboration Insights during Sprint</h5></div>
