@@ -58,46 +58,43 @@
 
 ## Registro de versiones del informe
 
-
-|**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
-| :-: | :-: | :-: | :-: |
-|1\.0|15/08/2024|Ely Cortez|Creación del documento de trabajo en formato markdown|
-|1\.1|20/08/2024|Renzo Silva|Redacción de la startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas|
-|1\.2|23/08/2024|Boronda, Cortez, Ramos, Silva, Quiroz|Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas|
-|1\.3|25/08/2024|Astrid Boronda|Elaboración de user personas, impact mapping, as-is y to-be|
-|1\.4|26/08/2024|Ely Cortez, Alexandra Ramos|Elaboración de user stories, product backlog|
-|1\.5|28/08/2024|Fabrizio Quiroz|Elaboración de prototipos de wireframes y mockups|
-|1\.6|31/08/2024|Fabrizio Quiroz|Redacción de style guidelines e information architecture|
-|1\.7|03/09/2024|Ely Cortez|Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes|
-|1\.8|03/09/2024|Alexandra Ramos|Registro de evidencias del Sprint 1|
-|1\.9|04/09/2024|Astrid Boronda|Rediseño de mockups. Elaboración de wireflows y user-flows|
-|2\.0|07/09/2024|Alexandra Ramos|Redacción de software configuration management y conclusiones|
-|2\.1|22/09/2024|Alexandra Ramos|Redacción de Collaboration Insights|
-|2\.2|22/09/2024|Fabrizio Quiroz|Corrección de General Style Guidelines y Web Applications Prototyping|
-|2\.3|23/09/2024|Ely Cortez|Corrección del Ubiquitous language y actualización de User Stories|
-|2\.4|25/09/2024|Astrid Boronda|Redacción del resumen de las entrevistas, análisis de entrevistas, y corrección de User Personas|
-|2\.5|25/09/2024|Renzo Silva|Corrección del Problem Statement|
-|2\.6|26/09/2024|Fabrizio Quiroz|Agregar imágenes en las secciones del capítulo 5|
-|2\.7|26/09/2024|Alexandra Ramos|Corrección de Impact Mapping, agregar Sprint Planning y Sprint Backlog 2|
-|2\.8|26/09/2024|Renzo Silva|Corrección de Lean UX Assumptions|
-|2\.9|27/09/2024|Alexandra Ramos|Agregar información de Execution Evidence for Sprint Review del Sprint 2|
-|3\.0|27/09/2024|Astrid Boronda|Agregar información de Development Evidence for Sprint Review del Sprint 2|
-|3\.1|27/09/2024|Fabrizio Quiroz|Agregar información de los Mockups |
-|3\.2|27/09/2024|Ely Cortez|Actualizar el diagrama de base de datos, modificar el diccionario de y actualizar el Class Diagram|
-|3\.3|15/10/2024|Alexandra Ramos|Corregir Sprint Goal del Sprint Planning 2|
-|3\.4|16/10/2024|Alexandra Ramos|Agregar Sprint Planning 3|
-|3\.5|16/10/2024|Astrid Boronda|Actualizar el diagrama de clases de acuerdo al cada bounded context|
-|3\.6|17/10/2024|Astrid Boronda|Actualizar el diagrama de clases del bounded context de Logistics Companies y agregar clases en Class Dictionary|
-|3\.7|1/11/2024|Astrid Boronda|Actualizar Sprint Backlog 2 y Sprint Backlog 3|
-|3\.8|3/11/2024|Astrid Boronda|Agregar documentación de los servicios en el Sprint 3, agregar videos About the Team y About the Product|
-|3\.9|3/11/2024|Alexandra Ramos|Agregar la tabla de commits de los repositorios trabajados durante el Sprint 3|
-|4\.0|3/11/2024|Carlos Leon|Agregar imágenes en el capítulo 5 referentes al Sprint 3|
-|4\.1|3/11/2024|Ely Cortez|Actualizar el diagrama de base de datos|
-|4\.2|3/11/2024|Renzo Silva|Agregar información en la sección Execution Evidence for Sprint Review 3|
-|4\.3|12/11/2024|Astrid Boronda|Agregar pregunta en la sección de Diseño de Entrevistas|
-|4\.4|13/11/2024|Astrid Boronda|Agregar las evaluaciones de acuerdo a las heurísticas|
-
-
+| **Versión** | **Fecha**  |               **Autor**               |                                                                 **Descripción de modificación**                                                                 |
+| :---------: | :--------: | :-----------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    1\.0     | 15/08/2024 |              Ely Cortez               |                                                      Creación del documento de trabajo en formato markdown                                                      |
+|    1\.1     | 20/08/2024 |              Renzo Silva              |          Redacción de la startup profile y solution profile, delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas           |
+|    1\.2     | 23/08/2024 | Boronda, Cortez, Ramos, Silva, Quiroz |                                       Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas                                       |
+|    1\.3     | 25/08/2024 |            Astrid Boronda             |                                                   Elaboración de user personas, impact mapping, as-is y to-be                                                   |
+|    1\.4     | 26/08/2024 |      Ely Cortez, Alexandra Ramos      |                                                          Elaboración de user stories, product backlog                                                           |
+|    1\.5     | 28/08/2024 |            Fabrizio Quiroz            |                                                        Elaboración de prototipos de wireframes y mockups                                                        |
+|    1\.6     | 31/08/2024 |            Fabrizio Quiroz            |                                                    Redacción de style guidelines e information architecture                                                     |
+|    1\.7     | 03/09/2024 |              Ely Cortez               | Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases, diagramas de contenedores, diagramas de contexto, diagramas de componentes |
+|    1\.8     | 03/09/2024 |            Alexandra Ramos            |                                                               Registro de evidencias del Sprint 1                                                               |
+|    1\.9     | 04/09/2024 |            Astrid Boronda             |                                                   Rediseño de mockups. Elaboración de wireflows y user-flows                                                    |
+|    2\.0     | 07/09/2024 |            Alexandra Ramos            |                                                  Redacción de software configuration management y conclusiones                                                  |
+|    2\.1     | 22/09/2024 |            Alexandra Ramos            |                                                               Redacción de Collaboration Insights                                                               |
+|    2\.2     | 22/09/2024 |            Fabrizio Quiroz            |                                              Corrección de General Style Guidelines y Web Applications Prototyping                                              |
+|    2\.3     | 23/09/2024 |              Ely Cortez               |                                               Corrección del Ubiquitous language y actualización de User Stories                                                |
+|    2\.4     | 25/09/2024 |            Astrid Boronda             |                                Redacción del resumen de las entrevistas, análisis de entrevistas, y corrección de User Personas                                 |
+|    2\.5     | 25/09/2024 |              Renzo Silva              |                                                                Corrección del Problem Statement                                                                 |
+|    2\.6     | 26/09/2024 |            Fabrizio Quiroz            |                                                        Agregar imágenes en las secciones del capítulo 5                                                         |
+|    2\.7     | 26/09/2024 |            Alexandra Ramos            |                                            Corrección de Impact Mapping, agregar Sprint Planning y Sprint Backlog 2                                             |
+|    2\.8     | 26/09/2024 |              Renzo Silva              |                                                                Corrección de Lean UX Assumptions                                                                |
+|    2\.9     | 27/09/2024 |            Alexandra Ramos            |                                            Agregar información de Execution Evidence for Sprint Review del Sprint 2                                             |
+|    3\.0     | 27/09/2024 |            Astrid Boronda             |                                           Agregar información de Development Evidence for Sprint Review del Sprint 2                                            |
+|    3\.1     | 27/09/2024 |            Fabrizio Quiroz            |                                                               Agregar información de los Mockups                                                                |
+|    3\.2     | 27/09/2024 |              Ely Cortez               |                               Actualizar el diagrama de base de datos, modificar el diccionario de y actualizar el Class Diagram                                |
+|    3\.3     | 15/10/2024 |            Alexandra Ramos            |                                                           Corregir Sprint Goal del Sprint Planning 2                                                            |
+|    3\.4     | 16/10/2024 |            Alexandra Ramos            |                                                                    Agregar Sprint Planning 3                                                                    |
+|    3\.5     | 16/10/2024 |            Astrid Boronda             |                                               Actualizar el diagrama de clases de acuerdo al cada bounded context                                               |
+|    3\.6     | 17/10/2024 |            Astrid Boronda             |                        Actualizar el diagrama de clases del bounded context de Logistics Companies y agregar clases en Class Dictionary                         |
+|    3\.7     | 1/11/2024  |            Astrid Boronda             |                                                         Actualizar Sprint Backlog 2 y Sprint Backlog 3                                                          |
+|    3\.8     | 3/11/2024  |            Astrid Boronda             |                            Agregar documentación de los servicios en el Sprint 3, agregar videos About the Team y About the Product                             |
+|    3\.9     | 3/11/2024  |            Alexandra Ramos            |                                         Agregar la tabla de commits de los repositorios trabajados durante el Sprint 3                                          |
+|    4\.0     | 3/11/2024  |              Carlos Leon              |                                                    Agregar imágenes en el capítulo 5 referentes al Sprint 3                                                     |
+|    4\.1     | 3/11/2024  |              Ely Cortez               |                                                             Actualizar el diagrama de base de datos                                                             |
+|    4\.2     | 3/11/2024  |              Renzo Silva              |                                            Agregar información en la sección Execution Evidence for Sprint Review 3                                             |
+|    4\.3     | 12/11/2024 |            Astrid Boronda             |                                                     Agregar pregunta en la sección de Diseño de Entrevistas                                                     |
+|    4\.4     | 13/11/2024 |            Astrid Boronda             |                                                      Agregar las evaluaciones de acuerdo a las heurísticas                                                      |
 
 ## Project Report Collaboration Insights
 
@@ -121,25 +118,21 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
 
-
-
 ![image](https://github.com/user-attachments/assets/80cdf9ca-3520-4542-b6fd-43fdf3a0f84b)
 
 **TP1**
 
 Para el desarrollo del informe perteneciente a la entrega TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ely Cortez      | Ubiquitous Language, User Stories, Database Diagram, Class Dictionary y Class Diagram.                                                      |
-| Fabrizio Quiroz | General Style Guidelines, Web Applications Prototyping y Mockups.                  |
-| Astrid Boronda  | Resumen de entrevistas, Análisis de entrevistas, User Personas y Development Evidence for Sprint Review.                                                |
-| Renzo Silva     | Problem Statement y Lean UX Assumptions |
-| Alexandra Ramos | Collaboration Insights, Impact Mapping, Sprint Planning 2, Sprint Backlog 2, Execution Evidence for Sprint Review.                                                                                                                  |
+| Integrante      | Tareas Asignadas                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Ely Cortez      | Ubiquitous Language, User Stories, Database Diagram, Class Dictionary y Class Diagram.                             |
+| Fabrizio Quiroz | General Style Guidelines, Web Applications Prototyping y Mockups.                                                  |
+| Astrid Boronda  | Resumen de entrevistas, Análisis de entrevistas, User Personas y Development Evidence for Sprint Review.           |
+| Renzo Silva     | Problem Statement y Lean UX Assumptions                                                                            |
+| Alexandra Ramos | Collaboration Insights, Impact Mapping, Sprint Planning 2, Sprint Backlog 2, Execution Evidence for Sprint Review. |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
-
-
 
 ![image](https://github.com/user-attachments/assets/0af2b929-7ca0-48d2-b63e-58a8d396d4d8)
 
@@ -147,17 +140,15 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
-| Integrante      | Tareas Asignadas                                                                                                                                                                                                                    |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ely Cortez      | Database Diagram, Validation Interview y video About the Team.                                            |
-| Carlos León | Execution Evidence for Sprint Review 3,  Validation Interview y video About the Team.                            |
-| Astrid Boronda  | Diagrama de clases, Class Dictionary, Sprint Backlog 3, documentación del Sprint 3, videos About the Product y About the Team, Validation Interview, Diseño de Entrevistas, Evaluaciones de acuerdo a las heurísticas.                                                  |
-| Renzo Silva     | Execution Evidence for Sprint Review 3, Validation Interview y video About the Team |
+| Integrante      | Tareas Asignadas                                                                                                                                                                                                       |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ely Cortez      | Database Diagram, Validation Interview y video About the Team.                                                                                                                                                         |
+| Carlos León     | Execution Evidence for Sprint Review 3, Validation Interview y video About the Team.                                                                                                                                   |
+| Astrid Boronda  | Diagrama de clases, Class Dictionary, Sprint Backlog 3, documentación del Sprint 3, videos About the Product y About the Team, Validation Interview, Diseño de Entrevistas, Evaluaciones de acuerdo a las heurísticas. |
+| Renzo Silva     | Execution Evidence for Sprint Review 3, Validation Interview y video About the Team                                                                                                                                    |
 | Alexandra Ramos | Sprint Planning 3, Development Evidence for Sprint Review, Validation Interview y video About the Team.                                                                                                                |
 
 El proceso de colaboración en el informe se realizó mediante commits constantes al repositorio de la organización DynoWare.
-
-
 
 **TF1**
 
@@ -192,7 +183,6 @@ Se explican las ramas más prominentes:
 **feature-product-design**: Es representado por el color verde. Incluye el contenido de user flows y wireframes.
 **feature-sprint1**: Es representada por el color amarillo. Esta rama incluye los artefactos relacionados al sprint 1 en el informe.
 
-
 ![Commit_Graph](https://i.postimg.cc/vTS2jW7x/branch-image.jpg)
 
 Los siguientes gráficos representan analíticos de commits en el repositorio del informe. En los gráficos se incluye la cantidad de lineas de texto añadidas por cada integrante del equipo.
@@ -207,21 +197,17 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 ![Commit_Graph](https://i.postimg.cc/KYrqFXr2/commits-contribution.jpg)
 
-
 **TP1**
 ![image](https://github.com/user-attachments/assets/eccd415d-2d2d-4832-8a53-b81188559f5f)
 
-
 **TP1**
 ![image](https://github.com/user-attachments/assets/3eea98eb-99cc-4674-a080-383e8cc07cac)
-
 
 **TB2**
 ![image](https://github.com/user-attachments/assets/3ab6b015-5940-4e15-b9fb-b046836c3bf1)
 
 **TB2**
 ![image](https://github.com/user-attachments/assets/776950f4-2cdf-43d7-9872-887265d48a27)
-
 
 ## Student Outcome
 
@@ -3473,7 +3459,6 @@ Para este sprint, logramos desarrollar el fronted de la aplicación web por lo q
 
 ![image](https://github.com/user-attachments/assets/ec6a9262-5ac9-42f3-9c00-00fea788e675)
 
-
 la API de nuestra aplicación utilizando Java en Sprint Boot
 
 - **Muestra de la API en swagger:**
@@ -4039,6 +4024,16 @@ Por ahora, el desarrollo del backend va en progreso pero consideramos que la nue
 - Cuya et al. (2015). _Calidad en el Sector Transporte de Carga en Lima Metropolitana_. [Tesis de Magíster, Pontificia Universidad Católica del Perú]. Repositorio de tesis PUCP. [http://hdl.handle.net/20.500.12404/14317](http://hdl.handle.net/20.500.12404/14317)
 
 - Perez, A. (2023). _Gestión de riesgos: factor importante en las empresas de transporte de carga_. [Tesis de Bachiller, Universidad Católica Santo Toribio de Mogrovejo]. Repositorio de Tesis USAT. [http://hdl.handle.net/20.500.12423/6326](http://hdl.handle.net/20.500.12423/6326)
+
+- Angular. (s. f.). _Angular_. [https://angular.dev/](https://angular.dev/)
+
+- Team, A. C. (s. f.). _Angular material. Angular Material_. [https://material.angular.io/](https://material.angular.io/)
+
+- Chart.js. (s. f.). _Open Source HTML5 Charts For Your Website_. [https://www.chartjs.org/](https://www.chartjs.org/)
+
+- Creative Tim. (s. f.). _Premium Themes and Templates - Creative Tim_. [https://demos.creative-tim.com/](https://demos.creative-tim.com/)
+
+- Creative Tim. (s. f.). _Paper Dashboard PRO Angular by Creative Tim._. [https://demos.creative-tim.com/paper-dashboard-pro-angular/#/charts](https://demos.creative-tim.com/paper-dashboard-pro-angular/#/charts)
 
 <div id='8.'><h2> 8.	Anexos.</h2></div>
 
