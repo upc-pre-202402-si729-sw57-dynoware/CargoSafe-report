@@ -180,7 +180,7 @@ Los integrantes son:
 - Astrid Boronda (AstridBH)
 - Alexandra Ramos (AleRamosA)
 - Ely Cortez (rivacortez)
-- Fabrizio Quiroz (Relycloud)
+- Carlos León (Sr-Anonymus-maker)
 - Renzo Silva (rrenzosilva)
 
 Se explican las ramas más prominentes:
@@ -215,6 +215,14 @@ El siguiente gráfico incluye la cantidad de commits realizados en la semana con
 
 **TB2**
 ![image](https://github.com/user-attachments/assets/776950f4-2cdf-43d7-9872-887265d48a27)
+
+**TF1**
+![image](https://github.com/user-attachments/assets/037d1e2e-07c6-4e2c-8f42-86af886844b1)
+
+
+**TF1**
+![image](https://github.com/user-attachments/assets/d1fc0b32-3d6a-4fd6-8493-c49938d78c28)
+
 
 ## Student Outcome
 
